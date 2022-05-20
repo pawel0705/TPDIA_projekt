@@ -1,0 +1,14 @@
+Section    Sens         Sous     Chapitre,BUDGET
+Rubrique,PRIMITIF
+Inv.       D                     20   IMMOBILISATIONS INCORPORELLES,"5 500,00"
+Inv.       D                     21   IMMOBILISATIONS CORPORELLES,"15 000,00"
+Inv.       R                     001   RESULTAT D'INVESTISSEMENT REPORTE,"15 965,00"
+Inv.       R                     021   VIREMENT DE LA SECTION DE FONCTIONNEMENT,"18 380,00"
+Inv.       R                     040   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION,"2 120,00"
+Fonc.      D                     011   CHARGES A CARACTERES GENERAL,"27 500,00"
+Fonc.      D                     023   VIREMENT A LA SECTION D'INVESTISSEMENT,"18 380,00"
+Fonc.      D                     042   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION,"2 120,00"
+Fonc.      R                     002   RESULTAT DE FONCTIONNEMENT REPORTE,"135 425,90"
+Fonc.      R                     75   AUTRES PRODUITS DE GESTION COURANTE,"48 000,00"
+,
+,

@@ -1,0 +1,3 @@
+ENREGISTREMENT DATA.GOUV,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16
+n_amenageur,n_opérateur,n_enseigne,id_station,n_station,ad_station,code_insee,Xlongitude,Ylatitude,nbre_pdc,id_pdc,puiss_max,type_prise,acces_rechargeaccessibilité,,observations,date_maj
+Electro-mob,Sied,Newmotion,9911339,GRAND CONNETABLE,"L'HABITARELLE, N88, 48170 CHATEAUNEUF-DE-RANDON France",48043,3.68591,44.648,1,9911339,22,T2S ,Abonnement,24/247j/8,ras,01/06/2021

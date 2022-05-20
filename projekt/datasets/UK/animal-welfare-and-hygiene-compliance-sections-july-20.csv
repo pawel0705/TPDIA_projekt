@@ -1,0 +1,95 @@
+QuestionNo,QuestionText
+Q2.1,Animals spared any avoidable pain - distress or suffering during their killing and related operations.
+Q2.2,Standard operating procedures (SOPs) are developed - implemented and maintained
+Q2.3,Designated Animal Welfare Officer (AWO) ensuring compliance with welfare regulations.
+Q2.5,Structures of the building safeguard animal welfare (adverse weather protection - adequate ventilation - lairage conditions).
+Q2.10,Lairaging conditions/pen provisions are adequate (bedding - water - food provision - if left overnight).
+Q2.14,Stunning equipment is adequately designed - constructed and maintained (including warning devices and maintenance records). 
+Q2.24,Unloading
+Q2.25,Lairage
+Q2.26,Movement-Restraint
+Q2.27,Stunning
+Q2.28,Bleeding
+Q2.29,BO Management Responsibilities
+Q3.1,Animals to be slaughtered / wild game are clean and/or FBO has HACCP based procedures in place to avoid contamination of carcasses from dirty animals
+Q3.2,All handling and processes from slaughtering to despatch are done in a way that avoids the contamination of meat and offal entering the food chain.
+Q3.3,Any visible contamination removed without delay by trimming or alternative means having an equivalent effect
+Q3.4,Where relevant - all edible co-products are handled hygienically and subject to relevant controls (including raw materials intended for further processing)
+Q3.5,Correlation and correct presentation of parts of slaughtered red meat animals required to be inspected. Correct presentation of carcasses and accompanying offal of birds for post-mortem inspection
+Q3.6,Carcass and offal are chilled - stored and dispatched within the required temperatures and in a manner that avoids cross-contamination
+Q3.7,All products have Health Mark or Identification Mark as appropriate
+Q3.8,FBO traceability system allows identification of any person from whom they have been supplied with food products - and businesses to which their products have been supplied
+Q3.9,All statutory microbiological testing is carried out and appropriate action on receipt of results is being taken.
+Q3.9i,All statutory Trichinella sampling and testing is carried out and appropriate action on receipt of results is being taken.
+Q3.10,Legal temperature controls are maintained throughout the process from intake to dispatch for all products and rooms
+Q3.11,Controls ensure that risk of cross contamination is minimised - prevented or reduced to acceptable levels during operation and appropriate action taken should contamination occur
+Q3.12,Only permitted raw materials - including water and other ingredients - are used for minced meat - meat preparations - MSM and meat products
+Q3.13,All statutory microbiological testing is carried out and appropriate action on receipt of results is being taken.
+Q3.14,Wrapping and Packaging materials not to be a source of contamination - stored and handled in such a way that product contamination is avoided
+Q3.15,Re-usable wrapping and packaging materials for foodstuffs are easy to clean and disinfect and are clean at point of use
+Q3.16,Separation of exposed from packaged product
+Q3.17,Identification marking complies with the legislation
+Q3.18,Labelling of products that require cooking before eating complies with the legislation 
+Q3.19,FBO traceability system allows identification of any person from whom they have been supplied with food products - and businesses to which their products have been supplied
+Q3.20,Controls provide assurance that critical limits are achieved: pasteurisation and cooling rates for RTE products
+Q3.21,Adequate separation of RTE and non RTE products
+Q3.22,Legal temperature controls are maintained throughout the process from intake to dispatch for all fishery products
+Q3.23,Controls ensure that heading - gutting and filleting are carried out hygienically. 
+Q3.24,FBO has controls in place to ensure that fishery products susceptible to parasite infestation are subject to the required temperature treatment
+Q3.25,Cooking and handling of crustaceans (e.g. crabs) carried out hygienically and temperature requirements adhered to.
+Q3.26,All statutory microbiological testing is carried out and appropriate action on receipt of results is being taken.
+Q3.27,Wrapping and Packaging materials not to be a source of contamination - stored and handled in such a way that product contamination is avoided
+Q3.28,FBO has controls in place to ensure that the health standards criteria for fishery products are met (e.g. organoleptic - histamine - TVN - parasite and toxins harmful to human health)
+Q3.29,Identification marking complies with the requirements of the regulations
+Q3.30,Raw milk originates from healthy animals - does not contain residues and complies with the requirements of the Regulations
+Q3.31,Legal temperature controls for milk are maintained
+Q3.32,Heat treated milk used for the production of dairy products - complies with the requirements of the Regulations
+Q3.33,Raw cows' milk used for the manufacturing of dairy products complies with the criteria set in the HACCP plan
+Q3.34,All statutory microbiological testing is carried out and appropriate action on receipt of results is being taken
+Q3.35,Identification marking complies with the requirements of the regulations
+Q3.36,Raw eggs for retail or catering establishments are stored and labelled as required by the Regulations
+Q3.37,Eggs and raw materials for the manufacture of egg products comply with the requirements of the Regulations
+Q3.38,All statutory microbiological testing is carried out and appropriate action on receipt of results is being taken.
+Q3.39,Identification marking complies with the requirements of the regulations
+Q4.1,Design and layout permit good food hygiene practice and protect against contamination between and during operations
+Q4.2,Room size and number sufficient for different processes - species and throughput
+Q4.3,FBO has operating procedures in place to ensure there is an adequate supply of potable water.
+Q4.4,The implementation of the operating procedures is effective and supported by records.
+Q4.5,FBO has operating procedures in place to ensure their premises - fittings and equipment are maintained in good repair and condition.
+Q4.6,The implementation of the operating procedures is effective and supported by records.
+Q4.7,FBO has operating procedures in place to ensure their premises - fittings and equipment are kept clean and when necessary disinfected 
+Q4.8,The implementation of the operating procedures is effective and supported by records.
+Q4.9,FBO has operating procedures in place to control pests
+Q4.10,The implementation of the operating procedures is effective and supported by records.
+Q4.11,FBO has operating procedures in place to supervise - instruct and/or train staff in food hygiene and work procedures commensurate to their work activity
+Q4.12,FBO has operating procedures in place to train staff responsible for the development and maintenance of HACCP - based procedures
+Q4.13,The implementation of the operating procedures is effective and supported by records.
+Q4.14,FBO has operating procedures in place to ensure that no person suffering from or being a carrier of a disease likely to be transmitted through food is permitted to handle or enter a food-handling area 
+Q4.15,The implementation of the operating procedures is effective and supported by records.
+Q5.1,Documented HACCP based procedures cover all foods supplied for human consumption. Specific slaughterhouse HACCP based procedure requirements are also included
+Q5.2,HACCP team and description of product(s) provided
+Q5.3,Flow diagrams (description of manufacturing process) available
+Q5.4,All hazards that are essential to be controlled by HACCP based procedures have been identified
+Q5.5,Correct identification of CCPs or control points at the step or steps at which control is essential for food safety
+Q5.6,Critical limits set up to reflect legal requirements - and/or to separate acceptability from unacceptability 
+Q5.7,Monitoring procedures at CCPs or control points (who - where - when - how often) correctly established
+Q5.8,Monitoring procedures are effective and supported by records
+Q5.9,Corrective action procedures established - for when monitoring indicates that a CCP or control point is not under control
+Q5.10,Corrective actions are effective and supported by records
+Q5.11,Validation and verification procedures have been established to regularly demonstrate that the above measures are working effectively
+Q5.12,If part of FBOs procedures - arrangements for microbiological sampling and analysis of results are established and implemented
+Q5.13,Verification procedures - including microbiological sampling - are effective and supported records
+Q5.14,Staff procedures for day to day control of food safety hazards are recorded and kept up to date
+Q5.15,Records are established for keeping note of day to day checks and activities for the HACCP based controls 
+Q5.16,Management records are established for keeping note of supervisory checks and corrective actions e.g. diary - check sheets etc)
+Q5.17,HACCP plans are reviewed and if necessary amended in response to changes to Suppliers / products / operations / equipment / law etc or following complaints
+Q6.1,Animal By-Products are removed from food production areas as quickly as possible - avoiding cross contamination
+Q6.2,Animal By-Product containers are leak proof - closable - kept in sound condition - cleaned and disinfected as often as necessary. Waste stores are pest proof.
+Q6.3,Animal By-Products - including SRM - are correctly identified - segregated and categorised
+Q6.4,Animal By-Products - including SRM - are correctly stained where necessary
+Q6.5,Animal By-Products - including SRM - are dispatched to approved premises with correctly completed commercial documentation
+Q7.1,FBO ensures meat entering the food chain is free from SRM
+Q7.2,Animals requiring BSE testing intended for the food chain are tested for BSE/TSE - and processed as per the RMOP
+Q7.3,Meat from all animals tested for BSE/TSE does not enter the food chain unless tested negative
+Q7.4,Imported carcases meet requirements for the removal of SRM
+Q7.5,Vertebral column from over 30 month cattle is removed and stained

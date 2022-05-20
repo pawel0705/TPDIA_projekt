@@ -1,0 +1,562 @@
+critere,question,reponse,type_territoire,resultat
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 0 à moins de 50,URBAIN,2
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)","Autres, précisez :",URBAIN,7
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NON,URBAIN,92
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NSP,URBAIN,5
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, sans encadrement",URBAIN,12
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total pronote,URBAIN,13
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Non,URBAIN,41
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Oui,URBAIN,128
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,200 et plus,PERIURBAIN,4
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,A la bibliothèque / centre de documentation,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NON,PERIURBAIN,2
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Non,PERIURBAIN,5
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Non,PERIURBAIN,12
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Pas du tout,PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,Moyenne,RURAL,10
+"Vous, l'établissement et ses caractéristiques","Concernantles effectifs de l’établissement, combien y a-t-il…-D'autres personnels - Nombres entiers",Moyenne,RURAL,12
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Non,RURAL,55
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement a une connexion internet,RURAL,71
+Les usages TIC au sein de votre établissement,"Q19. Selon vous, quel est le nombre d'enseignants qui utilisent les TIC pour la préparation de leurs cours ?",Moyenne,RURAL,8
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NON,RURAL,36
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NSP,RURAL,6
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Pronote,RURAL,10
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Oui,URBAIN,42
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs fixes,URBAIN,108
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,one click,URBAIN,0
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Non,URBAIN,117
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NON,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NON,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",OUI,PERIURBAIN,13
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NSP,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total itslearning (leia),PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Oui,PERIURBAIN,7
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Chef d’établissement ou adjoint,RURAL,60
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 0 à moins de 50,RURAL,29
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,Plusieurs personnes,RURAL,22
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Personnel administratif,RURAL,13
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,RURAL,3
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs portables,RURAL,3
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans les salles de classe,RURAL,13
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NSP,RURAL,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),OUI,RURAL,10
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Oui,RURAL,19
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Oui,RURAL,37
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Oui,RURAL,3
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Non,RURAL,68
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Communauté de communes ou agglomération,URBAIN,1
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans les salles de classe,URBAIN,62
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NON,URBAIN,78
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NON,URBAIN,39
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",OUI,URBAIN,108
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NON,URBAIN,16
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total EDT,URBAIN,39
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total EDT,URBAIN,5
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 4 à moins de 9,PERIURBAIN,7
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,NSP,PERIURBAIN,0
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",La Direction,PERIURBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs portables,PERIURBAIN,3
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Rectorat,PERIURBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NSP,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Non,PERIURBAIN,2
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total OMT,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Non,PERIURBAIN,18
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Oui,PERIURBAIN,18
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Oui,PERIURBAIN,8
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un/des personnels administratifs ou techniques,RURAL,8
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NON,RURAL,60
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",OUI,RURAL,54
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,charlemagne,RURAL,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Nota Bene,RURAL,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Microsoft Word Excel,RURAL,2
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Autre : précisez,URBAIN,29
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Oui,URBAIN,44
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Ressources propres,URBAIN,30
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement a une connexion internet,URBAIN,126
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total Autres,URBAIN,4
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,"Responsable technique, informatique…",PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,OUI,PERIURBAIN,11
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NON,PERIURBAIN,10
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total outlook et webmail,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Oui,PERIURBAIN,3
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Oui,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total UDT,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Non,PERIURBAIN,6
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Collèges,RURAL,23
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,OUI,RURAL,45
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NON,RURAL,27
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NSP,RURAL,15
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Non,RURAL,51
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total UDT,RURAL,3
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Non,RURAL,36
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Non,RURAL,62
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Oui,RURAL,33
+"Vous, l'établissement et ses caractéristiques",Q5b. Et cela représentecombien de personnes en équivalent temps plein ?,Moyenne,URBAIN,3
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,NSP,URBAIN,12
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Non,URBAIN,24
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Très haut débit par satellite,URBAIN,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NON,URBAIN,53
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,OUI,URBAIN,32
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,NSP,URBAIN,19
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Non,URBAIN,39
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Oui,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Oui,PERIURBAIN,5
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,OUI,RURAL,10
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Oui,RURAL,28
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?","Oui, lesquels?",RURAL,62
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Collèges,URBAIN,39
+"Vous, l'établissement et ses caractéristiques","Concernantles effectifs de l’établissement, combien y a-t-il…-D'autres personnels - Nombres entiers",Moyenne,URBAIN,19
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Personnel administratif,URBAIN,21
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,URBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NSP,URBAIN,9
+Les usages TIC au sein de votre établissement,"Q20. Quel est le nombre d'enseignants qui utilisent les TIC directement en cours, avec leurs élèves ?",Moyenne,URBAIN,22
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",OUI,URBAIN,39
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Non,URBAIN,42
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,livreval,URBAIN,0
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Non,URBAIN,1
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Oui,URBAIN,80
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Lycées,PERIURBAIN,0
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Assistant d’éducation (AED), contrats aidés",PERIURBAIN,4
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,NSP,PERIURBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Acquisition d'ordinateurs prévue,PERIURBAIN,11
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NSP,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total Mozilla Thunderbird,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Non,PERIURBAIN,12
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Non,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Non,PERIURBAIN,11
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,"Responsable technique, informatique…",RURAL,0
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,9 et plus,RURAL,25
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Assistant d’éducation (AED), contrats aidés",RURAL,19
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Oui,RURAL,47
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NON,RURAL,25
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,OUI,RURAL,19
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Oui,RURAL,35
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?",Non,RURAL,9
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NSP,URBAIN,9
+Les usages TIC au sein de votre établissement,Q23f. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les bulletins,Oui,URBAIN,86
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,Moyenne,PERIURBAIN,171
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,Moyenne,PERIURBAIN,10
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement n’a pas de connexion à internet,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NON,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,"Total beneylu, Beneyluschool",PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Non,PERIURBAIN,11
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Nombre moyen de réponses cochées,RURAL,1
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement n’a pas de connexion à internet,RURAL,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NON,RURAL,46
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NON,RURAL,32
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Non,RURAL,33
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,Plusieurs personnes,URBAIN,63
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Haut débit par la ligne téléphonique (type ADSL de bonne qualité),URBAIN,104
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,OUI,URBAIN,83
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",OUI,URBAIN,82
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Oui,URBAIN,11
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Non,URBAIN,61
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Adjoint technique territorial,PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Non,PERIURBAIN,16
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Non,PERIURBAIN,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NON,PERIURBAIN,18
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total Autres,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Oui,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?",Non,PERIURBAIN,16
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,200 et plus,RURAL,11
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Enseignant,RURAL,53
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Oui,RURAL,10
+Les usages TIC au sein de votre établissement,"Q20. Quel est le nombre d'enseignants qui utilisent les TIC directement en cours, avec leurs élèves ?",Moyenne,RURAL,5
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NON,RURAL,11
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Non,RURAL,12
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Suffisamment,RURAL,8
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Adjoint technique territorial,URBAIN,7
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans une/des salles dédiées,URBAIN,47
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,OUI,URBAIN,68
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,OUI,URBAIN,66
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NSP,URBAIN,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Non,URBAIN,76
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Oui,URBAIN,63
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Oui,URBAIN,32
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Oui,URBAIN,110
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?","Oui, lesquels?",URBAIN,111
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 50 à moins de 100,PERIURBAIN,5
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Personnel administratif,PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Nombre moyen de réponses cochées,PERIURBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),OUI,PERIURBAIN,3
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total EDT,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Oui,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Oui,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Un peu,PERIURBAIN,8
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Adjoint technique territorial,RURAL,6
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs fixes,RURAL,5
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs fixes,RURAL,16
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Haut débit par la ligne téléphonique (type ADSL de bonne qualité),RURAL,63
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NON,RURAL,25
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Non,RURAL,58
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Non,RURAL,9
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total EDT,RURAL,8
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Ecoles (élémentaire/maternelle),URBAIN,47
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,OUI,URBAIN,67
+Les usages TIC au sein de votre établissement,"Q19. Selon vous, quel est le nombre d'enseignants qui utilisent les TIC pour la préparation de leurs cours ?",Moyenne,URBAIN,28
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total itslearning (leia),URBAIN,10
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,intuitice,URBAIN,1
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Non,URBAIN,57
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Oui,URBAIN,88
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,NSP,URBAIN,14
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total pronote,PERIURBAIN,3
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Non,PERIURBAIN,17
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Ecoles (élémentaire/maternelle),RURAL,47
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",La Direction,RURAL,8
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,OUI,RURAL,20
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,OUI,RURAL,5
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NSP,RURAL,1
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total outlook et webmail,RURAL,4
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Oui,RURAL,19
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,"Responsable technique, informatique…",URBAIN,22
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NON,URBAIN,16
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NSP,URBAIN,29
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",OUI,URBAIN,108
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total ENT,URBAIN,5
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,charlemagne,URBAIN,3
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total OMT,URBAIN,5
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Non,URBAIN,48
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Un peu,URBAIN,69
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)","Autres, précisez :",PERIURBAIN,1
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Haut débit par la ligne téléphonique (type ADSL de bonne qualité),PERIURBAIN,16
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NON,PERIURBAIN,7
+Les usages TIC au sein de votre établissement,"Q19. Selon vous, quel est le nombre d'enseignants qui utilisent les TIC pour la préparation de leurs cours ?",Moyenne,PERIURBAIN,10
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,charlemagne,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Non,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?","Oui, lesquels?",PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 4 à moins de 9,RURAL,12
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,OUI,RURAL,43
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NSP,RURAL,0
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, avec un encadrement",RURAL,22
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total gmail,RURAL,1
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Oui,RURAL,16
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,one click,RURAL,1
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Oui,RURAL,3
+Les usages TIC au sein de votre établissement,Q24b. L’établissement dispose-t-il...-D'une plateforme de cours en ligne,Non,RURAL,68
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Non,RURAL,38
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Oui,RURAL,31
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Non,RURAL,39
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?","Oui, lesquels?",RURAL,19
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,NSP,RURAL,18
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Un peu,RURAL,37
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Assistant d’éducation (AED), contrats aidés",URBAIN,67
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Non,URBAIN,72
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement n’a pas de connexion à internet,URBAIN,2
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NON,URBAIN,14
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, avec un encadrement",URBAIN,54
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Oui,URBAIN,61
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Non,URBAIN,96
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Suffisamment,URBAIN,52
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 100 à moins de 200,PERIURBAIN,4
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Commune,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,"Q20. Quel est le nombre d'enseignants qui utilisent les TIC directement en cours, avec leurs élèves ?",Moyenne,PERIURBAIN,7
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, avec un encadrement",PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total pronote,PERIURBAIN,3
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Pronote,PERIURBAIN,3
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Oui,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Non,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Non,PERIURBAIN,16
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Suffisamment,PERIURBAIN,7
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",OUI,RURAL,31
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,Non,RURAL,43
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Lycées,URBAIN,42
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)","Autres, précisez :",URBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs portables,URBAIN,3
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Oui,URBAIN,77
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Oui,URBAIN,110
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Non,URBAIN,47
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Pas du tout,URBAIN,39
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 0 à moins de 4,PERIURBAIN,6
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,9 et plus,PERIURBAIN,4
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Non,PERIURBAIN,17
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Bas débit,PERIURBAIN,0
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Très haut débit par satellite,PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NON,PERIURBAIN,15
+"Vous, l'établissement et ses caractéristiques",Q5b. Et cela représentecombien de personnes en équivalent temps plein ?,Moyenne,RURAL,1
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Oui,RURAL,15
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)","Autres, précisez :",RURAL,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Pas d'acquisition d'ordinateurs prévue,RURAL,32
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation CTC,RURAL,22
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Fibre optique,RURAL,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NSP,RURAL,1
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total Autres,RURAL,1
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Leia,RURAL,5
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Autres, précisez :",URBAIN,22
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Non,URBAIN,82
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Non,URBAIN,65
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Non,URBAIN,66
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Non,URBAIN,95
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Oui,URBAIN,66
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Un peu,URBAIN,66
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Autre : précisez,PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,1 personne,PERIURBAIN,13
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NSP,PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NON,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",OUI,PERIURBAIN,9
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Oui,PERIURBAIN,16
+Les usages TIC au sein de votre établissement,"Q25f. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’envoi de SMS",Non,PERIURBAIN,9
+Les usages TIC au sein de votre établissement,"Q26b. Diriez-vous, que les TIC apportent des contraintes au fonctionnement de l’établissement ?",Oui,PERIURBAIN,6
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,NSP,RURAL,8
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs portables,RURAL,1
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Bas débit,RURAL,7
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total ENT,RURAL,0
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Non,RURAL,52
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Oui,RURAL,23
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,200 et plus,URBAIN,89
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Nombre moyen de réponses cochées,URBAIN,2
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Acquisition d'ordinateurs prévue,URBAIN,94
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Commune,URBAIN,11
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Bas débit,URBAIN,12
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NSP,URBAIN,4
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Non,URBAIN,50
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Oui,URBAIN,80
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Non,URBAIN,18
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Pas du tout,URBAIN,9
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Enseignant,PERIURBAIN,14
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,Oui,PERIURBAIN,0
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,NSP,PERIURBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Communauté de communes ou agglomération,PERIURBAIN,1
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Fibre optique,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",OUI,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total gmail,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Leia,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Oui,PERIURBAIN,11
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Commune,RURAL,10
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Très haut débit par satellite,RURAL,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,OUI,RURAL,35
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,NON,RURAL,35
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NSP,RURAL,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,NSP,RURAL,6
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,"Total beneylu, Beneyluschool",RURAL,1
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Oui,RURAL,32
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Pas du tout,RURAL,26
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Chef d’établissement ou adjoint,URBAIN,77
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 50 à moins de 100,URBAIN,11
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,NSP,URBAIN,13
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NON,URBAIN,56
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,Plusieurs personnes,PERIURBAIN,5
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NSP,PERIURBAIN,2
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Nota Bene,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Suffisamment,PERIURBAIN,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NON,RURAL,51
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",OUI,RURAL,60
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total aucun ou autres,RURAL,4
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total Mozilla Thunderbird,RURAL,6
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,intuitice,RURAL,0
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Non,RURAL,39
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Non,RURAL,61
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Oui,RURAL,59
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Suffisamment,RURAL,26
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,Moyenne,URBAIN,413
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs portables,URBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Pas d'acquisition d'ordinateurs prévue,URBAIN,21
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,Non,URBAIN,62
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)","Autres, précisez :",PERIURBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NSP,PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NON,PERIURBAIN,11
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,OUI,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NON,PERIURBAIN,7
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,one click,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Oui,PERIURBAIN,7
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 0 à moins de 4,RURAL,34
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,OUI,RURAL,19
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NON,RURAL,64
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, sans encadrement",RURAL,6
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total itslearning (leia),RURAL,3
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Oui,URBAIN,103
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,OUI,URBAIN,48
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),NON,URBAIN,89
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Oui,URBAIN,116
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total gmail,URBAIN,5
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total outlook et webmail,URBAIN,15
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Non,URBAIN,43
+Les usages TIC au sein de votre établissement,Q23i. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Partager ou accéder à de l’information à distance,Oui,URBAIN,86
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Collèges,PERIURBAIN,3
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Ecoles (élémentaire/maternelle),PERIURBAIN,15
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs fixes,PERIURBAIN,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,OUI,PERIURBAIN,6
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NSP,PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,NSP,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",OUI,PERIURBAIN,10
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,"Oui, sans encadrement",PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Non,PERIURBAIN,13
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Oui,PERIURBAIN,17
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Non,RURAL,52
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un / des enseignants,RURAL,10
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Communauté de communes ou agglomération,RURAL,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)","Autres, précisez :",RURAL,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,RURAL,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Non,RURAL,24
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Oui,RURAL,69
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Un peu,RURAL,40
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Pas du tout,RURAL,5
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 0 à moins de 4,URBAIN,7
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,De 4 à moins de 9,URBAIN,24
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,1 personne,URBAIN,64
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,Enseignant,URBAIN,80
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Rectorat,URBAIN,1
+L’équipement TIC de votre établissement - Connexion,Q14.2. La connexion internet dont vous disposez est-elle une connexion :,Fibre optique,URBAIN,7
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NSP,URBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,OUI,URBAIN,31
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total aucun ou autres,URBAIN,4
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Leia,URBAIN,3
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Pronote,URBAIN,39
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?",Non,URBAIN,77
+"Vous, l'établissement et ses caractéristiques",Q7. L’établissementa-t-il mis en place une organisation dédiée à l’usage des TICE ?,Oui,PERIURBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Ressources propres,PERIURBAIN,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,OUI,PERIURBAIN,7
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,OUI,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",OUI,PERIURBAIN,6
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Oui,PERIURBAIN,4
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total EDT,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,intuitice,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,livreval,PERIURBAIN,0
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 100 à moins de 200,RURAL,15
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NSP,RURAL,1
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Oui,RURAL,43
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Non,RURAL,31
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un / des enseignants,URBAIN,41
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs fixes,URBAIN,8
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,A la bibliothèque / centre de documentation,URBAIN,7
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NSP,URBAIN,1
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NON,URBAIN,45
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total UDT,URBAIN,5
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Microsoft Word Excel,URBAIN,2
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Non,URBAIN,0
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Suffisamment,URBAIN,20
+"Vous, l'établissement et ses caractéristiques",Q5b. Et cela représentecombien de personnes en équivalent temps plein ?,Moyenne,PERIURBAIN,2
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NON,PERIURBAIN,18
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16c. L’établissement utilise-t-il…-Une plate-forme de gestion de vie scolaire,NSP,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q22. Les élèves ont-il accès aux outils informatiques de l’établissement en-dehors du temps scolaire ?,Non,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Oui,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?",Non,PERIURBAIN,2
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,NSP,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,"Q29b. Diriez-vous, que les enseignants considèrent queleurs élèves …?-sont sensibilisés aux enjeux du numérique",Pas du tout,PERIURBAIN,6
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 50 à moins de 100,RURAL,15
+"Vous, l'établissement et ses caractéristiques",Q5.1. Les équipements informatiques de l’établissement sont-ils gérés par une ou plusieurs personnes ?,1 personne,RURAL,49
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,NSP,RURAL,1
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Oui,RURAL,19
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Non,RURAL,27
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Oui,RURAL,22
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,9 et plus,URBAIN,96
+"Vous, l'établissement et ses caractéristiques",Q6. Les équipements audiovisuels de l’établissement sont-ils gérés par une personne dédiée ?,NSP,URBAIN,3
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un/des personnels administratifs ou techniques,URBAIN,29
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,NON,URBAIN,45
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,OUI,URBAIN,111
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16d. L’établissement utilise-t-il…-Un outil d’apprentissage en ligne (ou e-learning),OUI,URBAIN,36
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NON,URBAIN,91
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NSP,URBAIN,7
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Non,URBAIN,51
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Non,URBAIN,109
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Oui,URBAIN,127
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?","Oui, lesquels?",URBAIN,51
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Oui,URBAIN,72
+Les usages TIC au sein de votre établissement,Q28. Les enseignants participent-ils à des formationsspécifiques aux TICE (formation académique) ?,Non,URBAIN,42
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation CTC,PERIURBAIN,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,OUI,PERIURBAIN,9
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NON,PERIURBAIN,7
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NSP,PERIURBAIN,0
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,OUI,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Non,PERIURBAIN,11
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Oui,PERIURBAIN,14
+Les usages TIC au sein de votre établissement,"Q26a. Diriez-vous, que les TIC apportent des avantages au fonctionnement de l’établissement ?",Non,PERIURBAIN,4
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,Moyenne,RURAL,116
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Ressources propres,RURAL,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NSP,RURAL,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16e. L’établissement utilise-t-il…-Une plateforme de soutien scolaire,NON,RURAL,60
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",OUI,RURAL,43
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NON,RURAL,8
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Oui,URBAIN,33
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?",Non,URBAIN,17
+"Vous, l'établissement et ses caractéristiques","Concernantles effectifs de l’établissement, combien y a-t-il…-D'autres personnels - Nombres entiers",Moyenne,PERIURBAIN,7
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q12. L’établissementest-il équipé d’un réseau informatique ?,Oui,PERIURBAIN,13
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,OUI,PERIURBAIN,12
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NSP,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q21e. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Vidéo",NSP,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total aucun ou autres,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total ENT,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,Q23b. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer avec les élèves,Oui,PERIURBAIN,4
+"Vous, l'établissement et ses caractéristiques",Q1. Type Etablissement,Lycées,RURAL,0
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation Rectorat,RURAL,1
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",NSP,RURAL,8
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NON,RURAL,19
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NSP,RURAL,9
+Les usages TIC au sein de votre établissement,Q23eO. Nom du logiciel,Total pronote,RURAL,3
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total EDT,RURAL,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total OMT,RURAL,0
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Oui,RURAL,9
+Les usages TIC au sein de votre établissement,"Q25b. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone mobile des parents",Non,RURAL,2
+Les usages TIC au sein de votre établissement,"Q27b. Diriez-vous, que les TIC apportent des contraintes à la pédagogieau sein de l’établissement ?",Non,RURAL,52
+"Vous, l'établissement et ses caractéristiques",Q4B. Combien y a-t-il d'enseignants dans votre établissement ?,Moyenne,URBAIN,40
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",La Direction,URBAIN,36
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,"Q11.2. Si Oui, comment sera financée l'acquisition de votre prochain ordinateur ? (Plusieurs réponses possibles)",Dotation CTC,URBAIN,77
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15b. L’établissement est-il équipé des outils suivants ?-Des vidéoprojecteurs,NSP,URBAIN,0
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total Mozilla Thunderbird,URBAIN,8
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Oui,URBAIN,78
+Les usages TIC au sein de votre établissement,Q23e. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les emplois du temps,Oui,URBAIN,84
+Les usages TIC au sein de votre établissement,Q23j. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Réserver en ligne les salles ou le matériel,Oui,URBAIN,18
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Non,URBAIN,18
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un/des personnels administratifs ou techniques,PERIURBAIN,0
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q10. De combien d'ordinateurs à usage pédagogique l'établissement est-il équipé ?,Ordinateurs fixes,PERIURBAIN,25
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15d. L’établissement est-il équipé des outils suivants ?-Un réseau WiFi,NSP,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q21b. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sont les usages ?-Logiciel éducatif",NSP,PERIURBAIN,1
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Total Microsoft Word Excel,PERIURBAIN,0
+Les usages TIC au sein de votre établissement,"Q25c. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le courrier postal",Oui,PERIURBAIN,13
+Les usages TIC au sein de votre établissement,"Q27a. Diriez-vous, que les TIC apportent des avantages à la pédagogieau sein de l’établissement ?","Oui, lesquels?",PERIURBAIN,15
+Les usages TIC au sein de votre établissement,"Q29a. Diriez-vous, que les enseignants considèrent queleurs élèves …?-maîtrisent les outils du numérique",Un peu,PERIURBAIN,9
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Autre : précisez,RURAL,11
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Acquisition d'ordinateurs prévue,RURAL,31
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NSP,RURAL,3
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total pronote,RURAL,5
+Les usages TIC au sein de votre établissement,Q23c. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les absences,Non,RURAL,47
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Non,RURAL,52
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Oui,RURAL,70
+Les usages TIC au sein de votre établissement,"Q25a. Pour communiquer avec les familles, l’établissement utilise-t-il… -Le téléphone fixe au domicile ou au travail des parents",Non,RURAL,1
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NON,URBAIN,35
+Les usages TIC au sein de votre établissement,"Q21a. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Tableau interactif",OUI,URBAIN,74
+Les usages TIC au sein de votre établissement,"Q21d. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Iconographie, photo, illustrations",NSP,URBAIN,6
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Non,URBAIN,11
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,"Total beneylu, Beneyluschool",URBAIN,0
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,Nota Bene,URBAIN,3
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 0 à moins de 50,PERIURBAIN,4
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Un / des enseignants,PERIURBAIN,1
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,Pas d'acquisition d'ordinateurs prévue,PERIURBAIN,6
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans une/des salles dédiées,PERIURBAIN,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15a. L’établissement est-il équipé des outils suivants ?-Des tableaux numériques interactifs,NON,PERIURBAIN,8
+Les usages TIC au sein de votre établissement,Q23h. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Donner accès à des ressources pédagogiques en ligne,Oui,PERIURBAIN,11
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Autres, précisez :",RURAL,8
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q11.1. Une acquisition d'ordinateurs est-elle prévue pour votre établissement ?,NSP,RURAL,7
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans une/des salles dédiées,RURAL,6
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,A la bibliothèque / centre de documentation,RURAL,2
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q15c. L’établissement est-il équipé des outils suivants ?-Une salle multimédia en réseau,NSP,RURAL,1
+Les usages TIC au sein de votre établissement,Q23a. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Communiquer par messagerie,Oui,RURAL,61
+Les usages TIC au sein de votre établissement,Q23fO. Nom du logiciel,livreval,RURAL,1
+Les usages TIC au sein de votre établissement,"Q25e. Pour communiquer avec les familles, l’établissement utilise-t-il… -Une plateforme à accès réservé avec un espace individualisé",Oui,RURAL,8
+"Vous, l'établissement et ses caractéristiques",Q4A. Combien y a-t-il d'élèves dans votre établissement ?,De 100 à moins de 200,URBAIN,27
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,URBAIN,2
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16a. L’établissement utilise-t-il…-Un espace numérique de travail,NSP,URBAIN,4
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q16b. L’établissement utilise-t-il…-Une plate-forme de travail collaboratif,NSP,URBAIN,5
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",NON,URBAIN,60
+Les usages TIC au sein de votre établissement,Q23aO. Merci d'indiquer le nom du logiciel,Total pronote,URBAIN,16
+Les usages TIC au sein de votre établissement,Q23k. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Proposer des quizz ou des évaluations en ligne,Oui,URBAIN,32
+Les usages TIC au sein de votre établissement,Q24a. L’établissement dispose-t-il...-D'un site web public,Oui,URBAIN,71
+"Vous, l'établissement et ses caractéristiques",Q3. Quelle est votre fonction au sein de l'établissement ?,Chef d’établissement ou adjoint,PERIURBAIN,16
+"Vous, l'établissement et ses caractéristiques",Q5.2. Par qui sont gérés les équipements informatiques de l’établissement (plusieurs réponses possibles) ?,"Autres, précisez :",PERIURBAIN,2
+"Vous, l'établissement et ses caractéristiques","Q8. Si Oui, qui y participe ? (Plusieurs réponses possibles)",Nombre moyen de réponses cochées,PERIURBAIN,2
+L’équipement TIC de votre établissement - Equipements informatiques de l’établissement,Q9. De combien d'ordinateurs à usage administratif l’établissement est-il équipé ?,Ordinateurs portables,PERIURBAIN,1
+L’équipement TIC de votre établissement - Connexion,Q13. Répartition des ordinateurs,Dans les salles de classe,PERIURBAIN,28
+L’équipement TIC de votre établissement - Connexion,Q14.1. L'établissement a-t-il une connexion internet ?,L' établissement a une connexion internet,PERIURBAIN,17
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Oui,PERIURBAIN,3
+L’équipement TIC de votre établissement - Autres équipements et outils TIC,Q17. L’établissement est-il abonné à des ressources pédagogiques numériques ?,Oui,RURAL,7
+Les usages TIC au sein de votre établissement,"Q21c. Pour ceux qui utilisent les TIC directement en cours avec leurs élèves, quels sontles usages ?-Travail collaboratif",OUI,RURAL,19
+Les usages TIC au sein de votre établissement,Q23d. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer les salles,Non,RURAL,55
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Oui,RURAL,22
+Les usages TIC au sein de votre établissement,Q23g. Dans le fonctionnement de l'établissement les TIC sont utilisées pour...-Gérer le cahier de textes des élèves,Non,RURAL,49
+Les usages TIC au sein de votre établissement,"Q25d. Pour communiquer avec les familles, l’établissement utilise-t-il… -L’e-mail",Non,RURAL,43

@@ -1,0 +1,55 @@
+Fiscal Year,Fiscal Period,Month,Information Date,Branch,Service,Metric Name,Value,Comments,Metric Type
+2017-2018,3,June,2017-06-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.908,,Non Cumulative
+2017-2018,4,July,2017-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,,Availability is based on the aggregate availability of the 43 Partners plus Perimeter Security minus any critical incidents for the reporting period,Non Cumulative
+2017-2018,4,July,2017-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.91,,Non Cumulative
+2017-2018,5,August,2017-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,,The number is based on the aggregate availability of the 43 Partners plus Perimeter Security minus any critical incidents for the month,Non Cumulative
+2017-2018,5,August,2017-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.98,,Non Cumulative
+2017-2018,6,September,2017-09-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,,The number is based on the aggregate availability of the 43 Partners plus Perimeter Security minus any critical incidents for the month,Non Cumulative
+2017-2018,6,September,2017-09-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.898,,Non Cumulative
+2017-2018,7,October,2017-10-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.939,,Non Cumulative
+2017-2018,8,November ,2017-11-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.949,,Non Cumulative
+2017-2018,9,December ,2017-12-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.966,,Non Cumulative
+2017-2018,10,January,2018-01-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.899,,Non Cumulative
+2017-2018,11,February,2018-02-28,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.881,,Non Cumulative
+2017-2018,12,March ,2018-03-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.825,,Non Cumulative
+2018-2019,1,April ,2018-04-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2018-2019,2,May ,2018-05-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.914,,Non Cumulative
+2018-2019,3,June,2018-06-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.9,,Non Cumulative
+2018-2019,4,July,2018-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.963,,Non Cumulative
+2018-2019,5,August,2018-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.987,,Non Cumulative
+2018-2019,6,September,2018-09-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.686,,Non Cumulative
+2018-2019,7,October,2018-10-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.99,,Non Cumulative
+2018-2019,8,November ,2018-11-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.997,,Non Cumulative
+2018-2019,9,December ,2018-12-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2018-2019,10,January,2019-01-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2018-2019,11,February,2019-02-28,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2018-2019,12,March ,2019-03-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,1,April ,2019-04-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,2,May ,2019-05-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,3,June,2019-06-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,4,July,2019-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,5,August,2019-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,6,September,2019-09-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.9997,,Non Cumulative
+2019-2020,7,October,2019-10-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.9997,,Non Cumulative
+2019-2020,8,November ,2019-11-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.9997,,Non Cumulative
+2019-2020,9,December ,2019-12-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.99,,Non Cumulative
+2019-2020,10,January,2020-01-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.76,,Non Cumulative
+2019-2020,11,February,2020-02-29,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2019-2020,12,March ,2020-03-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,1,April ,2020-04-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.98,,Non Cumulative
+2020-2021,2,May ,2020-05-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,3,June,2020-06-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,4,July,2020-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,5,August,2020-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,6,September,2020-09-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,7,October,2020-10-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,8,November ,2020-11-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,9,December ,2020-12-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2020-2021,10,January,2021-01-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.995,,Non Cumulative
+2020-2021,11,February,2021-02-28,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,99.965,,Non Cumulative
+2020-2021,12,March ,2021-03-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2021-2022,1,April ,2021-04-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2021-2022,2,May ,2021-05-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2021-2022,3,June,2021-06-30,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2021-2022,4,July,2021-07-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative
+2021-2022,5,August,2021-08-31,Networks Security and Digital Services,Infrastructure Security,% of time the infrastructure Security Services are available,100.0,,Non Cumulative

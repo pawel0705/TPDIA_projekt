@@ -1,0 +1,21 @@
+Identifiant,Département,Arrêté de limitation de la quantité de plein,Arrêté d'interdiction de stockage de carburant dans des bidons
+14.0,Calvados,NON,OUI
+18.0,Cher,OUI,OUI
+22.0,Côtes-d'Armor,OUI,OUI
+27.0,Eure,OUI,OUI
+29.0,Finistère,OUI,OUI
+35.0,Ile-et-Vilaine,OUI,OUI
+41.0,Loir-et-Cher,NON,OUI
+44.0,Loire-Atlantique,OUI,NON
+50.0,Manche,NON,OUI
+53.0,Mayenne,OUI,OUI
+56.0,Morbihan,NON,OUI
+59.0,Nord,NON,OUI
+61.0,Orne,OUI,OUI
+62.0,Pas-de-Calais,NON,OUI
+72.0,Sarthe,NON,OUI
+76.0,Seine-Maritime,NON,OUI
+80.0,Somme,NON,OUI
+85.0,Vendée,OUI,OUI
+,,,
+,"(Mise à jour 20 mai 2016, 21h00) Source Ouest-France",,

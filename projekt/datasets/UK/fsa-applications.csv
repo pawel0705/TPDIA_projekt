@@ -1,0 +1,60 @@
+id,Name,BusinessCriticality,ApplicationGrouping,Description
+1,Animal Welfare,Medium,SIR,Entry of Animal Welfare Assessment Report Date (WEL Forms)
+2,IRIS Ante Mortem Post Mortem,Low,K2,Collection of inspection data    IRIS will replace the ante mortem and post mortem AND also replace Innova Ante-Mortem Post Mortem (sheep poultry and PIGS)    Innova was supposed to replace ante mortem post mortem.
+3,Business Objects,High,Business Objects,Business Objects Reporting Tool
+4,Cattle Non-Compliance,Medium,K2,Database used for recording cattle passport issues to BCMS
+5,CCMS (Corporate Correspondence Management System),High,K2,Corporate Correspondence Management System
+6,Charging (aka Charges 2009),Critical,SIR,Management of charging schedules for meat plant operators
+7,Contractor Payments,Medium,SIR,Tracking of payment rates to be made to meat plant contractors
+8,Core Community,Medium,Sharepoint,Sharepoint Collaborative working environments
+9,CPMS (Contract and Project Management System),Medium,Decommission,Management of contracts post-tender
+10,Crystal Reports,High,Business Objects,Covered under Business Objects
+11,E-Learning,High,Sharepoint,E-learning environment - At-desk learning modules and tests
+12,EPPS (Electronic Public Procurement System),High,Decommission,Management of tender process
+13,Establishments and People,Critical,SIR,Management of official meat premises; licensed activities and staff. Also corporate directory data source.
+14,FBO Audits,Medium,Decommission,Records info from audit form AUD 9-3
+15,FEDS (FSA Electronic Document System),Low,Lotus Notes,Former FSA Corporate Electronic records system
+16,FHRS (Food Hygiene Rating Scheme),Critical,Web Hosted - FHRS,Management and display of FHRS records
+17,Financial Planning System (BPC),High,SAP - BPC,Accounting/Rolling Forecase Data Manipulation
+18,Foodweb,High,Sharepoint,FSA Intranet
+19,FSA Green Pages (aka New Green Pages),Low,Lotus Notes,Former Corporate contact directory.
+20,FSA Ministerial Correspondence 2007,Low,Lotus Notes,Ministerial Correspondence System
+21,FSA Staff Handbook,Low,Lotus Notes,Former FSA staff handbook
+22,FSA Stakeholders Database,Medium,Decommission,Web system for holding all FSA contact (Stakeholder) data.
+23,Geographic Information System (GIS),High,ESRI,Geographic Information System    Used for scheduling visits and ensuring logical
+24,Government Invoicing,Critical,SIR,Producing of Invoices from SIR systems
+25,GRAIL,Low,Decommission,A web-based database query tool to allow users to search for Legislation; Guidance Notes and Import Conditions that have been entered by FSA.
+26,Health and Safety Database,Medium,Access Database,Health and Safety Incidents Recording
+27,Incidents Reporting Form,High,KCOM,Incidents reporting form - sends e-mail to incidents
+28,iTrent,Critical,iTrent,FSA HR and Payroll system
+29,Local Authority Enforcement Monitoring System (LAEMS),High,KCOM,Monitoring of LA Performance Data
+30,MEMEX,Critical,Memex,Intelligence management system. Contains following datasets:  - Emerging Risks  - Food Crime Dataset  - Incidents Database
+31,MHS Correspondence Log,Low,Access Database,Logging of correspondence dealt with by former MHS (also FSA Ops; for short time)
+32,Milk and Dairies Scheduling Database,Medium,K2,Provision of inspection and dairy licensing information and schedule dairy visits.
+33,myHACCP,Medium,Unknown,Webtool for FBOs to track HACCP ((Hazard Analysis and Critical Control Point))
+34,NFAS 1+2 Database (aka NFAS 1+2 Branch Issues),Low,Lotus Notes,Document library/collaboration space for Novel Foods works - long disused
+35,OMIS,Low,K2,Legacy system for management of plant data - specifically information on Contractors and Enforcement information
+36,Oracle,High,Shared Service,Financial management system hosted by DEFRA
+37,Penserver (pension data),Medium,COTS,Processing of payroll data
+38,Project Dissemination,Medium,Decommission,manage Project and Programme details to do with Research.
+39,Q-Pulse,Medium,Q-Pulse,Compliance management package for use with LA Audit
+40,Research Management System (REMIND),Low,Lotus Notes,Research Project management system.
+41,Slaughterer's Licenses,Low,K2,Licensing of individual slaughterers
+42,Substance Details,Low,Lotus Notes,Recording of chemicals; common usage and potentially harmful effects on humans - superceded by internet-based sources
+43,Techweb Expert Centre (aka GSI Sharepoint 2007),Low,Sharepoint,Document library with server docs; development info and other back-end IT management.
+44,Throughput (for Charging),Critical,SIR,Tracking of premises throughput to facilitiate appropriate charging
+45,Timesheets,Critical,SIR,Logging of timesheets by meat plant staff
+46,Treat Official (aka 'TOC Corres'),Low,Lotus Notes,Lotus Notes database to record details of Treat Official Correspondence. Adopted from the Department of Health.
+47,UKFSS (UK Food Surveillance System),High,UKFSS,UK Sampling recording system. The database is used to record Establishment Inspection returns from UK Local Authorities.
+48,Wine Standards Database,Low,Wine Standards Database,Management of vineyard and wine trader register
+49,Wisdom,Critical,Wisdom,FSA Documents and Records Management System.
+50,Yammer,Critical,Yammer,FSA wide social networking and discussion facility
+51,SQL Server,Core,Core Infrastructure,Microsoft Database
+52,Visual Studio Team Foundation,Medium,IT Management,
+53,Sharepoint,high,Sharepoint,
+54,AD Self Service Plus,Core,Core Infrastructure,
+55,CardioLog,Medium,COTS,
+56,Approve premises management system (APMS),Low,K2,Hold details of all approved establishments in the UK - food producers. List of about 6500 . Reports generated monthly but manually  List published to the public so still required going forward
+57,Cleansing & Disinfection,Medium,K2,For recording & monitoring the cleaning and inspection of vehicles that visit abbatoirs
+58,Timesheet Audit,Medium,SIR,Stand alone application that pulls audit information from the timesheet system audit tables in SIR to help us deal with queries and provide a control for changes being made to charging data by our staff
+59,Bravo,,,Application used to manage the procurement process

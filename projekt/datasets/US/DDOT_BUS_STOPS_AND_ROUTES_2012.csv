@@ -1,0 +1,102 @@
+OBJECTID,ROUTE_ID,ROUTE_NAME,ROUTE_NUM,DT_XT,TRUNK,NAME,FREQ_5_00,FREQ_6_02,FREQ_4_05,IB_OB,ORG_TERM,CUR_TERM,SERVICE
+1,10,9 - N,9,Crosstown, ,Chalmers,25,25,40, ,Shoemaker,Gilbert, 
+2,11,9 - S,9,Crosstown, ,Chalmers,25,25,40, ,Shoemaker,Gilbert, 
+3,12,9 - Short,9,Crosstown, ,Chalmers,25,25,40, ,Shoemaker,Gilbert,Peak Extension
+4,19,11 - E,11,Crosstown, ,Clairmount,20,15,30, ,Gilbert,Gilbert,22 Hour Service
+5,22,11 - W,11,Crosstown, ,Clairmount,20,15,30, ,Gilbert,Gilbert,22 Hour Service
+6,23,12 - S,12,Crosstown, ,Conant,30,30,40, ,Shoemaker,Coolidge, 
+7,25,12 - N,12,Crosstown, ,Conant,30,30,40, ,Shoemaker,Coolidge, 
+8,28,14 - E,14,Crosstown, ,Crosstown,15,15,20, ,Shoemaker,Coolidge,24 Hour Service
+9,32,14 - W,14,Crosstown, ,Crosstown,15,15,20, ,Shoemaker,Coolidge,24 Hour Service
+10,33,14 - School,14,Crosstown, ,Crosstown,15,15,20, ,Shoemaker,Coolidge,Peak Extension
+11,34,15 - E,15,Crosstown, ,Chicago-Davison,20,15,40, ,Gilbert,Gilbert, 
+12,35,15 - W,15,Crosstown, ,Chicago-Davison,20,15,40, ,Gilbert,Gilbert, 
+13,55,21 - E,21,Downtown,Yes,Grand River,6,6,15,Inbound,Coolidge,Coolidge,24 Hour Service
+14,59,22 - S,22,Crosstown, ,Greenfield,10,10,18, ,Coolidge,Coolidge, 
+15,60,22 - N,22,Crosstown, ,Greenfield,10,10,18, ,Coolidge,Coolidge, 
+16,63,23 - Night Weekday,23,Downtown, ,Hamilton,20,18,22,Loop,Coolidge,Coolidge,Peak Extension
+17,64,23 - Night Weekend,23,Downtown, ,Hamilton,20,18,22,Loop,Coolidge,Coolidge,Peak Extension
+18,73,29 - S,29,Downtown, ,Linwood,20,18,25,Inbound,Gilbert,Gilbert, 
+19,74,29 - N,29,Downtown, ,Linwood,20,18,25,Outbound,Gilbert,Gilbert, 
+20,75,30 - FG,30,Crosstown, ,Livernois,30,30,25, ,Gilbert,Gilbert,Peak Extension
+21,76,30 - S,30,Crosstown, ,Livernois,30,30,25, ,Gilbert,Gilbert, 
+22,82,32 - Ext,32,Crosstown, ,McNichols,23,20,21, ,Shoemaker,Coolidge,Peak Extension
+23,101,38 - Diesel,38,Downtown, ,Plymouth,25,25,30,Loop,Coolidge,Coolidge, 
+24,112,45 - E,45,Crosstown, ,Seven Mile,15,15,20, ,Shoemaker,Coolidge,24 Hour Service
+25,113,45 - W,45,Crosstown, ,Seven Mile,15,15,20, ,Shoemaker,Coolidge,24 Hour Service
+26,122,47 - Short,47,Downtown, ,Tireman,30,30,40,Loop,Coolidge,Coolidge,Peak Extension
+27,131,54 - S,54,Crosstown, ,Wyoming,30,30,30, ,Gilbert,Gilbert, 
+28,132,54 - N,54,Crosstown, ,Wyoming,30,30,30, ,Gilbert,Gilbert, 
+29,133,54 - FG,54,Crosstown, ,Wyoming,30,30,30, ,Gilbert,Gilbert,Peak Extension
+30,140,78 - Ext,78,Limited, ,Imperial Limited,20,15,25, ,Coolidge,Coolidge, 
+31,157,13 - S,13,Crosstown, ,Conner,20,30,30, ,Shoemaker,Gilbert, 
+32,158,13 - N,13,Crosstown, ,Conner,20,30,30, ,Shoemaker,Gilbert, 
+33,233,34 - W,34,Downtown,Yes,Gratiot,8,8,16,Inbound,Shoemaker,Gilbert,24 Hour Service
+34,252,37-Wyoming Loop,37,Downtown, ,Michigan,0,20,30,Loop,Gilbert,Gilbert,Peak Extension
+35,257,17 - W,17,Crosstown,Yes,Eight Mile,30,20,25, ,Coolidge,Coolidge, 
+36,257,17 - W,17,Crosstown,Yes,Eight Mile,30,20,25, ,Coolidge,Coolidge, 
+37,264,41-N-New,41,Crosstown, ,Schaefer,30,30,30, ,Coolidge,Coolidge, 
+38,267,41-S-New,41,Crosstown, ,Schaefer,30,30,30, ,Coolidge,Coolidge, 
+39,278,31-E-New,31,Downtown, ,Mack,23,20,28,Outbound,Shoemaker,Gilbert,22 Hour Service
+40,308,30 - N,30,Crosstown, ,Livernois,30,30,25, ,Gilbert,Gilbert, 
+41,330,36 - N,36,Downtown, ,Oakland,30,30,60,Outbound,Gilbert,Gilbert, 
+42,340,78 - S,78,Limited, ,Imperial Limited,20,15,25,Outbound,Coolidge,Coolidge,Limited
+43,350,19 - E1,19,Downtown, ,Fort,10,9,20,Inbound,Gilbert,Gilbert,Peak Extension
+44,351,19 - W1,19,Downtown, ,Fort,10,9,20,Outbound,Gilbert,Gilbert,Peak Extension
+45,379,21 - W,21,Downtown,Yes,Grand River,6,6,15,Outbound,Coolidge,Coolidge,24 Hour Service
+46,383,78 - N,78,Limited, ,Imperial Limited,20,15,25,Inbound,Coolidge,Coolidge,Limited
+47,392,19 - E,19,Downtown, ,Fort,10,9,20,Inbound,Gilbert,Gilbert,24 Hour Service
+48,397,27 - E,27,Downtown, ,Joy,27,25,30,Inbound,Coolidge,Coolidge, 
+49,398,27 - W,27,Downtown, ,Joy,27,25,30,Outbound,Coolidge,Coolidge, 
+50,399,34 - E,34,Downtown,Yes,Gratiot,8,8,16,Outbound,Shoemaker,Gilbert,24 Hour Service
+51,400,37 - E2,37,Downtown, ,Michigan,25,25,30, ,Gilbert,Gilbert, 
+52,402,38 / 8 - E,38,Crosstown, ,Plymouth / Caniff,0,0,0, ,Coolidge,Coolidge, 
+53,403,38 / 8 - W,38,Crosstown, ,Plymouth / Caniff,0,0,0, ,Coolidge,Coolidge, 
+54,404,39 - E,39,Crosstown, ,Puritan,25,25,40, ,Coolidge,Coolidge, 
+55,405,39 - W,39,Crosstown, ,Puritan,25,25,40, ,Coolidge,Coolidge, 
+56,406,46 - S,46,Crosstown, ,Southfield,35,35,50, ,Coolidge,Coolidge, 
+57,407,46 - N,46,Crosstown, ,Southfield,35,35,50, ,Coolidge,Coolidge, 
+58,408,60 - S,60,Crosstown, ,Evergreen,27,27,35, ,Coolidge,Coolidge, 
+59,409,60 - N,60,Crosstown, ,Evergreen,27,27,35, ,Coolidge,Coolidge, 
+60,423,7 - E,7,Downtown, ,Cadillac Harper,18,18,22,Outbound,Shoemaker,Gilbert, 
+61,424,7 - W,7,Downtown, ,Cadillac Harper,18,18,22,Inbound,Shoemaker,Gilbert, 
+62,425,10-N-New,10,Downtown, ,Chene,30,25,30,Outbound,Shoemaker,Coolidge,22 Hour Service
+63,426,10-S-New,10,Downtown, ,Chene,30,25,30,Inbound,Shoemaker,Coolidge,22 Hour Service
+64,428,16 - S,16,Downtown, ,Dexter,8,8,12,Inbound,Gilbert,Gilbert,24 Hour Service
+65,429,16-RP After 9,16,Downtown, ,Dexter,0,0,0, ,Gilbert,Gilbert,After 9pm Routing
+66,431,18 - S,18,Downtown, ,Fenkell,15,15,20,Inbound,Coolidge,Coolidge,22 Hour Service
+67,432,18-RP After 9,18,Downtown, ,Fenkell,0,0,0, ,Coolidge,Coolidge,After 9pm Routing
+68,433,19 - W,19,Downtown, ,Fort,10,9,20,Outbound,Gilbert,Gilbert,24 Hour Service
+69,434,16 - N,16,Downtown, ,Dexter,8,8,12,Outbound,Gilbert,Gilbert,24 Hour Service
+70,435,18 - N,18,Downtown, ,Fenkell,15,15,20,Outbound,Coolidge,Coolidge,22 Hour Service
+71,436,23 - S,23,Downtown, ,Hamilton,20,18,22,Inbound,Coolidge,Coolidge, 
+72,437,23 - N,23,Downtown, ,Hamilton,20,18,22,Outbound,Coolidge,Coolidge, 
+73,438,23-RP After 9,23,Downtown, ,Hamilton,0,0,0, ,Coolidge,Coolidge,After 9pm Routing
+74,439,25 - W,25,Downtown, ,Jefferson,15,15,18,Inbound,Shoemaker,Gilbert,22 Hour Service
+75,440,25 - E,25,Downtown, ,Jefferson,15,15,18,Outbound,Shoemaker,Gilbert,22 Hour Service
+76,441,31-W-New,31,Downtown, ,Mack,23,20,28,Inbound,Shoemaker,Gilbert,22 Hour Service
+77,442,34-RP After 9,34,Downtown, ,Gratiot,8,8,0, ,Shoemaker,Gilbert,After 9pm Routing
+78,443,36 - S,36,Downtown, ,Oakland,30,30,60,Inbound,Gilbert,Gilbert, 
+79,444,37 - W,37,Downtown, ,Michigan,25,20,30,Outbound,Gilbert,Gilbert, 
+80,445,40 - N,40,Downtown, ,Russell,40,40,45,Outbound,Shoemaker,Coolidge, 
+81,446,40 - S,40,Downtown, ,Russell,40,40,45,Inbound,Shoemaker,Coolidge, 
+82,447,47 - E,47,Downtown, ,Tireman,30,30,40,Inbound,Coolidge,Coolidge, 
+83,448,48 - N,48,Downtown, ,Van Dyke-Lafayette,15,15,20,Outbound,Shoemaker,Gilbert,24 Hour Service
+84,450,49 - W,49,Downtown, ,Vernor,25,35,30,Outbound,Shoemaker,Gilbert, 
+85,451,49 - E,49,Downtown, ,Vernor,25,35,30,Inbound,Shoemaker,Gilbert, 
+86,452,49-W Peak,49,Downtown, ,Vernor,25,35,30,Outbound,Shoemaker,Gilbert,Peak Extension
+87,453,49-E Peak,49,Downtown, ,Vernor,25,35,30,Inbound,Shoemaker,Gilbert,Peak Extension
+88,454,53-prop nb,53,Downtown,Yes,Woodward,6,6,12,Outbound,Gilbert,Gilbert, 
+89,455,53-prop,53,Downtown,Yes,Woodward,6,6,12,Inbound,Gilbert,Gilbert, 
+90,456,53-RP aftr 9,53,Downtown, ,Woodward,0,0,0, ,Gilbert,Gilbert,After 9pm Routing
+91,458,48 - S,48,Downtown, ,Van Dyke-Lafayette,15,15,20,Inbound,Shoemaker,Gilbert,24 Hour Service
+92,459,7 - School,7, , , ,0,0,0, , , , 
+93,460,32-EB2,32,Crosstown, ,McNichols,23,20,21, ,Shoemaker,Coolidge, 
+94,461,32-WB2,32,Crosstown, ,McNichols,23,20,21, ,Shoemaker,Coolidge, 
+95,462,32 - Night Weekend,32, , , ,0,0,0, , , , 
+96,463,43 - W,43,Crosstown, ,Schoolcraft,35,25,35, ,Coolidge,Coolidge, 
+97,464,43 - E,43,Crosstown, ,Schoolcraft,35,25,35, ,Coolidge,Coolidge, 
+98,465,47 - School,47, , , ,0,0,0, , , , 
+99,466,47 - W,47,Downtown, ,Tireman,30,30,40,Outbound,Coolidge,Coolidge, 
+100,467,17 - 8M Eastland,17,Crosstown, ,Eight Mile,0,0,0, , , , 
+101,468,17 - E,17,Crosstown,Yes,Eight Mile,30,20,25, ,Coolidge,Coolidge, 

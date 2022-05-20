@@ -1,0 +1,323 @@
+dispositif,volet,nombre_aides,nombre_entreprises,montant_total,reg,libelle_region,code_section,libelle_section
+Fonds de solidarité,VOLET1,27459,7515,58500843.0,84,Auvergne-Rhône-Alpes,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,37,11,54031.0,84,Auvergne-Rhône-Alpes,B,Industries extractives
+Fonds de solidarité,VOLET1,45984,11491,115365988.0,84,Auvergne-Rhône-Alpes,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,555,110,1124659.0,84,Auvergne-Rhône-Alpes,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,1948,564,2790487.0,84,Auvergne-Rhône-Alpes,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,94027,32189,156861385.0,84,Auvergne-Rhône-Alpes,F,Construction
+Fonds de solidarité,VOLET1,179147,40042,626695750.0,84,Auvergne-Rhône-Alpes,G,Commerce
+Fonds de solidarité,VOLET1,67309,10003,182533981.0,84,Auvergne-Rhône-Alpes,H,Transports et entreposage
+Fonds de solidarité,VOLET1,265132,29334,1695728751.0,84,Auvergne-Rhône-Alpes,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,24245,4795,59740788.0,84,Auvergne-Rhône-Alpes,J,Information et communication
+Fonds de solidarité,VOLET1,8920,2099,19245435.0,84,Auvergne-Rhône-Alpes,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,37383,8442,94024198.0,84,Auvergne-Rhône-Alpes,L,Activités immobilières
+Fonds de solidarité,VOLET1,116459,25199,366671974.0,84,Auvergne-Rhône-Alpes,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,55501,11285,210920737.0,84,Auvergne-Rhône-Alpes,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,18,6,179742.0,84,Auvergne-Rhône-Alpes,O,Administration publique
+Fonds de solidarité,VOLET1,132398,19558,291395140.0,84,Auvergne-Rhône-Alpes,P,Enseignement
+Fonds de solidarité,VOLET1,60484,23689,83079444.0,84,Auvergne-Rhône-Alpes,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,104769,13464,327177059.0,84,Auvergne-Rhône-Alpes,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,107340,24254,222116077.0,84,Auvergne-Rhône-Alpes,S,Autres activités de services
+Fonds de solidarité,VOLET1,9829,2897,34472066.0,27,Bourgogne-Franche-Comté,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,20,6,39062.0,27,Bourgogne-Franche-Comté,B,Industries extractives
+Fonds de solidarité,VOLET1,12220,3237,25502554.0,27,Bourgogne-Franche-Comté,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,36,13,70644.0,27,Bourgogne-Franche-Comté,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,910,258,1494891.0,27,Bourgogne-Franche-Comté,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,21369,8049,33718943.0,27,Bourgogne-Franche-Comté,F,Construction
+Fonds de solidarité,VOLET1,51868,12293,146302823.0,27,Bourgogne-Franche-Comté,G,Commerce
+Fonds de solidarité,VOLET1,7031,1537,19373933.0,27,Bourgogne-Franche-Comté,H,Transports et entreposage
+Fonds de solidarité,VOLET1,73906,8151,418960736.0,27,Bourgogne-Franche-Comté,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,4310,859,10606591.0,27,Bourgogne-Franche-Comté,J,Information et communication
+Fonds de solidarité,VOLET1,1809,454,3335169.0,27,Bourgogne-Franche-Comté,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,6941,1712,13089416.0,27,Bourgogne-Franche-Comté,L,Activités immobilières
+Fonds de solidarité,VOLET1,21972,4898,70303277.0,27,Bourgogne-Franche-Comté,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,10790,2285,35733575.0,27,Bourgogne-Franche-Comté,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,25,3,35591.0,27,Bourgogne-Franche-Comté,O,Administration publique
+Fonds de solidarité,VOLET1,16373,2774,27233095.0,27,Bourgogne-Franche-Comté,P,Enseignement
+Fonds de solidarité,VOLET1,13146,5282,17417035.0,27,Bourgogne-Franche-Comté,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,26068,3259,79760518.0,27,Bourgogne-Franche-Comté,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,31488,7348,62397212.0,27,Bourgogne-Franche-Comté,S,Autres activités de services
+Fonds de solidarité,VOLET1,6189,1866,15689357.0,53,Bretagne,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,21,5,33275.0,53,Bretagne,B,Industries extractives
+Fonds de solidarité,VOLET1,16602,4196,32077307.0,53,Bretagne,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,43,13,82748.0,53,Bretagne,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,459,159,707137.0,53,Bretagne,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,21336,9067,33146231.0,53,Bretagne,F,Construction
+Fonds de solidarité,VOLET1,55334,13275,171932721.0,53,Bretagne,G,Commerce
+Fonds de solidarité,VOLET1,10083,1862,27446778.0,53,Bretagne,H,Transports et entreposage
+Fonds de solidarité,VOLET1,99981,11280,614155710.0,53,Bretagne,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,7469,1438,20074308.0,53,Bretagne,J,Information et communication
+Fonds de solidarité,VOLET1,2412,623,6353283.0,53,Bretagne,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,9177,2429,18859675.0,53,Bretagne,L,Activités immobilières
+Fonds de solidarité,VOLET1,33204,7464,112058730.0,53,Bretagne,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,12896,2943,47931031.0,53,Bretagne,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,17507,3143,31823356.0,53,Bretagne,P,Enseignement
+Fonds de solidarité,VOLET1,21360,8868,29022332.0,53,Bretagne,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,31981,4416,103092304.0,53,Bretagne,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,35137,8570,71366442.0,53,Bretagne,S,Autres activités de services
+Fonds de solidarité,VOLET1,6710,1819,25339744.0,24,Centre-Val de Loire,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,10431,2670,21366804.0,24,Centre-Val de Loire,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,29,5,47677.0,24,Centre-Val de Loire,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,491,153,667931.0,24,Centre-Val de Loire,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,20236,7732,32331313.0,24,Centre-Val de Loire,F,Construction
+Fonds de solidarité,VOLET1,40463,9893,113510209.0,24,Centre-Val de Loire,G,Commerce
+Fonds de solidarité,VOLET1,10269,1951,24218938.0,24,Centre-Val de Loire,H,Transports et entreposage
+Fonds de solidarité,VOLET1,58436,6577,327075566.0,24,Centre-Val de Loire,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,4729,967,13135042.0,24,Centre-Val de Loire,J,Information et communication
+Fonds de solidarité,VOLET1,1657,398,3682018.0,24,Centre-Val de Loire,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,6937,1674,13597006.0,24,Centre-Val de Loire,L,Activités immobilières
+Fonds de solidarité,VOLET1,20291,4484,60206460.0,24,Centre-Val de Loire,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,10501,2294,34099729.0,24,Centre-Val de Loire,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,12416,2299,23120765.0,24,Centre-Val de Loire,P,Enseignement
+Fonds de solidarité,VOLET1,11173,4527,14699927.0,24,Centre-Val de Loire,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,23441,3102,76192174.0,24,Centre-Val de Loire,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,27834,6637,54465346.0,24,Centre-Val de Loire,S,Autres activités de services
+Fonds de solidarité,VOLET1,5230,1139,10751872.0,94,Corse,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,4406,911,9371057.0,94,Corse,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,58,21,156064.0,94,Corse,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,7974,2465,13297142.0,94,Corse,F,Construction
+Fonds de solidarité,VOLET1,14046,2639,55786626.0,94,Corse,G,Commerce
+Fonds de solidarité,VOLET1,2403,404,10491097.0,94,Corse,H,Transports et entreposage
+Fonds de solidarité,VOLET1,25531,2814,162417594.0,94,Corse,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,1067,192,3627928.0,94,Corse,J,Information et communication
+Fonds de solidarité,VOLET1,292,70,925531.0,94,Corse,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,4095,708,12405553.0,94,Corse,L,Activités immobilières
+Fonds de solidarité,VOLET1,10517,1846,46182465.0,94,Corse,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,5283,944,18719727.0,94,Corse,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,2819,412,5336299.0,94,Corse,P,Enseignement
+Fonds de solidarité,VOLET1,2416,925,3271379.0,94,Corse,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,4628,554,17005708.0,94,Corse,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,6213,1285,12413764.0,94,Corse,S,Autres activités de services
+Fonds de solidarité,VOLET1,50947,12960,264475896.0,44,Grand Est,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,17,6,33213.0,44,Grand Est,B,Industries extractives
+Fonds de solidarité,VOLET1,22814,5765,77217669.0,44,Grand Est,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,179,60,244778.0,44,Grand Est,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,2129,530,3191505.0,44,Grand Est,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,44871,15880,71424013.0,44,Grand Est,F,Construction
+Fonds de solidarité,VOLET1,97368,22664,297549152.0,44,Grand Est,G,Commerce
+Fonds de solidarité,VOLET1,21879,3642,57414876.0,44,Grand Est,H,Transports et entreposage
+Fonds de solidarité,VOLET1,129587,14011,836301386.0,44,Grand Est,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,9534,1928,23812254.0,44,Grand Est,J,Information et communication
+Fonds de solidarité,VOLET1,4216,1059,7644648.0,44,Grand Est,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,13559,3094,28466506.0,44,Grand Est,L,Activités immobilières
+Fonds de solidarité,VOLET1,47723,10592,134412433.0,44,Grand Est,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,21368,4554,75157359.0,44,Grand Est,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,34,4,130276.0,44,Grand Est,O,Administration publique
+Fonds de solidarité,VOLET1,26724,4740,48721782.0,44,Grand Est,P,Enseignement
+Fonds de solidarité,VOLET1,26862,11149,36749741.0,44,Grand Est,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,44236,5433,139465120.0,44,Grand Est,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,65232,14839,128922581.0,44,Grand Est,S,Autres activités de services
+Fonds de solidarité,VOLET1,15112,2591,23579444.0,1,Guadeloupe,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,5264,1203,10133205.0,1,Guadeloupe,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,19,6,28030.0,1,Guadeloupe,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,77,26,118050.0,1,Guadeloupe,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,7058,2170,10913459.0,1,Guadeloupe,F,Construction
+Fonds de solidarité,VOLET1,14744,3241,29280218.0,1,Guadeloupe,G,Commerce
+Fonds de solidarité,VOLET1,4630,737,10687136.0,1,Guadeloupe,H,Transports et entreposage
+Fonds de solidarité,VOLET1,16482,2099,44382640.0,1,Guadeloupe,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,1508,306,4071771.0,1,Guadeloupe,J,Information et communication
+Fonds de solidarité,VOLET1,407,107,765398.0,1,Guadeloupe,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,2110,442,3797321.0,1,Guadeloupe,L,Activités immobilières
+Fonds de solidarité,VOLET1,5320,1269,9996241.0,1,Guadeloupe,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,8465,1401,24272742.0,1,Guadeloupe,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,3028,659,4236271.0,1,Guadeloupe,P,Enseignement
+Fonds de solidarité,VOLET1,2588,1007,3803554.0,1,Guadeloupe,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,3835,491,10556893.0,1,Guadeloupe,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,4686,1136,6889708.0,1,Guadeloupe,S,Autres activités de services
+Fonds de solidarité,VOLET1,6668,821,10929401.0,3,Guyane,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,138,29,370706.0,3,Guyane,B,Industries extractives
+Fonds de solidarité,VOLET1,2505,404,5372455.0,3,Guyane,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,37,10,81206.0,3,Guyane,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,7047,1095,15630962.0,3,Guyane,F,Construction
+Fonds de solidarité,VOLET1,5979,989,12383147.0,3,Guyane,G,Commerce
+Fonds de solidarité,VOLET1,1969,292,5476272.0,3,Guyane,H,Transports et entreposage
+Fonds de solidarité,VOLET1,4764,585,13756236.0,3,Guyane,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,598,84,1779460.0,3,Guyane,J,Information et communication
+Fonds de solidarité,VOLET1,268,45,592521.0,3,Guyane,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,475,80,978583.0,3,Guyane,L,Activités immobilières
+Fonds de solidarité,VOLET1,2553,440,5736808.0,3,Guyane,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,2914,396,7932183.0,3,Guyane,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,976,155,1782844.0,3,Guyane,P,Enseignement
+Fonds de solidarité,VOLET1,947,244,1752564.0,3,Guyane,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,1076,137,2737735.0,3,Guyane,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,1841,291,3432688.0,3,Guyane,S,Autres activités de services
+Fonds de solidarité,VOLET1,7573,2213,23785970.0,32,Hauts-de-France,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,6,3,8323.0,32,Hauts-de-France,B,Industries extractives
+Fonds de solidarité,VOLET1,16875,4233,42019883.0,32,Hauts-de-France,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,89,17,285496.0,32,Hauts-de-France,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,780,242,1106424.0,32,Hauts-de-France,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,36647,13030,58884039.0,32,Hauts-de-France,F,Construction
+Fonds de solidarité,VOLET1,94152,21119,270880586.0,32,Hauts-de-France,G,Commerce
+Fonds de solidarité,VOLET1,35955,5285,77631299.0,32,Hauts-de-France,H,Transports et entreposage
+Fonds de solidarité,VOLET1,119549,13430,695724885.0,32,Hauts-de-France,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,9196,1958,23044510.0,32,Hauts-de-France,J,Information et communication
+Fonds de solidarité,VOLET1,4194,964,8156773.0,32,Hauts-de-France,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,11560,2740,24815717.0,32,Hauts-de-France,L,Activités immobilières
+Fonds de solidarité,VOLET1,46504,9971,137780363.0,32,Hauts-de-France,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,20536,4252,72133628.0,32,Hauts-de-France,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,14,4,50571.0,32,Hauts-de-France,O,Administration publique
+Fonds de solidarité,VOLET1,21700,4106,37036921.0,32,Hauts-de-France,P,Enseignement
+Fonds de solidarité,VOLET1,26912,11389,37230171.0,32,Hauts-de-France,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,42984,5288,138265617.0,32,Hauts-de-France,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,61724,14049,112777204.0,32,Hauts-de-France,S,Autres activités de services
+Fonds de solidarité,VOLET1,2266,705,4711538.0,11,Île-de-France,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,48940,11012,144949551.0,11,Île-de-France,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,872,154,2191446.0,11,Île-de-France,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,1603,423,2899915.0,11,Île-de-France,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,100882,32143,188321701.0,11,Île-de-France,F,Construction
+Fonds de solidarité,VOLET1,276551,57856,1086225239.0,11,Île-de-France,G,Commerce
+Fonds de solidarité,VOLET1,540913,60809,1241336313.0,11,Île-de-France,H,Transports et entreposage
+Fonds de solidarité,VOLET1,339455,37627,2620877854.0,11,Île-de-France,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,109923,20162,389988553.0,11,Île-de-France,J,Information et communication
+Fonds de solidarité,VOLET1,21255,4319,64550784.0,11,Île-de-France,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,53499,11570,145477728.0,11,Île-de-France,L,Activités immobilières
+Fonds de solidarité,VOLET1,346805,69514,942692483.0,11,Île-de-France,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,117507,17743,651755160.0,11,Île-de-France,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,17,6,28401.0,11,Île-de-France,O,Administration publique
+Fonds de solidarité,VOLET1,94485,16440,167555039.0,11,Île-de-France,P,Enseignement
+Fonds de solidarité,VOLET1,75246,28752,102543609.0,11,Île-de-France,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,223407,29027,732067665.0,11,Île-de-France,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,138838,28831,327338820.0,11,Île-de-France,S,Autres activités de services
+Fonds de solidarité,VOLET1,7702,1792,11039296.0,4,La Réunion,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,6202,1653,11585195.0,4,La Réunion,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,14,4,20213.0,4,La Réunion,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,93,35,146273.0,4,La Réunion,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,9037,3236,13834317.0,4,La Réunion,F,Construction
+Fonds de solidarité,VOLET1,20771,5202,37065530.0,4,La Réunion,G,Commerce
+Fonds de solidarité,VOLET1,3064,784,6552015.0,4,La Réunion,H,Transports et entreposage
+Fonds de solidarité,VOLET1,17173,2569,51132415.0,4,La Réunion,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,1885,398,5990503.0,4,La Réunion,J,Information et communication
+Fonds de solidarité,VOLET1,580,162,1061651.0,4,La Réunion,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,2348,634,3720542.0,4,La Réunion,L,Activités immobilières
+Fonds de solidarité,VOLET1,7000,1846,14801939.0,4,La Réunion,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,4964,1030,20853332.0,4,La Réunion,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,5547,1249,7786148.0,4,La Réunion,P,Enseignement
+Fonds de solidarité,VOLET1,5748,2470,8118452.0,4,La Réunion,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,6685,921,16902069.0,4,La Réunion,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,6799,1981,9117849.0,4,La Réunion,S,Autres activités de services
+Fonds de solidarité,VOLET1,3844,777,5330761.0,2,Martinique,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,3581,832,7024806.0,2,Martinique,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,5,3,6700.0,2,Martinique,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,26,14,37627.0,2,Martinique,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,4350,1381,7084301.0,2,Martinique,F,Construction
+Fonds de solidarité,VOLET1,10667,2225,24390978.0,2,Martinique,G,Commerce
+Fonds de solidarité,VOLET1,4065,715,9450761.0,2,Martinique,H,Transports et entreposage
+Fonds de solidarité,VOLET1,8692,1271,31454076.0,2,Martinique,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,1184,229,3019455.0,2,Martinique,J,Information et communication
+Fonds de solidarité,VOLET1,430,96,956472.0,2,Martinique,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,1319,304,2744109.0,2,Martinique,L,Activités immobilières
+Fonds de solidarité,VOLET1,4677,1113,9948115.0,2,Martinique,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,5389,945,13954914.0,2,Martinique,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,2474,480,3892256.0,2,Martinique,P,Enseignement
+Fonds de solidarité,VOLET1,2349,940,3337367.0,2,Martinique,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,2863,378,7979130.0,2,Martinique,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,5109,1062,8790050.0,2,Martinique,S,Autres activités de services
+Fonds de solidarité,VOLET1,9105,1090,19811330.0,6,Mayotte,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,1461,202,3662026.0,6,Mayotte,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,75,10,181062.0,6,Mayotte,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,4886,681,11863996.0,6,Mayotte,F,Construction
+Fonds de solidarité,VOLET1,22122,2789,51726761.0,6,Mayotte,G,Commerce
+Fonds de solidarité,VOLET1,4537,521,11467831.0,6,Mayotte,H,Transports et entreposage
+Fonds de solidarité,VOLET1,2425,320,6878278.0,6,Mayotte,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,253,42,544244.0,6,Mayotte,J,Information et communication
+Fonds de solidarité,VOLET1,67,11,158514.0,6,Mayotte,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,30,6,70524.0,6,Mayotte,L,Activités immobilières
+Fonds de solidarité,VOLET1,754,129,1620116.0,6,Mayotte,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,932,122,2722254.0,6,Mayotte,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,551,75,1365385.0,6,Mayotte,P,Enseignement
+Fonds de solidarité,VOLET1,365,90,737951.0,6,Mayotte,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,419,61,1291344.0,6,Mayotte,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,769,112,1680146.0,6,Mayotte,S,Autres activités de services
+Fonds de solidarité,VOLET1,5952,1740,12802343.0,28,Normandie,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,4,4,6000.0,28,Normandie,B,Industries extractives
+Fonds de solidarité,VOLET1,11605,3015,24211062.0,28,Normandie,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,23,7,30098.0,28,Normandie,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,465,156,656774.0,28,Normandie,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,21766,8420,35108642.0,28,Normandie,F,Construction
+Fonds de solidarité,VOLET1,57793,13457,168469410.0,28,Normandie,G,Commerce
+Fonds de solidarité,VOLET1,11584,2155,30112972.0,28,Normandie,H,Transports et entreposage
+Fonds de solidarité,VOLET1,81199,9340,490331904.0,28,Normandie,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,5244,1049,13551999.0,28,Normandie,J,Information et communication
+Fonds de solidarité,VOLET1,2546,625,6390159.0,28,Normandie,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,8425,1982,19001676.0,28,Normandie,L,Activités immobilières
+Fonds de solidarité,VOLET1,27501,5921,88551975.0,28,Normandie,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,12802,2609,42259832.0,28,Normandie,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,15021,2707,26310348.0,28,Normandie,P,Enseignement
+Fonds de solidarité,VOLET1,13262,5419,17334589.0,28,Normandie,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,28266,3714,93583956.0,28,Normandie,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,38008,8747,73516705.0,28,Normandie,S,Autres activités de services
+Fonds de solidarité,VOLET1,35607,9208,141112123.0,75,Nouvelle-Aquitaine,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,126,31,187761.0,75,Nouvelle-Aquitaine,B,Industries extractives
+Fonds de solidarité,VOLET1,35213,8828,70882319.0,75,Nouvelle-Aquitaine,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,139,33,378327.0,75,Nouvelle-Aquitaine,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,1614,442,2453469.0,75,Nouvelle-Aquitaine,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,62327,23916,99149962.0,75,Nouvelle-Aquitaine,F,Construction
+Fonds de solidarité,VOLET1,139900,32080,401089651.0,75,Nouvelle-Aquitaine,G,Commerce
+Fonds de solidarité,VOLET1,29721,5065,76346880.0,75,Nouvelle-Aquitaine,H,Transports et entreposage
+Fonds de solidarité,VOLET1,175205,20200,1038826006.0,75,Nouvelle-Aquitaine,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,14655,2981,38502967.0,75,Nouvelle-Aquitaine,J,Information et communication
+Fonds de solidarité,VOLET1,6189,1544,14258750.0,75,Nouvelle-Aquitaine,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,23406,5864,49148874.0,75,Nouvelle-Aquitaine,L,Activités immobilières
+Fonds de solidarité,VOLET1,77653,17160,227380841.0,75,Nouvelle-Aquitaine,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,37803,8106,113687445.0,75,Nouvelle-Aquitaine,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,24,7,99927.0,75,Nouvelle-Aquitaine,O,Administration publique
+Fonds de solidarité,VOLET1,46661,7767,80801647.0,75,Nouvelle-Aquitaine,P,Enseignement
+Fonds de solidarité,VOLET1,43224,17113,57644978.0,75,Nouvelle-Aquitaine,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,68941,9048,209884027.0,75,Nouvelle-Aquitaine,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,84443,20032,155334202.0,75,Nouvelle-Aquitaine,S,Autres activités de services
+Fonds de solidarité,VOLET1,31748,8033,86836542.0,76,Occitanie,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,48,25,96379.0,76,Occitanie,B,Industries extractives
+Fonds de solidarité,VOLET1,39319,9513,78370788.0,76,Occitanie,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,275,63,659428.0,76,Occitanie,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,1383,352,2307668.0,76,Occitanie,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,88607,29719,138678031.0,76,Occitanie,F,Construction
+Fonds de solidarité,VOLET1,166493,35674,446016150.0,76,Occitanie,G,Commerce
+Fonds de solidarité,VOLET1,38254,6054,95271978.0,76,Occitanie,H,Transports et entreposage
+Fonds de solidarité,VOLET1,208557,23306,1181935314.0,76,Occitanie,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,18631,3672,41092949.0,76,Occitanie,J,Information et communication
+Fonds de solidarité,VOLET1,6656,1610,13018493.0,76,Occitanie,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,28800,6563,56707049.0,76,Occitanie,L,Activités immobilières
+Fonds de solidarité,VOLET1,93405,19717,275607648.0,76,Occitanie,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,42649,8964,132650949.0,76,Occitanie,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,30,8,49677.0,76,Occitanie,O,Administration publique
+Fonds de solidarité,VOLET1,59666,9864,100262767.0,76,Occitanie,P,Enseignement
+Fonds de solidarité,VOLET1,48397,19340,65090110.0,76,Occitanie,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,82531,10300,245640759.0,76,Occitanie,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,89941,20290,161214573.0,76,Occitanie,S,Autres activités de services
+Fonds de solidarité,VOLET1,8367,2443,24457646.0,52,Pays de la Loire,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,150,49,204671.0,52,Pays de la Loire,B,Industries extractives
+Fonds de solidarité,VOLET1,15533,4114,33331495.0,52,Pays de la Loire,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,52,13,70344.0,52,Pays de la Loire,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,859,275,1498652.0,52,Pays de la Loire,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,24046,10126,38100904.0,52,Pays de la Loire,F,Construction
+Fonds de solidarité,VOLET1,61056,14529,189308662.0,52,Pays de la Loire,G,Commerce
+Fonds de solidarité,VOLET1,15392,2495,40311001.0,52,Pays de la Loire,H,Transports et entreposage
+Fonds de solidarité,VOLET1,87153,9887,540362689.0,52,Pays de la Loire,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,8397,1681,19907543.0,52,Pays de la Loire,J,Information et communication
+Fonds de solidarité,VOLET1,3698,967,8064103.0,52,Pays de la Loire,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,11843,2957,23911445.0,52,Pays de la Loire,L,Activités immobilières
+Fonds de solidarité,VOLET1,42216,9320,136759511.0,52,Pays de la Loire,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,15167,3342,67781133.0,52,Pays de la Loire,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,19545,3599,36296187.0,52,Pays de la Loire,P,Enseignement
+Fonds de solidarité,VOLET1,23819,9605,31450081.0,52,Pays de la Loire,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,38566,5196,126312049.0,52,Pays de la Loire,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,42904,10323,86221253.0,52,Pays de la Loire,S,Autres activités de services
+Fonds de solidarité,VOLET1,14376,3607,46467079.0,93,Provence-Alpes-Côte d'Azur,A,"Agriculture, sylviculture et pêche"
+Fonds de solidarité,VOLET1,30,9,53823.0,93,Provence-Alpes-Côte d'Azur,B,Industries extractives
+Fonds de solidarité,VOLET1,39091,8905,91428214.0,93,Provence-Alpes-Côte d'Azur,C,Industrie manufacturière
+Fonds de solidarité,VOLET1,186,48,424601.0,93,Provence-Alpes-Côte d'Azur,D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné"
+Fonds de solidarité,VOLET1,668,177,1100754.0,93,Provence-Alpes-Côte d'Azur,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution"
+Fonds de solidarité,VOLET1,82424,26084,134499513.0,93,Provence-Alpes-Côte d'Azur,F,Construction
+Fonds de solidarité,VOLET1,188497,37639,566805111.0,93,Provence-Alpes-Côte d'Azur,G,Commerce
+Fonds de solidarité,VOLET1,72773,9329,193559855.0,93,Provence-Alpes-Côte d'Azur,H,Transports et entreposage
+Fonds de solidarité,VOLET1,212420,23263,1333327899.0,93,Provence-Alpes-Côte d'Azur,I,Hébergement et restauration
+Fonds de solidarité,VOLET1,20367,3849,49816352.0,93,Provence-Alpes-Côte d'Azur,J,Information et communication
+Fonds de solidarité,VOLET1,8071,1772,17002414.0,93,Provence-Alpes-Côte d'Azur,K,Activités financières et d'assurance
+Fonds de solidarité,VOLET1,38397,8076,86047886.0,93,Provence-Alpes-Côte d'Azur,L,Activités immobilières
+Fonds de solidarité,VOLET1,101417,21141,293275173.0,93,Provence-Alpes-Côte d'Azur,M,"Activités spécialisées, scientifiques et techniques"
+Fonds de solidarité,VOLET1,56792,10833,202617039.0,93,Provence-Alpes-Côte d'Azur,N,Activités de services administratifs et de soutien
+Fonds de solidarité,VOLET1,15,4,208853.0,93,Provence-Alpes-Côte d'Azur,O,Administration publique
+Fonds de solidarité,VOLET1,65984,10256,122324277.0,93,Provence-Alpes-Côte d'Azur,P,Enseignement
+Fonds de solidarité,VOLET1,44777,17370,60143318.0,93,Provence-Alpes-Côte d'Azur,Q,Santé humaine et action sociale
+Fonds de solidarité,VOLET1,78028,9613,244064915.0,93,Provence-Alpes-Côte d'Azur,R,"Arts, spectacles et activités récréatives"
+Fonds de solidarité,VOLET1,93780,19864,177358541.0,93,Provence-Alpes-Côte d'Azur,S,Autres activités de services

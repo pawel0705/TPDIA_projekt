@@ -1,0 +1,4 @@
+ENREGISTREMENT DATA.GOUV________________
+n_amenageur;n_opérateur;n_enseigne;id_station;n_station;ad_station;code_insee;Xlongitude;Ylatitude;nbre_pdc;id_pdc;puiss_max;type_prise;acces_rechargeaccessibilité;;observations;date_maj
+Electro-mob;ALFEN;ALFEN;ALFEN;LES PLEIADES;21 Rue GRANDE 77630 BARBIZON;77022;2.6031;48.4435;2;ras;22;T2S  ;0;24/247j/7;RAS;19/07/2021
+Electro-mob;ALFEN;ALFEN;ALFEN;LES PLEIADES;21 Rue GRANDE 77630 BARBIZON;77022;2.6031;48.4435;2;ras;7;T2S  ;0;24/247j/7;RAS;19/07/2021

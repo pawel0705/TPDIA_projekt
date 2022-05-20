@@ -1,0 +1,109 @@
+name,natinc20,net_internal_mig_rnd,net_international_mig_rnd,netmig20,popchange20
+Far North district,200,740.0,840.0,1600,1800
+Whangārei district,290,920.0,1100.0,2100,2400
+Kaipara district,130,430.0,220.0,650,780
+Auckland,12800,-12600.0,36700.0,24100,37000
+Rodney local board area,440,1400.0,700.0,2100,2500
+Hibiscus and Bays local board area,470,430.0,2500.0,2900,3400
+Upper Harbour local board area,450,380.0,1900.0,2300,2800
+Kaipātiki local board area,830,-1800.0,2200.0,400,1200
+Devonport-Takapuna local board area,250,-1200.0,1700.0,450,700
+Henderson-Massey local board area,1300,-570.0,2000.0,1400,2700
+Waitākere Ranges local board area,520,-300.0,540.0,240,760
+Aotea/Great Barrier local board area,0,0.0,20.0,10,20
+Waiheke local board area,10,-40.0,180.0,130,150
+Waitematā local board area,470,-4200.0,4700.0,500,970
+Whau local board area,660,-1100.0,2000.0,810,1500
+Albert-Eden local board area,470,-2200.0,3100.0,840,1300
+Puketāpapa local board area,430,-960.0,1500.0,500,930
+Ōrākei local board area,270,-1000.0,1800.0,760,1000
+Maungakiekie-Tamaki local board area,820,-880.0,1500.0,610,1400
+Howick local board area,860,-1400.0,4400.0,3000,3800
+Māngere-Ōtāhuhu local board area,930,-300.0,1100.0,850,1800
+Ōtara-Papatoetoe local board area,1100,-1000.0,1900.0,900,2000
+Manurewa local board area,1300,280.0,1400.0,1600,2900
+Papakura local board area,820,1300.0,840.0,2100,2900
+Franklin local board area,390,720.0,950.0,1700,2100
+Thames-Coromandel district,-80,560.0,340.0,900,820
+Hauraki district,20,210.0,180.0,390,410
+Waikato district,590,1200.0,690.0,1900,2500
+Matamata-Piako district,130,70.0,330.0,400,530
+Hamilton city,1400,-280.0,3100.0,2800,4200
+Waipa district,240,580.0,660.0,1300,1500
+Ōtorohanga district,70,-30.0,60.0,30,100
+South Waikato district,130,10.0,210.0,230,350
+Waitomo district,40,-70.0,100.0,20,60
+Taupō district,150,230.0,390.0,620,770
+Western Bay of Plenty district,180,790.0,740.0,1500,1700
+Tauranga city,660,1900.0,2500.0,4400,5100
+Rotorua district,420,-390.0,1400.0,1100,1500
+Whakatāne district,140,80.0,390.0,470,610
+Kawerau district,30,60.0,60.0,120,150
+Ōpōtiki district,30,70.0,70.0,140,170
+Gisborne district,230,-60.0,460.0,400,630
+Wairoa district,30,0.0,120.0,120,150
+Hastings district,360,380.0,1100.0,1500,1800
+Napier city,110,230.0,780.0,1000,1100
+Central Hawke's Bay district,60,120.0,140.0,260,320
+New Plymouth district,220,370.0,900.0,1300,1500
+Stratford district,30,10.0,30.0,40,70
+South Taranaki district,130,-140.0,200.0,70,200
+Ruapehu district,70,-110.0,110.0,0,70
+Whanganui district,80,310.0,390.0,700,780
+Rangitikei district,90,-40.0,140.0,100,190
+Manawatū district,90,240.0,170.0,410,500
+Palmerston North city,490,-280.0,1000.0,750,1200
+Tararua district,60,30.0,150.0,180,240
+Horowhenua district,-20,560.0,260.0,820,800
+Kapiti Coast district,-190,580.0,670.0,1200,1100
+Porirua city,540,170.0,520.0,690,1200
+Upper Hutt city,210,350.0,390.0,740,950
+Lower Hutt city,710,30.0,1200.0,1300,2000
+Wellington city,1000,-1400.0,3400.0,2000,3000
+Masterton district,20,330.0,280.0,610,630
+Carterton district,10,130.0,110.0,230,250
+South Wairarapa district,50,140.0,110.0,250,300
+Tasman district,30,590.0,640.0,1200,1300
+Nelson city,110,-50.0,940.0,900,1000
+Marlborough district,40,320.0,470.0,800,840
+Kaikoura district,20,0.0,70.0,70,90
+Buller district,-40,-150.0,80.0,-70,-110
+Grey district,60,-80.0,100.0,20,80
+Westland district,30,-50.0,100.0,50,80
+Hurunui district,60,20.0,170.0,180,240
+Waimakariri district,190,1100.0,550.0,1700,1900
+Christchurch city,1500,-1900.0,7400.0,5500,7000
+Selwyn district,570,2100.0,700.0,2800,3400
+Ashburton district,140,-90.0,310.0,230,370
+Timaru district,-50,40.0,440.0,480,430
+Mackenzie district,40,60.0,50.0,110,150
+Waimate district,0,-10.0,80.0,70,70
+Chatham Islands territory,10,30.0,10.0,30,50
+Waitaki district,-10,100.0,230.0,330,320
+Central Otago district,80,440.0,280.0,720,800
+Queenstown-Lakes district,360,810.0,1400.0,2200,2600
+Dunedin city,100,530.0,1200.0,1700,1800
+Clutha district,70,-20.0,130.0,120,180
+Southland district,230,-190.0,320.0,140,370
+Gore district,-20,30.0,90.0,120,110
+Invercargill city,10,-270.0,850.0,580,590
+New Zealand,25600,0.0,79400.0,79400,105000
+Northland region,620,,,4300,4900
+Auckland region,12800,,,24100,37000
+Waikato region,2800,,,8600,11300
+Bay of Plenty region,1400,,,7700,9100
+Gisborne region,230,,,400,630
+Hawke's Bay region,560,,,2900,3400
+Taranaki region,390,,,1400,1800
+Manawatū-Whanganui region,870,,,3000,3800
+Wellington region,2400,,,7100,9400
+Tasman region,30,,,1200,1300
+Nelson region,110,,,900,1000
+Marlborough region,40,,,800,840
+West Coast region,60,,,0,60
+Canterbury region,2500,,,11200,13600
+Otago region,590,,,5100,5600
+Southland region,230,,,840,1100
+North Island regions,22100,,,59400,81400
+South Island regions,3500,,,20000,23500
+New Zealand,25600,,,79400,105000

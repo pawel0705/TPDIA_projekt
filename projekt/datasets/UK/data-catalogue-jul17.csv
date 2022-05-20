@@ -1,0 +1,279 @@
+Asset,AssetTitle,Dataset
+FSA 01/01a,FSA Board,Register of Gifts and Hospitality
+FSA 01/01b,FSA Board,FSA Board and Directors expenses
+FSA 01/05a,Complaints,Register of Complaints
+FSA 01/08a,Internal Whistleblowing referrals,Log of Internal Whistleblowing Cases
+FSA 02/01a,Business Continuity Plans,Business Continuity - incident event/issues  log & contact details
+FSA 02/02a,Organisational Performance,Organisational Performance - Corporate & Directorate Level Data
+FSA 02/03a,Risk Management,Risk Registers - Corporate and Group
+FSA 02/04a,Business Planning,Business Plan Milestones
+FSA 04/00a,Policy Development Records - All,Food Policy Stakeholder Lists; Meat Hygiene; Micro Criteria; Fish and Shellfish; General Food Hygiene; Animal Feed; TSEs; Review of EU Official Controls
+FSA 04/01a,Policy Development Records - Contaminants & Residues,FS102077 - Investigation of Perchlorate levels in fruit and vegetables consumed in the UK
+FSA 04/01b,Policy Development Records - Contaminants & Residues,FS102126 - Retail survey of T-2 and HT-2 toxin levels in oat based products derived from the 2014 Scottish and English oat crops
+FSA 04/01c,Policy Development Records - Contaminants & Residues,FS102056 - Occurrence of pyrrolizidine alkaloids in food
+FSA 04/01d,Policy Development Records - Contaminants & Residues,FS102055 - Sterigmatocystin in cereal products
+FSA 04/01e,Policy Development Records - Contaminants & Residues,FS102101 - Evaluation of masked mycotoxins in food and their release and uptake in the gut 
+FSA 04/01f,Policy Development Records - Contaminants & Residues,FS102073 - 3-APA: literature search (followed by further phases)
+FSA 04/01g,Policy Development Records - Contaminants & Residues,FS102075 - Rolling acrylamide and furan survey 2014-2018
+FSA 04/01h,Policy Development Records - Contaminants & Residues,FS102076 - Types and levels of non-volatile N-nitroso compounds (NOC) in UK consumed foods
+FSA 04/01i,Policy Development Records - Contaminants & Residues,FS102042 - Acrylamide Total Diet Study Total diet study of inorganic contaminants acrylamide & mycotoxins
+FSA 04/01j,Policy Development Records - Contaminants & Residues,FS102042 - Acrylamide targeted investigations  
+FSA 04/01k,Policy Development Records - Contaminants & Residues,FS101169 - Acrylamide investigation phase 2: analysis of selected food categories 
+FSA 04/01l,Policy Development Records - Contaminants & Residues,FS102081 - UK Total Diet Study (TDS) of Metals and other elements 
+FSA 04/01m,Policy Development Records - Contaminants & Residues,FS102115 - Analyses of lead levels in tea 
+FSA 04/01n,Policy Development Records - Contaminants & Residues,FS241030 - Geochemical lead contamination of cattle sheep free range and organic chickens on UK farms
+FSA 04/01o,Policy Development Records - Contaminants & Residues,FS102047 - Relationship in the UK between animal age and cadmium concentration in kidneys liver and meat from cattle
+FSA 04/01p,Policy Development Records - Contaminants & Residues,FS101170 - Adverse Impacts on Food Safety Following the phasing out of PPPs and BPs with ED activity
+FSA 04/01q,Policy Development Records - Contaminants & Residues,FS102116 - Occurrence of tropane alkaloids in food
+FSA 04/01r,Policy Development Records - Contaminants & Residues,FS 516017 - Monitoring of Chlorate in Fruit and Vegetables
+FSA 04/01s,Policy Development Records - Contaminants & Residues,FS102005 - Geographical investigation for contaminants in marine environment including fish and shellfish
+FSA 04/01t,Policy Development Records - Contaminants & Residues,FS513010 - Carry out a mass balance for bromine compounds in food and feed samples quantifying the levels of common BFRs and identifying the presence of any new BFRs
+FSA 04/01u,Policy Development Records - Contaminants & Residues,FS102114 - BFRs in baby foods & infant formulae
+FSA 04/01v,Policy Development Records - Contaminants & Residues,FS102113 - Environmental contaminants in duck and other speciality eggs
+FSA 04/02a,Policy Development Records - Meat Hygiene,Meat Hygiene  third party industry data (analysed for approval of processes)
+FSA 04/02b,Policy Development Records - Meat Hygiene,FS517003 - - The use of a spotter initiative to assist post mortem inspection in UK slaughterhouses 
+FSA 04/02c,Policy Development Records - Meat Hygiene,FS517004 - - Relationship between seroprevalence in the main livestock species and presence of Toxoplasma gondii in meat 
+FSA 04/02d,Policy Development Records - Meat Hygiene,FS514103 - - Microbial evaluation of poultry and pork mechanically separated meat (MSM) compared to fresh cuts of meat meat preparations and minced meat products 
+FSA 04/02e,Policy Development Records - Meat Hygiene,Risk Analysis of Potential Trichinella Exposure for Pigs with Outdoor
+FSA 04/02f,Policy Development Records - Meat Hygiene, Project on Meat Hygiene Project Research Review From Last 10 Years (
+FSA 04/03a,Policy Development Records - Food Hygiene,Raw Drinking Milks Approved Producers
+FSA 04/03b,Policy Development Records - Food Hygiene,Codex International Food Standards records and list
+FSA 04/04a,Policy Development Records - Animal Feed,Feed Additive Trial information 
+FSA 04/05a,Policy Development Records - TSETransmissible spongiform encephalopathy,TSE ( Transmissible spongiform encephalopathies)Project Date (only one live)
+FSA 04/07a,Policy Development Records - Foodborne Disease Strategy,Campylobacter Retail Survey (time-related update)
+FSA 04/07b,Policy Development Records - Foodborne Disease Strategy,On-Farm Project Data (jointly owned by the FSA and the National Farmer Union)
+FSA 04/07c,Policy Development Records - Foodborne Disease Strategy,This was a project investigating the levels of Campylobacter which consumers found acceptable on raw chicken
+FSA 04/07d,Policy Development Records - Foodborne Disease Strategy,Measuring Foodborne Illness Levels
+FSA 04/07e,Policy Development Records - Foodborne Disease Strategy,Campylobacter programme research review
+FSA 04/07f,Policy Development Records - Foodborne Disease Strategy,Development of a rapid on-farm test for the detection of Campylobacter
+FSA 04/07g,Policy Development Records - Foodborne Disease Strategy,Development of a rapid on-farm test for the detection of Campylobacter in poultry
+FSA 04/07h,Policy Development Records - Foodborne Disease Strategy,Epidemiological analysis of Campylobacter data generated in an industry biosecurity study
+FSA 04/07i,Policy Development Records - Foodborne Disease Strategy,A new on-farm Campylobacter testing provision covering the independent broiler farming sector across the United Kingdom of England Scotland Northern Ireland and Wales
+FSA 04/07j,Policy Development Records - Foodborne Disease Strategy,Efficacy practicality and costs of using currently available intervention methods to reduce Campylobacter contamination in slaughterhouses
+FSA 04/07k,Policy Development Records - Foodborne Disease Strategy,Efficacy Practicality and Costs of Using Lactic Acid Solutions Ozonated Water or Ozonated Carbon Dioxide Pellets to Reduce Campylobacter Contamination in Slaughterhouses
+FSA 04/07l,Policy Development Records - Foodborne Disease Strategy,Evaluation of the risk assessment based procedures for setting UK target to reduce Campylobacter in chickens
+FSA 04/07m,Policy Development Records - Foodborne Disease Strategy,Investigation of the efficacy practicality and cost effectiveness of modified atmosphere packaging on Campylobacter numbers on raw chicken intended for retail
+FSA 04/07n,Policy Development Records - Foodborne Disease Strategy,Development of accurate predictive models for the assessment of the survival of Campylobacter jejuni and Campylobacter coli.
+FSA 04/07o,Policy Development Records - Foodborne Disease Strategy,Development of an initial report for reducing the risk of vulnerable groups contracting listeriosis
+FSA 04/10a,Policy Development Records - Additives/Enzymes/Flavourings/Processing Aids & Extraction,Industry data on levels of additives used in certain products
+FSA 04/10b,Policy Development Records - Additives/Enzymes/Flavourings/Processing Aids & Extraction,Current EU approved additives and their E Numbers: 
+FSA 04/10c,Policy Development Records - Additives/Enzymes/Flavourings/Processing Aids & Extraction,Products free from the colours associated with hyperactivity
+FSA 04/12a,Policy Development Records - Food Allergens,The Effect of Extrinsic Factors on Food Allergy (EX-FACTOR)
+FSA 04/12b,Policy Development Records - Food Allergens,Social science research to investigate choices & eating behaviours of people with food allergy/intolerance
+FSA 04/12c,Policy Development Records - Food Allergens,Revisiting the UK Europrevall Cohort at 8-9 years of age (PIFA follow up)
+FSA 04/12d,Policy Development Records - Food Allergens,EAT Data Analysis
+FSA 04/13a,Policy Development Records - Novel Foods,Log of Applications made under Novel Food Regulations
+FSA 04/13b,Policy Development Records - Novel Foods,Insects Industry Contacts
+FSA 04/13c,Policy Development Records - Novel Foods,Novel Foods ? Unauthorized
+FSA 04/13d,Policy Development Records - Novel Foods,Novel Foods - Nanotechnology-enabled foods and food contact materials on the UK market:
+FSA 04/14a,Policy Development Records - GM Foods,Genetically Modified Food Research Programme Data
+FSA 04/14b,Policy Development Records - GM Foods,Novel Foods - GM labelling
+FSA 04/15a,Policy Development Records - Food Irradiation,Approval and Inspection of Irradiation Facilities
+FSA 04/16a,Policy Development Records - Radiological Contamination,TRAMP (Terrestrial Radiological Monitoring Programme) Monitoring Database
+FSA 04/16b,Policy Development Records - Radiological Contamination,TRAMS (Terrestrial Radiological Monitoring System)  Monitoring Database
+FSA 04/16c,Policy Development Records - Radiological Contamination,RIFE (Radioactivity in Food and Environment report) Distribution List
+FSA 04/16d,Policy Development Records - Radiological Contamination,Time recording for cost recovery from industry in relation to FSA functions for environmental permit regulation 
+FSA 04/16e,Policy Development Records - Radiological Contamination,CEFAS (Centre for Environment Fisheries and Aquaculture) Science Spreadsheets (Radiological Monitoring Data - Annual Dataset + partial datasets throughout year)
+FSA 04/16f,Policy Development Records - Radiological Contamination,RSR Authorisation Applications (Environment Agency information - FSA are statutory consultee)
+FSA 04/17a,Policy Development Records - Imported Food,HMRC Import Data
+FSA 04/17b,Policy Development Records - Imported Food,TRACES (Trade Control and Expert System) - EU data to which FSA has access - pre-notification system of high-risk imported foods
+FSA 04/17c,Policy Development Records - Imported Food,List of Foodstuff with current EU Restrictions
+FSA 04/17d,Policy Development Records - Imported Food,Imports ? Designated Points of Entry
+FSA 04/17e,Policy Development Records - Imported Food,List of External Temporary Storage Facilities
+FSA 04/18a,Policy Development Records - Exported Food,Approval and ongoing compliance reports for exports to 3rd countries 
+FSA 04/19a,Policy Development Records: Food Standards & Authenticity,Food Standards & Authenticity - Data in published research reports
+FSA 05/01a,Chemical Risk Assessment,Chemical Risk - Data reports awaiting publication 
+FSA 05/02a,Microbiological Risk Assessment,Year 1 EU harmonised survey on AMR (FS102109) ? Sample data and results on AMR analysis of samples.
+FSA 05/02b,Microbiological Risk Assessment,Year 2 EU harmonised survey on AMR (FS102109) ? Sample data and results on AMR analysis of samples.
+FSA 05/02c,Microbiological Risk Assessment,Campylobacter source attribution project (FS101013) ? possible data set on sources of Campylobacter infection & WGS data of Campylobacter isolates.
+FSA 05/02d,Microbiological Risk Assessment,The NoVAS project (FS101040 - NoV attribution study) - possible 5 datasets.  These include a list of published literature included in the systematic review and further datasets summarising the results of the other work packages including data on NoV in retail oysters samples NoV in retail fresh produce samples NoV contamination in catering premises and NoV capsid integrity findings (made available at the end of the study).
+FSA 05/02e,Microbiological Risk Assessment,A critical review of approaches on measuring HEV infectivity (FS301014) - dataset on relevant published literature included in the critical review (made available at the end of the study).
+FSA 05/02f,Microbiological Risk Assessment,A systematic review of the relative proportion of foodborne disease caused by faults in food preparation and handling in the home (FS101098) - database on the publications included in the systematic review (made available at the end of the study).
+FSA 05/02g,Microbiological Risk Assessment,A systematic review on the occurrence of AMR in foodborne pathogenic and non-pathogenic bacteria in food at retail (FS102127) - database of the published literature/papers included in the systematic review (made available at the end of the study).
+FSA 05/02h,Microbiological Risk Assessment,Microbiological Research Projects (including research data - sent periodically from research provider)
+FSA 06/01a,Analytics,FHRS ratings and proxies of food safety
+FSA 06/01b,Analytics,Analysis on estimating deaths from Foodborne disease
+FSA 06/01c,Analytics,Social Research Survey - Food And You
+FSA 06/01d,Analytics,Public Attitudes Tracker 
+FSA 06/01e,Analytics,FHRS Tracker (is this the same dataset as FSA 10/08c wave 4)
+FSA 06/01f,Analytics,Campylobacter Tracker 
+FSA 06/02a,Strategic Evidence Programme,Strategic Evidence Programme Outputs - Lists of projects and financial information
+FSA 06/03a,Evidence Portfolio and Prioritisation,Evidence Portfolio - list of projects and related financial information
+FSA 06/03b,Evidence Portfolio and Prioritisation,FSA Science and Evidence Expenditure 2013/14 (also 2010-11 and 2011-12)
+FSA 07/01a,Correspondence Case Records,Correspondence Case Record - Ministerial
+FSA 07/01b,Correspondence Case Records,Correspondence Case Record - Treat Official
+FSA 07/01c,Correspondence Case Records,Correspondence Case Record - Branch
+FSA 08/01a,Incidents,Annual Report of Incidents
+FSA 08/01b,Incidents,Incidents Emergency Contact List
+FSA 08/01c,Incidents,Incidents - Food Safety Data
+FSA 08/01d,Incidents,FEPA (Food & Environment Protection Act)  Database
+FSA 08/01e,Incidents,Rapid Alert (RASFF) Information
+FSA 08/01f,Incidents,Allergy Alerts
+FSA 08/01g,Incidents,Product Recalls and Withdrawals
+FSA 08/01h,Incidents,Quarterly incident reports 
+FSA 08/03a,Food Crime,Food Crime dataset - Threat Assessment
+FSA 08/03b,Food Crime,Food Crime dataset - Work ongoing to develop and API
+FSA 09/01a,Field Operations Management,Milk and Dairies Inspection Scheduling Data
+FSA 09/01b,Field Operations Management,Enforcement Data  - enforcement reports
+FSA 09/01c,Field Operations Management,Wine Standards Database (harvest type of wine hecterage of field and volume and product declaration)
+FSA 09/01d,Field Operations Management,Laundry garments log
+FSA 09/01e,Field Operations Management,FSA audit score of approved meat establishments
+FSA 09/01f,Field Operations Management,Authorisations Held by FSA staff - certified to enter premises carry out business
+FSA 09/01g,Field Operations Management,Salmonella testing results
+FSA 09/01h,Field Operations Management,CCTV Surveys - Lists of areas covered in plant
+FSA 09/01i,Field Operations Management,3rd Country Exports (which plants approved to export where) the additonal conditions we check for export to each country.
+FSA 09/01j,Field Operations Management,FCI/CCIR -  IRIS conditions - cattle
+FSA 09/01k,Field Operations Management,Animal Welfare inspection and enforcement (Chronos). 
+FSA 09/01l,Field Operations Management,Raw Milk Quarterly Sampling
+FSA 09/01m,Field Operations Management,Dairy Inspection visits and reports
+FSA 09/01n,Field Operations Management,List of conditions  cattle
+FSA 09/01o,Field Operations Management,List of conditions sheep
+FSA 09/01p,Field Operations Management,List of conditions pigs and porcine
+FSA 09/01q,Field Operations Management,List of conditions poultry
+FSA 09/01r,Field Operations Management,Pig Testing - Trichinella Testing results
+FSA 09/01s,Field Operations Management,Premises approved for Poultry Inspection Assistant
+FSA 09/01t,Field Operations Management,FCI/CCIR -  IRIS conditions - sheep
+FSA 09/01u,Field Operations Management,FCI/CCIR -  IRIS conditions - pigs
+FSA 09/01v,Field Operations Management,FCI/CCIR -  IRIS conditions - Poultry
+FSA 09/01w,Field Operations Management,FCI/CCIR -  IRIS conditions - other
+FSA 09/03a,Establishments,List of FSA approved establishments
+FSA 09/03b,Establishments,List of Local Authority approved food businesses
+FSA 09/03c,Establishments,Lists of Establishments approved for SRM removal
+FSA 09/03d,Establishments,UK Vineyard Register (is this same as dataset FSA 09/01i)
+FSA 09/03e,Establishments,Registered Dairy Establishments
+FSA 09/03f,Establishments,Registered Raw Drinking Milk Establishments
+FSA 09/04a,Field Operations Management,Enforcement Data (Legal Action and Prosecutions)
+FSA 09/04b,Field Operations Management,"Slaughterer's Licensing Record (Live and Legacy Datasets) - New Name ""Certificates of Competence"""
+FSA 09/04c,Field Operations Management,Contractor Key Performance Indicators
+FSA 10/01a,Industry Assurance,Earned Recognition - Exception Reports Summary
+FSA 10/02a,Monitoring,Statutory Monitoring Data - LAEMS (performance data raw XML and analysis)
+FSA 10/03a,Delivery Assurance,Local Authority Audit - Action Plans
+FSA 10/03b,Delivery Assurance,Local Authority Food Law Enforcement returns
+FSA 10/05a,Enforcement Officer Training,Better Training for Safer Food
+FSA 10/06a,Product Specific Delivery - Shellfish,Shellfish monitoring Dataset
+FSA 10/06b,Product Specific Delivery - Shellfish,Shellfish classifications Dataset
+FSA 10/06c,Product Specific Delivery - Shellfish,Shellfish sanitary surveys 
+FSA 10/06d,Product Specific Delivery - Shellfish,Shellfish Biotoxin and Phytoplankton for Most recent results 7 days 14 days 21 days
+FSA 10/06e,Product Specific Delivery - Shellfish,Shellfish chemical contaminant sample results
+FSA 10/06f,Product Specific Delivery - Shellfish,Shellfish 
+FSA 10/07a,Feed Official Controls,Annual Planned Activity on Delivery of Feed Law Controls
+FSA 10/07b,Feed Official Controls,Quarterly Monitoring of Feed Law Controls
+FSA 10/07c,Feed Official Controls,Lists of Registered and Approved Feed Law Businesses
+FSA 10/07d,Feed Official Controls,Feed Law - List of 3rd Country Representatives
+FSA 10/08a,Food Hygiene Rating Scheme,Food Hygiene Rating Scheme Dataset
+FSA 10/08b,Food Hygiene Rating Scheme,FS244011: Business Display of Food Hygiene Ratings in England Wales and Northern Ireland
+FSA 10/08c,Food Hygiene Rating Scheme,FS244011: Biannual Consumer Attitudes Tracker
+FSA 10/09a,Stakeholder Engagement - Local Authorities,Environmental Health Officer Directory
+FSA 10/10a,UKFSS,Sampling/surveillance dataset (UKFSS)
+FSA 10/11a,Sampling,Lab Analysis Results of Food Sampling
+FSA 10/11b,Sampling,National Reference Laboratories
+FSA 10/11c,Sampling, List of official Feed and Food Control Laboratories
+FSA 10/12a,Product Specific Delivery - Eggs,Egg Inspection Dataset
+FSA 11/01a,Audit Casework,Internal audit outcome monitoring - KPIs outcomes
+FSA 11/01b,Audit Casework,list of completed internal audits
+FSA 11/01c,Audit Casework,forward plan of future internal audits
+FSA 12/01a,Information Assurance Framework,Information Management Enquiry Logs (1 per annum)
+FSA 12/01b,Information Assurance Framework,Data Protection Privacy Impact Assessment log 
+FSA 12/01c,Information Assurance Framework,Awareness Raising Log - Security and IKM
+FSA 12/01d,Information Assurance Framework,Subject Access Requests log
+FSA 12/01e,Information Assurance Framework,Food Standards Agency File Plan 
+FSA 12/01f,Information Assurance Framework,Wisdom (Records Management System) usage reports 
+FSA 12/01g,Information Assurance Framework,Data Sharing Register
+FSA 12/01h,Information Assurance Framework,Information Asset Register 
+FSA 12/01i,Information Assurance Framework,Mailbox size reports
+FSA 12/01j,Information Assurance Framework,Data Catalogue
+FSA 12/02a,Historic Records Review,List of records transferred to National Archives (one per annum plus subsidiary lists) and numbers of records processes against 20 yr. rule target
+FSA 12/02b,Historic Records Review,Food Electronic Data System (FEDS) file and document databases with selections for retention
+FSA 12/02c,Historic Records Review,Off-Site File Store Inventories (Iron Mountain and TNT)
+FSA 12/03a,Freedom of Information and Environmental Information Regulations,Freedom of Information and Environmental Information Regulations  Case Record
+FSA 12/03b,Freedom of Information and Environmental Information Regulations,Quarterly and annual FOI statistics 
+FSA 13/01a,Accounts Receivable,Accounts Receivable - Cash Management Data
+FSA 13/01b,Accounts Receivable,Accounts Receivable - Customer Details
+FSA 13/01c,Accounts Receivable,Accounts Receivable - Debt Recovery Data
+FSA 13/01d,Accounts Receivable,Throughput Data for Charging
+FSA 13/01e,Accounts Receivable,Timesheet Data of Field Operations Staff
+FSA 13/02a,Payroll + Pensions,Payroll/Expenses Archives
+FSA 13/02b,Payroll + Pensions,Non-consolidated  performance management payments 
+FSA 13/02c,Payroll + Pensions,FSA Pay scales
+FSA 13/02d,Payroll + Pensions,Pension contribution archives
+FSA 13/03a,Accounts Payable,Accounts payable - Contract payments
+FSA 13/03b,Accounts Payable,Accounts Payable - Delegated Authority
+FSA 13/03c,Accounts Payable,Accounts Payable - Supplier Banking Details
+FSA 13/04a,Accounting,Accounting Audit Reports
+FSA 13/04b,Accounting,Budget/Forecasts
+FSA 13/04c,Accounting,Chart of Accounts
+FSA 13/04d,Accounting,Resources used
+FSA 13/04e,Accounting,analysis of programme expenditure 
+FSA 13/04f,Accounting,Fixed Asset Information
+FSA 13/04g,Accounting,FSA Accounts - made up of all the financial transactional data which is in the form of multiple datasets including reconciliations and journals 
+FSA 13/04h,Accounting,Whole of Government Accounts
+FSA 13/04i,Accounting,transparency data: Publication of expenditure over ?25k - Westminster transparency reports
+FSA 13/04j,Accounting,Activity Based Costing model 
+FSA 13/04k,Accounting,Average Salary model
+FSA 14/01a,Staff Data,Appraisal Markings
+FSA 14/01b,Staff Data,Workforce management information 
+FSA 14/01c,Staff Data,head count dataset
+FSA 14/02a,Health Safety & Wellbeing,Health and Safety Database
+FSA 14/02b,Health Safety & Wellbeing,Reported incidents of bullying and harassment in food businesses (January 2013 to 27 July 2016)
+FSA 14/04a,Organisational Development,Training and Development Records
+FSA 14/04b,Organisational Development,diversity 
+FSA 14/04c,Organisational Development,staff survey results
+FSA 15/01a,IT Service Management,IT Service Desk Records
+FSA 15/01b,IT Service Management,Software Licensing Database
+FSA 15/02a,IT Infrastructure,IT Configuration data
+FSA 15/02b,IT Infrastructure,List of FSA IT Applications
+FSA 15/02c,IT Infrastructure,monthly security report from IT supplier including email traffic 
+FSA 15/02d,IT Infrastructure,user research
+FSA 16/01a,Legal Investigations,Summary of Investigations
+FSA 16/01b,Legal Investigations,Ongoing Enforcement Case Management
+FSA 16/01c,Legal Investigations,Prosecutions Taken Spreadsheet
+FSA 16/02d,Legal Advice Casework,Legal Enquiries (from Local Authorities)
+FSA 17/01a,Press Office,Annual Media Evaluation (from Gorkana)
+FSA 17/02a,Uned Laith Gymraeg,Welsh Translations Database
+FSA 17/03a,Internal Communications,Dashboard information for usage of Yammer and FoodwebYammer and Foodweb use data ? 
+FSA 17/04a,Stakeholder Engagement Consumers,Stakeholder Contact Details
+FSA 17/04b,Stakeholder Engagement Consumers,Helpline Stats
+FSA 17/05a,Digital Communications,Website Metrics (Visitors Cost etc.) - whole site and campaign specific
+FSA 17/05b,Digital Communications,Report a Food Problem metrics - Completion rate Cost per click Cost per transaction User Feedback Google analytics
+FSA 17/05c,Digital Communications,Social Media Analytics - Reach Engagement Activity Sharing
+FSA 17/05d,Digital Communications,Subscribers to FSA Alerts  and metrics related to individual emails
+FSA 17/05e,Digital Communications,Food Hygiene Rating Scheme Analytics Google analytics of FHRS 
+FSA 17/06a,Marketing,Campaign Tracker
+FSA 17/06b,Marketing,Events (one project grid per event)
+FSA 17/06c,Marketing,Biannual Public Attitudes Tracker
+FSA 17/06d,Marketing,Rare Burgers: Risk Messaging Survey
+FSA 17/06e,Marketing,FHRS: Christmas and Valentine Campaign Evaluation
+FSA 17/06f,Marketing,Manuka Honey
+FSA 17/06g,Marketing,Eating Out With A Food Allergy
+FSA 17/06h,Marketing,Consumer Understanding of Food Risk: Chemicals
+FSA 17/06i,Marketing,Consumer Understanding of Food Risk: Rare Burgers
+FSA 17/06j,Marketing,Betel Nut Usage in Tower Hamlets
+FSA 17/06k,Marketing,New Allergy Regulations Study: Pre and Post Research Findings
+FSA 17/06l,Marketing,FSA Baseline Study with SME food business
+FSA 17/06m,Marketing,Understanding NI Consumer Needs Around Food Labelling
+FSA 17/06n,Marketing,Identifying activist consumers of food
+FSA 17/06o,Marketing,Food hygiene practices among ethnic groups
+FSA 18/01a,Tendering,Tender Exercise Dataset
+FSA 18/02b,Contract Management,Contract Management Dataset
+FSA 18/02c,Contract Management,Management Information data reports on travel
+FSA 18/0x,(Procurement),transparency data: Publication of all GPC transactions 
+FSA 18/0x,(Procurement),FSA spending controls - approved exemptions 
+FSA 19/01a,Estates Management,Estates Key Performance Metric s for each office: size /cost/ per FTE per square metre for the last 5 years 
+FSA 19/02a,Sustainability,Sustainability Commitment Data in annual report
+FSA 19/02b,Sustainability,Greening Government  Returns
+FSA 21/01a,EU/3rd Country Liaison,Includes lists of Food Legislation 1970-present
+FSA 21/01b,EU/3rd Country Liaison,Prioritisation of countries for engagement
+FSA 22/01a,Portfolio,Portfolio Board Documentation
+FSA 22/01b,Portfolio,Regulating our Future Programme Documentation
+FSA 22/01c,Portfolio,Our Ways of Working Programme Documentation
+FSA 22/01d,Portfolio,Science Evidence and Information Programme Documentation
+FSA 22/01e,Portfolio,Campylobacter Programme Documentation
+FSA 22/01f,Portfolio (part of RoF),Primary Authority Inspection Plan
+FSA 23/01a,Personnel Security,Personnel Security Clearance Information
+FSA 23/02a,Physical Security,Building Access Information
+FSA 23/03a,Information Security IT Security,IT Penetration Testing Results
+FSA 23/03b,Information Security IT Security,security incidents log
+FSA 23/03c,Information Security IT Security,compliance audit outcome tables
+FSA 24/01a,Nutrition and Dietary Health,Menucal Usage Data - Usage figures for Menucal tool
+FSA 24/01b,Nutrition and Dietary Health,NDNS NI specific data
+FSA 24/01c,Nutrition and Dietary Health,Kantar Worldpanel data

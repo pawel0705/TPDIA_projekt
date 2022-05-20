@@ -1,0 +1,9 @@
+Species,NonCompliance,Q2.24,Q2.25,Q2.26,Q2.27,Q2.28,Q2.29
+Cattle,3. Major,2,5,5,4,1,1
+Cattle,4. Critical,2,3,2,3,0,2
+Pigs,3. Major,1,2,0,0,0,0
+Pigs,4. Critical,0,2,1,1,1,0
+Poultry,3. Major,0,5,0,3,0,1
+Poultry,4. Critical,1,3,7,4,4,0
+Sheep and Goats,3. Major,3,11,2,1,1,2
+Sheep and Goats,4. Critical,1,4,1,3,1,0

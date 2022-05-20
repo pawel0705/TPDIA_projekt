@@ -1,0 +1,379 @@
+Country ,Authority Type,Authority Name ,AnalysisType-Microbiologicalcontamination,AnalysisType-Othercontamination,AnalysisType-Composition,AnalysisType-Labellingandpresentation,AnalysisType-Others,Totalnumberofsamplestaken
+England ,County Council,Buckinghamshire and Surrey,2.0,25.0,238.0,273.0,0.0,315.0
+England ,County Council,Cambridgeshire,1.0,3.0,34.0,21.0,0.0,39.0
+England ,County Council,Cumbria ,0.0,0.0,92.0,12.0,0.0,104.0
+England ,County Council,Derbyshire,0.0,0.0,49.0,32.0,0.0,49.0
+England ,County Council,"Devon, Somerset and Torbay",4.0,25.0,116.0,39.0,11.0,158.0
+England ,County Council,Dorset,0.0,2.0,38.0,22.0,0.0,44.0
+England ,County Council,East Sussex,0.0,0.0,122.0,72.0,0.0,124.0
+England ,County Council,Essex,13.0,17.0,112.0,73.0,1.0,209.0
+England ,County Council,Gloucestershire,0.0,0.0,4.0,0.0,0.0,4.0
+England ,County Council,Hampshire,0.0,5.0,13.0,25.0,0.0,26.0
+England ,County Council,Hertfordshire,5.0,5.0,99.0,318.0,46.0,376.0
+England ,County Council,Kent,0.0,66.0,305.0,350.0,0.0,350.0
+England ,County Council,Lancashire,0.0,0.0,298.0,0.0,0.0,298.0
+England ,County Council,Leicestershire,0.0,25.0,23.0,21.0,1.0,70.0
+England ,County Council,Lincolnshire,0.0,0.0,110.0,1.0,0.0,111.0
+England ,County Council,Norfolk ,2.0,25.0,115.0,104.0,3.0,153.0
+England ,County Council,North Yorkshire ,0.0,0.0,28.0,0.0,0.0,28.0
+England ,County Council,Northamptonshire,0.0,4.0,14.0,79.0,0.0,88.0
+England ,County Council,Nottinghamshire ,1.0,7.0,22.0,4.0,2.0,29.0
+England ,County Council,Oxfordshire,13.0,1.0,2.0,14.0,1.0,15.0
+England ,County Council,Staffordshire,0.0,0.0,0.0,32.0,0.0,32.0
+England ,County Council,Suffolk ,6.0,22.0,114.0,62.0,3.0,147.0
+England ,County Council,Warwickshire,0.0,0.0,18.0,4.0,0.0,18.0
+England ,County Council,West Sussex,2.0,13.0,39.0,36.0,0.0,64.0
+England ,County Council,Worcestershire ,0.0,0.0,42.0,3.0,0.0,45.0
+England,District Council,Adur & Worthing ,6.0,0.0,0.0,0.0,0.0,6.0
+England,District Council,Allerdale,52.0,0.0,0.0,0.0,0.0,52.0
+England,District Council,Amber Valley,24.0,0.0,0.0,0.0,13.0,24.0
+England,District Council,Arun,69.0,0.0,0.0,0.0,0.0,69.0
+England,District Council,Ashfield,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Ashford,176.0,0.0,0.0,0.0,0.0,176.0
+England,District Council,Aylesbury Vale,33.0,0.0,0.0,0.0,0.0,33.0
+England,District Council,Babergh and Mid Suffolk,50.0,0.0,0.0,0.0,0.0,50.0
+England,District Council,Barrow-in-Furness,20.0,0.0,0.0,0.0,0.0,20.0
+England,District Council,Basildon,39.0,0.0,0.0,0.0,0.0,39.0
+England,District Council,Basingstoke & Deane,18.0,0.0,0.0,2.0,0.0,20.0
+England,District Council,Bassetlaw,121.0,0.0,0.0,0.0,0.0,121.0
+England,District Council,Blaby,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,Bolsover,75.0,0.0,0.0,0.0,0.0,75.0
+England,District Council,Boston,31.0,0.0,0.0,0.0,0.0,31.0
+England,District Council,Braintree,32.0,0.0,0.0,0.0,0.0,32.0
+England,District Council,Breckland ,79.0,0.0,0.0,0.0,0.0,79.0
+England,District Council,Brentwood,94.0,1.0,0.0,0.0,0.0,95.0
+England,District Council,Broadland ,237.0,0.0,0.0,0.0,0.0,237.0
+England,District Council,Bromsgrove,40.0,0.0,0.0,0.0,0.0,40.0
+England,District Council,Broxbourne ? ,,,,,,
+England,District Council,Broxtowe,93.0,0.0,0.0,0.0,0.0,93.0
+England,District Council,Burnley,8.0,0.0,0.0,0.0,0.0,8.0
+England,District Council,Cambridge City,60.0,0.0,0.0,0.0,0.0,60.0
+England,District Council,Cannock Chase,20.0,0.0,0.0,0.0,0.0,20.0
+England,District Council,Canterbury City,43.0,0.0,0.0,0.0,0.0,43.0
+England,District Council,Carlisle City,75.0,0.0,0.0,0.0,0.0,75.0
+England,District Council,Castle Point,6.0,0.0,0.0,0.0,0.0,6.0
+England,District Council,Charnwood,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Chelmsford,6.0,0.0,0.0,0.0,0.0,6.0
+England,District Council,Cheltenham,12.0,0.0,0.0,0.0,0.0,12.0
+England,District Council,Cherwell,103.0,2.0,0.0,0.0,0.0,105.0
+England,District Council,Chesterfield ,38.0,0.0,0.0,0.0,0.0,38.0
+England,District Council,Chichester,133.0,0.0,0.0,0.0,0.0,133.0
+England,District Council,Chiltern,32.0,0.0,0.0,0.0,0.0,32.0
+England,District Council,Chorley ?  ,,,,,,
+England,District Council,Colchester,56.0,0.0,0.0,0.0,0.0,56.0
+England,District Council,Copeland,66.0,0.0,0.0,0.0,0.0,66.0
+England,District Council,Corby,187.0,0.0,0.0,0.0,0.0,187.0
+England,District Council,Cotswold,49.0,0.0,0.0,0.0,0.0,49.0
+England,District Council,Craven ,57.0,0.0,0.0,0.0,0.0,57.0
+England,District Council,Crawley ,8.0,0.0,0.0,0.0,0.0,8.0
+England,District Council,Dacorum,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Dartford,25.0,0.0,0.0,0.0,0.0,25.0
+England,District Council,Daventry ,45.0,0.0,0.0,0.0,0.0,45.0
+England,District Council,Derbyshire Dales,123.0,0.0,0.0,0.0,0.0,123.0
+England,District Council,Dover,40.0,0.0,0.0,0.0,0.0,40.0
+England,District Council,East Cambridgeshire,42.0,0.0,0.0,0.0,0.0,42.0
+England,District Council,East Devon,328.0,0.0,0.0,0.0,0.0,328.0
+England,District Council,East Dorset (1),45.0,0.0,0.0,0.0,0.0,45.0
+England,District Council,East Hampshire,20.0,0.0,0.0,0.0,0.0,20.0
+England,District Council,East Hertfordshire ? ,,,,,,
+England,District Council,East Lindsey ,26.0,9.0,0.0,9.0,0.0,26.0
+England,District Council,East Northamptonshire,97.0,0.0,0.0,0.0,0.0,97.0
+England,District Council,East Staffordshire ,42.0,0.0,0.0,0.0,0.0,42.0
+England,District Council,East Suffolk,53.0,0.0,0.0,0.0,0.0,53.0
+England,District Council,Eastbourne,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,Eastleigh,13.0,0.0,0.0,0.0,0.0,13.0
+England,District Council,Eden,198.0,0.0,0.0,0.0,0.0,198.0
+England,District Council,Elmbridge,19.0,0.0,0.0,0.0,0.0,19.0
+England,District Council,Epping Forest,19.0,0.0,0.0,0.0,0.0,19.0
+England,District Council,Epsom and Ewell,5.0,0.0,0.0,0.0,0.0,5.0
+England,District Council,Erewash,15.0,0.0,0.0,0.0,0.0,15.0
+England,District Council,Exeter City,72.0,0.0,0.0,0.0,0.0,72.0
+England,District Council,Fareham,42.0,0.0,0.0,0.0,0.0,42.0
+England,District Council,Fenland,33.0,0.0,0.0,0.0,0.0,33.0
+England,District Council,Folkestone & Hythe,181.0,0.0,0.0,0.0,0.0,181.0
+England,District Council,Forest of Dean ,26.0,6.0,0.0,0.0,0.0,32.0
+England,District Council,Fylde,39.0,0.0,0.0,0.0,0.0,39.0
+England,District Council,Gedling,42.0,0.0,0.0,0.0,0.0,42.0
+England,District Council,Gloucester City,22.0,0.0,0.0,0.0,0.0,22.0
+England,District Council,Gosport,35.0,0.0,0.0,1.0,0.0,36.0
+England,District Council,Gravesham,106.0,0.0,0.0,0.0,0.0,106.0
+England,District Council,Great Yarmouth ,23.0,0.0,0.0,0.0,0.0,23.0
+England,District Council,Guildford,38.0,0.0,0.0,0.0,0.0,38.0
+England,District Council,Hambleton,9.0,0.0,0.0,0.0,0.0,9.0
+England,District Council,Harborough,48.0,0.0,0.0,0.0,0.0,48.0
+England,District Council,Harlow,134.0,0.0,0.0,0.0,0.0,134.0
+England,District Council,Harrogate,284.0,0.0,0.0,0.0,0.0,284.0
+England,District Council,Hart ,55.0,0.0,0.0,0.0,0.0,55.0
+England,District Council,Hastings,34.0,0.0,0.0,0.0,0.0,34.0
+England,District Council,Havant,17.0,0.0,0.0,0.0,0.0,17.0
+England,District Council,Hertsmere,10.0,0.0,0.0,0.0,0.0,10.0
+England,District Council,High Peak,32.0,0.0,0.0,0.0,0.0,32.0
+England,District Council,Hinckley & Bosworth,263.0,0.0,0.0,0.0,0.0,263.0
+England,District Council,Horsham,17.0,0.0,0.0,0.0,0.0,17.0
+England,District Council,Huntingdonshire,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Hyndburn ? ,,,,,,
+England,District Council,Ipswich ,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Kettering,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,King's Lynn & West Norfolk,126.0,0.0,0.0,0.0,0.0,126.0
+England,District Council,Lancaster City,134.0,41.0,10.0,10.0,2.0,164.0
+England,District Council,Lewes,32.0,0.0,0.0,0.0,0.0,32.0
+England,District Council,Lichfield,106.0,0.0,0.0,0.0,0.0,106.0
+England,District Council,Lincoln City,68.0,0.0,0.0,0.0,0.0,68.0
+England,District Council,Maidstone,42.0,0.0,0.0,0.0,0.0,42.0
+England,District Council,Maldon,25.0,0.0,0.0,0.0,0.0,25.0
+England,District Council,Malvern Hills,4.0,0.0,0.0,0.0,0.0,4.0
+England,District Council,Mansfield ,269.0,0.0,0.0,0.0,0.0,269.0
+England,District Council,Melton ,192.0,0.0,0.0,0.0,0.0,192.0
+England,District Council,Mendip ,73.0,0.0,0.0,0.0,0.0,73.0
+England,District Council,Mid Devon,108.0,0.0,0.0,0.0,0.0,108.0
+England,District Council,Mid Sussex,46.0,0.0,0.0,0.0,0.0,46.0
+England,District Council,Mole Valley,0.0,4.0,4.0,4.0,0.0,4.0
+England,District Council,New Forest,170.0,0.0,0.0,0.0,0.0,170.0
+England,District Council,Newark & Sherwood,6.0,0.0,0.0,0.0,0.0,6.0
+England,District Council,Newcastle-Under-Lyme ,99.0,0.0,0.0,0.0,0.0,99.0
+England,District Council,North Devon,66.0,0.0,0.0,0.0,0.0,66.0
+England,District Council,North Dorset (1),126.0,0.0,0.0,0.0,0.0,126.0
+England,District Council,North East Derbyshire,48.0,0.0,0.0,0.0,0.0,48.0
+England,District Council,North Hertforshire,52.0,0.0,0.0,0.0,0.0,52.0
+England,District Council,North Kesteven,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,North Norfolk,160.0,0.0,0.0,0.0,0.0,160.0
+England,District Council,North Warwickshire,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,North West Leicestershire,22.0,0.0,0.0,0.0,0.0,22.0
+England,District Council,Northampton,0.0,0.0,0.0,0.0,4.0,4.0
+England,District Council,Norwich City,86.0,0.0,3.0,0.0,0.0,86.0
+England,District Council,Nuneaton & Bedworth,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Oadby & Wigston,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Oxford City,4.0,0.0,0.0,0.0,0.0,4.0
+England,District Council,Pendle,6.0,0.0,0.0,0.0,0.0,6.0
+England,District Council,Preston,5.0,2.0,0.0,0.0,0.0,7.0
+England,District Council,Purbeck (1),41.0,0.0,0.0,0.0,0.0,41.0
+England,District Council,Redditch,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Reigate & Banstead,23.0,0.0,0.0,0.0,0.0,23.0
+England,District Council,Ribble Valley,32.0,0.0,0.0,0.0,0.0,32.0
+England,District Council,Richmondshire,176.0,0.0,0.0,0.0,0.0,176.0
+England,District Council,Rochford,8.0,0.0,0.0,0.0,0.0,8.0
+England,District Council,Rossendale,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Rother and Wealden,142.0,0.0,0.0,0.0,0.0,142.0
+England,District Council,Rugby,21.0,0.0,0.0,0.0,0.0,21.0
+England,District Council,Runnymede,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Rushcliffe ,150.0,0.0,0.0,0.0,0.0,150.0
+England,District Council,Rushmoor ,55.0,0.0,0.0,0.0,0.0,55.0
+England,District Council,Ryedale ,9.0,0.0,0.0,0.0,0.0,9.0
+England,District Council,Scarborough,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Sedgemoor,29.0,0.0,0.0,0.0,0.0,29.0
+England,District Council,Selby,29.0,0.0,0.0,0.0,0.0,29.0
+England,District Council,Sevenoaks,97.0,0.0,0.0,0.0,0.0,97.0
+England,District Council,Somerset West and Taunton ,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,South Buckinghamshire,37.0,0.0,0.0,0.0,0.0,37.0
+England,District Council,South Cambridgshire,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,South Derbyshire,77.0,0.0,0.0,0.0,0.0,77.0
+England,District Council,South Hams,20.0,0.0,0.0,0.0,0.0,20.0
+England,District Council,South Holland,20.0,0.0,0.0,0.0,0.0,20.0
+England,District Council,South Kesteven,43.0,0.0,0.0,0.0,0.0,43.0
+England,District Council,South Lakeland,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,South Norfolk ,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,South Northamptonshire,55.0,0.0,0.0,0.0,0.0,55.0
+England,District Council,South Oxfordshire,55.0,0.0,0.0,0.0,0.0,55.0
+England,District Council,South Ribble,14.0,5.0,0.0,0.0,0.0,15.0
+England,District Council,South Somerset,163.0,0.0,0.0,0.0,0.0,163.0
+England,District Council,South Staffordshire ,58.0,0.0,0.0,0.0,0.0,58.0
+England,District Council,Spelthorne,13.0,0.0,0.0,0.0,0.0,13.0
+England,District Council,St Albans City,14.0,0.0,0.0,0.0,0.0,14.0
+England,District Council,Stafford ,45.0,0.0,0.0,0.0,0.0,45.0
+England,District Council,Staffordshire Moorlands,198.0,0.0,0.0,0.0,0.0,198.0
+England,District Council,Stevenage,59.0,0.0,0.0,0.0,0.0,59.0
+England,District Council,Stratford-on-Avon,175.0,0.0,0.0,0.0,0.0,175.0
+England,District Council,Stroud,92.0,0.0,0.0,0.0,0.0,92.0
+England,District Council,Surrey Heath,72.0,30.0,11.0,11.0,11.0,72.0
+England,District Council,Swale,76.0,1.0,0.0,0.0,0.0,77.0
+England,District Council,Tamworth ? ,,,,,,
+England,District Council,Tandridge,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,Teignbridge,120.0,0.0,0.0,0.0,0.0,120.0
+England,District Council,Tendring ,7.0,0.0,0.0,0.0,0.0,7.0
+England,District Council,Test Valley,158.0,0.0,0.0,0.0,0.0,158.0
+England,District Council,Tewksbury ,66.0,0.0,0.0,0.0,0.0,66.0
+England,District Council,Thanet,12.0,0.0,0.0,0.0,0.0,12.0
+England,District Council,Three Rivers,8.0,0.0,0.0,0.0,0.0,8.0
+England,District Council,Tonbridge & Malling,153.0,0.0,0.0,0.0,0.0,153.0
+England,District Council,Torridge,78.0,0.0,0.0,0.0,0.0,78.0
+England,District Council,Tunbridge Wells,224.0,0.0,0.0,0.0,0.0,224.0
+England,District Council,Uttlesford,0.0,0.0,0.0,0.0,0.0,0.0
+England,District Council,Vale of White Horse,64.0,2.0,0.0,0.0,0.0,66.0
+England,District Council,Warwick,92.0,0.0,0.0,0.0,0.0,92.0
+England,District Council,Watford ,78.0,0.0,0.0,0.0,0.0,78.0
+England,District Council,Waverley,17.0,0.0,0.0,0.0,0.0,17.0
+England,District Council,Wellingborough,175.0,0.0,0.0,0.0,0.0,175.0
+England,District Council,Welwyn Hatfield ,38.0,0.0,0.0,0.0,0.0,38.0
+England,District Council,West Devon,10.0,0.0,0.0,0.0,0.0,10.0
+England,District Council,West Dorset (1),89.0,0.0,0.0,0.0,0.0,89.0
+England,District Council,West Lancashire,12.0,0.0,0.0,0.0,0.0,12.0
+England,District Council,West Lindsey,37.0,0.0,0.0,0.0,0.0,37.0
+England,District Council,West Oxfordshire,12.0,0.0,0.0,0.0,2.0,14.0
+England,District Council,West Suffolk,66.0,0.0,0.0,0.0,0.0,66.0
+England,District Council,Weymouth & Portland (1),9.0,0.0,0.0,0.0,0.0,9.0
+England,District Council,Winchester City,13.0,0.0,0.0,0.0,0.0,13.0
+England,District Council,Woking ,37.0,0.0,0.0,0.0,0.0,37.0
+England,District Council,Worcester City,2.0,0.0,0.0,0.0,0.0,2.0
+England,District Council,Wychavon,2.0,0.0,0.0,0.0,0.0,2.0
+England,District Council,Wycombe,105.0,0.0,0.0,0.0,0.0,105.0
+England,District Council,Wyre,49.0,0.0,0.0,0.0,0.0,49.0
+England,District Council,Wyre Forest,31.0,0.0,0.0,0.0,0.0,31.0
+England,London Borough,Barking & Dagenham,10.0,0.0,0.0,0.0,0.0,10.0
+England,London Borough,Barnet,107.0,16.0,23.0,7.0,0.0,149.0
+England,London Borough,Bexley,1.0,1.0,1.0,0.0,0.0,2.0
+England,London Borough,Brent,47.0,0.0,0.0,0.0,0.0,47.0
+England,London Borough,Bromley,19.0,0.0,18.0,1.0,0.0,38.0
+England,London Borough,Camden,17.0,0.0,4.0,3.0,0.0,24.0
+England,London Borough,City of London Corporation ,28.0,0.0,17.0,14.0,0.0,59.0
+England,London Borough,Croydon,32.0,0.0,0.0,0.0,0.0,32.0
+England,London Borough,Ealing,24.0,0.0,7.0,0.0,0.0,31.0
+England,London Borough,Enfield,24.0,0.0,0.0,0.0,0.0,24.0
+England,London Borough,Greenwich,39.0,0.0,10.0,4.0,0.0,52.0
+England,London Borough,Hackney,220.0,55.0,31.0,14.0,0.0,320.0
+England,London Borough,Hammersmith & Fulham,22.0,15.0,5.0,6.0,2.0,48.0
+England,London Borough,Haringey,23.0,0.0,0.0,0.0,0.0,23.0
+England,London Borough,Harrow,35.0,0.0,18.0,2.0,0.0,55.0
+England,London Borough,Havering,7.0,0.0,0.0,12.0,0.0,19.0
+England,London Borough,Hillingdon,89.0,0.0,0.0,0.0,0.0,89.0
+England,London Borough,Hounslow,3.0,2.0,0.0,0.0,0.0,5.0
+England,London Borough,Islington ,4.0,0.0,0.0,2.0,0.0,6.0
+England,London Borough,Kensington & Chelsea,32.0,7.0,15.0,15.0,10.0,74.0
+England,London Borough,Kingston-Upon-Thames,14.0,0.0,0.0,5.0,0.0,19.0
+England,London Borough,Lambeth,118.0,0.0,10.0,8.0,0.0,136.0
+England,London Borough,Lewisham,4.0,0.0,1.0,4.0,0.0,9.0
+England,London Borough,Merton,23.0,1.0,5.0,6.0,0.0,34.0
+England,London Borough,Newham,24.0,14.0,0.0,11.0,0.0,44.0
+England,London Borough,Redbridge,18.0,0.0,2.0,0.0,0.0,20.0
+England,London Borough,Richmond-Upon-Thames,17.0,4.0,1.0,0.0,0.0,22.0
+England,London Borough,Southwark,15.0,0.0,27.0,9.0,0.0,51.0
+England,London Borough,Sutton,4.0,0.0,0.0,0.0,0.0,4.0
+England,London Borough,Tower Hamlets,5.0,0.0,0.0,5.0,0.0,10.0
+England,London Borough,Waltham Forest,5.0,0.0,0.0,0.0,0.0,5.0
+England,London Borough,Wandsworth,38.0,0.0,7.0,1.0,0.0,46.0
+England,London Borough,Westminster,35.0,0.0,0.0,0.0,0.0,35.0
+England,Metropolitan Borough Council,Barnsley,229.0,0.0,48.0,10.0,0.0,283.0
+England,Metropolitan Borough Council,Birmingham,47.0,11.0,31.0,26.0,0.0,103.0
+England,Metropolitan Borough Council,Bolton,56.0,0.0,2.0,0.0,0.0,58.0
+England,Metropolitan Borough Council,Bradford (2),410.0,0.0,0.0,0.0,0.0,410.0
+England,Metropolitan Borough Council,Bury,0.0,0.0,10.0,0.0,0.0,10.0
+England,Metropolitan Borough Council,Calderdale (2),77.0,0.0,0.0,0.0,0.0,77.0
+England,Metropolitan Borough Council,Coventry,72.0,1.0,19.0,0.0,0.0,91.0
+England,Metropolitan Borough Council,Doncaster,335.0,0.0,47.0,0.0,0.0,382.0
+England,Metropolitan Borough Council,Dudley,279.0,17.0,1.0,0.0,2.0,299.0
+England,Metropolitan Borough Council,Gateshead,1502.0,0.0,87.0,21.0,0.0,1589.0
+England,Metropolitan Borough Council,Kirklees (2),1103.0,0.0,0.0,0.0,0.0,1103.0
+England,Metropolitan Borough Council,Knowsley,9.0,19.0,5.0,0.0,0.0,28.0
+England,Metropolitan Borough Council,Leeds (2),119.0,0.0,0.0,0.0,0.0,119.0
+England,Metropolitan Borough Council,Liverpool,15.0,0.0,0.0,0.0,0.0,15.0
+England,Metropolitan Borough Council,Manchester ,144.0,34.0,12.0,5.0,0.0,191.0
+England,Metropolitan Borough Council,Newcastle Upon Tyne,188.0,0.0,1.0,0.0,1.0,190.0
+England,Metropolitan Borough Council,North Tyneside,573.0,0.0,0.0,0.0,13.0,586.0
+England,Metropolitan Borough Council,Oldham,156.0,0.0,11.0,4.0,0.0,168.0
+England,Metropolitan Borough Council,Rochdale ,160.0,0.0,31.0,2.0,0.0,193.0
+England,Metropolitan Borough Council,Rotherham,88.0,0.0,12.0,14.0,0.0,103.0
+England,Metropolitan Borough Council,Salford,143.0,0.0,12.0,4.0,0.0,159.0
+England,Metropolitan Borough Council,Sandwell,143.0,4.0,14.0,40.0,0.0,201.0
+England,Metropolitan Borough Council,Sefton,214.0,21.0,20.0,4.0,0.0,259.0
+England,Metropolitan Borough Council,Sheffield,139.0,3.0,4.0,5.0,0.0,146.0
+England,Metropolitan Borough Council,Solihull,42.0,1.0,1.0,0.0,0.0,44.0
+England,Metropolitan Borough Council,South Tyneside,69.0,0.0,26.0,0.0,2.0,97.0
+England,Metropolitan Borough Council,St Helens ,28.0,0.0,0.0,10.0,0.0,38.0
+England,Metropolitan Borough Council,Stockport,5.0,4.0,6.0,2.0,0.0,17.0
+England,Metropolitan Borough Council,Sunderland,19.0,0.0,0.0,0.0,0.0,19.0
+England,Metropolitan Borough Council,Tameside,0.0,0.0,0.0,0.0,0.0,0.0
+England,Metropolitan Borough Council,Trafford,24.0,2.0,8.0,2.0,0.0,36.0
+England,Metropolitan Borough Council,Wakefield (2),89.0,0.0,0.0,0.0,0.0,89.0
+England,Metropolitan Borough Council,Walsall,32.0,2.0,67.0,0.0,0.0,99.0
+England,Metropolitan Borough Council,West Yorkshire (3),0.0,0.0,92.0,93.0,0.0,98.0
+England,Metropolitan Borough Council,Wigan,288.0,0.0,3.0,0.0,0.0,291.0
+England,Metropolitan Borough Council,Wirral,117.0,0.0,25.0,0.0,0.0,142.0
+England,Metropolitan Borough Council,Wolverhampton ,152.0,0.0,0.0,0.0,0.0,152.0
+England,Unitary Authority,Bath & North East Somerset,64.0,0.0,67.0,27.0,21.0,179.0
+England,Unitary Authority,Bedford ,50.0,0.0,5.0,0.0,0.0,55.0
+England,Unitary Authority,Blackburn ,26.0,9.0,5.0,1.0,0.0,40.0
+England,Unitary Authority,Blackpool,0.0,0.0,1.0,0.0,0.0,1.0
+England,Unitary Authority,Bournemouth and Christchurch (5),10.0,0.0,17.0,11.0,0.0,21.0
+England,Unitary Authority,Bracknell Forest,17.0,0.0,0.0,0.0,0.0,17.0
+England,Unitary Authority,Brighton & Hove ,65.0,18.0,0.0,6.0,2.0,91.0
+England,Unitary Authority,Bristol,239.0,4.0,3.0,0.0,0.0,246.0
+England,Unitary Authority,Central Bedfordshire ,81.0,0.0,0.0,0.0,0.0,81.0
+England,Unitary Authority,Cheshire East,105.0,0.0,4.0,11.0,0.0,120.0
+England,Unitary Authority,Cheshire West and Chester ,67.0,18.0,29.0,0.0,0.0,113.0
+England,Unitary Authority,Cornwall ,342.0,0.0,74.0,0.0,0.0,416.0
+England,Unitary Authority,Darlington,92.0,0.0,0.0,10.0,0.0,102.0
+England,Unitary Authority,Derby City,9.0,0.0,28.0,28.0,0.0,65.0
+England,Unitary Authority,Durham ,230.0,11.0,39.0,10.0,1.0,291.0
+England,Unitary Authority,East Riding of Yorkshire ,697.0,20.0,72.0,33.0,3.0,782.0
+England,Unitary Authority,Halton,150.0,1.0,8.0,0.0,1.0,160.0
+England,Unitary Authority,Hartlepool,138.0,0.0,23.0,0.0,0.0,161.0
+England,Unitary Authority,Herefordshire,115.0,0.0,9.0,8.0,1.0,124.0
+England,Unitary Authority,Hull City,46.0,0.0,75.0,5.0,0.0,122.0
+England,Unitary Authority,Isle of Wight,259.0,6.0,12.0,1.0,0.0,278.0
+England,Unitary Authority,Isles of Scilly,14.0,0.0,0.0,0.0,0.0,14.0
+England,Unitary Authority,Leicester City ,265.0,0.0,0.0,0.0,0.0,265.0
+England,Unitary Authority,Luton,70.0,0.0,0.0,0.0,14.0,84.0
+England,Unitary Authority,Medway,72.0,0.0,25.0,13.0,0.0,110.0
+England,Unitary Authority,Middlesborough,63.0,8.0,2.0,0.0,0.0,73.0
+England,Unitary Authority,Milton Keynes,0.0,0.0,0.0,1.0,0.0,1.0
+England,Unitary Authority,North East Lincolnshire,68.0,0.0,11.0,0.0,0.0,79.0
+England,Unitary Authority,North Lincolnshire ,190.0,8.0,6.0,11.0,6.0,197.0
+England,Unitary Authority,North Somerset,77.0,1.0,1.0,2.0,0.0,81.0
+England,Unitary Authority,Northumberland ,48.0,5.0,36.0,26.0,1.0,86.0
+England,Unitary Authority,Nottingham City,68.0,0.0,8.0,10.0,8.0,86.0
+England,Unitary Authority,Peterborough City,17.0,0.0,12.0,0.0,0.0,29.0
+England,Unitary Authority,Plymouth City ,335.0,5.0,0.0,2.0,0.0,342.0
+England,Unitary Authority,Poole (5),62.0,4.0,1.0,4.0,0.0,71.0
+England,Unitary Authority,Portsmouth,108.0,0.0,0.0,0.0,0.0,108.0
+England,Unitary Authority,Reading,140.0,0.0,23.0,17.0,0.0,165.0
+England,Unitary Authority,Redcar and Cleveland ,43.0,4.0,5.0,0.0,0.0,52.0
+England,Unitary Authority,Rutland,19.0,0.0,0.0,0.0,0.0,19.0
+England,Unitary Authority,Shropshire ,85.0,1.0,0.0,0.0,1.0,87.0
+England,Unitary Authority,Slough,72.0,0.0,6.0,0.0,0.0,78.0
+England,Unitary Authority,South Gloucestershire,33.0,0.0,0.0,0.0,0.0,33.0
+England,Unitary Authority,Southampton,39.0,0.0,11.0,0.0,0.0,50.0
+England,Unitary Authority,Southend-On-Sea,202.0,0.0,42.0,0.0,0.0,244.0
+England,Unitary Authority,Stockton on Tees ,785.0,2.0,4.0,0.0,0.0,791.0
+England,Unitary Authority,Stoke-On-Trent,53.0,0.0,3.0,0.0,0.0,56.0
+England,Unitary Authority,Swindon ,52.0,0.0,1.0,0.0,0.0,53.0
+England,Unitary Authority,Telford and Wrekin ,30.0,0.0,7.0,11.0,0.0,48.0
+England,Unitary Authority,Thurrock,127.0,10.0,2.0,10.0,0.0,137.0
+England,Unitary Authority,Torbay (4),35.0,0.0,0.0,0.0,0.0,35.0
+England,Unitary Authority,Warrington,158.0,0.0,10.0,2.0,0.0,168.0
+England,Unitary Authority,West Berkshire,43.0,0.0,0.0,0.0,0.0,43.0
+England,Unitary Authority,Wiltshire ,81.0,57.0,49.0,46.0,0.0,233.0
+England,Unitary Authority,Windsor & Maidenhead,0.0,0.0,0.0,10.0,0.0,10.0
+England,Unitary Authority,Wokingham,15.0,2.0,0.0,0.0,0.0,17.0
+England,Unitary Authority,York,47.0,20.0,12.0,1.0,1.0,81.0
+Northern Ireland,NI Unitary Authority,Antrim and Newtownabbey,548.0,0.0,62.0,37.0,0.0,629.0
+Northern Ireland,NI Unitary Authority,Ards and North Down ,613.0,6.0,230.0,168.0,0.0,1017.0
+Northern Ireland,NI Unitary Authority,Armagh City Banbridge and Craigavon,646.0,0.0,295.0,0.0,0.0,939.0
+Northern Ireland,NI Unitary Authority,Belfast City,1039.0,19.0,197.0,126.0,3.0,1309.0
+Northern Ireland,NI Unitary Authority,Causeway Coast and Glens,492.0,0.0,191.0,179.0,23.0,713.0
+Northern Ireland,NI Unitary Authority,Derry City and Strabane,413.0,0.0,83.0,0.0,0.0,413.0
+Northern Ireland,NI Unitary Authority,Fermanagh and Omagh,314.0,0.0,166.0,173.0,0.0,501.0
+Northern Ireland,NI Unitary Authority,Lisburn and Castlereagh City,504.0,0.0,166.0,158.0,0.0,828.0
+Northern Ireland,NI Unitary Authority,Mid and East Antrim,562.0,0.0,145.0,50.0,0.0,707.0
+Northern Ireland,NI Unitary Authority,Mid Ulster ,412.0,0.0,175.0,173.0,0.0,587.0
+Northern Ireland,NI Unitary Authority,"Newry, Mourne and Down",673.0,0.0,97.0,110.0,0.0,873.0
+Wales,Welsh Unitary Authority,Anglesey,81.0,1.0,15.0,7.0,0.0,96.0
+Wales,Welsh Unitary Authority,Blaenau Gwent,153.0,6.0,21.0,23.0,0.0,178.0
+Wales,Welsh Unitary Authority,Bridgend,30.0,0.0,10.0,4.0,0.0,40.0
+Wales,Welsh Unitary Authority,Caerphilly,475.0,0.0,22.0,18.0,1.0,498.0
+Wales,Welsh Unitary Authority,Cardiff ,459.0,0.0,47.0,6.0,0.0,512.0
+Wales,Welsh Unitary Authority,Carmarthenshire,67.0,0.0,0.0,0.0,0.0,67.0
+Wales,Welsh Unitary Authority,Ceredigion,183.0,0.0,27.0,0.0,3.0,213.0
+Wales,Welsh Unitary Authority,Conwy,129.0,0.0,56.0,4.0,0.0,185.0
+Wales,Welsh Unitary Authority,Denbighshire,134.0,0.0,2.0,0.0,0.0,135.0
+Wales,Welsh Unitary Authority,Flintshire,81.0,0.0,25.0,20.0,0.0,106.0
+Wales,Welsh Unitary Authority,Gwynedd,202.0,5.0,0.0,0.0,6.0,213.0
+Wales,Welsh Unitary Authority,Merthyr Tydfil,40.0,0.0,5.0,5.0,10.0,55.0
+Wales,Welsh Unitary Authority,Monmouthshire,264.0,0.0,0.0,0.0,0.0,264.0
+Wales,Welsh Unitary Authority,Neath Port Talbot,235.0,0.0,7.0,57.0,0.0,299.0
+Wales,Welsh Unitary Authority,Newport,8.0,1.0,8.0,0.0,0.0,17.0
+Wales,Welsh Unitary Authority,Pembrokeshire,135.0,0.0,42.0,39.0,0.0,178.0
+Wales,Welsh Unitary Authority,Powys,489.0,19.0,63.0,60.0,0.0,571.0
+Wales,Welsh Unitary Authority,Rhondda Cynon Taf,262.0,13.0,62.0,0.0,0.0,337.0
+Wales,Welsh Unitary Authority,Swansea,26.0,0.0,10.0,30.0,0.0,66.0
+Wales,Welsh Unitary Authority,Torfaen,176.0,0.0,29.0,19.0,0.0,210.0
+Wales,Welsh Unitary Authority,Vale of Glamorgan,26.0,0.0,5.0,0.0,0.0,31.0
+Wales,Welsh Unitary Authority,Wrexham,105.0,0.0,9.0,4.0,0.0,114.0

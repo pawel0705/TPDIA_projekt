@@ -1,0 +1,287 @@
+Region ,Office Location,Site,Facility,Street Address,City,State,Zip,Latitude,Longititude,Location 1
+6,Potsdam,Potsdam Sub-Office,regional sub-office,6739 US Highway 11,Potsdam,NY,13676,44.63212,-75.084756,"Potsdam, NY 13676
+(44.63212, -75.084756)"
+1,Ridge,Ridge Maintenance Center,maintenance center,484 Randall Road,Ridge,NY,11961,40.897689,-72.893457,"Ridge, NY 11961
+(40.897689, -72.893457)"
+1,East Setauket,Marine Resources Headquarters,marine headquarters,205 Belle Meade Road,East Setauket,NY,11733,40.898445,-73.088322,"East Setauket, NY 11733
+(40.898445, -73.088322)"
+1,Stony Brook Campus,Stony Brook Regional Headquarters,regional headquarters,SUNY Campus; 50 Circle Road,Stony Brook,NY,11790,40.921887,-73.119969,"Stony Brook, NY 11790
+(40.921887, -73.119969)"
+2,Long Island City,Long Island City Regional Headquarters,regional headquarters,1 Hunters Point Plaza; 47-40 21st Street,Long Island City,NY,11101,40.744273,-73.948911,"Long Island City, NY 11101
+(40.744273, -73.948911)"
+3,Catskill Park,Beaverkill Campground,campground,792 Berrybrook Road,Roscoe,NY,12776,41.978274,-74.840606,"Roscoe, NY 12776
+(41.978274, -74.840606)"
+3,Catskill Park,Kenneth L. Wilson Campground,campground,859 Wittenberg Road,Mt. Tremper,NY,12457,42.026819,-74.225316,"Mt. Tremper, NY 12457
+(42.026819, -74.225316)"
+3,Catskill Park,Mongaup Pond Campground,campground,231 Mongaup Road,Livingston Manor,NY,12758,41.957321,-74.691193,"Livingston Manor, NY 12758
+(41.957321, -74.691193)"
+3,Catskill Park,Woodland Valley Campground,campground,1319 Woodland Valley Road,Phoenicia,NY,12464,42.035724,-74.360854,"Phoenicia, NY 12464
+(42.035724, -74.360854)"
+3,Livingston Manor,DeBruce Environmental Education Camp,education camp,307 Mongaup Pond Road,Livingston Manor,NY,12758,41.932596,-74.71251,"Livingston Manor, NY 12758
+(41.932596, -74.71251)"
+3,Wappingers Falls,Stony Kill Farm Environmental Education Center,education center,79 Farmstead Lane,Wappingers Falls,NY,12590,41.542682,-73.952251,"Wappingers Falls, NY 12590
+(41.542682, -73.952251)"
+3,Norrie Point State Park,Hudson River National Estuarine Research Reserve,estuarine research center,256 Norrie Point Way,Staatsburg,NY,12580,41.832049,-73.941818,"Staatsburg, NY 12580
+(41.832049, -73.941818)"
+3,White Plains,Summitville Field Headquarters,field office,Fish Hatchery Road,Wurtsboro,NY,12790,41.617266,-74.473519,"Wurtsboro, NY 12790
+(41.617266, -74.473519)"
+3,Livingston Manor,Catskill Fish Hatchery,fish hatchery,402 Mongaup Pond Road,Livingston Manor,NY,12758,41.93696,-74.709072,"Livingston Manor, NY 12758
+(41.93696, -74.709072)"
+3,New Paltz,New Paltz Maintenance Center,maintenance center,21 South Putt Corners Road,New Paltz,NY,12561,41.740595,-74.069282,"New Paltz, NY 12561
+(41.740595, -74.069282)"
+3,New Paltz,New Paltz Regional Headquarters,regional headquarters,21 South Putt Corners Road,New Paltz,NY,12561,41.739342,-74.069667,"New Paltz, NY 12561
+(41.739342, -74.069667)"
+3,White Plains,White Plains Sub-Office,regional sub-office,100 Hillside Avenue - Suite 1W,White Plains,NY,10603,41.046559,-73.791364,"White Plains, NY 10603
+(41.046559, -73.791364)"
+4,Catskill Park,Bear Spring Mountain Campground,campground,512 East Trout Brook Road,Downsville,NY,13755,42.119955,-75.069603,"Downsville, NY 13755
+(42.119955, -75.069603)"
+4,Catskill Park,Devil's Tombstone Campground,campground,NYS Route 214,Hunter,NY,12442,42.153707,-74.206903,"Hunter, NY 12442
+(42.153707, -74.206903)"
+4,Catskill Park,Little Pond State Campground,campground,549 Little Pond State Campground Road,Andes,NY,13731,42.036304,-74.741553,"Andes, NY 13731
+(42.036304, -74.741553)"
+4,Catskill Park,North-South Lake Campground,campground,"County Route 18, Box 347",Haines Falls,NY,12436,42.200236,-74.042981,"Haines Falls, NY 12436
+(42.200236, -74.042981)"
+4,Delmar,Five Rivers Environmental Education Center,education center,56 Game Farm Road,Delmar,NY,12054,42.610549,-73.890464,"Delmar, NY 12054
+(42.610549, -73.890464)"
+4,Bear Spring Mountain,Bear Spring Mountain Field Headquarters,field office,Trout Brook Road,Downsville,NY,13755,42.133366,-75.08091,"Downsville, NY 13755
+(42.133366, -75.08091)"
+4,Delmar,Five Rivers Environmental Education Center,maintenance center,Building 3; 56 Game Farm Road,Delmar,NY,12054,42.608805,-73.890407,"Delmar, NY 12054
+(42.608805, -73.890407)"
+4,Stamford,Stamford Maintenance Center,maintenance center,65561 Route 10,Stamford,NY,12167,42.424098,-74.622792,"Stamford, NY 12167
+(42.424098, -74.622792)"
+4,Schenectady,Schenectady Regional Headquarters,regional headquarters,1130 North Westcott Road,Schenectady,NY,12306,42.787269,-73.979759,"Schenectady, NY 12306
+(42.787269, -73.979759)"
+4,Stamford,Stamford Sub-Office,regional sub-office,65561 Route 10,Stamford,NY,12167,42.42328,-74.621921,"Stamford, NY 12167
+(42.42328, -74.621921)"
+4,Delmar,Delmar Wildlife Resources Center,wildlife resources center,108 Game Farm Road,Delmar,NY,12054,42.609051,-73.888194,"Delmar, NY 12054
+(42.609051, -73.888194)"
+5,Adirondack Park,Ausable Point Campground,campground,3346 Lake Shore Road,Peru,NY,12972,44.572152,-73.430996,"Peru, NY 12972
+(44.572152, -73.430996)"
+5,Adirondack Park,Brown Tract Pond Campground,campground,Uncas Road,Raquette Lake,NY,13436,43.810672,-74.694388,"Raquette Lake, NY 13436
+(43.810672, -74.694388)"
+5,Adirondack Park,Buck Pond Campground,campground,1339 County Route 60,Onchiota,NY,12989,44.505184,-74.118842,"Onchiota, NY 12989
+(44.505184, -74.118842)"
+5,Adirondack Park,Caroga Lake Campground,campground,3043 State Highway 29A,Caroga Lake,NY,12078,43.125426,-74.468302,"Caroga Lake, NY 12078
+(43.125426, -74.468302)"
+5,Adirondack Park,Crown Point Campground,campground,784 Bridge Road,Crown Point,NY,12928,44.028175,-73.424105,"Crown Point, NY 12928
+(44.028175, -73.424105)"
+5,Adirondack Park,Eagle Point Campground,campground,8448 State Route 9,Pottersville,NY,12860,43.748921,-73.791786,"Pottersville, NY 12860
+(43.748921, -73.791786)"
+5,Adirondack Park,Eighth Lake Campground,campground,1353 State Route 28,Inlet,NY,13360,43.765997,-74.707509,"Inlet, NY 13360
+(43.765997, -74.707509)"
+5,Adirondack Park,Fish Creek Pond Campground,campground,4523 State Route 30,Saranac Lake,NY,12983,44.304237,-74.358035,"Saranac Lake, NY 12983
+(44.304237, -74.358035)"
+5,Adirondack Park,Forked Lake Campground,campground,381 Forked Lake Campsite Lane,Long Lake,NY,12847,43.904679,-74.526549,"Long Lake, NY 12847
+(43.904679, -74.526549)"
+5,Adirondack Park,Golden Beach Campground,campground,Route 28,Raquette Lake,NY,13436,43.817198,-74.594351,"Raquette Lake, NY 13436
+(43.817198, -74.594351)"
+5,Adirondack Park,Hearthstone Point Campground,campground,3298 Lake Shore Drive,Lake George,NY,12845,43.453041,-73.695721,"Lake George, NY 12845
+(43.453041, -73.695721)"
+5,Adirondack Park,Indian Lake Islands Campground,campground,State Route 30,Sabael,NY,12864,43.656586,-74.386779,"Sabael, NY 12864
+(43.656586, -74.386779)"
+5,Adirondack Park,Lake Durant Campground,campground,Routes 28 and 30,Blue Mountain Lake,NY,12812,43.838259,-74.383742,"Blue Mountain Lake, NY 12812
+(43.838259, -74.383742)"
+5,Adirondack Park,Lake Eaton Campground,campground,1671 Tupper Road,Long Lake,NY,12847,43.985831,-74.457613,"Long Lake, NY 12847
+(43.985831, -74.457613)"
+5,Adirondack Park,Lake George Battleground Campground,campground,2224 State Route 9,Lake George,NY,12845,43.41535,-73.711431,"Lake George, NY 12845
+(43.41535, -73.711431)"
+5,Adirondack Park,Lake George Islands Campground - Glen Island,campground,18 Boathouse Lane,Bolton Landing,NY,12814,43.573249,73.60081,"Bolton Landing, NY 12814
+(43.573249, 73.60081)"
+5,Adirondack Park,Lake George Islands Campground - Long Island,campground,18 Boathouse Lane,Bolton Landing,NY,12814,43.484632,-73.653832,"Bolton Landing, NY 12814
+(43.484632, -73.653832)"
+5,Adirondack Park,Lake George Islands Campground - Narrow Island,campground,18 Boathouse Lane,Bolton Landing,NY,12814,43.645871,73.506989,"Bolton Landing, NY 12814
+(43.645871, 73.506989)"
+5,Adirondack Park,Lake Harris Campground,campground,291 Campsite Road,Newcomb,NY,12852,43.975537,-74.125226,"Newcomb, NY 12852
+(43.975537, -74.125226)"
+5,Adirondack Park,Lewey Lake Campground,campground,4155 Route 30N,Lake Pleasant,NY,12108,43.647782,-74.388173,"Lake Pleasant, NY 12108
+(43.647782, -74.388173)"
+5,Adirondack Park,Limekiln Lake Campground,campground,Limekiln Lake Road,Inlet,NY,13360,43.718335,-74.795708,"Inlet, NY 13360
+(43.718335, -74.795708)"
+5,Adirondack Park,Lincoln Pond Campground,campground,4363 Lincoln Pond Road,Elizabethtown,NY,12932,44.138999,-73.580032,"Elizabethtown, NY 12932
+(44.138999, -73.580032)"
+5,Adirondack Park,Little Sand Point Campground,campground,County Route 24; Old Piseco Road,Piseco,NY,12139,43.417366,-74.55155,"Piseco, NY 12139
+(43.417366, -74.55155)"
+5,Adirondack Park,Luzerne Campground,campground,892 Lake Avenue,Lake Luzerne,NY,12846,43.360612,-73.826516,"Lake Luzerne, NY 12846
+(43.360612, -73.826516)"
+5,Adirondack Park,Meacham Lake Campground,campground,119 State Camp Road,Duane,NY,12953,44.57825,-74.278043,"Duane, NY 12953
+(44.57825, -74.278043)"
+5,Adirondack Park,Meadowbrook Campground,campground,1174 State Route 86,Ray Brook,NY,12977,44.297951,-74.075278,"Ray Brook, NY 12977
+(44.297951, -74.075278)"
+5,Adirondack Park,Moffitt Beach Campground,campground,Page Street,Speculator,NY,12164,43.49408,-74.398453,"Speculator, NY 12164
+(43.49408, -74.398453)"
+5,Adirondack Park,Northampton Beach Campground,campground,328 Houseman Street,Mayfield,NY,12117,43.188792,-74.175572,"Mayfield, NY 12117
+(43.188792, -74.175572)"
+5,Adirondack Park,Paradox Lake Campground,campground,897 State Route 74,Paradox,NY,12858,43.884302,-73.678447,"Paradox, NY 12858
+(43.884302, -73.678447)"
+5,Adirondack Park,Point Comfort Campground,campground,1365 County Route 24; Old Piseco Road,Piseco,NY,12139,43.400087,-74.579765,"Piseco, NY 12139
+(43.400087, -74.579765)"
+5,Adirondack Park,Poplar Point Campground,campground,County Route 24; Old Piseco Road,Piseco,NY,12139,43.428101,-74.540393,"Piseco, NY 12139
+(43.428101, -74.540393)"
+5,Adirondack Park,Putnam Pond Campground,campground,763 Putts Pond Road,Ticonderoga,NY,12883,43.840058,-73.56633,"Ticonderoga, NY 12883
+(43.840058, -73.56633)"
+5,Adirondack Park,Rogers Rock Campground,campground,9894 Lake Shore Drive,Hague,NY,12836,43.792019,-73.486699,"Hague, NY 12836
+(43.792019, -73.486699)"
+5,Adirondack Park,Rollins Pond Campground,campground,4523 State Route 30,Saranac Lake,NY,12983,44.30185,-74.393702,"Saranac Lake, NY 12983
+(44.30185, -74.393702)"
+5,Adirondack Park,Sacandaga Campground,campground,1047 State Highway; Route 30,Northville,NY,12134,43.359114,-74.288448,"Northville, NY 12134
+(43.359114, -74.288448)"
+5,Adirondack Park,Saranac Lake Islands Campgrounds,campground,4468 State Route 3,Saranac Lake,NY,12983,44.325459,-74.155043,"Saranac Lake, NY 12983
+(44.325459, -74.155043)"
+5,Adirondack Park,Scaroon Manor Campground,campground,8728 State Route 9,Schroon Lake,NY,12870,43.766921,-73.78642,"Schroon Lake, NY 12870
+(43.766921, -73.78642)"
+5,Adirondack Park,Sharp Bridge Campground,campground,4390 US Route 9,North Hudson,NY,12855,44.042807,-73.677657,"North Hudson, NY 12855
+(44.042807, -73.677657)"
+5,Adirondack Park,Taylor Pond Campground,campground,1865 Silver Lake Road,Ausable Forks,NY,12912,44.493842,-73.825084,"Ausable Forks, NY 12912
+(44.493842, -73.825084)"
+5,Adirondack Park,Tioga Point Campground,campground,State Route 28,Raquette Lake,NY,13436,43.844104,-74.63339,"Raquette Lake, NY 13436
+(43.844104, -74.63339)"
+5,Adirondack Park,Wilmington Notch Campground,campground,4953 State Route 86,Wilmington ,NY,12997,44.350124,-73.86105,"Wilmington, NY 12997
+(44.350124, -73.86105)"
+5,Lake George,Lake George Beach,day use area,139 Beach Road,Lake George,NY,12845,43.417469,-73.703298,"Lake George, NY 12845
+(43.417469, -73.703298)"
+5,Prospect Mountain,Prospect Mountain Veteran Memorial Highway Day Use Area,day use area,Prospect Mountain Parkway,Lake George,NY,12845,43.408277,-73.723867,"Lake George, NY 12845
+(43.408277, -73.723867)"
+5,Saranac Lake,Lake Colby Environmental Education Camp,education camp,84 Camp Colby Road,Saranac Lake,NY,12983,44.347905,-74.149923,"Saranac Lake, NY 12983
+(44.347905, -74.149923)"
+5,Santanoni Preserve,Santanoni Preserve Historical Area,field office,58 Newcomb Lake Road,Newcomb,NY,12852,44.012783,-74.130945,"Newcomb, NY 12852
+(44.012783, -74.130945)"
+5,Long Lake,William C. Whitney Field Headquarters,field office,901 Sabattis Road,Long Lake,NY,12847,44.050199,-74.583678,"Long Lake, NY 12847
+(44.050199, -74.583678)"
+5,Saranac Lake,Adirondack Fish Hatchery,fish hatchery,103 Fish Hatchery Road; HCR1-Box 3,Saranac Lake,NY,12983,44.35391,-74.284552,"Saranac Lake, NY 12983
+(44.35391, -74.284552)"
+5,Chateaugay,Chateaugay Fish Hatchery,fish hatchery,"134 Fish Hatchery Road; RR1, Box 755",Chateaugay,NY,12920,44.93401,-74.044022,"Chateaugay, NY 12920
+(44.93401, -74.044022)"
+5,Green Island,Green Island Maintenance Center,maintenance center,18 Boathouse Lane,Bolton Landing,NY,12814,43.561172,-73.646871,"Bolton Landing, NY 12814
+(43.561172, -73.646871)"
+5,Lake George,Lake George Shop,maintenance center,59 Fort George Road,Lake George,NY,12845,43.415534,-73.708754,"Lake George, NY 12845
+(43.415534, -73.708754)"
+5,Northville,Northville Sign Shop,maintenance center,701 South Main Street,Northville,NY,12134,43.216035,-74.166134,"Northville, NY 12134
+(43.216035, -74.166134)"
+5,Saranac Lake,Saranac Inn Maintenance Center,maintenance center,87 Fish Hatchery Road,Saranac Lake,NY,12983,44.354508,-74.286251,"Saranac Lake, NY 12983
+(44.354508, -74.286251)"
+5,Schuyler Falls,Schuyler Falls Maintenance Center,maintenance center,540 Norrisville Road,Schuyler Falls,NY,12985,44.622158,-73.608177,"Schuyler Falls, NY 12985
+(44.622158, -73.608177)"
+5,Ray Brook,Ray Brook Regional Headquarters,regional headquarters,1115 Route 86,Ray Brook,NY,12977,44.300487,-74.079673,"Ray Brook, NY 12977
+(44.300487, -74.079673)"
+5,Indian Lake,Indian Lake Sub-Office,regional sub-office,Big Brook Road,Indian Lake,NY,12842,43.740802,-74.232047,"Indian Lake, NY 12842
+(43.740802, -74.232047)"
+5,Northville,Northville Sub-Office,regional sub-office,701 South Main Street,Northville,NY,12134,43.216839,-74.166184,"Northville, NY 12134
+(43.216839, -74.166184)"
+5,Warrensburg,Warrensburg Sub-Office,regional sub-office,232 Golf Course Road,Warrensburg,NY,12866,43.500893,-73.797372,"Warrensburg, NY 12866
+(43.500893, -73.797372)"
+5,Gloversville,Hale Creek Field Station,research center,182 Steele Avenue Extension,Gloversville,NY,12078,43.035127,-74.301307,"Gloversville, NY 12078
+(43.035127, -74.301307)"
+5,Saratoga Springs,Saratoga Tree Nursery,tree nursery,2369 Route 50 South,Saratoga Springs,NY,12866,43.05282,-73.793745,"Saratoga Springs, NY 12866
+(43.05282, -73.793745)"
+6,Adirondack Park,Alger Island Campground,campground,303 Petrie Road,Old Forge,NY,13420,43.742535,-74.877089,"Old Forge, NY 13420
+(43.742535, -74.877089)"
+6,Adirondack Park,Cranberry Lake Campground,campground,243 Lone Pine Road,Cranberry Lake,NY,12927,44.20581,-74.831062,"Cranberry Lake, NY 12927
+(44.20581, -74.831062)"
+6,Adirondack Park,Nicks Lake Campground,campground,278 Bisby Road,Old Forge,NY,13420,43.682749,-74.985209,"Old Forge, NY 13420
+(43.682749, -74.985209)"
+6,Boonville,Boonville Field Headquarters,field office,9868 Hawkinsville Road,Boonville,NY,13309,43.500218,-75.251025,"Boonville, NY 13309
+(43.500218, -75.251025)"
+6,Trout Lake,Trout Lake Field Headquarters,field office,318 Campbell Road,Edwards,NY,13635,44.362634,-75.242812,"Edwards, NY 13635
+(44.362634, -75.242812)"
+6,Rome,Rome Fish Hatchery,fish hatchery,8306 Fish Hatchery Road,Rome,NY,13440,43.263844,-75.437387,"Rome, NY 13440
+(43.263844, -75.437387)"
+6,Van Hornesville,Van Hornesville Fish Hatchery,fish hatchery,1285 Chyle Road,Van Hornesville,NY,13475,42.890144,-74.839183,"Van Hornesville, NY 13475
+(42.890144, -74.839183)"
+6,Brasher Falls,Brasher Falls Maintenance Center,maintenance center,118 Vice Road,Brasher Falls,NY,13613,44.81874,-74.776056,"Brasher Falls, NY 13613
+(44.81874, -74.776056)"
+6,Dexter,Brownville Maintenance Center,maintenance center,17893 Old Game Farm Road,Dexter,NY,13634,44.018423,-76.013598,"Dexter, NY 13634
+(44.018423, -76.013598)"
+6,Herkimer,Herkimer Maintenance Center,maintenance center,225 North Main Street,Herkimer,NY,13350,43.027142,-74.988372,"Herkimer, NY 13350
+(43.027142, -74.988372)"
+6,Watertown,Watertown Regional Headquarters,regional headquarters,State Office Building; 317 Washington Street,Watertown,NY,13601,43.971677,-75.910665,"Watertown, NY 13601
+(43.971677, -75.910665)"
+6,Herkimer,Herkimer Sub-Office,regional sub-office,225 North Main Street,Herkimer,NY,13350,43.026975,-74.98809,"Herkimer, NY 13350
+(43.026975, -74.98809)"
+6,Lowville,Lowville Sub-Office and Maintenance Center,regional sub-office,7327 Route 812,Lowville,NY,13367,43.810316,-75.472637,"Lowville, NY 13367
+(43.810316, -75.472637)"
+6,Utica,Utica Sub-Office,regional sub-office,State Office Building; 207 Genesse Street,Utica ,NY,13501,43.100569,-75.231798,"Utica, NY 13501
+(43.100569, -75.231798)"
+6,Cape Vincent,Cape Vincent State Fisheries Research Station,research center,541 Broadway Street,Cape Vincent,NY,13618,44.129252,-76.333116,"Cape Vincent, NY 13618
+(44.129252, -76.333116)"
+6,Rome,Rome Research Laboratory,research center,8314 Fish Hatchery Road,Rome,NY,13440,43.263985,-75.436473,"Rome, NY 13440
+(43.263985, -75.436473)"
+6,Cleveland,Godfrey Point Sign Shop,sign shop,124 Drive 8,Cleveland,NY,13042,43.227256,-75.850599,"Cleveland, NY 13042
+(43.227256, -75.850599)"
+7,Sherburne,Rogers Environmental Education Center,education center,2721 Route 80 West,Sherburne,NY,13460,42.682686,-75.513675,"Sherburne, NY 13460
+(42.682686, -75.513675)"
+7,Altmar,Happy Valley Field Headquarters,field office,Route 104; Churchill Road,Altmar,NY,13302,43.466531,-76.011949,"Altmar, NY 13302
+(43.466531, -76.011949)"
+7,Phoenix,Three Rivers Field Headquarters,field office,Potter Road,Phoenix,NY,13135,43.198066,-76.303171,"Phoenix, NY 13135
+(43.198066, -76.303171)"
+7,Oneida Lake,Oneida Fish Hatchery,fish hatchery,3 Hatchery Road,Constantia,NY,13044,43.248365,-75.998468,"Constantia, NY 13044
+(43.248365, -75.998468)"
+7,Salmon River,Salmon River Fish Hatchery,fish hatchery,2133 County Route 22,Altmar,NY,13302,43.509915,-75.992514,"Altmar, NY 13302
+(43.509915, -75.992514)"
+7,South Otselic,South Otselic Fish Hatchery,fish hatchery,1549 NYS Route 26,South Otselic,NY,13155,42.644182,-75.785101,"South Otselic, NY 13155
+(42.644182, -75.785101)"
+7,Ithaca,Reynolds Game Farm,game farm,81 Game Farm Road,Ithaca,NY,14850,42.445634,-76.448622,"Ithaca, NY 14850
+(42.445634, -76.448622)"
+7,Sherburne,Sherburne Maintenance Center,maintenance center,2721 State Highway 80,Sherburne,NY,13460,42.684717,-75.51648,"Sherburne, NY 13460
+(42.684717, -75.51648)"
+7,Syracuse,Syracuse Regional Headquarters,regional headquarters,615 Erie Boulevard West,Syracuse,NY,13204,43.048454,-76.164738,"Syracuse, NY 13204
+(43.048454, -76.164738)"
+7,Cortland,Cortland Sub-Office,regional sub-office,1285 Fisher Avenue,Cortland,NY,13045,42.616577,-76.189923,"Cortland, NY 13045
+(42.616577, -76.189923)"
+7,Kirkwood,Kirkwood Sub-Office,regional sub-office,1679 NY Route 11,Kirkwood,NY,13795,42.042564,-75.795883,"Kirkwood, NY 13795
+(42.042564, -75.795883)"
+7,Sherburne,Sherburne Sub-Office,regional sub-office,2721 State Highway 80,Sherburne,NY,13460,42.684158,-75.517713,"Sherburne, NY 13460
+(42.684158, -75.517713)"
+8,Savannah,Northern Montezuma Field Headquarters,field office,1385 Morgan Road,Savannah,NY,13146,43.067,-76.718821,"Savannah, NY 13146
+(43.067, -76.718821)"
+8,Bath,Bath Fish Hatchery,fish hatchery,7169 Hatchery Road,Bath,NY,14810,42.373511,-77.284488,"Bath, NY 14810
+(42.373511, -77.284488)"
+8,Caledonia,Caledonia Fish Hatchery,fish hatchery,16 North Street,Caledonia,NY,14423,42.98609,-77.859771,"Caledonia, NY 14423
+(42.98609, -77.859771)"
+8,Bath,Bath Operations Shop,maintenance center,311 West Morris Street,Bath,NY,14810,42.335628,-77.331195,"Bath, NY 14810
+(42.335628, -77.331195)"
+8,Elmira,Elmira Operations Shop,maintenance center,618 West Hudson Street,Elmira,NY,14904,42.080559,-76.817761,"Elmira, NY 14904
+(42.080559, -76.817761)"
+8,Naples,Naples Operations Center,maintenance center,8209 Route 245,Naples,NY,14512,42.625643,-77.389554,"Naples, NY 14512
+(42.625643, -77.389554)"
+8,Oakfield,Oak Orchard Operations Shop,maintenance center,12465 Podunk Road,Oakfield,NY,14125,43.132534,-78.315293,"Oakfield, NY 14125
+(43.132534, -78.315293)"
+8,Painted Post,Painted Post Operations Shop,maintenance center,55 Forest Drive,Painted Post,NY,14870,42.140891,-77.120021,"Painted Post, NY 14870
+(42.140891, -77.120021)"
+8,Savona,Sonora Maintenance Center,maintenance center,6894 Route 226,Savona,NY,14879,42.33301,-77.161597,"Savona, NY 14879
+(42.33301, -77.161597)"
+8,Avon,Avon Regional Headquarters,regional headquarters,6274 East Avon-Lima Road,Avon,NY,14414,42.902484,-77.670484,"Avon, NY 14414
+(42.902484, -77.670484)"
+8,Bath,Bath Sub-Office,regional sub-office,7291 Coon Road,Bath,NY,14810,42.316658,-77.279367,"Bath, NY 14810
+(42.316658, -77.279367)"
+8,Elmira,Elmira Sub-Office,regional sub-office,100 North Main Street,Elmira,NY,14901,42.087908,-76.806924,"Elmira, NY 14901
+(42.087908, -76.806924)"
+8,Alabama,Iroquois National Wildlife Refuge,regional sub-office,1101 Casey Road,Alabama,NY,14003,43.112567,-78.403927,"Alabama, NY 14003
+(43.112567, -78.403927)"
+9,Caneadea,Camp Rushford Environmental Education Center,education camp,"RD1, Box 166",Caneadea,NY,14717,42.343091,-78.229566,"Caneadea, NY 14717
+(42.343091, -78.229566)"
+9,Depew,Reinstein Woods Environmental Education Center,education center,93 Honorine Drive,Depew,NY,14043,42.890727,-78.71712,"Depew, NY 14043
+(42.890727, -78.71712)"
+9,Mayville,Chautauqua Fish Hatchery,fish hatchery,5875 Prendergast Boulevard,Mayville,NY,14757,42.189761,-79.44658,"Mayville, NY 14757
+(42.189761, -79.44658)"
+9,Randolph,Randolph Fish Hatchery,fish hatchery,10943 Hatchery Road,Randolph,NY,14772,42.15423,-78.940752,"Randolph, NY 14772
+(42.15423, -78.940752)"
+9,Little Valley,Little Valley Maintenance Center,maintenance center,5191 Route 353,Little Valley,NY,14755,42.236295,-78.770834,"Little Valley, NY 14755
+(42.236295, -78.770834)"
+9,Olean,Olean Flood Protection Project and Maintenance Center,maintenance center,150 Charles Street,Olean,NY,14760,42.074725,-78.405265,"Olean, NY 14760
+(42.074725, -78.405265)"
+9,Panama,Panama Maintenance Center,maintenance center,1228 Goshen Road,Panama,NY,14767,42.057138,-79.499186,"Panama, NY 14767
+(42.057138, -79.499186)"
+9,Almond,West Almond Maintenance Center,maintenance center,County Route 2A,Almond,NY,14804,42.322359,-77.838109,"Almond, NY 14804
+(42.322359, -77.838109)"
+9,Buffalo,Buffalo Regional Headquarters,regional headquarters,270 Michigan Avenue,Buffalo,NY,14203,42.879365,-78.869943,"Buffalo, NY 14203
+(42.879365, -78.869943)"
+9,Allegany,Allegany Sub-Office,regional sub-office,182 East Union Street,Allegany,NY,14706,42.083585,-78.489455,"Allegany, NY 14706
+(42.083585, -78.489455)"
+9,Dunkirk,Lake Erie Fisheries Research Station,research center,178 Point Drive North,Dunkirk,NY,14048,42.49257,-79.352978,"Dunkirk, NY 14048
+(42.49257, -79.352978)"
+CO,Albany,Central Administrative Office,central office/headquarters,625 Broadway,Albany,NY,12233,42.652457,-73.748876,"Albany, NY 12233
+(42.652457, -73.748876)"
+CO,Port of Albany,Central Office Operations Support Facility ,maintenance center,102-104 Smith Boulevard,Albany,NY,12202,42.627147,-73.758008,"Albany, NY 12202
+(42.627147, -73.758008)"
+5,Crown Point,Crown Point Maintenance Center,maintenance center,738 Bridge Road,Crown Point,NY,12928,44.025694,-73.421183,"Crown Point, NY 12928
+(44.025694, -73.421183)"

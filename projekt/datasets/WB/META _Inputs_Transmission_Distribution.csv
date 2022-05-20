@@ -1,0 +1,58 @@
+Country,Technology type,Number of circuits,Voltage,Life span,Unital capital costs,Units
+Romania,Overhead transmission line,single,400,25,0.37,US$M/km
+Romania,Overhead transmission line,double,400,25,0.65,US$M/km
+Romania,Overhead transmission line,single,220,25,0.28,US$M/km
+Romania,Overhead transmission line,double,220,25,0.52,US$M/km
+Romania,Overhead transmission line,single,110,25,0.2,US$M/km
+Romania,Overhead transmission line,double,110,25,0.43,US$M/km
+Romania,Underground transmission line,single,220,25,5.65,US$M/km
+Romania,Underground transmission line,double,220,25,9.81,US$M/km
+Romania,Underground transmission line,single,110,25,3.28,US$M/km
+Romania,Underground transmission line,double,110,25,5.11,US$M/km
+Romania,Transmission substation,,400/220,25,48.39,US$k/MVA
+Romania,Transmission substation,,220/110,25,50.44,US$k/MVA
+Romania,Distribution network,,,25,590.48,US$/kW
+USA,Overhead transmission line,single,500,25,1.13,US$M/km
+USA,Overhead transmission line,double,500,25,2.12,US$M/km
+USA,Overhead transmission line,single,345,25,0.87,US$M/km
+USA,Overhead transmission line,double,345,25,1.56,US$M/km
+USA,Overhead transmission line,single,230,25,0.66,US$M/km
+USA,Overhead transmission line,double,230,25,1.23,US$M/km
+USA,Overhead transmission line,single,138,25,0.48,US$M/km
+USA,Overhead transmission line,double,138,25,1.03,US$M/km
+USA,Underground transmission line,single,345,25,13.67,US$M/km
+USA,Underground transmission line,double,345,25,24.52,US$M/km
+USA,Underground transmission line,single,230,25,10.22,US$M/km
+USA,Underground transmission line,double,230,25,17.76,US$M/km
+USA,Underground transmission line,single,138,25,5.93,US$M/km
+USA,Underground transmission line,double,138,25,9.24,US$M/km
+USA,Transmission substation,,500/230,25,45.28,US$k/MVA
+USA,Transmission substation,,345/138,25,56.83,US$k/MVA
+USA,Transmission substation,,230/138,25,61.7,US$k/MVA
+USA,Distribution network,,,25,1452.38,US$/kW
+India,Overhead transmission line,single,400,25,0.15,US$M/km
+India,Overhead transmission line,double,400,25,0.23,US$M/km
+India,Overhead transmission line,single,220,25,0.1,US$M/km
+India,Overhead transmission line,double,220,25,0.16,US$M/km
+India,Overhead transmission line,single,132,25,0.08,US$M/km
+India,Overhead transmission line,double,132,25,0.1,US$M/km
+India,Underground transmission line,single,220,25,1.45,US$M/km
+India,Underground transmission line,double,220,25,2.45,US$M/km
+India,Underground transmission line,single,132,25,0.76,US$M/km
+India,Underground transmission line,double,132,25,1.26,US$M/km
+India,Transmission substation,,400/220,25,18.11,US$k/MVA
+India,Transmission substation,,220/132,25,27.28,US$k/MVA
+India,Distribution network,,,25,1333.33,US$/kW
+Jamaica,Overhead transmission line,single,400,25,0.37,US$M/km
+Jamaica,Overhead transmission line,double,400,25,0.65,US$M/km
+Jamaica,Overhead transmission line,single,220,25,0.28,US$M/km
+Jamaica,Overhead transmission line,double,220,25,0.52,US$M/km
+Jamaica,Overhead transmission line,single,110,25,0.2,US$M/km
+Jamaica,Overhead transmission line,double,110,25,0.43,US$M/km
+Jamaica,Underground transmission line,single,220,25,5.65,US$M/km
+Jamaica,Underground transmission line,double,220,25,9.81,US$M/km
+Jamaica,Underground transmission line,single,110,25,3.28,US$M/km
+Jamaica,Underground transmission line,double,110,25,5.11,US$M/km
+Jamaica,Transmission substation,,400/220,25,48.39,US$k/MVA
+Jamaica,Transmission substation,,220/110,25,50.44,US$k/MVA
+Jamaica,Distribution network,,,25,590.48,US$/kW

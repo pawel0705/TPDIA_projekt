@@ -1,0 +1,16 @@
+River,Stratum,Length (m),Width  (m),Area  (m2),Latitude (decimal degrees),Longitude (decimal degrees),Substrate and Flow Comments,Total Catch Pass1,Total Catch Pass2,Total Catch,Probability  of Capture,Abundance Estimate,Standard Error (SE),Lower 95%,Upper 95%,Slimy Sculpins,Chiselmouth,Trout Species,Crayfish
+West Kettle River,1,13.0,8.0,104.0,49.42823,-119.10322,Embedded cobble,7,6,13,17%,49,151,0,352,18.0,,,
+West Kettle River,2,9.0,11.0,99.0,49.42805,-119.10459,Embedded cobble,14,13,27,8%,196,946,0,2087,,,,
+West Kettle River,3,10.0,8.0,80.0,49.42718,-119.10473,Pool with sand and cobble at edges.,21,12,33,8%,49,18,13,85,3.0,,,1.0
+West Kettle River,4,9.5,10.5,99.75,49.42402,-119.10087,Gravel with occasional boulder in centre of channel.,3,2,5,50%,9,13,0,36,15.0,2,1.0,
+West Kettle River,5,8.5,9.5,80.75,49.4241,-119.10177,Gravel with occasional boulder in centre of channel.,8,4,12,25%,16,7,2,30,6.0,1,,
+West Kettle River,6,9.0,7.5,67.5,49.42444,-119.10256,Gravel with occasional boulder in centre of channel.,26,11,37,9%,45,8,30,61,11.0,17,,
+West Kettle River,7,7.4,9.6,71.04,49.42491,-119.10414,Sand and gravel in back eddy. Low flow and algal growth.,84,30,116,3%,131,9,112,149,,,,
+West Kettle River,8,8.7,11.8,102.66,49.42609,-119.10472,Gravel with occasional boulder in centre of channel.,4,3,7,33%,16,32,0,79,21.0,1,,
+West Kettle River,9,8.3,9.7,80.51,49.4266,-119.1049,Embedded cobble.,32,12,44,8%,51,6,38,64,7.0,2,,
+West Kettle River,10,8.0,8.3,66.4,49.42823,-119.10332,Large boulders with gravel.,2,1,3,100%,4,3,0,11,3.0,2,,
+West Kettle River,11,13.1,8.3,108.73,49.42832,-119.10218,Embedded cobble with surface gravel.,1,0,1,--,1,0,1,1,17.0,,3.0,
+West Kettle River,12,9.0,8.0,72.0,49.42871,-119.10151,Sand and gravel in back eddy. Low flow and algal growth.,68,25,93,4%,108,9,90,125,,>200,,
+West Kettle River,13,10.0,10.0,100.0,49.43042,-119.10058,Cobble and sand. Slow moving water.,25,9,34,11%,39,5,29,49,,>300,,
+West Kettle River,14,12.9,8.5,109.65,49.43176,-119.10132,Embedded cobble with a few large boulders.,4,3,7,33%,16,32,0,79,11.0,,,
+West Kettle River,15,8.5,6.7,56.95,49.43257,-119.10112,Sand and gravel in back eddy. Low flow and algal growth.,59,23,82,4%,97,9,78,116,,>200,1.0,

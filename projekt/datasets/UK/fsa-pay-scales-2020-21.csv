@@ -1,0 +1,19 @@
+Location,Grade,TraineeApprenticeInternSpotRate,NewStarterSpotRate,TargetSpotRate,Minimum,Maximum
+London,AO,20576,22611.0,24420.0,,
+London,EO,24507,26931.0,29085.0,,
+London,HEO,29439,,,32350.0,38427.0
+London,SEO,36719,,,40350.0,47947.0
+London,Grade 7,50323,,,55300.0,67084.0
+London,Grade 6,58513,,,64300.0,78318.0
+London,SEO - Market-facing/niche job family,39904,,,43850.0,48947.0
+London,G7 - Market-facing/niche job family,54418,,,59800.0,68084.0
+London,G6  -Market-facing/niche job family,63063,,,69300.0,79318.0
+National,AO,17858,19624.0,21194.0,,
+National,EO,22264,24466.0,26751.0,,
+National,HEO,27619,,,30350.0,35733.0
+National,SEO,33989,,,37350.0,45171.0
+National,Grade 7,46683,,,51300.0,62695.0
+National,Grade 6,54873,,,60300.0,73739.0
+National,SEO - Market-facing/niche job family,36719,,,40350.0,46171.0
+National,G7 - Market-facing/niche job family,50323,,,55300.0,63695.0
+National,G6  -Market-facing/niche job family,58968,,,64800.0,74739.0
