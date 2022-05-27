@@ -24,14 +24,19 @@ public class MainProgram {
 
 			System.out.println("---- Column nr.: " + (columnNr + 1));
 
+			// ----- General Features
 			int dataType = extractionManager.GetDataType(dataset, columnNr);
 			ValueRatioModel positiveNegativeZeroValueRatio = extractionManager
 					.GetPositiveNegativeZeroValueRatio(dataset, columnNr);
 			double uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
 			int sameDigitalNumber = extractionManager.GetSameDigitalNumber(dataset, columnNr);
+
+			// ----- Statistical Features
 			StatisticValuesModel statisticValuesModel = extractionManager.GetAvgMinMaxMedianUpquarLowquar(dataset,
 					columnNr);
+			double coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
 
+			// Results in console
 			System.out.println("Data Type: " + dataType);
 			System.out.println("Positive value ratio: " + positiveNegativeZeroValueRatio.PositiveValueRatio);
 			System.out.println("Negative value ratio: " + positiveNegativeZeroValueRatio.NegativeValueRatio);
@@ -44,8 +49,10 @@ public class MainProgram {
 			System.out.println("Median: " + statisticValuesModel.Median);
 			System.out.println("Upper quartile: " + statisticValuesModel.UpperQuartile);
 			System.out.println("Lower quartile: " + statisticValuesModel.LowerQuartile);
+			System.out.println("Coefficient Of Variation: " + coefficientOfVariation);
 		}
 
+		// Some data about CSV
 		System.out.println();
 		System.out.println(dataset.toSummaryString());
 	}

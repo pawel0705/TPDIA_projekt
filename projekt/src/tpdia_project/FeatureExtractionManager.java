@@ -312,7 +312,7 @@ public class FeatureExtractionManager {
 			} else {
 				middle = readedValues.get(readedValues.size() / 2);
 			}
-			
+
 			statisticValues.Median = middle;
 
 			double quartilies[] = new double[3];
@@ -321,7 +321,7 @@ public class FeatureExtractionManager {
 				float length = readedValues.size() - 1;
 				double quartile;
 				float newArraySize = (length * ((float) (quartileType) * 25 / 100)) - 1;
-				
+
 				if (newArraySize % 1 == 0) {
 					quartile = readedValues.get((int) (newArraySize));
 				} else {
@@ -336,6 +336,67 @@ public class FeatureExtractionManager {
 		}
 
 		return statisticValues;
+	}
+
+	// Coefficient of variation
+	public double GetCoefficientOfVariation(Instances instances, int columnNumber) {
+		Attribute attribute = instances.attribute(columnNumber);
+
+		if (!(attribute.isNumeric() || attribute.isNominal())) {
+			return -1;
+		}
+
+		int instancesNumber = instances.numInstances();
+
+		List<Double> readedValues = new ArrayList<Double>();
+
+		// column with all numbers
+		if (attribute.isNumeric()) {
+			for (int row = 0; row < instancesNumber; row++) {
+				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+
+				readedValues.add(tmpVal);
+			}
+		}
+
+		// column that can have null, unknown, etc.
+		if (attribute.isNominal()) {
+			for (int row = 0; row < instancesNumber; row++) {
+				Instance instance = instances.get(row);
+				String tmpValString = instance.stringValue(columnNumber);
+				double tmpVal = 0.0;
+
+				try {
+					tmpVal = Double.parseDouble(tmpValString);
+					readedValues.add(tmpVal);
+				} catch (Exception ex) {
+					// Do nothing
+				}
+			}
+		}
+
+		double average = 0.0;
+		if (readedValues.size() > 0) {
+			average = readedValues.stream().mapToDouble(a -> a).average().getAsDouble();
+		}
+
+		double powerSum1 = 0;
+		double powerSum2 = 0;
+		double stdev = 0;
+
+		for (int i = 0; i < readedValues.size(); i++) {
+			powerSum1 += readedValues.get(i);
+			powerSum2 += Math.pow(readedValues.get(i), 2);
+			stdev = Math.sqrt(i * powerSum2 - Math.pow(powerSum1, 2)) / i;
+		}
+
+		if (Math.abs(average) < 2 * Double.MIN_VALUE) {
+			return stdev;
+		}
+
+		stdev = stdev / average;
+
+		return stdev;
 	}
 
 }
