@@ -10,7 +10,7 @@ import weka.core.Attribute;
 // class for CSV operations
 public class CSVManager {
 	public Instances GetDataSet(String fileName) {
-		
+
 		Instances dataSet;
 		CSVLoader loader = new CSVLoader();
 		try {
@@ -19,18 +19,18 @@ public class CSVManager {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			
+
 			return null;
 		}
-		
+
 		return dataSet;
 	}
-	
+
 	public Instances DeleteAllCoumnsExceptNumeric(Instances dataset) {
 		dataset.deleteAttributeType(Attribute.DATE);
 		dataset.deleteAttributeType(Attribute.NOMINAL);
 		dataset.deleteAttributeType(Attribute.STRING);
-		
+
 		return dataset;
 	}
 }
