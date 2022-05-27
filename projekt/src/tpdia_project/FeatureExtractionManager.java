@@ -1,7 +1,10 @@
 package tpdia_project;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
+import java.util.OptionalDouble;
 
 import weka.core.Attribute;
 import weka.core.Instance;
@@ -251,7 +254,88 @@ public class FeatureExtractionManager {
 	// 2 - Statistical Features ///////////////////////////////////////
 
 	// Average/Minimum/Maximum/Median/Upper quartile/Lower quartile values
+	public StatisticValuesModel GetAvgMinMaxMedianUpquarLowquar(Instances instances, int columnNumber) {
+		Attribute attribute = instances.attribute(columnNumber);
 
-	// TODO
+		StatisticValuesModel statisticValues = new StatisticValuesModel();
+		statisticValues.Average = -1;
+		statisticValues.Minimum = -1;
+		statisticValues.Maximum = -1;
+		statisticValues.Median = -1;
+		statisticValues.UpperQuartile = -1;
+		statisticValues.LowerQuartile = -1;
+
+		if (!(attribute.isNumeric() || attribute.isNominal())) {
+			return statisticValues;
+		}
+
+		int instancesNumber = instances.numInstances();
+
+		List<Double> readedValues = new ArrayList<Double>();
+
+		// column with all numbers
+		if (attribute.isNumeric()) {
+			for (int row = 0; row < instancesNumber; row++) {
+				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+
+				readedValues.add(tmpVal);
+			}
+		}
+
+		// column that can have null, unknown, etc.
+		if (attribute.isNominal()) {
+			for (int row = 0; row < instancesNumber; row++) {
+				Instance instance = instances.get(row);
+				String tmpValString = instance.stringValue(columnNumber);
+				double tmpVal = 0.0;
+
+				try {
+					tmpVal = Double.parseDouble(tmpValString);
+					readedValues.add(tmpVal);
+				} catch (Exception ex) {
+					// Do nothing
+				}
+			}
+		}
+
+		if (readedValues.size() > 0) {
+			statisticValues.Average = readedValues.stream().mapToDouble(a -> a).average().getAsDouble();
+			statisticValues.Minimum = readedValues.stream().mapToDouble(a -> a).min().getAsDouble();
+			statisticValues.Maximum = readedValues.stream().mapToDouble(a -> a).max().getAsDouble();
+
+			Collections.sort(readedValues);
+
+			double middle = readedValues.size() / 2;
+			if (readedValues.size() % 2 == 0) {
+				middle = (readedValues.get(readedValues.size() / 2) + readedValues.get(readedValues.size() / 2 - 1))
+						/ 2;
+			} else {
+				middle = readedValues.get(readedValues.size() / 2);
+			}
+			
+			statisticValues.Median = middle;
+
+			double quartilies[] = new double[3];
+
+			for (int quartileType = 1; quartileType < 4; quartileType++) {
+				float length = readedValues.size() - 1;
+				double quartile;
+				float newArraySize = (length * ((float) (quartileType) * 25 / 100)) - 1;
+				
+				if (newArraySize % 1 == 0) {
+					quartile = readedValues.get((int) (newArraySize));
+				} else {
+					int newArraySize1 = (int) (newArraySize);
+					quartile = (readedValues.get(newArraySize1) + readedValues.get(newArraySize1 + 1)) / 2;
+				}
+				quartilies[quartileType - 1] = quartile;
+			}
+
+			statisticValues.LowerQuartile = quartilies[0];
+			statisticValues.UpperQuartile = quartilies[2];
+		}
+
+		return statisticValues;
+	}
 
 }

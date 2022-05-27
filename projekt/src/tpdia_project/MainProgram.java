@@ -24,10 +24,13 @@ public class MainProgram {
 
 			System.out.println("---- Column nr.: " + (columnNr + 1));
 
-			int dataType = extractionManager.GetDataType(dataset, columnNr);			
-			ValueRatioModel positiveNegativeZeroValueRatio  = extractionManager.GetPositiveNegativeZeroValueRatio(dataset, columnNr);
+			int dataType = extractionManager.GetDataType(dataset, columnNr);
+			ValueRatioModel positiveNegativeZeroValueRatio = extractionManager
+					.GetPositiveNegativeZeroValueRatio(dataset, columnNr);
 			double uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
 			int sameDigitalNumber = extractionManager.GetSameDigitalNumber(dataset, columnNr);
+			StatisticValuesModel statisticValuesModel = extractionManager.GetAvgMinMaxMedianUpquarLowquar(dataset,
+					columnNr);
 
 			System.out.println("Data Type: " + dataType);
 			System.out.println("Positive value ratio: " + positiveNegativeZeroValueRatio.PositiveValueRatio);
@@ -35,6 +38,12 @@ public class MainProgram {
 			System.out.println("Zero value ratio: " + positiveNegativeZeroValueRatio.ZeroValueRatio);
 			System.out.println("Unique value ratio: " + uniqueValueRatio);
 			System.out.println("Same digital number: " + sameDigitalNumber);
+			System.out.println("Average: " + statisticValuesModel.Average);
+			System.out.println("Minimum: " + statisticValuesModel.Minimum);
+			System.out.println("Maximum: " + statisticValuesModel.Maximum);
+			System.out.println("Median: " + statisticValuesModel.Median);
+			System.out.println("Upper quartile: " + statisticValuesModel.UpperQuartile);
+			System.out.println("Lower quartile: " + statisticValuesModel.LowerQuartile);
 		}
 
 		System.out.println();
