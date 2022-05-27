@@ -10,7 +10,7 @@ import weka.core.Instances;
 // class for extracting features data from columns
 public class FeatureExtractionManager {
 
-	// 1 - General ///////////////////////////////////////
+	// 1 - General Features ///////////////////////////////////////
 
 	// DataType
 	public int GetDataType(Instances instances, int columnNumber) {
@@ -85,167 +85,43 @@ public class FeatureExtractionManager {
 		return -1;
 	}
 
-	// Positive value ratio
-	public double GetPositiveValueRatio(Instances instances, int columnNumber) {
+	// Positive, negative, zero value ratio
+	public ValueRatioModel GetPositiveNegativeZeroValueRatio(Instances instances, int columnNumber) {
 		Attribute attribute = instances.attribute(columnNumber);
 
+		ValueRatioModel valueRatio = new ValueRatioModel();
+		valueRatio.NegativeValueRatio = -1;
+		valueRatio.PositiveValueRatio = -1;
+		valueRatio.ZeroValueRatio = -1;
+
 		if (!(attribute.isNumeric() || attribute.isNominal())) {
-			return -1; // no numeric or nominal column
+			return valueRatio;
 		}
 
 		int instancesNumber = instances.numInstances();
 		int positiveValue = 0;
-
-		// column with all numbers
-		if (attribute.isNumeric()) {
-			for (int row = 0; row < instancesNumber; row++) {
-				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
-
-				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
-					continue;
-				}
-
-				if (tmpVal > 0) {
-					positiveValue++;
-				}
-			}
-
-			double positiveRatio = positiveValue / (double) instancesNumber;
-
-			return positiveRatio;
-		}
-
-		int nullInstancesNumber = 0;
-
-		// column that can have null, unknown, etc.
-		if (attribute.isNominal()) {
-			for (int row = 0; row < instancesNumber; row++) {
-				Instance instance = instances.get(row);
-				String tmpValString = instance.stringValue(columnNumber);
-				double tmpVal = 0.0;
-
-				try {
-					tmpVal = Double.parseDouble(tmpValString);
-
-					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
-						continue;
-					}
-
-					if (tmpVal > 0) {
-						positiveValue++;
-					}
-
-				} catch (Exception ex) {
-					nullInstancesNumber++;
-				}
-			}
-
-			int fixedInstancesNumber = instancesNumber - nullInstancesNumber;
-
-			if (fixedInstancesNumber <= 0) {
-				return -1;
-			}
-
-			double positiveRatio = positiveValue / (double) fixedInstancesNumber;
-
-			return positiveRatio;
-		}
-
-		return -1;
-	}
-
-	// Negative value ratio
-	public double GetNegativeValueRatio(Instances instances, int columnNumber) {
-		Attribute attribute = instances.attribute(columnNumber);
-
-		if (!(attribute.isNumeric() || attribute.isNominal())) {
-			return -1; // no numeric or nominal column
-		}
-
-		int instancesNumber = instances.numInstances();
 		int negativeValue = 0;
-
-		// column with all numbers
-		if (attribute.isNumeric()) {
-			for (int row = 0; row < instancesNumber; row++) {
-				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
-
-				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
-					continue;
-				}
-
-				if (tmpVal < 0) {
-					negativeValue++;
-				}
-			}
-
-			double positiveRatio = negativeValue / (double) instancesNumber;
-
-			return positiveRatio;
-		}
-
-		int nullInstancesNumber = 0;
-
-		// column that can have null, unknown, etc.
-		if (attribute.isNominal()) {
-			for (int row = 0; row < instancesNumber; row++) {
-				Instance instance = instances.get(row);
-				String tmpValString = instance.stringValue(columnNumber);
-				double tmpVal = 0.0;
-
-				try {
-					tmpVal = Double.parseDouble(tmpValString);
-
-					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
-						continue;
-					}
-
-					if (tmpVal < 0) {
-						negativeValue++;
-					}
-
-				} catch (Exception ex) {
-					nullInstancesNumber++;
-				}
-			}
-
-			int fixedInstancesNumber = instancesNumber - nullInstancesNumber;
-
-			if (fixedInstancesNumber <= 0) {
-				return -1;
-			}
-
-			double positiveRatio = negativeValue / (double) fixedInstancesNumber;
-
-			return positiveRatio;
-		}
-
-		return -1;
-	}
-
-	// Zero value ratio
-	public double GetZeroValueRatio(Instances instances, int columnNumber) {
-		Attribute attribute = instances.attribute(columnNumber);
-
-		if (!(attribute.isNumeric() || attribute.isNominal())) {
-			return -1; // no numeric or nominal column
-		}
-
-		int instancesNumber = instances.numInstances();
 		int zeroValue = 0;
 
 		// column with all numbers
 		if (attribute.isNumeric()) {
 			for (int row = 0; row < instancesNumber; row++) {
 				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+
 				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 					zeroValue++;
+				} else if (tmpVal > 0) {
+					positiveValue++;
+				} else {
+					negativeValue++;
 				}
 			}
 
-			double positiveRatio = zeroValue / (double) instancesNumber;
+			valueRatio.NegativeValueRatio = negativeValue / (double) instancesNumber;
+			valueRatio.PositiveValueRatio = positiveValue / (double) instancesNumber;
+			valueRatio.ZeroValueRatio = zeroValue / (double) instancesNumber;
 
-			return positiveRatio;
+			return valueRatio;
 		}
 
 		int nullInstancesNumber = 0;
@@ -262,6 +138,10 @@ public class FeatureExtractionManager {
 
 					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 						zeroValue++;
+					} else if (tmpVal > 0) {
+						positiveValue++;
+					} else {
+						negativeValue++;
 					}
 
 				} catch (Exception ex) {
@@ -272,15 +152,17 @@ public class FeatureExtractionManager {
 			int fixedInstancesNumber = instancesNumber - nullInstancesNumber;
 
 			if (fixedInstancesNumber <= 0) {
-				return -1;
+				return valueRatio;
 			}
 
-			double positiveRatio = zeroValue / (double) fixedInstancesNumber;
+			valueRatio.NegativeValueRatio = negativeValue / (double) fixedInstancesNumber;
+			valueRatio.PositiveValueRatio = positiveValue / (double) fixedInstancesNumber;
+			valueRatio.ZeroValueRatio = zeroValue / (double) fixedInstancesNumber;
 
-			return positiveRatio;
+			return valueRatio;
 		}
 
-		return -1;
+		return valueRatio;
 	}
 
 	// Unique value ratio
@@ -365,5 +247,11 @@ public class FeatureExtractionManager {
 
 		return 0;
 	}
+
+	// 2 - Statistical Features ///////////////////////////////////////
+
+	// Average/Minimum/Maximum/Median/Upper quartile/Lower quartile values
+
+	// TODO
 
 }
