@@ -29,13 +29,16 @@ public class MainProgram {
 			double positiveValueRatio = extractionManager.GetPositiveValueRatio(dataset, columnNr);
 			double negativeValueRatio = extractionManager.GetNegativeValueRatio(dataset, columnNr);
 			double zeroValueRatio = extractionManager.GetZeroValueRatio(dataset, columnNr);
+			double uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
 
 			System.out.println("Data Type: " + dataType);
 			System.out.println("Positive value ratio: " + positiveValueRatio);
 			System.out.println("Negative value ratio: " + negativeValueRatio);
 			System.out.println("Zero value ratio: " + zeroValueRatio);
+			System.out.println("Unique value ratio: " + uniqueValueRatio);
 		}
 
+		System.out.println();
 		System.out.println(dataset.toSummaryString());
 	}
 }

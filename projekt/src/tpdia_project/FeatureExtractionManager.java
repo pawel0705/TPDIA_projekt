@@ -1,5 +1,8 @@
 package tpdia_project;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -13,8 +16,10 @@ public class FeatureExtractionManager {
 	public int GetDataType(Instances instances, int columnNumber) {
 		Attribute attribute = instances.attribute(columnNumber);
 
-		if (!attribute.isNumeric()) {
-			return -1; // no numeric column
+		// je¿eli kolumna ma przyk³adowo 99% liczb i 1% np. NULL jest to traktowane jako
+		// Nominal (wiêc trzeba uwzglêdniaæ)
+		if (!(attribute.isNumeric() || attribute.isNominal())) {
+			return -1; // no numeric or nominal column
 		}
 
 		int instancesNumber = instances.numInstances();
@@ -22,23 +27,62 @@ public class FeatureExtractionManager {
 		int intNumbers = 0;
 		int realNumbers = 0;
 
-		for (int row = 0; row < instancesNumber; row++) {
-			double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+		if (attribute.isNumeric()) {
+			for (int row = 0; row < instancesNumber; row++) {
+				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
 
-			tmpVal = Math.abs(tmpVal - Math.floor(tmpVal));
-			
-			if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
-				intNumbers++;
-			} else {
-				realNumbers++;
+				tmpVal = Math.abs(tmpVal - Math.floor(tmpVal));
+
+				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
+					intNumbers++;
+				} else {
+					realNumbers++;
+				}
 			}
+
+			if (realNumbers > intNumbers) {
+				return 0; // float column
+			}
+
+			return 1; // integer column
 		}
 
-		if (realNumbers > intNumbers) {
-			return 0; // float column
+		if (attribute.isNominal()) {
+			int notNumber = 0;
+
+			for (int row = 0; row < instancesNumber; row++) {
+				Instance instance = instances.get(row);
+				String tmpValString = instance.stringValue(columnNumber);
+				double tmpVal = 0.0;
+
+				try {
+					tmpVal = Double.parseDouble(tmpValString);
+					tmpVal = Math.abs(tmpVal - Math.floor(tmpVal));
+
+					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
+						intNumbers++;
+					} else {
+						realNumbers++;
+					}
+
+				} catch (Exception ex) {
+					notNumber++;
+				}
+			}
+
+			if (notNumber > (instancesNumber * 0.8)) {
+				return -1; // je¿eli ponad 80% to nie jest numer, to taka kolumna nie ma sensu byæ brana
+							// pod uwagê (80% to mój pomys³)
+			}
+
+			if (realNumbers > intNumbers) {
+				return 0; // float column
+			}
+
+			return 1; // integer column
 		}
 
-		return 1; // integer column
+		return -1;
 	}
 
 	// Positive value ratio
@@ -56,11 +100,11 @@ public class FeatureExtractionManager {
 		if (attribute.isNumeric()) {
 			for (int row = 0; row < instancesNumber; row++) {
 				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
-				
+
 				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 					continue;
 				}
-				
+
 				if (tmpVal > 0) {
 					positiveValue++;
 				}
@@ -86,7 +130,7 @@ public class FeatureExtractionManager {
 					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 						continue;
 					}
-					
+
 					if (tmpVal > 0) {
 						positiveValue++;
 					}
@@ -125,11 +169,11 @@ public class FeatureExtractionManager {
 		if (attribute.isNumeric()) {
 			for (int row = 0; row < instancesNumber; row++) {
 				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
-				
+
 				if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 					continue;
 				}
-				
+
 				if (tmpVal < 0) {
 					negativeValue++;
 				}
@@ -155,7 +199,7 @@ public class FeatureExtractionManager {
 					if (Math.abs(tmpVal) < 2 * Double.MIN_VALUE) {
 						continue;
 					}
-					
+
 					if (tmpVal < 0) {
 						negativeValue++;
 					}
@@ -237,5 +281,40 @@ public class FeatureExtractionManager {
 		}
 
 		return -1;
+	}
+
+	// Unique value ratio
+	public double GetUniqueValueRatio(Instances instances, int columnNumber) {
+		Attribute attribute = instances.attribute(columnNumber);
+
+		if (!(attribute.isNumeric() || attribute.isNominal())) {
+			return -1; // no numeric or nominal column
+		}
+
+		int instancesNumber = instances.numInstances();
+
+		List<String> uniqueValues = new ArrayList<>();
+
+		for (int row = 0; row < instancesNumber; row++) {
+			Instance instance = instances.get(row);
+			String tmpValString = "";
+
+			if (attribute.isNominal()) {
+				tmpValString = instance.stringValue(columnNumber);
+			}
+
+			if (attribute.isNumeric()) {
+				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+				tmpValString = String.valueOf(tmpVal);
+			}
+
+			if (!uniqueValues.contains(tmpValString)) {
+				uniqueValues.add(tmpValString);
+			}
+		}
+
+		double uniqueRatio = (double) uniqueValues.size() / (double) instancesNumber;
+
+		return uniqueRatio;
 	}
 }
