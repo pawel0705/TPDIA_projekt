@@ -380,23 +380,71 @@ public class FeatureExtractionManager {
 			average = readedValues.stream().mapToDouble(a -> a).average().getAsDouble();
 		}
 
-		double powerSum1 = 0;
-		double powerSum2 = 0;
-		double stdev = 0;
+		double stdev = -1;
+		double sum = 0;
 
-		for (int i = 0; i < readedValues.size(); i++) {
-			powerSum1 += readedValues.get(i);
-			powerSum2 += Math.pow(readedValues.get(i), 2);
-			stdev = Math.sqrt(i * powerSum2 - Math.pow(powerSum1, 2)) / i;
+		if (readedValues.size() > 0) {
+			for (int i = 0; i < readedValues.size(); i++) {
+				sum = sum + (readedValues.get(i) - average) * (readedValues.get(i) - average);
+			}
+			double squaredDiffMean = (sum) / (readedValues.size());
+			stdev = (Math.sqrt(squaredDiffMean));
+
+			if (Math.abs(average) < 2 * Double.MIN_VALUE) {
+				return stdev;
+			}
+
+			stdev = stdev / average;
 		}
-
-		if (Math.abs(average) < 2 * Double.MIN_VALUE) {
-			return stdev;
-		}
-
-		stdev = stdev / average;
 
 		return stdev;
+	}
+
+	// Range ratio
+	public double GetRangeRatio(Instances instances, int columnNumber) {
+		Attribute attribute = instances.attribute(columnNumber);
+
+		if (!(attribute.isNumeric() || attribute.isNominal())) {
+			return -1; // no numeric or nominal column
+		}
+
+		int instancesNumber = instances.numInstances();
+
+		List<Double> uniqueValues = new ArrayList<>();
+
+		for (int row = 0; row < instancesNumber; row++) {
+			Instance instance = instances.get(row);
+			double tmpVal = 0.0;
+
+			if (attribute.isNominal()) {
+				String tmpValString = instance.stringValue(columnNumber);
+
+				try {
+					tmpVal = Double.parseDouble(tmpValString);
+				} catch (Exception ex) {
+					continue;
+				}
+			}
+
+			if (attribute.isNumeric()) {
+				tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+			}
+
+			if (!uniqueValues.contains(tmpVal)) {
+				uniqueValues.add(tmpVal);
+			}
+		}
+
+		double rangeRatio = -1;
+
+		if (uniqueValues.size() > 0) {
+			double minimum = uniqueValues.stream().mapToDouble(a -> a).min().getAsDouble();
+			double maximum = uniqueValues.stream().mapToDouble(a -> a).max().getAsDouble();
+
+			rangeRatio = (maximum - minimum) / uniqueValues.size();
+		}
+
+		return rangeRatio;
 	}
 
 }

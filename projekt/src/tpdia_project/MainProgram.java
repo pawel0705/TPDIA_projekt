@@ -35,6 +35,7 @@ public class MainProgram {
 			StatisticValuesModel statisticValuesModel = extractionManager.GetAvgMinMaxMedianUpquarLowquar(dataset,
 					columnNr);
 			double coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
+			double rangeRatio = extractionManager.GetRangeRatio(dataset, columnNr);
 
 			// Results in console
 			System.out.println("Data Type: " + dataType);
@@ -50,6 +51,7 @@ public class MainProgram {
 			System.out.println("Upper quartile: " + statisticValuesModel.UpperQuartile);
 			System.out.println("Lower quartile: " + statisticValuesModel.LowerQuartile);
 			System.out.println("Coefficient Of Variation: " + coefficientOfVariation);
+			System.out.println("Range ratio: " + rangeRatio);
 		}
 
 		// Some data about CSV
