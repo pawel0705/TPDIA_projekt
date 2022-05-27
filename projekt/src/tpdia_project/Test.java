@@ -5,6 +5,7 @@ import java.io.IOException;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
+import weka.core.Attribute;
 import weka.core.Instances;
 import weka.core.converters.CSVLoader;
 import weka.filters.Filter;
@@ -78,5 +79,14 @@ public class Test {
 	            }  
 	      } 
 		 System.out.println("RandomForest classification precision:"+(right/sum));  
+	}
+	
+	public static void main(String[] args) {
+		try {
+			process();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }

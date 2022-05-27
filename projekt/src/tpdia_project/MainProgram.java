@@ -21,9 +21,9 @@ public class MainProgram {
 		//int instancesNumber = dataset.numInstances(); 
 		System.out.println(attributesNumber);
 		for(int columnNr = 0; columnNr < attributesNumber; columnNr++) {
-			Attribute attribute = dataset.attribute(columnNr);		
-			int dataType = extractionManager.GetDataType(attribute, dataset, columnNr); // -1 - no number column; 1 - integer; 0 - float
-			System.out.println(dataType); 
+				
+			int dataType = extractionManager.GetDataType(dataset, columnNr); // -1 - no number column; 1 - integer; 0 - float
+			double positiveValueRatio = extractionManager.GetPositiveValueRatio(dataset, columnNr);
 		}
 		
 		System.out.println(dataset.toSummaryString());
