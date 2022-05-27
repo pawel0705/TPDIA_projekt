@@ -20,6 +20,7 @@ public class MainProgram {
 		int attributesNumber = dataset.numAttributes();
 
 		System.out.println("----- File: " + test_dataset + " -----");
+		double numericalColumnRatio = extractionManager.GetNumericalColumnRatio(dataset);
 		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) {
 
 			System.out.println("---- Column nr.: " + (columnNr + 1));
@@ -37,8 +38,10 @@ public class MainProgram {
 			double coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
 			double rangeRatio = extractionManager.GetRangeRatio(dataset, columnNr);
 
-			// ----- Inter-Column Features
+			// ----- Inter-Column Features // Uwaga. Potrzebna wiedza o wszystkich kolumnach
+			// (wiêc poza nominalnymi i numerycznymi musz¹ byæ pozosta³e)
 			double locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr + 1);
+			double numericalColumnRatioTmp = numericalColumnRatio;
 
 			// Results in console
 			System.out.println("Data Type: " + dataType);
@@ -56,6 +59,7 @@ public class MainProgram {
 			System.out.println("Coefficient Of Variation: " + coefficientOfVariation);
 			System.out.println("Range ratio: " + rangeRatio);
 			System.out.println("Location ratio: " + locationRatio);
+			System.out.println("Numerical column ratio: " + numericalColumnRatioTmp);
 		}
 
 		// Some data about CSV

@@ -451,10 +451,24 @@ public class FeatureExtractionManager {
 
 	// Location ratio
 	public double GetLocationRatio(int maxColumns, int columnNumber) {
-
 		double locationRatio = ((double) columnNumber - 1.0) / ((double) maxColumns - 1.0);
 
 		return locationRatio;
 	}
 
+	// Numerical column ratio
+	public double GetNumericalColumnRatio(Instances instances) {
+		int attributesNumber = instances.numAttributes();
+		int columnsWithNumbers = 0;
+
+		for (int i = 0; i < attributesNumber; i++) {
+			if (this.GetDataType(instances, i) != -1) {
+				columnsWithNumbers++;
+			}
+		}
+
+		double numericalColumnRatio = (double) columnsWithNumbers / (double) attributesNumber;
+
+		return numericalColumnRatio;
+	}
 }
