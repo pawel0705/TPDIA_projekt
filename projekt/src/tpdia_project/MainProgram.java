@@ -37,6 +37,9 @@ public class MainProgram {
 			double coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
 			double rangeRatio = extractionManager.GetRangeRatio(dataset, columnNr);
 
+			// ----- Inter-Column Features
+			double locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr + 1);
+
 			// Results in console
 			System.out.println("Data Type: " + dataType);
 			System.out.println("Positive value ratio: " + positiveNegativeZeroValueRatio.PositiveValueRatio);
@@ -52,6 +55,7 @@ public class MainProgram {
 			System.out.println("Lower quartile: " + statisticValuesModel.LowerQuartile);
 			System.out.println("Coefficient Of Variation: " + coefficientOfVariation);
 			System.out.println("Range ratio: " + rangeRatio);
+			System.out.println("Location ratio: " + locationRatio);
 		}
 
 		// Some data about CSV

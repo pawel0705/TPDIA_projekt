@@ -447,4 +447,14 @@ public class FeatureExtractionManager {
 		return rangeRatio;
 	}
 
+	// 3 - Inter-Column Features ///////////////////////////////////////
+
+	// Location ratio
+	public double GetLocationRatio(int maxColumns, int columnNumber) {
+
+		double locationRatio = ((double) columnNumber - 1.0) / ((double) maxColumns - 1.0);
+
+		return locationRatio;
+	}
+
 }
