@@ -451,7 +451,7 @@ public class FeatureExtractionManager {
 
 	// Location ratio
 	public double GetLocationRatio(int maxColumns, int columnNumber) {
-		double locationRatio = ((double) columnNumber - 1.0) / ((double) maxColumns - 1.0);
+		double locationRatio = ((double) columnNumber) / ((double) maxColumns - 1.0);
 
 		return locationRatio;
 	}
@@ -470,5 +470,40 @@ public class FeatureExtractionManager {
 		double numericalColumnRatio = (double) columnsWithNumbers / (double) attributesNumber;
 
 		return numericalColumnRatio;
+	}
+
+	// TODO ? Multiple functional dependencies
+
+	// Numerical neighbor
+	public double GetNumericalNeighbor(Instances instances, int maxColumns, int columnNumber) {
+
+		if (this.GetDataType(instances, columnNumber) == -1) {
+			return 0;
+		}
+
+		if (columnNumber == 0 && this.GetDataType(instances, columnNumber + 1) != -1) {
+			return 1;
+		}
+
+		if (columnNumber == (maxColumns - 1) && this.GetDataType(instances, columnNumber - 1) != -1) {
+			return 1;
+		}
+
+		if (columnNumber != 0 && columnNumber != (maxColumns - 1) && this.GetDataType(instances, columnNumber + 1) != -1
+				&& this.GetDataType(instances, columnNumber - 1) != -1) {
+			return 1;
+		}
+
+		if (columnNumber != 0 && columnNumber != (maxColumns - 1) && this.GetDataType(instances, columnNumber + 1) != -1
+				&& this.GetDataType(instances, columnNumber - 1) == -1) {
+			return 0.5;
+		}
+
+		if (columnNumber != 0 && columnNumber != (maxColumns - 1) && this.GetDataType(instances, columnNumber + 1) == -1
+				&& this.GetDataType(instances, columnNumber - 1) != -1) {
+			return 0.5;
+		}
+
+		return 0;
 	}
 }

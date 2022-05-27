@@ -40,8 +40,9 @@ public class MainProgram {
 
 			// ----- Inter-Column Features // Uwaga. Potrzebna wiedza o wszystkich kolumnach
 			// (wiêc poza nominalnymi i numerycznymi musz¹ byæ pozosta³e)
-			double locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr + 1);
+			double locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr);
 			double numericalColumnRatioTmp = numericalColumnRatio;
+			double numericalNeighbor = extractionManager.GetNumericalNeighbor(dataset, attributesNumber, columnNr);
 
 			// Results in console
 			System.out.println("Data Type: " + dataType);
@@ -60,6 +61,7 @@ public class MainProgram {
 			System.out.println("Range ratio: " + rangeRatio);
 			System.out.println("Location ratio: " + locationRatio);
 			System.out.println("Numerical column ratio: " + numericalColumnRatioTmp);
+			System.out.println("Numerical neighbor: " + numericalNeighbor);
 		}
 
 		// Some data about CSV
