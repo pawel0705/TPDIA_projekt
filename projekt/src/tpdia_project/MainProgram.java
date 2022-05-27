@@ -24,18 +24,19 @@ public class MainProgram {
 
 			System.out.println("---- Column nr.: " + (columnNr + 1));
 
-			int dataType = extractionManager.GetDataType(dataset, columnNr); // -1 - no number column; 1 - integer; 0 -
-																				// float
+			int dataType = extractionManager.GetDataType(dataset, columnNr);
 			double positiveValueRatio = extractionManager.GetPositiveValueRatio(dataset, columnNr);
 			double negativeValueRatio = extractionManager.GetNegativeValueRatio(dataset, columnNr);
 			double zeroValueRatio = extractionManager.GetZeroValueRatio(dataset, columnNr);
 			double uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
+			int sameDigitalNumber = extractionManager.GetSameDigitalNumber(dataset, columnNr);
 
 			System.out.println("Data Type: " + dataType);
 			System.out.println("Positive value ratio: " + positiveValueRatio);
 			System.out.println("Negative value ratio: " + negativeValueRatio);
 			System.out.println("Zero value ratio: " + zeroValueRatio);
 			System.out.println("Unique value ratio: " + uniqueValueRatio);
+			System.out.println("Same digital number: " + sameDigitalNumber);
 		}
 
 		System.out.println();

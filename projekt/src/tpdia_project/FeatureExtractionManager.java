@@ -317,4 +317,53 @@ public class FeatureExtractionManager {
 
 		return uniqueRatio;
 	}
+
+	// Same digital number
+	public int GetSameDigitalNumber(Instances instances, int columnNumber) {
+
+		int dataType = this.GetDataType(instances, columnNumber);
+
+		if (dataType == -1) // must be integer
+		{
+			return -1;
+		}
+
+		if (dataType == 0) {
+			return 0;
+		}
+
+		int instancesNumber = instances.numInstances();
+		Attribute attribute = instances.attribute(columnNumber);
+
+		List<Integer> uniqueLength = new ArrayList<>();
+
+		for (int row = 0; row < instancesNumber; row++) {
+			Instance instance = instances.get(row);
+
+			String tmpValString = "";
+
+			if (attribute.isNominal()) {
+				tmpValString = instance.stringValue(columnNumber);
+			}
+
+			if (attribute.isNumeric()) {
+				double tmpVal = instances.attributeToDoubleArray(columnNumber)[row];
+				tmpValString = String.valueOf(tmpVal);
+			}
+
+			int dataLength = tmpValString.length();
+
+			if (!uniqueLength.contains(dataLength)) {
+				uniqueLength.add(dataLength);
+			}
+
+		}
+
+		if (uniqueLength.size() == 1) {
+			return 1;
+		}
+
+		return 0;
+	}
+
 }
