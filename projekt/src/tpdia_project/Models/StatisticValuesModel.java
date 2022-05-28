@@ -1,4 +1,4 @@
-package tpdia_project;
+package tpdia_project.Models;
 
 import java.util.OptionalDouble;
 

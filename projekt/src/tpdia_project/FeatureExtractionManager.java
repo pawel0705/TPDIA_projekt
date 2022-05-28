@@ -6,6 +6,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.OptionalDouble;
 
+import tpdia_project.Models.StatisticValuesModel;
+import tpdia_project.Models.ValueRatioModel;
 import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;

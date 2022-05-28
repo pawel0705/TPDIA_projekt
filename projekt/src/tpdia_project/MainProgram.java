@@ -1,25 +1,98 @@
 package tpdia_project;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
 
+import tpdia_project.Models.DatasetInformationModel;
+import tpdia_project.Models.StatisticValuesModel;
+import tpdia_project.Models.ValueRatioModel;
 import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
 
-// TODO read from all files (not only 1 csv)
 public class MainProgram {
-	public static void main(String[] args) {
-		String test_dataset = "datasets/CA/natural-gas-liquids-exports-annual.csv";
+	static CSVManager csvManager = new CSVManager();
+	static FeatureExtractionManager extractionManager = new FeatureExtractionManager();
 
-		CSVManager csvManager = new CSVManager();
-		FeatureExtractionManager extractionManager = new FeatureExtractionManager();
+	public static void main(String[] args) {
+
+		boolean exitProgram = false;
+		String pressedKey = "";
+
+		do {
+			PrintHelp();
+
+			Scanner in = new Scanner(System.in);
+			pressedKey = in.nextLine();
+
+			if (pressedKey.equals("a") || pressedKey.equals("A")) {
+				TrainModel();
+			}
+
+			if (pressedKey.equals("q") || pressedKey.equals("Q")) {
+				exitProgram = true;
+			}
+
+			pressedKey = "";
+		} while (exitProgram == false);
+
+		return;
+	}
+
+	private static void PrintHelp() {
+		System.out.println("Aby dokonaæ trenowania modelu wciœnij klawisz \"a\" i potwierdŸ wybór.");
+		System.out.println("Aby dokonaæ wyjœæ z programu wciœnij klawisz \"q\" i potwierdŸ wybór.");
+	}
+
+	// TODO - work in progress...
+	private static void TrainModel() {
+		String datasetFiles[] = { "AFD", "CA", "CDC" };
+
+		int failureInterator = 0;
+		int filesOpenedIterator = 0;
+
+		for (int i = 0; i < datasetFiles.length; i++) {
+			String domainModelName = datasetFiles[i];
+			ArrayList<DatasetInformationModel> datasetsInfo = csvManager.GetDatasetsInfoFromDomain(domainModelName);
+
+			if (datasetsInfo == null) {
+				continue;
+			}
+
+			for (int j = 0; j < datasetsInfo.size(); j++) {
+				filesOpenedIterator++;
+				boolean result = ProcessOneDataset(domainModelName, datasetsInfo.get(j).DatasetName);
+
+				if (result == false) {
+					failureInterator++;
+				}
+			}
+		}
+		
+		System.out.println("---- Done training model ----");
+		System.out.println("Total files count: " + filesOpenedIterator);
+		System.out.println("Number of files that could not be opened: " + failureInterator);
+	}
+
+	private static boolean ProcessOneDataset(String domainName, String fileName) {
+
+		boolean success = true;
+
+		String fullDatasetPath = "datasets/" + domainName + "/" + fileName + ".csv";
 
 		Instances dataset;
-		dataset = csvManager.GetDataSet(test_dataset);
+		dataset = csvManager.GetDataSet(fullDatasetPath);
+
+		if (dataset == null) {
+			success = false;
+			System.out.println("There was a problem reading the file: " + fullDatasetPath + ". Skipping..");
+			return success;
+		}
 
 		int attributesNumber = dataset.numAttributes();
 
-		System.out.println("----- File: " + test_dataset + " -----");
+		System.out.println("----- File: " + fullDatasetPath + " -----");
 		double numericalColumnRatio = extractionManager.GetNumericalColumnRatio(dataset);
 		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) {
 
@@ -67,5 +140,7 @@ public class MainProgram {
 		// Some data about CSV
 		System.out.println();
 		System.out.println(dataset.toSummaryString());
+
+		return success;
 	}
 }

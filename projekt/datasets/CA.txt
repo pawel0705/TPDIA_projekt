@@ -1,4 +1,4 @@
-AEL_MGMNT_RWCN_ANNUAL 5 6 7 
+AEL_MGMNT_RWCN_ANNUAL DISCARD 
 aors-aia 3 4 5 6 7 
 bottinorganisme 5 
 consommation_energetique_batiments_plus_2000m2 5 6 7 8 9 10 11 12 
