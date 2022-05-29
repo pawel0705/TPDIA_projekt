@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 import tpdia_project.Models.DatasetInformationModel;
@@ -63,7 +64,7 @@ public class MainProgram {
 
 			for (int j = 0; j < datasetsInfo.size(); j++) {
 				filesOpenedIterator++;
-				boolean result = ProcessOneDataset(domainModelName, datasetsInfo.get(j).DatasetName);
+				boolean result = ProcessOneDataset(domainModelName, datasetsInfo.get(j).DatasetName, datasetsInfo.get(j).MeasuresColumns);
 
 				if (result == false) {
 					failureInterator++;
@@ -99,7 +100,8 @@ public class MainProgram {
 					+ "RangeRatio,"
 					+ "LocationRatio,"
 					+ "NumericalColumnRatio,"
-					+ "NumericalNeighbour"
+					+ "NumericalNeighbour,"
+					+ "IsMeasure"
 					+ "\n");
 			
 			for(Features columnFeatures : features)
@@ -116,7 +118,7 @@ public class MainProgram {
 		}
 	}
 	
-	private static boolean ProcessOneDataset(String domainName, String fileName) {
+	private static boolean ProcessOneDataset(String domainName, String fileName, List<Integer> measuresColumns) {
 
 		boolean success = true;
 
@@ -139,7 +141,7 @@ public class MainProgram {
 		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) 
 		{
 			System.out.println("---- Column nr.: " + (columnNr + 1));
-			features[columnNr] = new Features(dataset, columnNr);
+			features[columnNr] = new Features(dataset, columnNr, measuresColumns.contains(columnNr + 1));
 		}
 		
 		SaveFeaturesToCSV(features, "extractedFeatures/", fileName);

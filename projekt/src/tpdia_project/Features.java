@@ -26,8 +26,12 @@ public class Features {
 	double numericalColumnRatioTmp;
 	double numericalNeighbor;
 	
-	public Features(Instances dataset, int columnNr)
+	boolean isFeature;
+	
+	public Features(Instances dataset, int columnNr, boolean isFeature)
 	{
+		this.isFeature = isFeature;
+		
 		FeatureExtractionManager extractionManager = new FeatureExtractionManager();
 		
 		int attributesNumber = dataset.numAttributes();
@@ -108,6 +112,7 @@ public class Features {
 				+ rangeRatio + ","
 				+ locationRatio + ","
 				+ numericalColumnRatioTmp + ","
-				+ numericalNeighbor +"\n");
+				+ numericalNeighbor + ","
+				+ (isFeature ? 1 : 0) + "\n");
 	}
 }
