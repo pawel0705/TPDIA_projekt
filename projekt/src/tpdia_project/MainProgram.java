@@ -1,5 +1,7 @@
 package tpdia_project;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -13,7 +15,6 @@ import weka.core.Instances;
 
 public class MainProgram {
 	static CSVManager csvManager = new CSVManager();
-	static FeatureExtractionManager extractionManager = new FeatureExtractionManager();
 
 	public static void main(String[] args) {
 
@@ -41,8 +42,8 @@ public class MainProgram {
 	}
 
 	private static void PrintHelp() {
-		System.out.println("Aby dokonaæ trenowania modelu wciœnij klawisz \"a\" i potwierdŸ wybór.");
-		System.out.println("Aby dokonaæ wyjœæ z programu wciœnij klawisz \"q\" i potwierdŸ wybór.");
+		System.out.println("Aby dokonaï¿½ trenowania modelu wciï¿½nij klawisz \"a\" i potwierdï¿½ wybï¿½r.");
+		System.out.println("Aby dokonaï¿½ wyjï¿½ï¿½ z programu wciï¿½nij klawisz \"q\" i potwierdï¿½ wybï¿½r.");
 	}
 
 	// TODO - work in progress...
@@ -75,6 +76,46 @@ public class MainProgram {
 		System.out.println("Number of files that could not be opened: " + failureInterator);
 	}
 
+	private static void SaveFeaturesToCSV(Features[] features, String directory, String fileName)
+	{
+		File dir = new File(directory);
+		if(!dir.exists())
+		{
+			dir.mkdirs();
+		}
+		
+		try 
+		{
+			File csv = new File(directory + fileName + ".csv");
+			csv.createNewFile();
+			
+			FileWriter writer = new FileWriter(csv);
+			writer.write("DataType,"
+					+ "PositiveValueRatio,NegativeValueRatio,ZeroValueRatio,"
+					+ "UniqueValueRatio,"
+					+ "SameDigitalNumber,"
+					+ "Average,Minimum,Maximum,Median,UpperQuartile,LowerQuartile,"
+					+ "VariationCoefficient,"
+					+ "RangeRatio,"
+					+ "LocationRatio,"
+					+ "NumericalColumnRatio,"
+					+ "NumericalNeighbour"
+					+ "\n");
+			
+			for(Features columnFeatures : features)
+			{
+				columnFeatures.SaveToCSV(writer);
+			}
+			
+			writer.close();
+		} 
+		catch(IOException e)
+		{
+			System.out.print(e.getMessage());
+			e.printStackTrace();
+		}
+	}
+	
 	private static boolean ProcessOneDataset(String domainName, String fileName) {
 
 		boolean success = true;
@@ -90,53 +131,19 @@ public class MainProgram {
 			return success;
 		}
 
-		int attributesNumber = dataset.numAttributes();
-
 		System.out.println("----- File: " + fullDatasetPath + " -----");
-		double numericalColumnRatio = extractionManager.GetNumericalColumnRatio(dataset);
-		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) {
-
+		
+		int attributesNumber = dataset.numAttributes();
+		Features[] features = new Features[attributesNumber];
+		
+		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) 
+		{
 			System.out.println("---- Column nr.: " + (columnNr + 1));
-
-			// ----- General Features
-			int dataType = extractionManager.GetDataType(dataset, columnNr);
-			ValueRatioModel positiveNegativeZeroValueRatio = extractionManager
-					.GetPositiveNegativeZeroValueRatio(dataset, columnNr);
-			double uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
-			int sameDigitalNumber = extractionManager.GetSameDigitalNumber(dataset, columnNr);
-
-			// ----- Statistical Features
-			StatisticValuesModel statisticValuesModel = extractionManager.GetAvgMinMaxMedianUpquarLowquar(dataset,
-					columnNr);
-			double coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
-			double rangeRatio = extractionManager.GetRangeRatio(dataset, columnNr);
-
-			// ----- Inter-Column Features // Uwaga. Potrzebna wiedza o wszystkich kolumnach
-			// (wiêc poza nominalnymi i numerycznymi musz¹ byæ pozosta³e)
-			double locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr);
-			double numericalColumnRatioTmp = numericalColumnRatio;
-			double numericalNeighbor = extractionManager.GetNumericalNeighbor(dataset, attributesNumber, columnNr);
-
-			// Results in console
-			System.out.println("Data Type: " + dataType);
-			System.out.println("Positive value ratio: " + positiveNegativeZeroValueRatio.PositiveValueRatio);
-			System.out.println("Negative value ratio: " + positiveNegativeZeroValueRatio.NegativeValueRatio);
-			System.out.println("Zero value ratio: " + positiveNegativeZeroValueRatio.ZeroValueRatio);
-			System.out.println("Unique value ratio: " + uniqueValueRatio);
-			System.out.println("Same digital number: " + sameDigitalNumber);
-			System.out.println("Average: " + statisticValuesModel.Average);
-			System.out.println("Minimum: " + statisticValuesModel.Minimum);
-			System.out.println("Maximum: " + statisticValuesModel.Maximum);
-			System.out.println("Median: " + statisticValuesModel.Median);
-			System.out.println("Upper quartile: " + statisticValuesModel.UpperQuartile);
-			System.out.println("Lower quartile: " + statisticValuesModel.LowerQuartile);
-			System.out.println("Coefficient Of Variation: " + coefficientOfVariation);
-			System.out.println("Range ratio: " + rangeRatio);
-			System.out.println("Location ratio: " + locationRatio);
-			System.out.println("Numerical column ratio: " + numericalColumnRatioTmp);
-			System.out.println("Numerical neighbor: " + numericalNeighbor);
+			features[columnNr] = new Features(dataset, columnNr);
 		}
-
+		
+		SaveFeaturesToCSV(features, "extractedFeatures/", fileName);
+		
 		// Some data about CSV
 		System.out.println();
 		System.out.println(dataset.toSummaryString());
