@@ -49,7 +49,7 @@ public class MainProgram {
 
 	// TODO - work in progress...
 	private static void TrainModel() {
-		String datasetFiles[] = { "AFD", "CA", "CDC", "NZ" };
+		String datasetFiles[] = { "AFD", "CA", "CDC", "KG", "NZ" };
 
 		int failureInterator = 0;
 		int filesOpenedIterator = 0;
