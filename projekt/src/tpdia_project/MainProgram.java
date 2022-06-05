@@ -1,6 +1,7 @@
 package tpdia_project;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -15,6 +16,7 @@ import tpdia_project.Models.ValueRatioModel;
 import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
+import weka.core.converters.ConverterUtils.DataSink;
 
 public class MainProgram {
 	static CSVManager csvManager = new CSVManager();
@@ -51,42 +53,51 @@ public class MainProgram {
 
 	// TODO - work in progress...
 	private static void TrainModel() {
-		String datasetFiles[] = { "AFD", "CA", "CDC", "KG", "NZ" };
+		//String datasetFiles[] = { "AFD", "CA", "CDC", "KG", "NZ" };
 
+		Instances main = csvManager.GetDataSet("features.csv", ";");
+		
 		int failureInterator = 0;
 		int filesOpenedIterator = 0;
-
-		for (int i = 0; i < datasetFiles.length; i++) {
-			String domainModelName = datasetFiles[i];
-			ArrayList<DatasetInformationModel> datasetsInfo = csvManager.GetDatasetsInfoFromDomain(domainModelName);
-
-			if (datasetsInfo == null) {
+		
+		String prevFileName = "";
+		
+		for(Instance row : main)
+		{
+			String domainModelName = row.stringValue(0);
+			String fileName = row.stringValue(1);
+			if(prevFileName.equals(fileName))
+			{
 				continue;
 			}
+			
+			//ArrayList<DatasetInformationModel> datasetsInfo = csvManager.GetDatasetsInfoFromDomain(domainModelName);
 
-			for (int j = 0; j < datasetsInfo.size(); j++) {
-				filesOpenedIterator++;
-				boolean result = ProcessOneDataset(domainModelName, datasetsInfo.get(j).DatasetName, datasetsInfo.get(j).MeasuresColumns);
+			//for (int j = 0; j < datasetsInfo.size(); j++) {
+				//filesOpenedIterator++;
+				boolean result = ProcessOneDataset(domainModelName, fileName, main);
 
-				if (result == false) {
-					failureInterator++;
-				}
-			}
+				//if (result == false) {
+				//	failureInterator++;
+				//}
+			//}
+				
+				prevFileName = fileName;
+
 		}
 		
 		System.out.println("---- Done training model ----");
-		System.out.println("Total files count: " + filesOpenedIterator);
-		System.out.println("Number of files that could not be opened: " + failureInterator);
+		SaveMainCSV(main, "newFeatures.csv");
+		//System.out.println("Total files count: " + filesOpenedIterator);
+		//System.out.println("Number of files that could not be opened: " + failureInterator);
 		
-		Instances summedFeatures = GetFeaturesFromAllDataSets();
 	}
 	
-	private static boolean ProcessOneDataset(String domainName, String fileName, List<Integer> measuresColumns) 
+	private static boolean ProcessOneDataset(String domainName, String fileName, Instances main) 
 	{
-
 		boolean success = true;
 
-		String fullDatasetPath = "datasets/" + domainName + "/" + fileName + ".csv";
+		String fullDatasetPath = "datasets/" + domainName + "/" + fileName;
 
 		Instances dataset;
 		dataset = csvManager.GetDataSet(fullDatasetPath);
@@ -105,10 +116,12 @@ public class MainProgram {
 		for (int columnNr = 0; columnNr < attributesNumber; columnNr++) 
 		{
 			System.out.println("---- Column nr.: " + (columnNr + 1));
-			features[columnNr] = new Features(dataset, columnNr, measuresColumns.contains(columnNr + 1));
+			
+			String columnName = dataset.attribute(columnNr).name();
+			features[columnNr] = new Features(dataset, columnName, columnNr);
 		}
 		
-		SaveFeaturesToCSV(features, "extractedFeatures/", fileName);
+		SaveFeaturesToMainCSV(features, main, fileName);
 		
 		// Some data about CSV
 		System.out.println();
@@ -117,7 +130,7 @@ public class MainProgram {
 		return success;
 	}
 
-	private static void SaveFeaturesToCSV(Features[] features, String directory, String fileName)
+	/*private static void SaveFeaturesToCSV(Features[] features, String directory, String fileName)
 	{
 		File dir = new File(directory);
 		if(!dir.exists())
@@ -156,6 +169,44 @@ public class MainProgram {
 			System.out.print(e.getMessage());
 			e.printStackTrace();
 		}
+	}*/
+	
+	private static void SaveFeaturesToMainCSV(Features[] features, Instances main, String fileName)
+	{
+		for(Instance row : main)
+		{
+			if(row.stringValue(1).equals(fileName))
+			{
+				String columnName = row.stringValue(2);
+				for(int i = 0; i < features.length;++i)
+				{
+					if(columnName.equals(features[i].columnName))
+					{
+						row.setValue(5, features[i].dataType);
+						row.setValue(6, features[i].positiveNegativeZeroValueRatio.PositiveValueRatio);
+						row.setValue(7, features[i].positiveNegativeZeroValueRatio.NegativeValueRatio);
+						row.setValue(8, features[i].positiveNegativeZeroValueRatio.ZeroValueRatio);
+						row.setValue(9, features[i].uniqueValueRatio);
+						row.setValue(10, features[i].sameDigitalNumber);
+						
+						row.setValue(11, features[i].statisticValuesModel.Average);
+						row.setValue(12, features[i].statisticValuesModel.Minimum);
+						row.setValue(13, features[i].statisticValuesModel.Maximum);
+						row.setValue(14, features[i].statisticValuesModel.Median);
+						row.setValue(15, features[i].statisticValuesModel.UpperQuartile);
+						row.setValue(16, features[i].statisticValuesModel.LowerQuartile);
+						row.setValue(17, features[i].coefficientOfVariation);
+						row.setValue(18, features[i].rangeRatio);
+						
+						row.setValue(19, features[i].locationRatio);
+						row.setValue(20, features[i].numericalColumnRatioTmp);
+						row.setValue(21, features[i].numericalNeighbor);
+						
+						break;
+					}
+				}
+			}
+		}
 	}
 	
 	private static Instances GetFeaturesFromAllDataSets() 
@@ -181,10 +232,9 @@ public class MainProgram {
 					+ "IsMeasure"
 					+ "\n");
 		
-		
 			for(int i = 0; i < CSVs.length; ++i)
 			{
-				System.out.println(CSVs[i].getName());
+				//System.out.println(CSVs[i].getName());
 				BufferedReader br = new BufferedReader(new FileReader(CSVs[i]));
 				
 				String line = br.readLine();
@@ -206,12 +256,64 @@ public class MainProgram {
 			
 			writer.close();
 			
-			return csvManager.GetDataSet("extractedFeatures/summed.csv");
+			return csvManager.GetDataSet("summed.csv");
 		} 
 		catch(IOException e)
 		{
 			
 		}
 		return null;
+	}
+
+	private static void SaveMainCSV(Instances main, String fileName)
+	{
+		SaveMainCSV(main, fileName, ",");
+	}
+	
+	private static void SaveMainCSV(Instances main, String fileName, String separator)
+	{
+		try 
+		{
+			BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+			
+			for(int i = 0; i < main.numAttributes();++i)
+			{
+				writer.write(main.attribute(i).name());
+				if(i < main.numAttributes() - 1)
+				{
+					writer.write(separator);
+				}
+				else
+				{
+					writer.write("\n");
+				}
+			}
+			
+			for(Instance row : main)
+			{
+				for(int j = 0; j < 3;++j)
+				{
+					writer.write(row.stringValue(j) + separator);
+				}
+				for(int j = 3; j < main.numAttributes();++j)
+				{
+					writer.write(Double.toString(row.value(j)));
+					if(j < main.numAttributes() - 1)
+					{
+						writer.write(separator);
+					}
+					else
+					{
+						writer.write("\n");
+					}
+				}
+			}
+			
+			writer.close();
+		}
+		catch(IOException e)
+		{
+			
+		}
 	}
 }

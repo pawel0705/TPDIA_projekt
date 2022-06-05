@@ -16,15 +16,19 @@ import weka.core.Attribute;
 // class for CSV operations
 public class CSVManager {
 	public Instances GetDataSet(String fileName) {
+		return this.GetDataSet(fileName, ",");
+	}
+	public Instances GetDataSet(String fileName, String fieldSeparator) {
 
 		Instances dataSet;
 		CSVLoader loader = new CSVLoader();
-		loader.setFieldSeparator(",");
+		loader.setFieldSeparator(fieldSeparator);
 		try {
 			loader.setFile(new File(fileName));
 			dataSet = loader.getDataSet();
 		} catch (IOException e) {
 			//e.printStackTrace();
+			System.out.println( e.getMessage());
 			return null;
 		} catch (Exception e) {
 			//e.printStackTrace();

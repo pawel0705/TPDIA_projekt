@@ -9,12 +9,14 @@ import tpdia_project.Models.ValueRatioModel;
 import weka.core.Instances;
 
 public class Features {
-
+	String columnName;
+	int columnNr;
+	
 	// ----- General Features
-	private int dataType;
-	private ValueRatioModel positiveNegativeZeroValueRatio;
-	private double uniqueValueRatio;
-	private int sameDigitalNumber;
+	int dataType;
+	ValueRatioModel positiveNegativeZeroValueRatio;
+	double uniqueValueRatio;
+	int sameDigitalNumber;
 	
 	// ----- Statistical Features
 	StatisticValuesModel statisticValuesModel;
@@ -26,11 +28,11 @@ public class Features {
 	double numericalColumnRatioTmp;
 	double numericalNeighbor;
 	
-	boolean isFeature;
+	boolean isFeature = false;
 	
-	public Features(Instances dataset, int columnNr, boolean isFeature)
+	public Features(Instances dataset, String columnName, int columnNr)
 	{
-		this.isFeature = isFeature;
+		this.columnName = columnName;
 		
 		FeatureExtractionManager extractionManager = new FeatureExtractionManager();
 		
