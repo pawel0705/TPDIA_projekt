@@ -76,7 +76,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2010,1081,INVISTA (Canada) Company,Kingston Site,Kingston,325220,85494.0,0.0,35.0,465.0,0.0,0.0,0.0,,85995,85995.0,,
 2010,1082,INVISTA (Canada) Company,INVISTA (Canada) Company - Maitland Site,Maitland,325190,222576.0,0.0,75.0,989.0,0.0,0.0,0.0,,223640,223640.0,,
 2010,1083,Irving Tissue,Weston Plant,Toronto,322121,51057.0,0.0,21.0,278.0,0.0,0.0,0.0,,51357,51357.0,,
-2010,1084,Ivaco Rolling Mills 2004 Limited Partnership,Ivaco Rolling Mills,L'Orignal,331110,72580.0,0.0,22.0,289.0,0.0,0.0,0.0,,72891,72891.0,,
+2010,1084,Ivaco Rolling Mills 2004 Limited Partnership,Ivaco Rolling Mills,L Orignal,331110,72580.0,0.0,22.0,289.0,0.0,0.0,0.0,,72891,72891.0,,
 2010,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,63134.0,0.0,26.0,344.0,0.0,0.0,0.0,,63504,63504.0,,
 2010,1086,Labatt Breweries of Canada,London Brewery,London,312120,26439.0,0.0,11.0,144.0,0.0,0.0,0.0,,26594,26594.0,,
 2010,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,731013.0,0.0,0.0,0.0,0.0,0.0,0.0,,731013,731013.0,,
@@ -104,7 +104,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2010,1113,BP Canada Energy Company,Sarnia Fractionation Plant,Sarnia,211113,138808.0,0.0,57.0,753.0,0.0,0.0,0.0,,139619,139619.0,,
 2010,1114,Plasco Trail Road,Plasco Trail Road,Ottawa,221119,3108.0,3920.0,21.0,95.0,0.0,0.0,0.0,,7145,3225.0,,
 2010,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,457270.0,0.0,2496.0,3701.0,0.0,0.0,0.0,,463467,463467.0,,
-2010,1117,Queen's University,Queen's University,Kingston,611310,41580.0,0.0,17.0,245.0,0.0,0.0,0.0,,41842,41842.0,,
+2010,1117,Queen s University,Queen s University,Kingston,611310,41580.0,0.0,17.0,245.0,0.0,0.0,0.0,,41842,41842.0,,
 2010,1118,Redpath Sugar Ltd (former Tate & Lyle Canada),Toronto Refinery,Toronto,311310,69861.0,0.0,29.0,418.0,0.0,0.0,0.0,,70310,66110.0,,
 2010,1119,AbiBow Canada Inc.,Fort Frances Division,Fort Frances,322121,145622.0,944852.0,6405.0,15190.0,0.0,0.0,0.0,,1112069,167217.0,,
 2010,1120,AbiBow Canada Inc.,Thunder Bay,Thunder Bay,322112,42360.0,956559.0,6468.0,14880.0,0.0,0.0,0.0,,1020267,63708.0,,
@@ -226,7 +226,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2011,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,84360.464,0.0,34.8824,459.216,0.0,0.0,0.0,,84855,84855.0,84855.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1082,INVISTA (Canada) Company,Maitland Site,Maitland,325190,232228.6585,0.0,78.771,1038.5,0.0,0.0,0.0,,233346,233346.0,233346.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1083,Irving Tissue,Irving Tissue,Toronto,322121,52184.63,0.0,21.903,304.42,0.0,0.0,0.0,,52511,52511.0,52511.0,SAI Global
-2011,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,73956.363,0.0,21.357,280.86,0.0,0.0,0.0,,74259,74259.0,74259.0,"DEKRA Certification, Inc."
+2011,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,73956.363,0.0,21.357,280.86,0.0,0.0,0.0,,74259,74259.0,74259.0,"DEKRA Certification, Inc."
 2011,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,66527.8163,0.0,27.5247,362.173,0.0,0.0,0.0,,66918,66918.0,66918.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1086,Labatt Breweries of Canada LP,LABATT BREWERIES ONTARIO - LONDON BREWERY,London,312120,27648.61,0.0,11.4395,150.5137,0.0,0.0,0.0,,27811,27811.0,27811.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,683214.0,0.0,652.113,39.68,0.0,0.0,0.0,,683906,683906.0,683906.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -252,11 +252,11 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2011,1109,Oxy Vinyls Canada Co.,Niagara PVC Plant,Thorold,325210,31282.0,0.0,13.2752,202.3696,0.0,0.0,0.0,,31498,31498.0,31498.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1110,"PepsiCo Foods Canada, A division of PepsiCo Canada ULC",Quaker Peterborough Plant,Peterborough,311230,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0,0.0,0.0,
 2011,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,391106.6427,0.0,618.4185,2136.117,0.0,0.0,0.0,,393862,393862.0,393862.0,Conestoga-Rovers & Associates Limited (CRA)
-2011,1112,Piller Sausages & Delicatessens Ltd.,"Piller's Fine Foods, A Div. of PBOLP",Waterloo,311614,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0,0.0,0.0,
+2011,1112,Piller Sausages & Delicatessens Ltd.,"Piller s Fine Foods, A Div. of PBOLP",Waterloo,311614,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0,0.0,0.0,
 2011,1113,BP Canada Energy Company,Sarnia Fractionation Plant,Sarnia,211113,134198.1,0.0,227.85,725.803,0.0,0.0,0.0,,135152,135152.0,135152.0,SAI Global
 2011,1115,Poly-Cel Packaging Products,Mississauga Facility,Mississauga,326111,176.0,0.0,0.0,0.0,0.0,0.0,0.0,,176,0.0,0.0,
 2011,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,453839.0,0.0,2475.48,3664.2,0.0,0.0,0.0,,459979,459979.0,459979.0,SAI Global
-2011,1117,Queen's University at Kingston,Main Campus,Kingston,611310,43172.9,0.0,17.8573,247.9216,0.0,0.0,0.0,,43439,43439.0,43439.0,KPMG Performance Registrar Inc.
+2011,1117,Queen s University at Kingston,Main Campus,Kingston,611310,43172.9,0.0,17.8573,247.9216,0.0,0.0,0.0,,43439,43439.0,43439.0,KPMG Performance Registrar Inc.
 2011,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,65521.48,0.0,27.636,391.3471,0.0,0.0,0.0,,65941,61484.0,61484.0,SAI Global
 2011,1119,AbiBow Canada Inc.,Fort Frances Division,Fort Frances,322121,103143.0,900241.0,6087.06,13609.0,0.0,0.0,0.0,,1023081,122840.0,122840.0,Stantec Consulting Ltd.
 2011,1120,AbiBow Canada Inc.,Thunder Bay Operations,Thunder Bay,322112,71902.0,921897.0,6226.29,14480.1,0.0,0.0,0.0,,1014506,92609.0,92609.0,Stantec Consulting Ltd.
@@ -264,7 +264,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2011,1122,Safety-Kleen Canada Inc.,Oil Recovery Division,Breslau,324190,38444.603,0.0,119.9629,164.6429,0.0,0.0,0.0,,38730,38730.0,38730.0,Conestoga-Rovers & Associates Limited (CRA)
 2011,1123,Sanofi Pasteur Ltd.,Connaught Campus,Toronto,325410,48605.88,0.0,266.217,392.15,0.0,0.0,0.0,,49265,49265.0,49265.0,PricewaterhouseCoopers LLP
 2011,1124,Sault Ste. Marie Waste Water Treatment Plant,West End Water Pollution Control Plant,Sault Ste. Marie,221320,298.173,0.0,0.2294,586.0383,0.0,0.0,0.0,,885,885.0,885.0,
-2011,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,695415.3269,0.0,4176.7299,2915.209,0.0,0.0,0.0,,702508,702508.0,702508.0,"LRQA America's Sustainability, Inc."
+2011,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,695415.3269,0.0,4176.7299,2915.209,0.0,0.0,0.0,,702508,702508.0,702508.0,"LRQA America s Sustainability, Inc."
 2011,1126,Sonoco Canada Corporation,Sonoco Brantford,Brantford,322130,24594.6,0.0,10.164,133.92,0.0,0.0,0.0,,24739,24739.0,24739.0,SAI Global
 2011,1127,Sonoco Canada Corporation,Sonoco - Trent Valley Mill,Trenton,322130,38732.8,0.0,16.1702,213.9155,0.0,0.0,0.0,,38963,38963.0,38963.0,SAI Global
 2011,1128,"St. Clair Power, LP",St. Clair Energy Center,Corunna,221112,354196.6075,0.0,1940.316,2864.276,0.0,0.0,0.0,,359002,359002.0,359002.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -376,7 +376,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2012,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,77537.867,0.0,31.9949,421.5752,0.0,0.0,0.0,,77992,77992.0,77992.0,Conestoga-Rovers & Associates Limited (CRA)
 2012,1082,INVISTA (Canada) Company,Maitland Site,Maitland,325190,262337.293,0.0,94.08,1233.8,0.0,0.0,0.0,,263666,263666.0,263666.0,Conestoga-Rovers & Associates Limited (CRA)
 2012,1083,Irving Tissue,Irving Tissue,Toronto,322121,50426.0692,0.0,20.8635,274.505,0.0,0.0,0.0,,50722,50722.0,50722.0,SAI Global
-2012,1084,Ivaco Rolling Mills 2004 Limited Partnership,Ivaco Rolling Mills,L'Orignal,331110,66957.15,0.0,20.202,265.67,0.0,0.0,0.0,,67244,67244.0,67244.0,"DEKRA Certification, Inc."
+2012,1084,Ivaco Rolling Mills 2004 Limited Partnership,Ivaco Rolling Mills,L Orignal,331110,66957.15,0.0,20.202,265.67,0.0,0.0,0.0,,67244,67244.0,67244.0,"DEKRA Certification, Inc."
 2012,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,68699.2445,0.0,28.4235,373.984,0.0,0.0,0.0,,69102,69102.0,69102.0,Conestoga-Rovers & Associates Limited (CRA)
 2012,1086,Labatt Breweries of Canada LP,LABATT BREWERIES ONTARIO - LONDON BREWERY,London,312120,26386.3392,0.0,10.9169,143.636,0.0,0.0,0.0,,26541,26541.0,26541.0,Conestoga-Rovers & Associates Limited (CRA)
 2012,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,777109.0,0.0,730.191,1590.61,0.0,0.0,0.0,,779430,779430.0,779430.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -405,7 +405,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2012,1114,Plasco Energy Group,Plasco Trail Road,Ottawa,221119,11416.583,11722.6739,3.6687,58.187,0.0,0.0,0.0,,23202,11479.0,11479.0,
 2012,1115,Poly-Cel Packaging Products,Mississauga Facility,Mississauga,326111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0,0.0,0.0,
 2012,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,434342.0,0.0,2368.422,3506.1,0.0,0.0,0.0,,440217,440217.0,440217.0,SAI Global
-2012,1117,Queen's University at Kingston,Main Campus,Kingston,611310,41253.8,0.0,17.0484,237.9963,0.0,0.0,0.0,,41509,41509.0,41509.0,KPMG Performance Registrar Inc.
+2012,1117,Queen s University at Kingston,Main Campus,Kingston,611310,41253.8,0.0,17.0484,237.9963,0.0,0.0,0.0,,41509,41509.0,41509.0,KPMG Performance Registrar Inc.
 2012,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,65128.39,0.0,26.9632,355.8118,0.0,0.0,0.0,,65512,65512.0,65512.0,SAI Global
 2012,1119,Resolute FP Canada Inc.,Fort Frances Division,Fort Frances,322121,130817.0,411849.0,2785.44,6274.4,0.0,0.0,0.0,,551726,139877.0,139877.0,Stantec Consulting Ltd.
 2012,1120,Resolute FP Canada Inc.,Thunder Bay Operations,Thunder Bay,322112,73862.0,914821.0,6178.83,14328.2,0.0,0.0,0.0,,1009191,94370.0,94370.0,Stantec Consulting Ltd.
@@ -413,7 +413,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2012,1122,Safety-Kleen Canada Inc.,Oil Recovery Division,Breslau,324190,38830.16,0.0,123.2461,167.3789,0.0,0.0,0.0,,39121,39121.0,39121.0,Conestoga-Rovers & Associates Limited (CRA)
 2012,1123,Sanofi Pasteur Ltd.,Connaught Campus,Toronto,325410,45577.693,0.0,249.312,371.69,0.0,0.0,0.0,,46199,46199.0,46199.0,PricewaterhouseCoopers LLP
 2012,1124,City of Sault Ste. Marie,West End Water Pollution Control Plant,Sault Ste. Marie,221320,456.344,0.0,0.095,502.0407,0.0,0.0,0.0,,959,959.0,959.0,
-2012,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,695271.7225,0.0,10637.9091,2698.891,0.0,0.0,0.0,,708609,708609.0,708609.0,"LRQA America's Sustainability, Inc."
+2012,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,695271.7225,0.0,10637.9091,2698.891,0.0,0.0,0.0,,708609,708609.0,708609.0,"LRQA America s Sustainability, Inc."
 2012,1126,Sonoco Canada Corporation,Sonoco Brantford,Brantford,322130,22283.0,0.0,9.219,121.21,0.0,0.0,0.0,,22414,22414.0,22414.0,SAI Global
 2012,1127,Sonoco Canada Corporation,Sonoco - Trent Valley Mill,Trenton,322130,39538.4,0.0,16.359,215.14,0.0,0.0,0.0,,39770,39770.0,39770.0,SAI Global
 2012,1128,"St. Clair Power, LP",St. Clair Energy Center,Corunna,221112,424034.4937,0.0,2322.894,3429.034,0.0,59.02,0.0,,429846,429846.0,429846.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -523,7 +523,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2013,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,82868.646,0.0,34.182,450.5776,0.0,0.0,0.0,,83354,83354.0,83354.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1082,INVISTA (Canada) Company,Maitland Site,Maitland,325190,234946.57,0.0,81.06,1066.4,0.0,0.0,0.0,,236095,236095.0,236095.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1083,Irving Tissue,Irving Tissue,Toronto,322121,45081.9482,0.0,18.7509,256.339,0.0,0.0,0.0,,45358,45358.0,45358.0,SAI Global
-2013,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,63729.828,0.0,18.963,249.55,0.0,0.0,0.0,,63999,63999.0,63999.0,RWDI AIR Inc.
+2013,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,63729.828,0.0,18.963,249.55,0.0,0.0,0.0,,63999,63999.0,63999.0,RWDI AIR Inc.
 2013,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,66730.7197,0.0,27.6087,363.258,0.0,0.0,0.0,,67122,67122.0,67122.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1086,Labatt Breweries of Canada LP,LABATT BREWERIES ONTARIO - LONDON BREWERY,London,312120,27342.082,0.0,11.319,148.8,0.0,0.0,0.0,,27503,27503.0,27503.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,625015.0,0.0,600.768,1310.99,0.0,0.0,0.0,,626927,626927.0,626927.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -550,7 +550,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2013,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,370885.3012,0.0,703.8633,2015.217,0.0,0.0,0.0,,373605,373605.0,373605.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1113,Plains Midstream Canada,Sarnia Fractionation Plant,Sarnia,211113,134251.0,0.0,228.9,728.996,0.0,0.0,0.0,,135209,135209.0,135209.0,SAI Global
 2013,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,336741.0,0.0,1832.25,2718.7,0.0,0.0,0.0,,341292,341292.0,341292.0,SAI Global
-2013,1117,Queen's University at Kingston,Main Campus,Kingston,611310,46139.49,0.0,18.6038,259.6132,0.0,0.0,0.0,,46418,46418.0,46418.0,KPMG Performance Registrar Inc.
+2013,1117,Queen s University at Kingston,Main Campus,Kingston,611310,46139.49,0.0,18.6038,259.6132,0.0,0.0,0.0,,46418,46418.0,46418.0,KPMG Performance Registrar Inc.
 2013,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,69396.09,0.0,29.0557,399.9651,0.0,0.0,0.0,,69826,69826.0,69826.0,SAI Global
 2013,1119,Resolute FP Canada Inc.,Fort Frances Division,Fort Frances,322121,122267.0,47519.0,370.02,1295.8,0.0,0.0,0.0,,171452,123933.0,123933.0,Enviro-Access Inc.
 2013,1120,Resolute FP Canada Inc.,Thunder Bay Operations,Thunder Bay,322112,179691.0,1177876.0,7991.34,18565.9,0.0,0.0,0.0,,1384125,206249.0,206249.0,Enviro-Access Inc.
@@ -558,7 +558,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2013,1122,Safety-Kleen Canada Inc.,Oil Recovery Division,Breslau,324190,44013.59,0.0,177.833,199.8741,0.0,0.0,0.0,,44392,44392.0,44392.0,Conestoga-Rovers & Associates Limited (CRA)
 2013,1123,Sanofi Pasteur Ltd.,Connaught Campus,Toronto,325410,45830.464,0.0,250.698,373.86,0.0,0.0,0.0,,46456,46456.0,46456.0,PricewaterhouseCoopers LLP
 2013,1124,City of Sault Ste. Marie,West End Water Pollution Control Plant,Sault Ste. Marie,221320,627.84,0.0,0.1312,612.808,0.0,0.0,0.0,,1241,1241.0,1241.0,
-2013,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,718675.338,0.0,12357.8154,2759.992,0.0,0.0,0.0,,733794,733794.0,733794.0,"LRQA America's Sustainability, Inc."
+2013,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,718675.338,0.0,12357.8154,2759.992,0.0,0.0,0.0,,733794,733794.0,733794.0,"LRQA America s Sustainability, Inc."
 2013,1126,Sonoco Canada Corporation,Sonoco Brantford,Brantford,322130,24419.0,0.0,10.101,132.99,0.0,0.0,0.0,,24563,24563.0,24563.0,SAI Global
 2013,1127,Sonoco Canada Corporation,Sonoco - Trent Valley Mill,Trenton,322130,40819.5,0.0,16.884,222.27,0.0,0.0,0.0,,41059,41059.0,41059.0,SAI Global
 2013,1128,"St. Clair Power, LP",St. Clair Energy Center,Corunna,221112,380974.3236,0.0,2087.0073,3080.842,0.0,294.84,0.0,,386438,386438.0,386438.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -677,7 +677,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2014,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,89848.03,0.0,37.1725,489.0932,0.0,0.0,0.0,,90375,90375.0,90375.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1082,INVISTA (Canada) Company,Maitland Site,Maitland,325190,95346.95,0.0,21.42,282.1,0.0,0.0,0.0,,95651,95651.0,95651.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1083,Irving Consumer Products,Irving Tissue,Toronto,322121,59212.4,0.0,25.83,415.4,0.0,0.0,0.0,,59654,59654.0,59654.0,SAI Global
-2014,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,79726.659,0.0,22.764,299.46,0.0,0.0,0.0,,80049,80049.0,80049.0,RWDI AIR Inc.
+2014,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,79726.659,0.0,22.764,299.46,0.0,0.0,0.0,,80049,80049.0,80049.0,RWDI AIR Inc.
 2014,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,70730.4602,0.0,29.2635,385.051,0.0,0.0,0.0,,71145,71145.0,71145.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1086,Labatt Breweries of Canada LP,LABATT BREWERIES ONTARIO - LONDON BREWERY,London,312120,26847.427,0.0,11.109,146.32,0.0,0.0,0.0,,27005,27005.0,27005.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,653411.0,0.0,617.379,1351.6,0.0,0.0,0.0,,655380,655380.0,655380.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -704,7 +704,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2014,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,408414.6917,0.0,707.3556,2298.681,0.0,0.0,0.0,,411421,411421.0,411421.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1113,Plains Midstream Canada,Sarnia Fractionation Plant,Sarnia,211113,144396.0,0.0,232.89,781.634,0.0,0.0,0.0,,145411,145411.0,145411.0,SAI Global
 2014,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,366159.0,0.0,1991.85,2954.3,0.0,0.0,0.0,,371106,371106.0,371106.0,SAI Global
-2014,1117,Queen's University at Kingston,Main Campus,Kingston,611310,48174.69,0.0,19.3386,274.3466,0.0,0.0,0.0,,48469,48469.0,48469.0,KPMG Performance Registrar Inc.
+2014,1117,Queen s University at Kingston,Main Campus,Kingston,611310,48174.69,0.0,19.3386,274.3466,0.0,0.0,0.0,,48469,48469.0,48469.0,KPMG Performance Registrar Inc.
 2014,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,63747.6,0.0,28.7893,503.8244,0.0,0.0,0.0,,64281,64281.0,64281.0,SAI Global
 2014,1119,Produits forestiers Résolu,Fort Frances Division,Fort Frances,322121,29970.0,2947.0,32.34,204.6,0.0,171.6,0.0,,33326,30379.0,30379.0,Enviro-Access Inc.
 2014,1120,Produits forestiers Résolu,Thunder Bay Operations,Thunder Bay,322112,196236.0,1204801.0,8181.18,18916.2,0.0,0.0,0.0,,1428135,223334.0,223334.0,Enviro-Access Inc.
@@ -712,7 +712,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2014,1122,Safety-Kleen Canada Inc.,Oil Recovery Division,Breslau,324190,44570.8144,0.0,154.6196,198.7246,0.0,0.0,0.0,,44925,44925.0,44925.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1123,Sanofi Pasteur Ltd.,Connaught Campus,Toronto,325410,48442.906,0.0,265.3665,391.5455,0.0,0.0,0.0,,49100,49100.0,49100.0,PricewaterhouseCoopers LLP
 2014,1124,City of Sault Ste. Marie,West End Water Pollution Control Plant,Sault Ste. Marie,221320,346.33,0.0,0.1393,586.1176,0.0,0.0,0.0,,933,933.0,933.0,
-2014,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,750546.1125,0.0,12641.0886,2844.374,0.0,0.0,0.0,,766032,766032.0,766032.0,"LRQA America's Sustainability, Inc."
+2014,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,750546.1125,0.0,12641.0886,2844.374,0.0,0.0,0.0,,766032,766032.0,766032.0,"LRQA America s Sustainability, Inc."
 2014,1127,Sonoco Canada Corporation,Sonoco - Trent Valley Mill,Trenton,322130,40674.7,0.0,16.821,221.34,0.0,0.0,0.0,,40913,40913.0,40913.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1128,"St. Clair Power, LP",St. Clair Energy Center,Corunna,221112,261178.2303,0.0,1430.7531,2112.061,0.0,0.0,0.0,,264722,264722.0,264722.0,Conestoga-Rovers & Associates Limited (CRA)
 2014,1129,St. Marys Cement Inc.,Bowmanville Cement Plant,Bowmanville,327310,1332126.727,0.0,167.2491,1207.9423,0.0,0.0,0.0,,1333502,1333502.0,1333502.0,Conestoga-Rovers & Associates Limited (CRA)
@@ -832,7 +832,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2015,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,89717.882,0.0,37.17,486.7,0.0,0.0,0.0,0.0,90242,90242.0,90242.0,GHD Limited (formerly CRA)
 2015,1082,INVISTA (Canada) Company,Maitland Site,Maitland,325190,85928.012,0.0,17.01,223.2,0.0,0.0,0.0,0.0,86169,86169.0,86169.0,GHD Limited (formerly CRA)
 2015,1083,Irving Consumer Products,Irving Tissue Corporation,Toronto,322121,57691.72,0.0,23.94,313.1,0.0,0.0,0.0,0.0,58029,58029.0,58029.0,SAI Global
-2015,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,85542.633,0.0,22.827,300.39,0.0,0.0,0.0,0.0,85866,85866.0,85866.0,Internat Energy Solutions Canada Inc.
+2015,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,85542.633,0.0,22.827,300.39,0.0,0.0,0.0,0.0,85866,85866.0,85866.0,Internat Energy Solutions Canada Inc.
 2015,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,142785.7515,0.0,59.1738,783.525,0.0,0.0,0.0,0.0,143629,143629.0,143629.0,GHD Limited (formerly CRA)
 2015,1086,Labatt Breweries of Canada LP,LABATT BREWERIES ONTARIO - LONDON BREWERY,London,312120,25144.97,0.0,14.616,192.2,0.0,0.0,0.0,0.0,25352,25352.0,25352.0,GHD Limited (formerly CRA)
 2015,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,810619.0,0.0,903.315,1911.46,0.0,0.0,0.0,0.0,813434,813434.0,813434.0,GHD Limited (formerly CRA)
@@ -859,14 +859,14 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2015,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,370439.4899,0.0,728.9352,2060.787,0.0,0.0,0.0,0.0,373230,373230.0,373230.0,GHD Limited (formerly CRA)
 2015,1113,Plains Midstream Canada,Sarnia Fractionation Plant,Sarnia,211113,142878.9,0.0,233.2638,785.943,0.0,0.0,0.0,0.0,143899,143899.0,143899.0,SAI Global
 2015,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,384836.9106,0.0,2095.9617,3107.781,0.0,0.0,0.0,0.0,390041,390041.0,390041.0,Stantec Consulting Ltd.
-2015,1117,Queen's University at Kingston,Queen's University - Kingston Main Campus,Kingston,611310,44860.04,0.0,18.0527,253.5887,0.0,0.0,0.0,0.0,45132,45132.0,45132.0,KPMG Performance Registrar Inc.
+2015,1117,Queen s University at Kingston,Queen s University - Kingston Main Campus,Kingston,611310,44860.04,0.0,18.0527,253.5887,0.0,0.0,0.0,0.0,45132,45132.0,45132.0,KPMG Performance Registrar Inc.
 2015,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,62375.86,0.0,26.1377,361.3211,0.0,0.0,0.0,0.0,62764,62764.0,62764.0,SAI Global
 2015,1120,Produits forestiers Résolu,Thunder Bay Operations,Thunder Bay,322112,184827.0,1184965.0,8044.47,18339.6,0.0,0.0,0.0,0.0,1396177,211212.0,211212.0,Enviro-Access Inc.
 2015,1121,ROXUL Inc.,ROXUL Inc.,Milton,327990,82905.7,0.0,17.8592,191.1057,0.0,0.0,0.0,0.0,83115,83115.0,83115.0,GHD Limited (formerly CRA)
 2015,1122,Safety-Kleen Canada Inc.,Oil Recovery Division,Breslau,324190,44509.9005,0.0,118.8917,192.0531,0.0,0.0,0.0,0.0,44821,44821.0,44821.0,GHD Limited (formerly CRA)
 2015,1123,Sanofi Pasteur Ltd.,Connaught Campus,Toronto,325410,49114.8,0.0,269.514,398.04,0.0,0.0,0.0,0.0,49783,49783.0,49783.0,PricewaterhouseCoopers LLP
 2015,1124,City of Sault Ste. Marie,West End Water Pollution Control Plant,Sault Ste. Marie,221320,261.004,0.0,0.1051,516.9259,0.0,0.0,0.0,0.0,779,779.0,779.0,
-2015,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,717961.5258,0.0,12953.5791,2613.92,0.0,0.0,0.0,0.0,733530,733530.0,733530.0,"LRQA America's Sustainability, Inc."
+2015,1125,Shell Canada Products,Sarnia Manufacturing Centre,Corunna,324110,717961.5258,0.0,12953.5791,2613.92,0.0,0.0,0.0,0.0,733530,733530.0,733530.0,"LRQA America s Sustainability, Inc."
 2015,1126,Sonoco Canada Corporation,Sonoco Brantford,Brantford,322130,24335.0,0.0,10.059,132.37,0.0,0.0,0.0,0.0,24478,24478.0,24478.0,GHD Limited (formerly CRA)
 2015,1127,Sonoco Canada Corporation,Sonoco - Trent Valley Mill,Trenton,322130,41316.8,0.0,17.094,225.06,0.0,0.0,0.0,0.0,41559,41559.0,41559.0,GHD Limited (formerly CRA)
 2015,1128,"St. Clair Power, LP",St. Clair Energy Center,Corunna,221112,363780.2655,0.0,1992.816,2941.776,0.0,710.58,0.0,0.0,369426,369426.0,369426.0,GHD Limited (formerly CRA)
@@ -966,7 +966,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2015,1230,IKO Industries Ltd.,IKO Hawkesbury,Hawkesbury,324122,11058.0,0.0,4.2,62.0,0.0,0.0,0.0,0.0,11125,11125.0,11125.0,RWDI AIR Inc.
 2015,1231,Platinum Produce Company,Platinum Produce,Blenheim,111419,15354.479,0.0,6.363,88.66,0.0,0.0,0.0,0.0,15450,15450.0,15450.0,"Ruby Canyon Engineering, Inc."
 2015,1232,Kapital Produce Ltd,Kapital Produce Ltd,Ruthven,111419,16318.988,0.0,6.762,94.24,0.0,0.0,0.0,0.0,16420,16420.0,16420.0,"Ruby Canyon Engineering, Inc."
-2015,1233,St. David's Hydroponics Ltd.,St. David's Hydroponics,Niagara on the Lake,111419,14761.0,0.0,6.09,86.8,0.0,0.0,0.0,0.0,14854,14854.0,14854.0,GHD Limited (formerly CRA)
+2015,1233,St. David s Hydroponics Ltd.,St. David s Hydroponics,Niagara on the Lake,111419,14761.0,0.0,6.09,86.8,0.0,0.0,0.0,0.0,14854,14854.0,14854.0,GHD Limited (formerly CRA)
 2015,1234,Kimberly-Clark Inc.,"Kimberly Clark, Huntsville Mill",Huntsville,322121,16947.91,0.0,7.014,92.38,0.0,0.0,0.0,0.0,17048,17048.0,17048.0,GHD Limited (formerly CRA)
 2015,1235,Magna Structural Systems Inc.,FORMET INDUSTRIES,St Thomas,336390,22764.0,0.0,9.45,124.0,0.0,0.0,0.0,0.0,22898,22898.0,22898.0,GHD Limited (formerly CRA)
 2015,1236,MSSC Canada,MSSC Canada,Chatham,336330,13817.0,0.0,5.712,75.33,0.0,0.0,0.0,0.0,13899,13899.0,13899.0,RWDI AIR Inc.
@@ -984,7 +984,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2015,1250,Columbia Forest Products Ltd.,Levesque Plywood - Levesque Division,Hearst,321211,12620.0,0.0,5.229,68.82,0.0,0.0,0.0,0.0,12695,12695.0,12695.0,Internat Energy Solutions Canada Inc.
 2015,1251,"Genpak, Division of Great Pacific Enterprises LP",GENPAK MISSISSAUGA,Mississauga,326140,12076.0,0.0,5.04,65.1,0.0,0.0,0.0,0.0,12147,12147.0,12147.0,RWDI AIR Inc.
 2015,1252,Hartmann Canada Inc.,Hartmann North America,Brantford,322299,15027.46,0.0,6.2181,81.809,0.0,0.0,0.0,0.0,15116,15116.0,15116.0,RWDI AIR Inc.
-2015,1254,St. Joseph's Healthcare Hamilton,St. Joseph's Healthcare Hamilton,Hamilton,622111,10425.9171,0.0,4.3137,60.1846,0.0,0.0,0.0,0.0,10491,10491.0,10491.0,GHD Limited (formerly CRA)
+2015,1254,St. Joseph s Healthcare Hamilton,St. Joseph s Healthcare Hamilton,Hamilton,622111,10425.9171,0.0,4.3137,60.1846,0.0,0.0,0.0,0.0,10491,10491.0,10491.0,GHD Limited (formerly CRA)
 2015,1255,Patriot Forge Inc.,Brantford,Brantford,332113,17274.9587,0.0,7.1475,99.7211,0.0,0.0,0.0,0.0,17382,17382.0,17382.0,GHD Limited (formerly CRA)
 2015,1256,Ontario Lottery and Gaming and Gaming Corporation operating as NIagara Fallsview CasinoResort,Fallsview Casino Resort,Niagara Falls,721120,12374.67,0.0,5.12,71.4339,0.0,0.0,0.0,0.0,12452,12452.0,12452.0,Enviro-Access Inc.
 2015,1257,Compass Minerals Canada Corporation,GODERICH PLANT,Goderich,212393,13430.72,0.0,5.46,71.3,0.0,0.0,0.0,0.0,13508,13508.0,13508.0,GHD Limited (formerly CRA)
@@ -1068,7 +1068,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2016,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,91638.96,0.0,38.01,499.1,0.0,0.0,0.0,0.0,92177,92177.0,92177.0,GHD Limited (formerly CRA)
 2016,1082,INVISTA (Canada) Company,INVISTA (Canada) Company-Maitland Site,Maitland,325190,95704.98,0.0,22.68,297.6,0.0,0.0,0.0,0.0,96026,96026.0,96026.0,GHD Limited (formerly CRA)
 2016,1083,Irving Consumer Products Limited,Irving Tissue Corporation,Toronto,322121,62227.82,0.0,25.7502,338.9921,0.0,0.0,0.0,0.0,62593,62593.0,62593.0,SAI Global
-2016,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,102753.49,0.0,25.053,329.84,0.0,0.0,0.0,0.0,103109,103109.0,103109.0,Internat Energy Solutions Canada Inc.
+2016,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,102753.49,0.0,25.053,329.84,0.0,0.0,0.0,0.0,103109,103109.0,103109.0,Internat Energy Solutions Canada Inc.
 2016,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,129329.5684,0.0,53.5143,704.258,0.0,0.0,0.0,0.0,130088,130088.0,130088.0,GHD Limited (formerly CRA)
 2016,1086,Labatt Brewing Company Ltd,Labatt Brewing Company Ltd,London,312120,26670.251,0.0,11.025,145.08,0.0,0.0,0.0,0.0,26827,26827.0,26827.0,GHD Limited (formerly CRA)
 2016,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,786463.0,0.0,940.989,1911.15,0.0,0.0,0.0,0.0,789316,789316.0,789263.0,GHD Limited (formerly CRA)
@@ -1095,7 +1095,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2016,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,406651.4011,0.0,693.5817,2183.578,0.0,0.0,0.0,0.0,409529,409529.0,409529.0,GHD Limited (formerly CRA)
 2016,1113,Plains Midstream Canada ULC,Sarnia Fractionation Plant,Sarnia,211113,144092.0,0.0,233.0013,789.012,0.0,0.0,0.0,0.0,145115,145115.0,145115.0,SAI Global
 2016,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,382592.0,0.0,2084.04,3087.6,0.0,0.0,0.0,0.0,387764,387764.0,387764.0,Stantec Consulting Ltd.
-2016,1117,Queen's University at Kingston,Queen's University - Kingston Main Campus,Kingston,611310,45719.11,0.0,18.898,263.8829,0.0,0.0,0.0,0.0,46002,46002.0,46002.0,KPMG Performance Registrar Inc.
+2016,1117,Queen s University at Kingston,Queen s University - Kingston Main Campus,Kingston,611310,45719.11,0.0,18.898,263.8829,0.0,0.0,0.0,0.0,46002,46002.0,46002.0,KPMG Performance Registrar Inc.
 2016,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,65655.82,0.0,27.2001,359.4534,0.0,0.0,0.0,0.0,66043,66043.0,66043.0,SAI Global
 2016,1120,Resolute FP Canada Inc.,Resolute Forest Products - Thunder Bay Operations,Thunder Bay,322112,177930.0,1346123.0,9123.66,20717.3,0.0,0.0,0.0,0.0,1553894,207771.0,207771.0,Enviro-Access Inc.
 2016,1121,ROXUL Inc.,ROXUL Inc.,Milton,327990,80784.6,0.0,17.115,184.1028,0.0,0.0,0.0,0.0,80986,80986.0,80986.0,GHD Limited (formerly CRA)
@@ -1202,7 +1202,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2016,1230,IKO Industries Ltd.,IKO Hawkesbury,Hawkesbury,324122,10390.85,0.0,4.347,56.42,0.0,0.0,0.0,0.0,10452,10452.0,10452.0,RWDI AIR Inc.
 2016,1231,Platinum Produce Company,Platinum Produce,Blenheim,111419,17452.314,0.0,7.224,100.75,0.0,0.0,0.0,0.0,17561,17561.0,17561.0,Ruby Canyon Engineering Inc.
 2016,1232,Kapital Produce Ltd,Kapital Produce Ltd,Ruthven,111419,15930.428,0.0,6.594,92.07,0.0,0.0,0.0,0.0,16030,16030.0,16030.0,Ruby Canyon Engineering Inc.
-2016,1233,St. David's Hydroponics Ltd.,St. David's Hydroponics,Niagara on the Lake,111419,13683.79,0.0,5.7072,79.6948,0.0,0.0,0.0,0.0,13770,13770.0,13770.0,GHD Limited (formerly CRA)
+2016,1233,St. David s Hydroponics Ltd.,St. David s Hydroponics,Niagara on the Lake,111419,13683.79,0.0,5.7072,79.6948,0.0,0.0,0.0,0.0,13770,13770.0,13770.0,GHD Limited (formerly CRA)
 2016,1234,Kimberly-Clark Inc.,"Kimberly Clark, Huntsville Mill",Huntsville,322121,16821.29,0.0,6.93,93.0,0.0,0.0,0.0,0.0,16922,16922.0,16922.0,GHD Limited (formerly CRA)
 2016,1235,Magna Structural Systems Inc.,FORMET INDUSTRIES,St Thomas,336390,21865.9,0.0,9.051,119.04,0.0,0.0,0.0,0.0,21994,21994.0,21994.0,GHD Limited (formerly CRA)
 2016,1236,MSSC Canada,MSSC Canada,Chatham,336330,14923.0,0.0,6.174,81.22,0.0,0.0,0.0,0.0,15011,15011.0,15011.0,RWDI AIR Inc.
@@ -1221,7 +1221,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2016,1250,Columbia Forest Products Ltd.,Levesque Plywood - Levesque Division,Hearst,321211,13305.0,0.0,5.502,72.54,0.0,0.0,0.0,0.0,13384,13384.0,13384.0,Internat Energy Solutions Canada Inc.
 2016,1251,"Genpak, Division of Great Pacific Enterprises LP",GENPAK MISSISSAUGA,Mississauga,326140,12431.0,0.0,5.04,68.2,0.0,0.0,0.0,0.0,12505,12505.0,12505.0,RWDI AIR Inc.
 2016,1252,Hartmann Canada Inc.,Hartmann North America,Brantford,322299,15458.9,0.0,6.3966,84.165,0.0,0.0,0.0,0.0,15550,15550.0,15550.0,RWDI AIR Inc.
-2016,1254,"St. Joseph's Healthcare Hamilton, A Division of St. Joseph's Health System",St. Joseph's Healthcare Hamilton,Hamilton,622111,9605.4443,0.0,3.9742,55.4482,0.0,0.0,0.0,0.0,9665,9665.0,9665.0,GHD Limited (formerly CRA)
+2016,1254,"St. Joseph s Healthcare Hamilton, A Division of St. Joseph s Health System",St. Joseph s Healthcare Hamilton,Hamilton,622111,9605.4443,0.0,3.9742,55.4482,0.0,0.0,0.0,0.0,9665,9665.0,9665.0,GHD Limited (formerly CRA)
 2016,1255,Patriot Forge Co.,Brantford Facility,Brantford,332113,16094.953,0.0,6.6588,92.9039,0.0,0.0,0.0,0.0,16195,16195.0,16195.0,GHD Limited (formerly CRA)
 2016,1256,Ontario Lottery and Gaming and Gaming Corporation operating as NIagara Fallsview CasinoResort,Fallsview Casino Resort,Niagara Falls,721120,12270.99,0.0,5.0771,70.8353,0.0,0.0,0.0,0.0,12347,12347.0,12347.0,GHD Limited (formerly CRA)
 2016,1257,Compass Minerals Canada Corporation,GODERICH PLANT,Goderich,212393,14542.91,0.0,6.09,80.6,0.0,0.0,0.0,0.0,14630,14630.0,14630.0,GHD Limited (formerly CRA)
@@ -1342,7 +1342,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2017,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,85822.6,0.0,35.49,465.0,0.0,0.0,0.0,0.0,86324,86324.0,86324.0,RWDI Air Inc.
 2017,1082,INVISTA (Canada) Company,INVISTA (Canada) Company-Maitland Site,Maitland,325190,98901.99,0.0,23.1063,304.079,0.0,0.0,0.0,0.0,99230,99230.0,99230.0,RWDI Air Inc.
 2017,1083,Irving Consumer Products Limited,Irving Consumer Products Limited,Toronto,322121,62625.93,0.0,25.9119,340.938,0.0,0.0,0.0,0.0,62993,62993.0,62993.0,GHD Limited
-2017,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,111370.891,0.0,26.376,346.89,0.0,0.0,0.0,0.0,111745,111745.0,111745.0,Internat Energy Solutions Canada
+2017,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,111370.891,0.0,26.376,346.89,0.0,0.0,0.0,0.0,111745,111745.0,111745.0,Internat Energy Solutions Canada
 2017,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,135132.4168,0.0,55.9356,737.707,0.0,0.0,0.0,0.0,135927,135927.0,135927.0,Internat Energy Solutions
 2017,1086,Labatt Brewing Company Ltd,Labatt Brewing Company Ltd,London,312120,28549.482,0.0,11.739,154.69,0.0,0.0,0.0,0.0,28716,28716.0,28716.0,Internat Energy Solutions Canada
 2017,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,749730.295,4451.0,242.13,856.53,0.0,0.0,0.0,0.0,755280,750829.0,750722.0,RWDI Air Inc.
@@ -1367,7 +1367,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2017,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,446272.1794,0.0,941.0037,2308.043,0.0,0.0,0.0,0.0,449522,449522.0,449522.0,Ruby Canyon Engineering
 2017,1113,Plains Midstream Canada,Sarnia Fractionation Plant,Sarnia,211113,139344.0,0.0,229.2129,763.592,0.0,0.0,0.0,0.0,140337,140337.0,140337.0,GHD
 2017,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,185795.0,0.0,1000.86,1494.2,0.0,0.0,0.0,0.0,188291,188291.0,188291.0,Stantec
-2017,1117,Queen's University at Kingston,Queen's University - Kingston Main Campus,Kingston,611310,45425.3883,0.0,18.805,263.1448,0.0,0.0,0.0,0.0,45708,45708.0,45708.0,Internat Energy Solutions Canada
+2017,1117,Queen s University at Kingston,Queen s University - Kingston Main Campus,Kingston,611310,45425.3883,0.0,18.805,263.1448,0.0,0.0,0.0,0.0,45708,45708.0,45708.0,Internat Energy Solutions Canada
 2017,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,65375.16,0.0,27.207,365.7876,0.0,0.0,0.0,0.0,65769,65769.0,65769.0,GHD Limited
 2017,1120,Produits forestiers Résolu,Resolute Forest Products - Thunder Bay Operations,Thunder Bay,322112,178039.0,1242945.0,8411.7684,19422.089,0.0,0.0,0.0,0.0,1448818,205873.0,205873.0,Enviro-access
 2017,1121,ROXUL Inc.,ROXUL Inc.,Milton,327990,86942.8,0.0,18.27,198.4,0.0,0.0,0.0,0.0,87160,87160.0,87160.0,Stantec Consulting Ltd
@@ -1475,7 +1475,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2017,1230,IKO Industries Ltd.,IKO Hawkesbury,Hawkesbury,324122,12111.94,0.0,4.962,65.41,0.0,0.0,0.0,0.0,12183,12183.0,12183.0,
 2017,1231,Platinum Produce Company,Platinum Produce,Blenheim,111419,18655.285,0.0,7.728,107.57,0.0,0.0,0.0,0.0,18771,18771.0,18771.0,"Ruby Canyon Engineering, Inc."
 2017,1232,Kapital Produce Ltd,Kapital Produce Ltd,Ruthven,111419,14181.246,0.0,5.859,81.84,0.0,0.0,0.0,0.0,14269,14269.0,14269.0,"Ruby Canyon Engineering, Inc."
-2017,1233,St. David's Hydroponics Ltd.,St. David's Hydroponics,Niagara on the Lake,111419,15399.0,0.0,6.3712,88.8925,0.0,0.0,0.0,0.0,15495,15495.0,15495.0,GHD
+2017,1233,St. David s Hydroponics Ltd.,St. David s Hydroponics,Niagara on the Lake,111419,15399.0,0.0,6.3712,88.8925,0.0,0.0,0.0,0.0,15495,15495.0,15495.0,GHD
 2017,1234,Kimberly-Clark Inc.,"Kimberly Clark, Huntsville Mill",Huntsville,322121,17146.6588,0.0,7.0917,93.3286,0.0,0.0,0.0,0.0,17248,17248.0,17248.0,GHD
 2017,1235,Magna Structural Systems Inc.,FORMET INDUSTRIES,St Thomas,336390,21978.97,0.0,9.093,119.66,0.0,0.0,0.0,0.0,22108,22108.0,22108.0,GHD  Limited
 2017,1236,MSSC Canada,MSSC Canada,Chatham,336330,14233.0,0.0,5.88,77.5,0.0,0.0,0.0,0.0,14317,14317.0,14317.0,RWDI Air Inc
@@ -1494,7 +1494,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2017,1250,Levesque Plywood Limited,Columbia Forest Products,Hearst,321211,14095.0,0.0,5.838,76.88,0.0,0.0,0.0,0.0,14178,14178.0,14178.0,Internat Energy Solutions Canada
 2017,1251,"Genpak, Division of Great Pacific Enterprises LP",GENPAK MISSISSAUGA,Mississauga,326140,13256.0,0.0,5.46,71.3,0.0,0.0,0.0,0.0,13333,13333.0,13333.0,
 2017,1252,Hartmann Canada Inc.,Hartmann North America,Brantford,322299,15436.2,0.0,6.3861,84.041,0.0,0.0,0.0,0.0,15527,15527.0,15527.0,rwdi
-2017,1254,"St. Joseph's Healthcare Hamilton, A Division of St. Joseph's Health System",St. Joseph's Healthcare Hamilton,Hamilton,622111,9900.606,0.0,4.0963,57.1522,0.0,0.0,0.0,0.0,9962,9962.0,9962.0,GHD
+2017,1254,"St. Joseph s Healthcare Hamilton, A Division of St. Joseph s Health System",St. Joseph s Healthcare Hamilton,Hamilton,622111,9900.606,0.0,4.0963,57.1522,0.0,0.0,0.0,0.0,9962,9962.0,9962.0,GHD
 2017,1255,Patriot Forge Co.,Brantford Facility,Brantford,332113,22838.9655,0.0,9.4495,131.8399,0.0,0.0,0.0,0.0,22981,22981.0,22981.0,GHD
 2017,1256,Ontario Lottery and Gaming and Gaming Corporation operating as Niagara Fallsview Casino Resort,Fallsview Casino Resort,Niagara Falls,721120,12185.16,0.0,5.0416,70.3399,0.0,0.0,0.0,0.0,12261,12261.0,12261.0,GHD Limited
 2017,1257,Compass Minerals Canada Corporation,GODERICH PLANT,Goderich,212393,16230.05,0.0,6.72,93.0,0.0,0.0,0.0,0.0,16330,16330.0,16330.0,GHD
@@ -1623,7 +1623,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2018,1081,INVISTA (Canada) Company,INVISTA (Canada) Company,Kingston,325220,90502.314,0.0,37.3863,492.466,0.0,0.0,0.0,0.0,91033,91033.0,91033.0,RWDI Air Inc.
 2018,1082,INVISTA (Canada) Company,INVISTA (Canada) Company-Maitland Site,Maitland,325190,93524.8879,0.0,20.6476,271.7677,81.3795,0.0,0.0,0.0,93899,93899.0,93899.0,RWDI Air Inc
 2018,1083,Irving Consumer Products Limited,Irving Consumer Products Limited,Toronto,322121,66480.38,0.0,27.51,362.7,0.0,0.0,0.0,0.0,66871,66871.0,66871.0,GHD Limited
-2018,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,121257.961,0.0,27.321,359.6,0.0,0.0,0.0,0.0,121645,121645.0,121645.0,Internat Energy Solutions Canada
+2018,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,121257.961,0.0,27.321,359.6,0.0,0.0,0.0,0.0,121645,121645.0,121645.0,Internat Energy Solutions Canada
 2018,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,138606.8906,0.0,57.3657,755.222,0.0,0.0,0.0,0.0,139420,139420.0,139420.0,Internat Energy Solutions Canada
 2018,1086,Labatt Brewing Company Ltd,Labatt Brewing Company Ltd,London,312120,24663.685,0.0,10.206,134.23,0.0,0.0,0.0,0.0,24809,24809.0,24809.0,Internat Energy Solutions Canada
 2018,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,773832.31,34.66,69.5856,708.784,0.0,0.0,0.0,0.0,774646,774611.0,774611.0,
@@ -1647,7 +1647,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2018,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,447728.7359,0.0,1255.4682,2344.282,0.0,0.0,0.0,0.0,451329,451329.0,451329.0,Ruby Canyon Engineering
 2018,1113,Plains Midstream Canada ULC,Sarnia Fractionation Plant,Sarnia,211113,152653.0,0.0,235.2609,833.683,0.0,0.0,0.0,0.0,153722,153722.0,153722.0,GHD
 2018,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,424040.0,0.0,2309.16,3425.5,0.0,0.0,0.0,0.0,429775,429775.0,429775.0,Stantec
-2018,1117,Queen's University at Kingston,Queen's University - Kingston Main Campus,Kingston,611310,49991.55,0.0,20.952,307.1883,0.0,0.0,0.0,0.0,50320,50320.0,50320.0,Internat Energy Solutions Canada
+2018,1117,Queen s University at Kingston,Queen s University - Kingston Main Campus,Kingston,611310,49991.55,0.0,20.952,307.1883,0.0,0.0,0.0,0.0,50320,50320.0,50320.0,Internat Energy Solutions Canada
 2018,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,69677.03,0.0,28.9145,395.5464,0.0,0.0,0.0,0.0,70102,70102.0,70102.0,GHD Limited
 2018,1120,Produits forestiers Résolu,Resolute Forest Products - Thunder Bay Operations,Thunder Bay,322112,166518.0,1107542.0,7495.089,17485.488,0.0,0.0,0.0,0.0,1299041,191499.0,191499.0,GHD
 2018,1121,ROXUL Inc.,ROXUL Inc.,Milton,327990,83252.2,0.0,17.703,191.735,0.0,0.0,0.0,0.0,83462,83462.0,83462.0,Stantec Consulting Ltd.
@@ -1754,7 +1754,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2018,1230,IKO Industries Ltd.,IKO Hawkesbury,Hawkesbury,324122,11879.2242,0.0,4.8411,64.2847,0.0,0.0,0.0,0.0,11949,11949.0,11949.0,
 2018,1231,Platinum Produce Company,Platinum Produce,Blenheim,111419,25005.237,0.0,10.353,144.46,0.0,0.0,0.0,0.0,25161,25161.0,25161.0,"Ruby Canyon Engineering, Inc."
 2018,1232,Kapital Produce Ltd,Kapital Produce Ltd,Ruthven,111419,16920.619,0.0,6.993,97.65,0.0,0.0,0.0,0.0,17026,17026.0,17026.0,
-2018,1233,St. David's Hydroponics Ltd.,St. David's Hydroponics,Niagara on the Lake,111419,19941.0,0.0,8.253,115.01,0.0,0.0,0.0,0.0,20065,20065.0,20065.0,
+2018,1233,St. David s Hydroponics Ltd.,St. David s Hydroponics,Niagara on the Lake,111419,19941.0,0.0,8.253,115.01,0.0,0.0,0.0,0.0,20065,20065.0,20065.0,
 2018,1234,Kimberly-Clark Inc.,"Kimberly Clark, Huntsville Mill",Huntsville,322121,15196.9754,0.0,6.2855,82.7204,0.0,0.0,0.0,0.0,15286,15286.0,15286.0,
 2018,1235,Magna International Inc,FORMET INDUSTRIES,St Thomas,336390,26221.4,0.0,10.857,142.6,0.0,0.0,0.0,0.0,26375,26375.0,26375.0,GHD Limited
 2018,1236,MSSC Canada,MSSC Canada,Chatham,336330,14350.0,0.0,5.943,78.12,0.0,0.0,0.0,0.0,14435,14435.0,14435.0,
@@ -1773,7 +1773,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2018,1250,Columbia Forest Prodcuts Ltd.,Levesque Plywood Ltd.,Hearst,321211,15538.0,0.0,6.426,84.63,0.0,0.0,0.0,0.0,15630,15630.0,15630.0,
 2018,1251,"Genpak, Division of Great Pacific Enterprises LP",GENPAK MISSISSAUGA,Mississauga,326140,13550.0,0.0,5.67,74.4,0.0,0.0,0.0,0.0,13631,13631.0,13631.0,
 2018,1252,Hartmann Canada Inc.,Hartmann North America,Brantford,322299,14689.0,0.0,6.0774,79.98,0.0,0.0,0.0,0.0,14776,14776.0,14776.0,
-2018,1254,"St. Joseph's Healthcare Hamilton, A Division of St. Joseph's Health System",St. Joseph's Healthcare Hamilton,Hamilton,622111,9564.0256,0.0,3.9564,55.211,0.0,0.0,0.0,0.0,9624,9624.0,9624.0,
+2018,1254,"St. Joseph s Healthcare Hamilton, A Division of St. Joseph s Health System",St. Joseph s Healthcare Hamilton,Hamilton,622111,9564.0256,0.0,3.9564,55.211,0.0,0.0,0.0,0.0,9624,9624.0,9624.0,
 2018,1255,Patriot Forge Co.,Brantford Facility,Brantford,332113,26954.3332,0.0,11.1531,146.723,0.0,0.0,0.0,0.0,27113,27113.0,27113.0,GHD
 2018,1256,Ontario Lottery and Gaming and Gaming Corporation operating as Niagara Fallsview Casino Resort,Fallsview Casino Resort,Niagara Falls,721120,12702.15,0.0,5.1963,72.5605,0.0,0.0,0.0,0.0,12780,12780.0,12780.0,
 2018,1257,Compass Minerals Canada Corporation,GODERICH PLANT,Goderich,212393,18924.73,0.0,7.77,108.5,0.0,0.0,0.0,0.0,19041,19041.0,19041.0,
@@ -1905,7 +1905,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2019,1081,INVISTA (Canada) Company,Kingston Site,Kingston,325220,96633.195,,47.225,499.746,,,,,97181,97181.0,97181.0,RWDI Air Inc.
 2019,1082,INVISTA (Canada) Company,INVISTA (Canada) Company-Maitland Site,Maitland,325190,94426.24,,131.95,258.366,110.4204,,,,94927,94927.0,94817.0,RWDI Air Inc.
 2019,1083,Irving Consumer Products Limited,Irving Consumer Products Limited,Toronto,322121,68740.05,,33.7425,354.620298,,,,,69129,69129.0,69129.0,GHD
-2019,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L'Orignal,331110,94519.439,,44.844725,284.618906,,,,,94849,94849.0,94849.0,Internat Energy Solutions Canada
+2019,1084,Ivaco Rolling Mills 2004 L. P.,Ivaco Rolling Mills,L Orignal,331110,94519.439,,44.844725,284.618906,,,,,94849,94849.0,94849.0,Internat Energy Solutions Canada
 2019,1085,Jungbunzlauer Canada Inc.,Jungbunzlauer Canada Inc.,Port Colborne,325190,144861.189,,71.0275,748.7548,,,,,145681,145681.0,145681.0,Internat Energy Solutions Canada Inc.
 2019,1086,Labatt Brewing Company Ltd,Labatt Brewing Company Ltd,London,312120,29165.126,,14.275,155.6454,,,,,29336,29336.0,29336.0,
 2019,1087,Lafarge Canada Inc.,Bath Cement Plant,Bath,327310,635003.89,,75.4525,562.1472,,,,,635642,635642.0,636967.0,RWDI Air Inc.
@@ -1928,7 +1928,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2019,1111,Petro-Canada Lubricants Inc.,Mississauga Lubricants Centre,Mississauga,324190,429636.7872,,1470.97,2280.892,,,,,433389,433389.0,458310.0,"Ruby Canyon Environmental, Inc."
 2019,1113,Plains Midstream Canada ULC,Sarnia Fractionation Plant,Sarnia,211110,174173.0,,328.415,830.377,,,,,175332,175332.0,175332.0,GHD
 2019,1116,Portlands Energy Centre LP,Portlands Energy Centre,Toronto,221112,442235.0,,2864.25,3412.1,0.0,,,,448512,448512.0,448512.0,Stantec Consulting Ltd.
-2019,1117,Queen's University,Queen's University - Kingston Main Campus,Kingston,611310,46995.93,,23.228925,265.18275,,,,,47285,47285.0,47285.0,Internat Energy Solutions Canada Inc.
+2019,1117,Queen s University,Queen s University - Kingston Main Campus,Kingston,611310,46995.93,,23.228925,265.18275,,,,,47285,47285.0,47285.0,Internat Energy Solutions Canada Inc.
 2019,1118,Redpath Sugar Ltd,Toronto Refinery,Toronto,311310,74724.384,,36.18,387.1914,,,,,75148,75148.0,75148.0,GHD Limited
 2019,1120,Produits forestiers Résolu,Resolute Forest Products - Thunder Bay Operations,Thunder Bay,322112,177614.45,1159071.86,14430.43675,16329.7891,,,,,1367447,208375.0,199777.0,GHD Limited
 2019,1121,ROXUL Inc.,ROXUL Inc.,Milton,327990,94965.34,,22.03125,196.471698,,,,,95184,95184.0,95184.0,RWDI Air Inc
@@ -2033,7 +2033,7 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2019,1230,IKO Industries Ltd.,IKO Hawkesbury,Hawkesbury,324122,13126.138,,9.325,66.752,,,,,13203,13203.0,13203.0,
 2019,1231,Platinum Produce Company,Platinum Produce,Blenheim,111419,24410.316,,12.025,135.59,,,,,24558,24558.0,0.0,
 2019,1232,Kapital Produce Ltd,Kapital Produce Ltd,Ruthven,111419,19847.27,,75.875,133.504,,,,,20057,20057.0,20057.0,
-2019,1233,St. David's Hydroponics Ltd.,St. David's Hydroponics,Niagara on the Lake,111419,21425.0,,10.25,116.22,,,,,21552,21552.0,21552.0,
+2019,1233,St. David s Hydroponics Ltd.,St. David s Hydroponics,Niagara on the Lake,111419,21425.0,,10.25,116.22,,,,,21552,21552.0,21552.0,
 2019,1234,Kimberly-Clark Inc.,"Kimberly Clark, Huntsville Mill",Huntsville,322121,15044.87,,7.9,77.66476,,,,,15131,15131.0,15131.0,GHD Limited
 2019,1235,Magna International Inc,FORMET INDUSTRIES,St Thomas,336390,24899.0,,12.275,130.226,,,,,25042,25042.0,0.0,
 2019,1236,MSSC Canada,MSSC Canada,Chatham,336330,13266.4,,6.525,69.434,,,,,13343,13343.0,0.0,
@@ -2183,5 +2183,5 @@ Year,Ontario GHG ID,Facility Owner,Facility Name,Facility City,Facility Primary 
 2019,1483,DEPARTMENT OF NATIONAL DEFENCE,Canadian Forces Base Borden,Borden,911110,19843.7,,15.0375,872.5738,,,,,20732,20732.0,0.0,
 2019,1484,DEPARTMENT OF NATIONAL DEFENCE,4 CDSB Petawawa - Garrison Petawawa,Petawawa,911110,35506.0,,17.24,196.9184,,,,,35721,35721.0,0.0,
 2019,1485,DEPARTMENT OF NATIONAL DEFENCE,CANADIAN FORCES BASE/ AREA SUPPORT UNIT KINGSTON,Kingston,911110,17557.2701,,8.5975,97.744,,,,,17664,17664.0,0.0,
-2019,1486,Public Works and Government Services Canada,Tunney's Pasture Central Heating and Cooling Plant,Ottawa,911910,13784.55,,6.5,74.5,,,,,13866,13866.0,91.0,
+2019,1486,Public Works and Government Services Canada,Tunney s Pasture Central Heating and Cooling Plant,Ottawa,911910,13784.55,,6.5,74.5,,,,,13866,13866.0,91.0,
 2019,1487,Wesdome Gold Mines Ltd.,Eagle River Mill,Wawa,212220,14384.654,51.992,74.725,106.7138,,,,,14619,14567.0,14566.0,

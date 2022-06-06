@@ -23,7 +23,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 42,Tommy Smith,2015-01-11,shot,gun,39.0,M,White,Arcola,IL,True,attack,Not fleeing,False,Guns
 43,Brian  Barbosa,2015-01-11,shot,gun,23.0,M,Hispanic,South Gate,CA,False,attack,Not fleeing,False,Guns
 45,Salvador Figueroa,2015-01-11,shot and Tasered,gun,29.0,M,Hispanic,North Las Vegas,NV,False,attack,Foot,False,Guns
-46,John Edward O'Keefe,2015-01-13,shot,gun,34.0,M,White,Albuquerque,NM,False,attack,Foot,True,Guns
+46,John Edward O Keefe,2015-01-13,shot,gun,34.0,M,White,Albuquerque,NM,False,attack,Foot,True,Guns
 48,Richard McClendon,2015-01-13,shot,knife,43.0,M,White,Jourdanton,TX,True,other,Not fleeing,False,Sharp objects
 49,Marcus Golden,2015-01-14,shot,unknown,24.0,M,Black,St. Paul,MN,False,attack,Not fleeing,False,Unknown
 50,Michael Goebel,2015-01-14,shot,unknown,29.0,M,White,Franklin County,MO,False,attack,Not fleeing,False,Unknown
@@ -132,7 +132,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 172,Robert Kohl,2015-02-23,shot,gun,47.0,M,White,Denham Springs,LA,True,attack,Not fleeing,False,Guns
 174,Michael Wayne Smashey,2015-02-23,shot,knife,37.0,M,White,Powder Springs,GA,False,other,Not fleeing,False,Sharp objects
 175,Anthony Giaquinta,2015-02-23,shot,gun,41.0,M,White,Clarkesville,GA,False,attack,Foot,False,Guns
-176,A'Donte Washington,2015-02-23,shot,gun,16.0,M,Black,Millbrook,AL,False,attack,Not fleeing,False,Guns
+176,A Donte Washington,2015-02-23,shot,gun,16.0,M,Black,Millbrook,AL,False,attack,Not fleeing,False,Guns
 266,Jerome Nichols,2015-02-23,shot and Tasered,knife,42.0,M,White,Allentown,PA,False,attack,Car,False,Sharp objects
 371,Daniel Elrod,2015-02-23,shot and Tasered,unarmed,39.0,M,White,Omaha,NE,False,other,Not fleeing,False,Unarmed
 177,Joseph Biegert,2015-02-24,shot and Tasered,knife,30.0,M,White,Green Bay,WI,True,attack,Not fleeing,False,Sharp objects
@@ -346,7 +346,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 455,Lionel Lorenzo Young,2015-05-10,shot,unknown,34.0,M,Black,Landover,MD,False,other,Car,False,Unknown
 437,Kelvin Goldston,2015-05-11,shot,unknown,30.0,M,Black,Fort Worth,TX,False,attack,Car,False,Unknown
 444,Justin Way,2015-05-11,shot,knife,28.0,M,White,St. Augustine,FL,True,other,Not fleeing,False,Sharp objects
-441,D'Angelo Stallworth,2015-05-12,shot,gun,28.0,M,Black,Jacksonville,FL,False,other,Foot,False,Guns
+441,D Angelo Stallworth,2015-05-12,shot,gun,28.0,M,Black,Jacksonville,FL,False,other,Foot,False,Guns
 450,Alec Ouzounian,2015-05-12,shot,unknown,40.0,M,White,Rancho Santa Margarita,CA,True,other,Not fleeing,False,Unknown
 449,Bruce Zalonka,2015-05-12,shot and Tasered,gun,46.0,M,Other,Honolulu,HI,False,attack,Not fleeing,False,Guns
 456,Sean Michael Pelletier,2015-05-14,shot,gun,37.0,M,White,Portage,MI,True,attack,Car,False,Guns
@@ -636,7 +636,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 780,Kyle Lambrose,2015-08-26,shot,gun,27.0,M,White,West Jordan,UT,True,attack,Not fleeing,False,Guns
 782,Yonas Alehegne,2015-08-27,shot,chain,30.0,M,Black,Oakland,CA,False,attack,Not fleeing,True,Other unusual objects
 783,Robert Hober,2015-08-27,shot,box cutter,54.0,M,White,San Diego,CA,False,other,Not fleeing,True,Sharp objects
-784,Manuel Soriano,2015-08-27,shot,contractor's level,29.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,Other unusual objects
+784,Manuel Soriano,2015-08-27,shot,contractor s level,29.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,Other unusual objects
 781,Bertrand Davis,2015-08-27,shot and Tasered,box cutter,42.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,Sharp objects
 785,Gilbert Flores,2015-08-28,shot,unknown,41.0,M,Hispanic,San Antonio,TX,True,undetermined,Not fleeing,False,Unknown
 786,William Evans,2015-08-28,shot,gun,28.0,M,White,Spanish Fork,UT,True,attack,Not fleeing,True,Guns
@@ -658,7 +658,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 803,Sully Lanier,2015-09-04,shot,gun,36.0,M,White,Springtown,TX,False,attack,Not fleeing,False,Guns
 804,Harrison Lambert,2015-09-04,shot,knife,23.0,M,White,Merrimack,NH,True,other,Not fleeing,False,Sharp objects
 801,Jose Ramon Damiani Jr,2015-09-04,shot and Tasered,metal pipe,49.0,M,Hispanic,French Lick,IN,False,attack,Not fleeing,False,Blunt instruments
-805,La'vante Trevon Biggs,2015-09-05,shot,toy weapon,21.0,M,Black,Durham,NC,True,attack,Not fleeing,False,Other unusual objects
+805,La vante Trevon Biggs,2015-09-05,shot,toy weapon,21.0,M,Black,Durham,NC,True,attack,Not fleeing,False,Other unusual objects
 806,Luis Wenceslao,2015-09-05,shot,metal pipe,32.0,M,Hispanic,Ontario,CA,True,other,Not fleeing,True,Blunt instruments
 807,Angelo Delano Perry,2015-09-05,shot,gun,35.0,M,Black,Virginia Beach,VA,False,attack,Not fleeing,False,Guns
 808,India Kager,2015-09-05,shot,unarmed,28.0,F,Black,Virginia Beach,VA,False,undetermined,Not fleeing,False,Unarmed
@@ -713,7 +713,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 861,Kenneth Ray Pinter,2015-09-23,shot,gun,45.0,M,White,Grayson County,VA,False,attack,Not fleeing,False,Guns
 862,Jeremy McDole,2015-09-23,shot,gun,28.0,M,Black,Wilmington,DE,True,undetermined,Not fleeing,False,Guns
 860,Ernesto Medina Lopez,2015-09-24,shot,knife,42.0,M,Hispanic,Miami,FL,False,attack,Not fleeing,False,Sharp objects
-863,Patrick O'Grady,2015-09-24,shot,gun,17.0,M,White,Fountain,CO,False,attack,Not fleeing,False,Guns
+863,Patrick O Grady,2015-09-24,shot,gun,17.0,M,White,Fountain,CO,False,attack,Not fleeing,False,Guns
 865,Philip Quinn,2015-09-24,shot,screwdriver,30.0,M,Other,St. Paul,MN,True,other,Not fleeing,False,Piercing objects
 866,William Lemmon,2015-09-25,shot,unarmed,21.0,M,White,Akron,OH,True,undetermined,Other,False,Unarmed
 868,Jeffrey Blood,2015-09-25,shot,gun,45.0,M,White,Wilhoit,AZ,False,attack,Not fleeing,False,Guns
@@ -807,7 +807,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 969,Noah Harpham,2015-10-31,shot,gun,33.0,M,White,Colorado Springs,CO,False,attack,Not fleeing,False,Guns
 970,Bennie Lee Tignor,2015-10-31,shot,unarmed,56.0,M,Black,Opelika,AL,False,other,Car,False,Unarmed
 972,Luverne Roy Christensen,2015-11-01,shot,gun,49.0,M,White,Hutchinson,MN,False,attack,Not fleeing,False,Guns
-973,Killian O'Quinn,2015-11-01,shot,gun,20.0,M,White,Eureka,CA,False,attack,Not fleeing,False,Guns
+973,Killian O Quinn,2015-11-01,shot,gun,20.0,M,White,Eureka,CA,False,attack,Not fleeing,False,Guns
 974,Jack Yantis,2015-11-01,shot,gun,62.0,M,White,Council,ID,False,undetermined,Not fleeing,True,Guns
 975,James Covington,2015-11-02,shot,gun,62.0,M,Black,Washington,DC,False,attack,Car,False,Guns
 980,Jeremy Mardis,2015-11-03,shot,unarmed,6.0,M,White,Marksville,LA,False,other,Car,True,Unarmed
@@ -967,7 +967,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1139,Joshua Sisson,2016-01-01,shot,knife,30.0,M,White,San Diego,CA,False,other,Not fleeing,True,Sharp objects
 1195,Lance Light,2016-01-02,shot,gun,54.0,M,White,Maryneal,TX,False,attack,Car,False,Guns
 1198,Lonnie Haskell Powers,2016-01-02,shot,gun,37.0,M,White,Sioux Falls,SD,False,attack,Not fleeing,False,Guns
-1138,Sean O'Brien,2016-01-02,shot and Tasered,knife,37.0,M,White,Livingston,MT,False,other,Not fleeing,False,Sharp objects
+1138,Sean O Brien,2016-01-02,shot and Tasered,knife,37.0,M,White,Livingston,MT,False,other,Not fleeing,False,Sharp objects
 1140,Germonta Wallace,2016-01-03,shot,gun,30.0,M,Black,Charlotte,NC,False,attack,Not fleeing,False,Guns
 1142,Eric John Senegal,2016-01-04,shot,unknown,27.0,M,Black,Ragley,LA,False,undetermined,Not fleeing,False,Unknown
 1144,Rodney Turner,2016-01-04,shot,gun,22.0,M,Black,Oklahoma City,OK,False,attack,Foot,True,Guns
@@ -1204,7 +1204,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1413,Terrence Shane Blackburn,2016-03-26,shot,gun,36.0,M,White,Grundy,VA,True,other,Not fleeing,False,Guns
 1414,Donald Andrew White,2016-03-26,shot,gun,55.0,M,White,Myrtle Beach,SC,False,attack,Not fleeing,True,Guns
 1416,Patrick Matthew McManamon,2016-03-26,shot,gun,46.0,M,White,Tampa,FL,True,attack,Not fleeing,False,Guns
-1410,Jeffrey Lanahan,2016-03-27,shot,knife,34.0,M,White,Lee's Summit,MO,True,other,Not fleeing,False,Sharp objects
+1410,Jeffrey Lanahan,2016-03-27,shot,knife,34.0,M,White,Lee s Summit,MO,True,other,Not fleeing,False,Sharp objects
 1411,Loreal Tsingine,2016-03-27,shot,scissors,27.0,F,Native,Winslow,AZ,False,other,Not fleeing,True,Sharp objects
 1417,Robert D. Guerin,2016-03-27,shot,gun,33.0,M,White,Roswell,NM,True,attack,Not fleeing,True,Guns
 1418,Deriante Deon Miller,2016-03-27,shot,gun,18.0,M,Black,Kinston,NC,False,other,Not fleeing,False,Guns
@@ -1510,7 +1510,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1835,Michael Adams,2016-07-27,shot,knife,33.0,M,White,Estill Springs,TN,False,other,Foot,True,Sharp objects
 1737,Jorge Moreno-Aguirre,2016-07-28,shot,unknown,41.0,M,Hispanic,Sparks,NV,False,undetermined,Not fleeing,False,Unknown
 1741,Jeffrey Smith,2016-07-28,shot,unknown,47.0,M,Black,La Quinta,CA,False,other,Car,False,Unknown
-1742,Paul O'Neal,2016-07-28,shot,unknown,18.0,M,Black,Chicago,IL,False,other,Car,True,Unknown
+1742,Paul O Neal,2016-07-28,shot,unknown,18.0,M,Black,Chicago,IL,False,other,Car,True,Unknown
 1743,Jesus Rael,2016-07-28,shot,gun,31.0,M,Hispanic,Tucson,AZ,False,attack,Other,False,Guns
 1744,Donnell Thompson,2016-07-28,shot,unarmed,27.0,M,Black,Compton,CA,False,attack,Other,False,Unarmed
 1745,Omar Gonzalez,2016-07-28,shot,unknown,36.0,M,Hispanic,City Terrace,CA,False,other,Car,True,Unknown
@@ -1561,7 +1561,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1791,Colby Friday,2016-08-16,shot,gun,30.0,M,Black,Stockton,CA,False,other,Foot,True,Guns
 1792,Marcos Antonio Gastelum,2016-08-16,shot,unarmed,25.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,Unarmed
 1795,Kenney Watkins,2016-08-16,shot,gun,18.0,M,Black,Los Angeles,CA,False,other,Foot,False,Guns
-2145,John O'Handley,2016-08-16,shot,gun,55.0,M,White,Augusta,WV,False,other,Not fleeing,False,Guns
+2145,John O Handley,2016-08-16,shot,gun,55.0,M,White,Augusta,WV,False,other,Not fleeing,False,Guns
 1793,Omer Ismail Ali,2016-08-17,shot,piece of wood,27.0,M,Black,Kelso,WA,False,attack,Not fleeing,False,Other unusual objects
 1794,Francisco Villarreal,2016-08-18,shot,gun,37.0,M,Hispanic,Bakersfield,CA,False,attack,Car,False,Guns
 1796,Daniel Kevin Harris,2016-08-18,shot,unarmed,29.0,M,White,Charlotte,NC,False,other,Car,True,Unarmed
@@ -1878,7 +1878,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2189,James Owens,2017-01-03,shot and Tasered,knife,63.0,M,Black,Brooklyn,NY,True,other,Not fleeing,False,Sharp objects
 2190,Joshua Martino,2017-01-04,shot,gun,18.0,M,White,Brooklyn,NY,False,attack,Foot,False,Guns
 2191,Ruben Randolph,2017-01-04,shot,gun,51.0,M,Black,Pomona,CA,False,attack,Foot,False,Guns
-2192,Welby O'Dell Mullins,2017-01-04,shot,gun,64.0,M,White,Lancaster,KY,False,attack,Not fleeing,False,Guns
+2192,Welby O Dell Mullins,2017-01-04,shot,gun,64.0,M,White,Lancaster,KY,False,attack,Not fleeing,False,Guns
 2193,Richard A. Jackson,2017-01-04,shot,unknown,45.0,M,White,English,IN,False,attack,Car,False,Unknown
 2194,Luis Vargas,2017-01-05,shot,gun,20.0,M,Hispanic,Dinuba,CA,False,attack,Not fleeing,False,Guns
 2195,Randy Wayne Cole,2017-01-05,shot,gun,41.0,M,White,Monteagle,TN,True,attack,Not fleeing,False,Guns
@@ -1950,7 +1950,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2268,William Brigham,2017-01-26,shot,metal pipe,34.0,M,White,Madison Township,OH,False,other,Not fleeing,False,Blunt instruments
 2272,Eduardo Hernandez,2017-01-27,shot,gun,25.0,M,Hispanic,Alhambra,CA,True,attack,Not fleeing,True,Guns
 2273,Gerardo Coronado,2017-01-28,shot,gun,25.0,M,Hispanic,Fort Stockton,TX,False,attack,Car,False,Guns
-2274,Mi'Chance Dunlap-Gittens,2017-01-28,shot,gun,17.0,M,Black,Des Moines,WA,False,attack,Not fleeing,False,Guns
+2274,Mi Chance Dunlap-Gittens,2017-01-28,shot,gun,17.0,M,Black,Des Moines,WA,False,attack,Not fleeing,False,Guns
 2706,Matthew Zank,2017-01-28,shot,toy weapon,48.0,M,White,Eau Claire,WI,True,attack,Not fleeing,False,Other unusual objects
 2707,Bradley Joseph Szacaks,2017-01-28,shot,gun,45.0,M,White,Apache Junction,AZ,False,attack,Not fleeing,False,Guns
 2275,Steve Salgado,2017-01-29,shot,unarmed,18.0,M,Hispanic,Santa Ana,CA,False,other,Foot,False,Unarmed
@@ -2222,7 +2222,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2573,TK TK,2017-05-11,shot,gun,37.11793090137039,M,Hispanic,Arlington,TX,False,attack,Not fleeing,False,Guns
 2575,Ryan Lowell,2017-05-12,shot,gun,30.0,M,White,Billings,MT,True,attack,Not fleeing,False,Guns
 2577,Jonathan David Victor,2017-05-12,shot,unarmed,35.0,M,White,Baldwin County,AL,False,other,Not fleeing,False,Unarmed
-2578,Phillip O'Shea,2017-05-12,shot,gun,46.0,M,White,Jupiter,FL,False,attack,Car,False,Guns
+2578,Phillip O Shea,2017-05-12,shot,gun,46.0,M,White,Jupiter,FL,False,attack,Car,False,Guns
 2574,Ronald Singletary,2017-05-12,shot and Tasered,knife,51.0,M,Black,Philadelphia,PA,False,other,Not fleeing,False,Sharp objects
 2576,Maxwell Holt,2017-05-13,shot,gun,37.0,M,White,West Allis,WI,False,attack,Foot,False,Guns
 2580,Clarence E. Coats,2017-05-13,shot,gun,41.0,M,Black,Columbia,MO,False,attack,Other,False,Guns
@@ -2567,7 +2567,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2975,Damien Murray,2017-09-24,shot,gun,39.0,M,Black,San Francisco,CA,False,other,Not fleeing,True,Guns
 2983,Jarred Burke,2017-09-24,shot,gun,24.0,M,White,New Castle,IN,False,attack,Foot,False,Guns
 2976,Anthony Robinson,2017-09-25,shot,gun,32.0,M,Black,Palmetto,FL,False,attack,Foot,False,Guns
-2978,Cody O'Bryan,2017-09-25,shot,Taser,31.0,M,White,Las Vegas,NV,True,attack,Not fleeing,True,Electrical devices
+2978,Cody O Bryan,2017-09-25,shot,Taser,31.0,M,White,Las Vegas,NV,True,attack,Not fleeing,True,Electrical devices
 2984,Jeffory Hughes,2017-09-26,shot,gun,50.0,M,White,Fairview,TN,False,attack,Not fleeing,False,Guns
 2985,Roger Craig Nielsen,2017-09-26,shot,gun,31.0,M,White,Eugene,OR,False,attack,Not fleeing,False,Guns
 2986,Craig A. Johnson,2017-09-26,shot,gun,50.0,M,White,Coolin,ID,False,other,Not fleeing,False,Guns
@@ -2736,7 +2736,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3172,Rufus Cedric Baker,2017-11-30,shot,gun,32.0,M,Black,Hendersonville,NC,False,other,Foot,False,Guns
 3175,Juan Andres Barillas,2017-11-30,shot,gun,37.0,M,Hispanic,North Hollywood,CA,False,other,Car,False,Guns
 3173,Trent Fondren,2017-12-01,shot,knife,33.0,M,White,York,SC,False,undetermined,Other,True,Sharp objects
-3176,Keita O'Neil,2017-12-01,shot,unarmed,42.0,M,Black,San Francisco,CA,False,other,Car,True,Unarmed
+3176,Keita O Neil,2017-12-01,shot,unarmed,42.0,M,Black,San Francisco,CA,False,other,Car,True,Unarmed
 3177,Mario Guevara,2017-12-02,shot,knife,37.0,M,Hispanic,Colton,CA,True,other,Not fleeing,False,Sharp objects
 3180,Christopher Louis Willard,2017-12-02,shot,gun,33.0,M,White,Colorado Springs,CO,False,attack,Not fleeing,False,Guns
 3178,Gregory Ray Ham,2017-12-03,shot,sword,62.0,M,White,La Marque,TX,False,attack,Not fleeing,False,Sharp objects
@@ -2941,7 +2941,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3443,Orbel Nazarians,2018-02-26,shot and Tasered,machete,22.0,M,White,Los Angeles,CA,True,other,Not fleeing,True,Sharp objects
 3447,Marlon Smith,2018-02-27,shot,gun,29.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,Guns
 3448,Dustin James Case,2018-02-27,shot,gun,20.0,M,White,Chester,SC,False,other,Car,True,Guns
-3449,Curtis Bradley Ware,2018-02-27,shot,gun,33.0,M,White,Coeur d'Alene,ID,False,attack,Not fleeing,False,Guns
+3449,Curtis Bradley Ware,2018-02-27,shot,gun,33.0,M,White,Coeur d Alene,ID,False,attack,Not fleeing,False,Guns
 3450,Qawi A. Muhammad,2018-02-28,shot,gun,48.0,M,Black,Orlando,FL,False,attack,Not fleeing,False,Guns
 4249,Ernesto Michel,2018-02-28,shot,unknown,47.0,M,Hispanic,Alamosa,CO,False,other,Not fleeing,False,Unknown
 3451,Timothy M. Gray,2018-03-01,shot,machete,40.0,M,Black,Henrico,VA,False,other,Car,False,Sharp objects
@@ -3280,7 +3280,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3969,Millard Clark,2018-07-03,shot and Tasered,knife,41.0,M,White,Lawton,OK,False,attack,Not fleeing,False,Sharp objects
 3822,Emmanuel Bitsuie,2018-07-04,shot,knife,32.0,M,Native,Pueblo,CO,False,attack,Not fleeing,False,Sharp objects
 3834,Abraham Noe Flores,2018-07-04,shot,gun,34.0,M,Hispanic,Red Bluff,CA,True,attack,Not fleeing,False,Guns
-3825,Daniel A. Fuller,2018-07-05,shot,unarmed,26.0,M,White,Devil's Lake,ND,False,attack,Foot,True,Unarmed
+3825,Daniel A. Fuller,2018-07-05,shot,unarmed,26.0,M,White,Devil s Lake,ND,False,attack,Foot,True,Unarmed
 3826,Raad Fakhri Salman,2018-07-05,shot,knife,62.0,M,Asian,Louisville,KY,False,other,Not fleeing,False,Sharp objects
 3827,Sylvia Marie Bejarano,2018-07-05,shot,gun,33.0,F,Hispanic,Tempe,AZ,False,attack,Other,False,Guns
 3971,Tracy A. Richards,2018-07-05,shot,gun,55.0,M,White,Eustis,FL,True,other,Not fleeing,False,Guns
@@ -3608,7 +3608,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4279,Anthony M. Edwards,2018-12-05,shot,knife,33.0,M,Black,Richmond,VA,False,attack,Not fleeing,False,Sharp objects
 4275,Dimaggio McNelly,2018-12-06,shot,gun,53.0,M,Black,Henry County,GA,True,attack,Not fleeing,False,Guns
 4277,Benjamin David Larson,2018-12-06,shot,gun,42.0,M,White,Redding,CA,False,attack,Car,False,Guns
-4287,Jason O'Bannon,2018-12-06,shot,gun,46.0,M,White,Pahrump,NV,True,attack,Not fleeing,True,Guns
+4287,Jason O Bannon,2018-12-06,shot,gun,46.0,M,White,Pahrump,NV,True,attack,Not fleeing,True,Guns
 4281,Jesus Lainez,2018-12-07,shot,unknown,51.0,M,Hispanic,Fort Pierce,FL,False,attack,Not fleeing,False,Unknown
 4315,Julius Ervin Tate,2018-12-07,shot,gun,16.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,Guns
 4286,James N. Robertson,2018-12-08,shot,knife,41.0,M,White,West Wendover,NV,False,other,Car,False,Sharp objects
@@ -3707,15 +3707,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4369,Dean Heerdt,2019-01-15,shot,gun,58.0,M,White,Aurora,CO,False,other,Not fleeing,False,Guns
 4383,Stanley Stepanski III,2019-01-15,shot,gun,48.0,M,White,Roseville,CA,False,attack,Car,False,Guns
 4386,Antonio Arce,2019-01-15,shot,toy weapon,14.0,M,Hispanic,Tempe,AZ,False,other,Foot,True,Other unusual objects
-4402,D'ettrick Griffin,2019-01-15,shot,vehicle,18.0,M,Black,Atlanta,GA,False,other,Car,False,Vehicles
+4402,D ettrick Griffin,2019-01-15,shot,vehicle,18.0,M,Black,Atlanta,GA,False,other,Car,False,Vehicles
 4516,Quency Chavez Floyd,2019-01-15,shot,gun,22.0,M,Black,St. Louis,MO,False,attack,Foot,False,Guns
 4389,Shawn Joseph Billinger,2019-01-16,shot,unarmed,46.0,M,White,Fort Lupton,CO,True,undetermined,Car,True,Unarmed
-4391,D'Angelo Brown,2019-01-16,shot,vehicle,37.11793090137039,M,Black,West Memphis,AR,False,other,Car,False,Vehicles
+4391,D Angelo Brown,2019-01-16,shot,vehicle,37.11793090137039,M,Black,West Memphis,AR,False,other,Car,False,Vehicles
 4392,Megan Rivera,2019-01-16,shot,vehicle,37.11793090137039,F,White,West Memphis,AR,False,other,Car,False,Vehicles
 4393,Terry Lee Cockrell,2019-01-16,shot,gun,57.0,M,White,Sperry,OK,True,other,Foot,True,Guns
 4401,Danny Kelley,2019-01-16,shot,knife,32.0,M,White,Charlotte,NC,False,other,Foot,False,Sharp objects
 4502,Mikyas Mehary Tegegne,2019-01-16,shot,gun,31.0,M,Black,Silver Spring,MD,False,other,Foot,False,Guns
-4400,Dale Weich,2019-01-18,shot,gun,64.0,M,White,O'Fallon,MO,True,attack,Not fleeing,False,Guns
+4400,Dale Weich,2019-01-18,shot,gun,64.0,M,White,O Fallon,MO,True,attack,Not fleeing,False,Guns
 4396,Matthew Neil Tuhkanen,2019-01-19,shot,unarmed,35.0,M,White,St. Louis Park,MN,True,undetermined,Not fleeing,False,Unarmed
 4398,Mark Leo Gregory Gago,2019-01-19,shot,ax,42.0,M,White,Clackamas County,OR,False,attack,Not fleeing,False,Blunt instruments
 4399,Jason C. Minnick,2019-01-19,shot,vehicle,30.0,M,White,Knoxville,TN,False,other,Car,False,Vehicles
@@ -3739,7 +3739,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4426,Nekiylo Dawayne Graves,2019-01-28,shot,unknown,27.0,M,Black,Mercury,NV,False,other,Car,False,Unknown
 4427,Nicholas Philhower,2019-01-28,shot,gun,30.0,M,White,Kirkwood,NY,False,attack,Car,False,Guns
 4430,Carl Thayer,2019-01-28,shot and Tasered,knife,45.0,M,White,Tehama County,CA,False,other,Other,False,Sharp objects
-4423,Siatu'u Tauai,2019-01-29,shot,vehicle,51.0,M,Other,Kalihi,HI,False,attack,Car,False,Vehicles
+4423,Siatu u Tauai,2019-01-29,shot,vehicle,51.0,M,Other,Kalihi,HI,False,attack,Car,False,Vehicles
 4425,Paul Cantu,2019-01-29,shot,gun,27.0,M,Hispanic,Austin,TX,True,attack,Car,True,Guns
 4511,Michael Joe Jolls,2019-01-30,shot,gun,47.0,M,White,Phoenix,AZ,False,attack,Foot,False,Guns
 4512,Anthony Patrick Pellissier,2019-01-30,shot,unknown,52.0,M,White,Midland,TX,False,attack,Not fleeing,False,Unknown
@@ -3770,7 +3770,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4444,Ted Schmitz,2019-02-10,shot,knife,58.0,M,White,Waukesha,WI,True,attack,Not fleeing,False,Sharp objects
 4445,Willie Jermaine Robinson,2019-02-10,shot,gun,34.0,M,Black,Greenville County,SC,True,attack,Not fleeing,True,Guns
 4442,Eric Young,2019-02-11,shot,unarmed,34.0,M,White,Montgomery,WV,True,other,Not fleeing,False,Unarmed
-4457,Ty'rell Pounds,2019-02-11,shot,gun,24.0,M,Black,Crestwood,KY,False,attack,Car,False,Guns
+4457,Ty rell Pounds,2019-02-11,shot,gun,24.0,M,Black,Crestwood,KY,False,attack,Car,False,Guns
 4461,Phayvanh Inthavong,2019-02-11,shot,gun,32.0,M,Asian,Redding,CA,False,attack,Foot,False,Guns
 4458,Alex Johnson,2019-02-12,shot,knife,58.0,M,Black,Defiance,OH,False,other,Not fleeing,False,Sharp objects
 4459,Christopher Brimsey,2019-02-12,shot,gun,20.0,M,Black,Cinco Ranch,TX,False,attack,Car,False,Guns
@@ -3840,7 +3840,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4553,Phillip Wayne Outland,2019-03-10,shot,gun,44.0,M,White,Cofield,NC,False,attack,Not fleeing,False,Guns
 4555,Sokhom Hon,2019-03-10,shot,unknown,31.0,M,Asian,San Bernardino,CA,True,attack,Not fleeing,False,Unknown
 4674,Anthony Lee Montoya,2019-03-10,shot,gun,51.0,M,Hispanic,Lakewood,CO,False,attack,Car,False,Guns
-4675,Michael J. D'Angelo,2019-03-11,shot,knife,34.0,M,White,Westminster,MD,False,attack,Not fleeing,False,Sharp objects
+4675,Michael J. D Angelo,2019-03-11,shot,knife,34.0,M,White,Westminster,MD,False,attack,Not fleeing,False,Sharp objects
 4560,Robert Mark Frady,2019-03-12,shot,gun,45.0,M,White,Salacoa,GA,False,attack,Not fleeing,False,Guns
 4561,Latasha Nicole Walton,2019-03-12,shot,vehicle,32.0,F,Black,Miami,FL,False,other,Not fleeing,False,Vehicles
 4562,Brandon Stacey,2019-03-12,shot,gun,31.0,M,White,Kalamazoo,MI,False,attack,Not fleeing,False,Guns
@@ -4055,7 +4055,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4784,Tramon Savage,2019-06-13,shot,vehicle,22.0,M,Black,Jacksonville,AR,False,attack,Car,False,Vehicles
 4791,Michael Sheehan,2019-06-15,shot,gun,45.0,M,White,Belmont,NH,True,other,Not fleeing,False,Guns
 4792,Mantry Norris,2019-06-15,shot,knife,20.0,M,Black,Renton,WA,True,attack,Other,False,Sharp objects
-4793,Ty'Rese West,2019-06-15,shot,unknown,18.0,M,Black,Racine,WI,False,other,Other,False,Unknown
+4793,Ty Rese West,2019-06-15,shot,unknown,18.0,M,Black,Racine,WI,False,other,Other,False,Unknown
 4794,Jamarcus Dejun Moore,2019-06-15,shot,gun,28.0,M,Black,Birmingham,AL,False,attack,Car,False,Guns
 4796,Alfredo Chino,2019-06-15,shot,knife,38.0,M,Hispanic,Toppenish,WA,False,other,Not fleeing,False,Sharp objects
 4786,Eric Jack Logan,2019-06-16,shot,knife,53.0,M,Black,South Bend,IN,False,attack,Not fleeing,False,Sharp objects
@@ -4166,7 +4166,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4926,Lenny Blaine Griffin,2019-08-01,shot,knife,48.0,M,White,Tampa,FL,True,other,Not fleeing,False,Sharp objects
 4911,Mario Benjamin,2019-08-02,shot,gun,34.0,M,Black,Minneapolis,MN,False,attack,Not fleeing,True,Guns
 4913,Deshon Downing,2019-08-02,shot,gun,45.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,False,Guns
-4912,De'Von Bailey,2019-08-03,shot,gun,19.0,M,Black,Colorado Springs,CO,False,other,Foot,True,Guns
+4912,De Von Bailey,2019-08-03,shot,gun,19.0,M,Black,Colorado Springs,CO,False,other,Foot,True,Guns
 4915,Oscar Ventura-Gonzalez,2019-08-03,shot,gun,32.0,M,Hispanic,Revere,MA,False,attack,Car,False,Guns
 4919,Cortney Ronald Staley,2019-08-03,shot,gun,32.0,M,White,Carson City,NV,False,attack,Not fleeing,False,Guns
 4907,Connor Betts,2019-08-04,shot,gun,24.0,M,White,Dayton,OH,True,attack,Not fleeing,False,Guns
@@ -4224,7 +4224,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5004,Attillio Gilmartin,2019-09-03,shot,gun,30.0,M,White,Bluff City,TN,False,attack,Car,False,Guns
 5104,Eduard Alexis Lopez-Ucles,2019-09-03,shot,vehicle,34.0,M,Hispanic,Kaukauna,WI,False,other,Car,False,Vehicles
 5477,Terry Pierce,2019-09-03,shot,vehicle,46.0,M,White,Van Wert,OH,True,other,Car,False,Vehicles
-5009,Fares J. Al-Samno,2019-09-04,shot,knife,29.0,M,White,Coeur d'Alene,ID,False,attack,Not fleeing,False,Sharp objects
+5009,Fares J. Al-Samno,2019-09-04,shot,knife,29.0,M,White,Coeur d Alene,ID,False,attack,Not fleeing,False,Sharp objects
 5008,Cortez Shepherd,2019-09-05,shot,gun,28.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,Guns
 5020,John Carras,2019-09-05,shot,unarmed,43.0,M,White,East Hartford,CT,False,attack,Not fleeing,False,Unarmed
 5018,Vondarrow Dewayne Fisher,2019-09-06,shot,gun,42.0,M,Black,Glendora,CA,False,other,Foot,False,Guns
@@ -4588,7 +4588,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5427,Scott Joseph Weber,2020-01-24,shot,gun,27.0,M,White,San Angelo,TX,False,attack,Other,False,Guns
 5428,Toby Diller,2020-01-24,shot,gun,31.0,M,Hispanic,Oak Park,CA,False,attack,Foot,True,Guns
 5436,Rebecca Angel Alexander,2020-01-24,shot,gun,35.0,F,White,Coden,AL,True,attack,Not fleeing,False,Guns
-5425,D'ovion Semaj Perkins,2020-01-25,shot,gun,19.0,M,Black,Aurora,CO,False,other,Car,False,Guns
+5425,D ovion Semaj Perkins,2020-01-25,shot,gun,19.0,M,Black,Aurora,CO,False,other,Car,False,Guns
 5426,Joshua James Brown,2020-01-25,shot,gun,34.0,M,Black,Columbus,OH,False,other,Foot,False,Guns
 5424,Kevin Alan Smallman,2020-01-27,shot,vehicle,32.0,M,White,Chandler,AZ,False,attack,Car,False,Vehicles
 5434,William Howard Green,2020-01-27,shot,unarmed,43.0,M,Black,Temple Hills,MD,False,attack,Not fleeing,False,Unarmed
@@ -4650,7 +4650,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5553,Rodrigo Ivan Aguirre,2020-02-22,shot,gun,36.0,M,Hispanic,Deming,NM,False,attack,Other,False,Guns
 5552,Lucas Alvarado,2020-02-24,shot,gun,27.0,M,White,Milwaukee,WI,False,other,Foot,False,Guns
 5574,Print Zutavern,2020-02-24,shot,gun,28.0,M,White,Arnold,NE,True,other,Not fleeing,False,Guns
-5576,Stephen O'Brien,2020-02-24,shot,unarmed,20.0,M,White,Floresville,TX,True,other,Not fleeing,False,Unarmed
+5576,Stephen O Brien,2020-02-24,shot,unarmed,20.0,M,White,Floresville,TX,True,other,Not fleeing,False,Unarmed
 5573,Kenneth Sashington,2020-02-25,shot,gun,38.0,M,Black,Tuscumbia,AL,False,attack,Foot,False,Guns
 5592,Dylan Olmeda,2020-02-25,shot,gun,16.0,M,White,Georgetown,TX,False,attack,Not fleeing,False,Guns
 5593,Justin Lee Stackhouse,2020-02-26,shot,vehicle,30.0,M,Black,Bradenton,FL,False,attack,Car,False,Vehicles
@@ -4811,7 +4811,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5808,Sandra Lee Harmon,2020-05-05,shot,gun,56.0,F,White,Half Moon Bay,CA,False,attack,Not fleeing,False,Guns
 5809,William Shimp,2020-05-05,shot,gun,33.0,M,White,Kansas City,MO,False,attack,Car,False,Guns
 5810,Justin Charland,2020-05-05,shot,samurai sword,40.0,M,White,Las Vegas,NV,True,other,Not fleeing,True,Sharp objects
-5812,Jah'Sean Iandie Hodge,2020-05-05,shot,knife,21.0,M,Black,St. Cloud,FL,False,other,Foot,False,Sharp objects
+5812,Jah Sean Iandie Hodge,2020-05-05,shot,knife,21.0,M,Black,St. Cloud,FL,False,other,Foot,False,Sharp objects
 5811,Alfredo Delarosa,2020-05-05,shot and Tasered,Taser,20.0,M,Hispanic,San Antonio,TX,False,attack,Other,False,Electrical devices
 5790,Dreasjon Reed,2020-05-06,shot,gun,21.0,M,Black,Indianapolis,IN,False,attack,Car,True,Guns
 5804,James Joseph James,2020-05-06,shot,knife,47.0,M,White,Graham,NC,False,attack,Car,False,Sharp objects

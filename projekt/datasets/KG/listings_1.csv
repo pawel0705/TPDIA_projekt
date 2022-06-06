@@ -261,7 +261,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 4054698,DORMS - In the heart of Chinatown!,17526618,Royal,Central Region,Outram,1.28278,103.8445,Shared room,31,1,44,2019-08-11,0.77,13,363
 4069756,DORMS - In the heart of Chinatown!,17526618,Royal,Central Region,Outram,1.28332,103.8433,Shared room,31,1,18,2019-08-12,0.31,13,365
 4070970,Double room in Robertson Quay,21114831,Ryan,Central Region,Singapore River,1.29088,103.83891,Private room,115,2,0,,,1,0
-4087935,Within a stone's throw from Orchard,21022554,Marty,Central Region,Novena,1.31718,103.84287,Private room,89,2,13,2016-08-11,0.22,2,355
+4087935,Within a stone s throw from Orchard,21022554,Marty,Central Region,Novena,1.31718,103.84287,Private room,89,2,13,2016-08-11,0.22,2,355
 4091059,Airbnb Singapore Trendy CBD Enclave,971978,Jois,Central Region,Bukit Merah,1.27254,103.8337,Entire home/apt,306,2,188,2019-08-09,3.16,1,324
 4108082,Central Haven,21313007,Callie & Kel,Central Region,Tanglin,1.29312,103.82979,Entire home/apt,218,2,289,2019-08-15,4.9,1,231
 4108447,"Studio APT 3rooms, MRT/Kallang",21315137,Ethan,Central Region,Kallang,1.31409,103.87213,Entire home/apt,249,1,98,2019-08-05,1.64,7,351
@@ -278,7 +278,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 4252548,1 Bedroom Suite with Balcony,14521708,Shirley,Central Region,Geylang,1.31503,103.88605,Entire home/apt,94,1,55,2019-07-14,0.95,67,69
 4252667,Master Room,22069453,Xiao,West Region,Jurong East,1.34746,103.73203,Private room,28,1,0,,,1,0
 4271250,City Ctr_RiverValley/GreatWorldCity,22176293,YongXing9688,Central Region,Tanglin,1.29377,103.82844,Entire home/apt,160,30,170,2018-08-24,3.05,1,0
-4309836,1 Bedroom Condo @ St Michael's,9008551,Gregory,Central Region,Kallang,1.32712,103.86468,Entire home/apt,131,3,36,2019-07-26,0.63,1,340
+4309836,1 Bedroom Condo @ St Michael s,9008551,Gregory,Central Region,Kallang,1.32712,103.86468,Entire home/apt,131,3,36,2019-07-26,0.63,1,340
 4318386,"Study w/ private WC, pool, central",16319873,Christian,Central Region,Bukit Merah,1.27303,103.82783,Private room,89,10,1,2018-02-23,0.05,1,0
 4351937,2 bedroom serviced-Apt near central,22590759,Ashley,Central Region,Toa Payoh,1.33078,103.86782,Entire home/apt,219,1,0,,,1,0
 4360679,Simple Private Room for Two,20883050,Alvin,Central Region,Geylang,1.31025,103.88326,Private room,60,1,109,2019-08-12,1.86,37,333
@@ -332,7 +332,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 4664392,"Prime CBD Club Street, Heritage S3",7095710,Elise,Central Region,Outram,1.28175,103.84433,Entire home/apt,132,2,74,2019-08-12,1.31,12,341
 4683314,3BR (For 5)Apt Orchard/Stevens/UNESCO *MRT* Sup,6609641,Catherine,Central Region,Tanglin,1.31761,103.8264,Entire home/apt,319,7,18,2019-04-27,0.32,19,356
 4702699,Charming 2BR unit with Full Privacy,3907723,Jane,West Region,Clementi,1.29882,103.76499,Entire home/apt,181,2,2,2015-07-24,0.04,1,0
-4712676,HOMESTAY- Deluxe Room with SEALY King Bed + B'fast,24353373,Jeff,North-East Region,Ang Mo Kio,1.36573,103.83874,Private room,56,14,2,2016-05-16,0.04,1,88
+4712676,HOMESTAY- Deluxe Room with SEALY King Bed + B fast,24353373,Jeff,North-East Region,Ang Mo Kio,1.36573,103.83874,Private room,56,14,2,2016-05-16,0.04,1,88
 4721463,Colonial Black and White with Pool,16274267,Melinda,Central Region,Queenstown,1.30008,103.79455,Entire home/apt,269,5,1,2014-12-29,0.02,1,0
 4722005,Walking Distance to MRT,23994004,Orion,North Region,Sembawang,1.45328,103.82199,Private room,19,180,0,,,1,365
 4754788,A full-furnished and equipped home!,2227440,Seok Ho,East Region,Pasir Ris,1.36687,103.95896,Entire home/apt,250,4,0,,,1,0
@@ -408,7 +408,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 5282397,✪✪✪3BR Luxury Near Town & Novena (ga),8492007,Alvin,Central Region,Novena,1.32611,103.84476,Entire home/apt,300,14,42,2019-05-25,0.77,203,365
 5283776,Long Term Room rental.,27355976,Jeremy,East Region,Tampines,1.35725,103.95348,Private room,650,1,0,,,1,365
 5288111,"花拉公园公寓短期普通房出租12月1-15号,也可长租7个月",17350694,明洁,Central Region,Kallang,1.31665,103.85351,Private room,62,1,0,,,2,0
-5290367,Condo within a stone's throw from Orchard,21022554,Marty,Central Region,Novena,1.31489,103.84165,Entire home/apt,149,2,1,2015-12-22,0.02,2,0
+5290367,Condo within a stone s throw from Orchard,21022554,Marty,Central Region,Novena,1.31489,103.84165,Entire home/apt,149,2,1,2015-12-22,0.02,2,0
 5302410,Double Room in Condo at Tiong Bahru,12035631,Nicolas,Central Region,Bukit Merah,1.2856,103.82841,Private room,60,5,7,2016-07-12,0.13,1,0
 5319766,Large Master Bedroom with ensuite ,27516195,Leanne,Central Region,Outram,1.28185,103.84657,Private room,160,365,0,,,1,363
 5331445,❀❀2BR Luxury Phenthouse near town (msl2),8492007,Alvin,Central Region,Kallang,1.32815,103.86575,Entire home/apt,201,7,25,2018-07-18,0.46,203,309
@@ -518,7 +518,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 6142880,Cozy & Convenient Apt Close to Town,23722617,Alex,Central Region,Geylang,1.31312,103.88663,Entire home/apt,94,9,29,2019-03-01,0.56,84,68
 6147142,The Music Room,30080617,Eddie,East Region,Tampines,1.34468,103.96102,Private room,56,2,263,2019-07-07,5.02,7,0
 6147375,Common Room @ Reasonable Price,31212677,Shyam,North-East Region,Punggol,1.39866,103.90555,Private room,49,180,0,,,2,365
-6170451,Expats' choice!! Suites master room,24496358,Katherine,East Region,Bedok,1.32112,103.91641,Private room,119,3,3,2016-11-16,0.06,24,350
+6170451,Expats  choice!! Suites master room,24496358,Katherine,East Region,Bedok,1.32112,103.91641,Private room,119,3,3,2016-11-16,0.06,24,350
 6178568,Open Concept Studio (Opposite Chinatown MRT),14521708,Shirley,Central Region,Outram,1.28563,103.845,Entire home/apt,106,10,22,2019-07-10,0.42,67,47
 6179573,Spacious loft Apartment (Opposite Chinatown MRT),14521708,Shirley,Central Region,Outram,1.28362,103.84509,Entire home/apt,131,4,24,2019-07-10,0.47,67,81
 6183734,Cozy one bedroom close to the City,23722617,Alex,Central Region,Geylang,1.31352,103.88728,Entire home/apt,82,24,75,2018-09-16,1.46,84,74
@@ -550,7 +550,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 6352827,Lor 17 L3R1 Masterbed room w private toilet,33096269,E C,Central Region,Geylang,1.31322,103.87976,Private room,50,2,99,2019-08-26,3.26,14,77
 6352835,"Modern, Cosy Bedroom Available!",20380931,Amrita,Central Region,Rochor,1.30291,103.84871,Private room,69,1,4,2015-11-27,0.08,1,0
 6381495,Ground Floor Cosy 1 bedroom with Patio,14521708,Shirley,Central Region,Geylang,1.31532,103.8874,Entire home/apt,94,1,50,2019-08-10,0.97,67,65
-6419148,Derek & Callie's Room of Sweet,8271875,Derek,North Region,Yishun,1.42841,103.83065,Private room,56,2,22,2016-02-04,0.44,1,0
+6419148,Derek & Callie s Room of Sweet,8271875,Derek,North Region,Yishun,1.42841,103.83065,Private room,56,2,22,2016-02-04,0.44,1,0
 6426115,Maison Sims201,33189209,Anthony,Central Region,Geylang,1.31644,103.88702,Entire home/apt,199,2,59,2019-08-21,1.14,23,51
 6426551,Comfortable 2 Bedroom Apartment,23722617,Alex,Central Region,Geylang,1.31314,103.88681,Entire home/apt,181,4,48,2019-08-10,0.94,84,61
 6427139,Great place for chilling out,33541399,Veronica,West Region,Jurong West,1.34007,103.6962,Private room,81,1,0,,,1,0
@@ -570,7 +570,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 6531247,T - Cozy City Studio @ Tiong Bahru,229339,Tom,Central Region,Bukit Merah,1.28374,103.83513,Entire home/apt,110,2,28,2019-07-03,0.55,26,333
 6531497,Nice House w/ Swimming Pool,6975532,Mathilde,Central Region,Bukit Timah,1.33081,103.80396,Entire home/apt,360,7,0,,,1,0
 6547248,Stay at Bukit Timah natural reserve,5556667,David,Central Region,Bukit Timah,1.34486,103.76871,Private room,76,90,2,2018-01-22,0.04,1,365
-6553302,Expats' choice!! Cozy room near MRT,24496358,Katherine,East Region,Bedok,1.32089,103.91503,Private room,90,3,2,2019-06-12,0.13,24,301
+6553302,Expats  choice!! Cozy room near MRT,24496358,Katherine,East Region,Bedok,1.32089,103.91503,Private room,90,3,2,2019-06-12,0.13,24,301
 6581009,T- Quiet Park View Apt @ Tiong Bahru,229339,Tom,Central Region,Bukit Merah,1.28357,103.82995,Entire home/apt,115,1,11,2019-08-04,1.25,26,349
 6591835,Lovely double bedroom with ensuite,11885993,John,Central Region,River Valley,1.29289,103.84007,Private room,65,2,2,2015-08-04,0.04,1,0
 6603464,"Amazing Suite-room, mins to MRT (3)",28809566,Property,North Region,Sembawang,1.43972,103.8226,Private room,53,5,8,2019-04-13,0.18,7,362
@@ -664,7 +664,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 7174313,"Apartment A, 2 bedroom in City. Near MRT",21315137,Ethan,Central Region,Kallang,1.31267,103.87457,Entire home/apt,999,80,58,2017-11-23,1.16,7,269
 7181966,Cozy apartment near Little India,6593563,Oualid,Central Region,Kallang,1.31791,103.85083,Entire home/apt,131,4,14,2017-01-02,0.28,1,0
 7182042,"Elegant, newly furnished room Aljunied MRT",4432314,Trisha,Central Region,Geylang,1.31575,103.88392,Private room,58,2,42,2018-01-02,1.07,2,0
-7182463,Spacious Master's Bedroom at Paya Lebar,37629739,May,Central Region,Geylang,1.31553,103.8909,Private room,78,1,5,2018-06-21,0.1,3,0
+7182463,Spacious Master s Bedroom at Paya Lebar,37629739,May,Central Region,Geylang,1.31553,103.8909,Private room,78,1,5,2018-06-21,0.1,3,0
 7206112,Master Bedroom  with Panoramic View,37651301,Ghislain,Central Region,Bukit Merah,1.28283,103.83109,Private room,99,2,1,2015-08-05,0.02,3,0
 7210133,Cosy common room for 2.,34438130,Salleh,North Region,Woodlands,1.43537,103.77406,Private room,60,1,1,2018-08-01,0.08,1,363
 7212903,Cosy Common room near MRT,8363779,Phan,West Region,Bukit Panjang,1.36949,103.76564,Private room,44,1,20,2016-06-15,0.4,2,193
@@ -693,7 +693,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 7312255,Modern Cozy Living Space,16884152,Joey,Central Region,Novena,1.32281,103.85133,Entire home/apt,131,180,5,2016-01-03,0.1,1,365
 7319075,Beautiful 2 Bedr. apart next to MRT,38342813,Cintia,Central Region,Novena,1.32214,103.84917,Entire home/apt,200,5,46,2019-08-21,0.95,1,335
 7321238,"A Room with  bathroom near NTU, Boon Lay",12083856,Wendy,West Region,Jurong West,1.3426,103.71501,Private room,51,7,28,2018-10-23,0.62,2,299
-7332608,Rainforest Family,38410376,D'Resort,East Region,Pasir Ris,1.37835,103.95465,Private room,187,1,0,,,1,0
+7332608,Rainforest Family,38410376,D Resort,East Region,Pasir Ris,1.37835,103.95465,Private room,187,1,0,,,1,0
 7336489,East Coast House,30964139,Amy,East Region,Bedok,1.32101,103.9255,Entire home/apt,151,3,4,2016-10-30,0.08,1,0
 7350502,1 bedroom unit (Walk to Aljunied MRT),14521708,Shirley,Central Region,Geylang,1.31481,103.88701,Entire home/apt,87,1,59,2019-08-13,1.18,67,70
 7372314,Cozy Room Centrally located,38627498,Natalia,Central Region,Kallang,1.30934,103.86337,Private room,69,5,0,,,1,0
@@ -905,11 +905,11 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 8616705,♥♥Spacious Family Suite w Balcony Novena (zsm4),31464513,Darcy,Central Region,Novena,1.32235,103.85286,Entire home/apt,231,7,6,2018-08-20,0.24,114,257
 8617116,✪✪2BR Fully Furnished Cosy (zsm),8492007,Alvin,Central Region,Novena,1.32427,103.85103,Entire home/apt,218,8,6,2018-02-14,0.13,203,365
 8623041,Room near beautiful  kallang river,45357659,Nik,Central Region,Kallang,1.2962,103.86954,Private room,72,1,0,,,1,0
-8625349,Beary's 9 Bed Ladies Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28476,103.84589,Shared room,28,1,6,2019-07-21,0.16,9,363
-8626676,Beary's 6 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28365,103.84637,Shared room,32,1,15,2019-01-19,0.34,9,360
+8625349,Beary s 9 Bed Ladies Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28476,103.84589,Shared room,28,1,6,2019-07-21,0.16,9,363
+8626676,Beary s 6 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28365,103.84637,Shared room,32,1,15,2019-01-19,0.34,9,360
 8641722,FULLY FURNISHED SPACIOUS 4 BEDROOM!,44339444,Arlene,Central Region,Geylang,1.31241,103.88686,Entire home/apt,308,30,1,2018-05-24,0.06,1,148
 8642934,1+1 BDR Apartment in Duxton Hill,21322237,Daniela,Central Region,Outram,1.27757,103.84141,Entire home/apt,250,1,0,,,1,0
-8654132,Beary's 8 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28285,103.8445,Shared room,28,1,34,2019-08-18,0.74,9,364
+8654132,Beary s 8 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28285,103.8445,Shared room,28,1,34,2019-08-18,0.74,9,364
 8654673,Ladies Only Dorm with Ensuite Bathroom (per bed),45368183,Beary Best Hostel,Central Region,Outram,1.2842,103.84444,Shared room,32,1,19,2019-08-17,0.41,9,356
 8657749,Amazing View - Modern New Condo!,45495684,Bito,Central Region,Downtown Core,1.27686,103.84835,Private room,158,1,0,,,1,0
 8658119,Room in Stylish Minimalist Apt. @ Holland Village,35444084,Meen,Central Region,Queenstown,1.30652,103.79449,Private room,75,1,8,2019-04-24,0.17,1,128
@@ -936,7 +936,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 8853306,Fernvale Lane,46355892,Lim,North-East Region,Sengkang,1.39019,103.87137,Shared room,106,1,0,,,1,0
 8867964,Tech Home w/ nice Japanese couple,15243359,Takuya,Central Region,Bukit Timah,1.31448,103.79311,Private room,100,1,0,,,1,0
 8872326,Penthouse Master Room S2-2,10064384,Jay,Central Region,Downtown Core,1.27439,103.84714,Private room,169,90,18,2018-12-26,0.42,10,0
-8878770,#2 Shean's Place,46463224,Shean,West Region,Bukit Panjang,1.38884,103.7705,Private room,56,5,18,2018-11-03,0.39,2,149
+8878770,#2 Shean s Place,46463224,Shean,West Region,Bukit Panjang,1.38884,103.7705,Private room,56,5,18,2018-11-03,0.39,2,149
 8888094,LUXURY FAMILY APTMNT WITH BIG POOL,33876134,Ruth,Central Region,River Valley,1.29525,103.83722,Entire home/apt,325,3,2,2016-01-01,0.04,1,0
 8890247,Private room- 4 bed (Shared toilet),46515276,Ark,Central Region,Kallang,1.30985,103.87271,Private room,100,2,36,2019-08-12,0.79,11,355
 8897560,SINGLE BED CAPSULE IN HOSTEL RM 2,46545593,Meadows,Central Region,Kallang,1.31251,103.86023,Shared room,22,1,38,2018-06-29,0.81,17,365
@@ -976,7 +976,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9118960,Cozy Studio near the City,23722617,Alex,Central Region,Geylang,1.31479,103.88787,Entire home/apt,94,4,66,2019-08-11,1.66,84,72
 9122528,Your Home away from Home!,47529686,Ayush,East Region,Bedok,1.32573,103.90826,Private room,61,1,0,,,2,0
 9138262,Designer decor 3bed large apartment,36711187,Peter,Central Region,Queenstown,1.28207,103.78696,Entire home/apt,750,3,0,,,1,0
-9142805,Diva's Bed/Shared Room @citycentre- Female only,47611818,Jessie,Central Region,Rochor,1.29913,103.85316,Shared room,31,2,50,2019-08-08,1.11,14,303
+9142805,Diva s Bed/Shared Room @citycentre- Female only,47611818,Jessie,Central Region,Rochor,1.29913,103.85316,Shared room,31,2,50,2019-08-08,1.11,14,303
 9143024,DOUBLE BED IN CAPSULE HOSTEL RM 2,46545593,Meadows,Central Region,Kallang,1.3149,103.85021,Shared room,44,1,34,2018-08-01,0.75,17,365
 9147903,Great Room for Rent w/Amenities,47632157,Subhashish,West Region,Jurong East,1.34443,103.73485,Private room,37,3,0,,,1,0
 9157484,Spacious double room at central,37530433,Abigale,Central Region,Bukit Timah,1.33194,103.79488,Private room,42,2,2,2015-12-24,0.04,1,0
@@ -1075,7 +1075,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9716208,Private Pod in Mix 14 Dorm (1),50158481,Dream Lodge,Central Region,Kallang,1.31153,103.85984,Shared room,35,1,80,2019-08-10,1.78,8,358
 9717005,Quiet and Comfortable City-Fringe Apartment套房民宿201,7029973,Teddy,Central Region,Novena,1.32066,103.85301,Private room,81,2,37,2019-06-30,3.4,5,69
 9717769,Lulu,36583927,露,East Region,Bedok,1.33075,103.94238,Private room,81,2,0,,,1,0
-9718911,Ben's Naughty Tiger,8527085,Ben,Central Region,Orchard,1.30364,103.83507,Entire home/apt,319,2,93,2019-08-02,2.15,38,284
+9718911,Ben s Naughty Tiger,8527085,Ben,Central Region,Orchard,1.30364,103.83507,Entire home/apt,319,2,93,2019-08-02,2.15,38,284
 9738754,2 BR Luxury Apt in Heart of CBD,3013870,Kelvin,Central Region,Downtown Core,1.27861,103.85142,Entire home/apt,312,1,1,2016-01-02,0.02,1,0
 9738917,Couple/Double Pod in Mix 14 Dorm,50158481,Dream Lodge,Central Region,Kallang,1.31169,103.86033,Shared room,69,1,4,2019-06-09,0.1,8,362
 9739084,Private Family Room for 6,50158481,Dream Lodge,Central Region,Kallang,1.31206,103.86046,Private room,210,1,0,,,8,358
@@ -1092,13 +1092,13 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9818528,"Master Suite with attached bathroom, CBD area",28955194,Tan,Central Region,Downtown Core,1.28206,103.85366,Entire home/apt,96,7,2,2019-06-15,0.08,1,365
 9828451,"Lovely, cosy room in heart of city!",2594443,May,Central Region,Novena,1.31854,103.84131,Private room,65,21,5,2019-06-15,0.11,1,312
 9830656,Cozy and handy Master room,20717166,Okjoh,East Region,Tampines,1.35734,103.93777,Private room,40,15,0,,,1,0
-9849145,#1 Shean's Place,46463224,Shean,West Region,Bukit Panjang,1.39029,103.76979,Private room,56,5,15,2019-07-27,0.36,2,137
+9849145,#1 Shean s Place,46463224,Shean,West Region,Bukit Panjang,1.39029,103.76979,Private room,56,5,15,2019-07-27,0.36,2,137
 9857050,Entire apt with balcony & pool,31583707,Catherine,Central Region,Geylang,1.31408,103.88488,Entire home/apt,219,2,2,2016-10-25,0.06,2,239
 9866651,Private Pod in Mix 14 Dorm (2),50158481,Dream Lodge,Central Region,Kallang,1.3129,103.86146,Shared room,35,1,12,2018-01-01,0.28,8,363
 9866904,Pods...right outside the action!,50158481,Dream Lodge,Central Region,Kallang,1.31132,103.86153,Shared room,35,1,25,2018-02-28,0.64,8,362
 9866917,Your Private Pod Outside The City (1),50158481,Dream Lodge,Central Region,Kallang,1.31284,103.86089,Shared room,35,1,67,2018-05-27,1.55,8,363
 9866970,Your Private Pod Outside The City (2),50158481,Dream Lodge,Central Region,Kallang,1.31232,103.86178,Shared room,35,1,11,2018-02-05,0.25,8,360
-9866985,Beary's 2 Bed Private Room,45368183,Beary Best Hostel,Central Region,Outram,1.28271,103.84586,Private room,92,1,4,2019-01-26,0.26,9,350
+9866985,Beary s 2 Bed Private Room,45368183,Beary Best Hostel,Central Region,Outram,1.28271,103.84586,Private room,92,1,4,2019-01-26,0.26,9,350
 9869425,Couple Pods....Right outside the City!,50158481,Dream Lodge,Central Region,Kallang,1.31292,103.85983,Shared room,69,1,6,2017-10-06,0.14,8,363
 9872354,Between Airport & City Attic Room,7948331,Stephanie & KT,Central Region,Marine Parade,1.30655,103.90307,Private room,78,2,22,2019-08-17,0.68,1,351
 9872882,serangoon石龙岗豪华别墅超大主人房,37733466,Jingjing,North-East Region,Serangoon,1.34444,103.87119,Private room,60,5,2,2017-01-27,0.05,1,0
@@ -1124,7 +1124,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9962463,Amazing Apartment in Tanjong Pagar!,3844505,Blandine,Central Region,Downtown Core,1.27532,103.84511,Entire home/apt,181,4,1,2016-01-02,0.02,1,0
 9962713,Condo w pool 1 br+1 living+terrace,10101420,Kim,Central Region,Kallang,1.31124,103.85918,Entire home/apt,125,7,0,,,1,0
 9965623,3 Double Bed Rooms,51209996,Allen,North-East Region,Sengkang,1.39085,103.87926,Private room,50,7,0,,,1,0
-9967697,Beary's 10 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28331,103.84625,Shared room,26,1,21,2019-02-06,0.48,9,361
+9967697,Beary s 10 Bed Mixed Dorm (Per Bed),45368183,Beary Best Hostel,Central Region,Outram,1.28331,103.84625,Shared room,26,1,21,2019-02-06,0.48,9,361
 9976083,Quirky Heritage Apt in Tiong Bahru,28326594,Ji Hyung,Central Region,Bukit Merah,1.28433,103.83122,Entire home/apt,150,2,0,,,1,0
 9979272,Cozy private condo room near CBD,20673777,Prateek,Central Region,Marine Parade,1.29907,103.88689,Private room,100,1,2,2016-02-27,0.05,1,0
 9979584,Room in Novena Condo - central and close to MRT,2062901,Gillian,Central Region,Kallang,1.31451,103.84719,Private room,60,2,7,2019-08-01,0.61,1,23
@@ -1180,7 +1180,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 10302153,High floor with fantastic city view,24354918,Daiyhsi,Central Region,Outram,1.28358,103.84438,Private room,60,1,51,2019-08-13,1.18,1,313
 10304845,✪✪2BR Nice view Phenthouse big balcony (MSL2),8492007,Alvin,Central Region,Kallang,1.3277,103.86511,Entire home/apt,258,10,16,2019-07-17,0.38,203,365
 10310084,Condo Unit Located in Downtown Core,53048732,Heng Jun,Central Region,Outram,1.28879,103.84014,Entire home/apt,131,1,0,,,1,0
-10318835,Maid's Room For Rent $15/Day,13460992,Ming,Central Region,Geylang,1.31639,103.88385,Private room,15,1,0,,,1,0
+10318835,Maid s Room For Rent $15/Day,13460992,Ming,Central Region,Geylang,1.31639,103.88385,Private room,15,1,0,,,1,0
 10322041,"Clean, Quiet & New Rm in Joo Chiat",6551254,Kevin,Central Region,Geylang,1.31398,103.90491,Private room,65,91,3,2017-09-28,0.12,1,363
 10343519,Private Apartment near Orchard Rd,52472629,James,Central Region,River Valley,1.29923,103.83098,Entire home/apt,160,4,3,2016-12-03,0.07,1,0
 10343562,City 1 + 1 Bedroom Studio Apartment,53235451,Ian,Central Region,Rochor,1.29943,103.85177,Entire home/apt,3500,365,0,,,1,0
@@ -1191,15 +1191,15 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 10392455,"Cosy, Clean & Cheap Room!",44697867,Linda,North-East Region,Hougang,1.36675,103.89587,Private room,43,180,49,2017-01-17,1.12,1,358
 10427701,highrise Ensuite attached bathroom @chinatown *9m1,8948251,Joey,Central Region,Outram,1.28454,103.84391,Private room,60,90,2,2019-06-08,0.09,83,361
 10440979,Ruhiges Zimmer in Nähe der MRT,53789189,Klaus,Central Region,Bukit Timah,1.34158,103.76907,Private room,50,3,39,2019-04-25,0.93,1,121
-10459862,Diva's Bed/Shared Room @citycentre-FEMALE ONLY,47611818,Jessie,Central Region,Rochor,1.30011,103.85396,Shared room,31,2,28,2019-08-09,0.95,14,345
+10459862,Diva s Bed/Shared Room @citycentre-FEMALE ONLY,47611818,Jessie,Central Region,Rochor,1.30011,103.85396,Shared room,31,2,28,2019-08-09,0.95,14,345
 10460541,Deluxe Suite Near MRT,20715826,Alfian,East Region,Bedok,1.32043,103.91154,Entire home/apt,149,2,150,2019-08-12,3.5,2,303
 10466406,Cozy Downtown Condo Unit -near 3 MRTs,21149720,Mike,Central Region,Kallang,1.31057,103.86081,Entire home/apt,222,1,6,2019-06-14,0.14,16,351
 10466787,Couch in Somerset,4461879,Aaron,Central Region,River Valley,1.29762,103.84174,Shared room,81,1,0,,,1,0
 10467184,Tranquil Living in The East,53937734,Jenny,East Region,Pasir Ris,1.37342,103.94068,Entire home/apt,169,365,0,,,1,364
 10474800,Stunning Forest Villa-Guest Room 2,9527221,Lan,North Region,Central Water Catchment,1.36532,103.78558,Private room,99,1,0,,,3,0
 10477296,Resort style living in CBD,6495130,Neeraj,Central Region,Rochor,1.30221,103.84623,Private room,119,1,0,,,1,0
-10478373,Diva's Bed/Shared Room @citycentre-Female only!,47611818,Jessie,Central Region,Rochor,1.30044,103.85173,Shared room,28,2,82,2019-06-22,1.89,14,313
-10479544,Diva's Bed/Shared Room @citycentre-FEMALE ONLY,47611818,Jessie,Central Region,Rochor,1.2982,103.8523,Shared room,28,2,76,2019-06-28,1.9,14,349
+10478373,Diva s Bed/Shared Room @citycentre-Female only!,47611818,Jessie,Central Region,Rochor,1.30044,103.85173,Shared room,28,2,82,2019-06-22,1.89,14,313
+10479544,Diva s Bed/Shared Room @citycentre-FEMALE ONLY,47611818,Jessie,Central Region,Rochor,1.2982,103.8523,Shared room,28,2,76,2019-06-28,1.9,14,349
 10480525,Wellcome to our home!,26653905,RouYi,East Region,Pasir Ris,1.37315,103.9596,Private room,50,5,0,,,2,0
 10480544,Stunning Forest Villa-Guest Room 1,9527221,Lan,West Region,Bukit Panjang,1.37321,103.77407,Private room,99,1,0,,,3,0
 10484336,3BR seaview modern condo East Coast,11114502,Caroline,Central Region,Marine Parade,1.3008,103.90074,Entire home/apt,300,1,2,2016-08-06,0.05,1,0
@@ -1346,7 +1346,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 11635459,Stylish 1bedrm Apt | 3mins walk to Farrer Park MRT,41039458,Zack,Central Region,Kallang,1.31331,103.85516,Entire home/apt,125,5,8,2019-08-15,0.24,10,2
 11641607,Modern Apartment in Botanic Gardens,61723091,Mollie,Central Region,Bukit Timah,1.32769,103.81104,Private room,100,1,0,,,1,0
 11642282,Spacious Rm L2: Bugis/Dhoby/Orchard,55844797,That Green Corner,Central Region,Rochor,1.30221,103.85109,Private room,104,2,77,2019-06-15,1.87,8,216
-11642766,A cozy place near Singapore's center (min. 3 mths),61733239,Kit,Central Region,Bishan,1.34263,103.83768,Private room,49,90,37,2018-08-03,0.88,1,120
+11642766,A cozy place near Singapore s center (min. 3 mths),61733239,Kit,Central Region,Bishan,1.34263,103.83768,Private room,49,90,37,2018-08-03,0.88,1,120
 11646465,3mins to Chinatown Mrt/one bed in 6-bed mixed dorm,61762641,BedsandDreams Inn@ Chinatown,Central Region,Outram,1.28263,103.84434,Shared room,40,1,1,2016-10-07,0.03,6,307
 11659884,Big House for Big Family,23375466,You,Central Region,Bukit Timah,1.3371,103.77431,Entire home/apt,299,2,0,,,1,0
 11660178,Modern & big private studio room at top floor,24496358,Katherine,East Region,Bedok,1.32528,103.9153,Private room,199,3,2,2019-03-15,0.28,24,362
@@ -1380,7 +1380,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 11833412,bright and cozy entire apartment,17606405,Violet,East Region,Bedok,1.31188,103.90945,Entire home/apt,89,3,4,2018-11-24,0.36,1,0
 11839854,Town - Room 1D,15503071,Dan,Central Region,Kallang,1.31487,103.85408,Private room,69,90,24,2018-09-19,0.58,13,282
 11863888,"Prime CBD Club Street, Heritage S8!",7095710,Elise,Central Region,Outram,1.28202,103.8467,Entire home/apt,135,2,51,2019-08-01,1.27,12,322
-11864366,Ben's Boring Apartment,8527085,Ben,Central Region,Newton,1.30259,103.83927,Entire home/apt,399,2,69,2019-08-09,1.7,38,268
+11864366,Ben s Boring Apartment,8527085,Ben,Central Region,Newton,1.30259,103.83927,Entire home/apt,399,2,69,2019-08-09,1.7,38,268
 11865064,2br Urban Orchard  next MRT,8527085,Ben,Central Region,River Valley,1.3035,103.83091,Entire home/apt,319,2,18,2019-06-11,0.47,38,354
 11865360,"Prime CBD, club street Heritage S6!",7095710,Elise,Central Region,Outram,1.28156,103.84572,Entire home/apt,119,2,62,2019-06-04,1.51,12,325
 11871765,Cozy & Stylish City Apartment (Suite IV),60024674,Mike,Central Region,Novena,1.31629,103.84463,Entire home/apt,93,90,20,2019-06-03,0.48,5,261
@@ -1621,7 +1621,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 13477082,1br entire appartment in River Valley - Somerset,1192918,Francois,Central Region,River Valley,1.29629,103.83707,Entire home/apt,106,4,2,2016-08-08,0.05,1,0
 13485944,Fun,77249917,Yuexue,North Region,Sembawang,1.45146,103.81965,Private room,140,1,0,,,1,0
 13488112,Large flat in a trendy area of the city center,3073051,Mathieu,Central Region,Bukit Merah,1.28443,103.83262,Private room,60,2,2,2016-09-18,0.05,1,0
-13520230,Designer's 4 BR Penthouse with Superb Glass House,74275888,Linda,Central Region,Geylang,1.31335,103.8854,Entire home/apt,439,2,3,2017-08-23,0.08,3,56
+13520230,Designer s 4 BR Penthouse with Superb Glass House,74275888,Linda,Central Region,Geylang,1.31335,103.8854,Entire home/apt,439,2,3,2017-08-23,0.08,3,56
 13521712,Enjoy the awesome 40th floor views of Singapore,77677739,Charis-Amy,Central Region,Kallang,1.30763,103.86384,Private room,53,7,0,,,1,0
 13523211,Sunny 1+1 Condo with Amazing view 1min from MRT,3863993,Priscilla,Central Region,Kallang,1.30872,103.86203,Entire home/apt,117,3,2,2016-12-27,0.06,1,0
 13540021,Boonlay MRT 1,51503267,Gloria,West Region,Jurong West,1.33929,103.70251,Private room,44,180,0,,,1,364
@@ -1815,7 +1815,7 @@ At Doorstep",11390076,Tryston,Central Region,Museum,1.29756,103.85037,Private ro
 14750235,Bed Space for male - Aljunied MRT,91165081,Chong,Central Region,Geylang,1.31467,103.88208,Shared room,28,6,1,2018-12-17,0.12,10,317
 14755252,Master room with attached bathroomo,91165081,Chong,Central Region,Geylang,1.31586,103.9055,Private room,58,2,4,2019-07-12,0.31,10,361
 14774554,Master bedroom (en suite bathroom).,47723162,Mickael,Central Region,Bishan,1.36389,103.83226,Private room,190,1,0,,,2,365
-14774581,Orchard's Nest : Top location,24963905,Sandeep,Central Region,Rochor,1.30213,103.8483,Private room,50,13,6,2019-03-31,0.17,3,205
+14774581,Orchard s Nest : Top location,24963905,Sandeep,Central Region,Rochor,1.30213,103.8483,Private room,50,13,6,2019-03-31,0.17,3,205
 14775190,❀❀2 Bed Room @ whampo market (BL3),8492007,Alvin,Central Region,Novena,1.32251,103.85369,Entire home/apt,218,7,1,2017-08-11,0.04,203,301
 14775222,❀❀❀3BR@Opp Zhong Shan mall,8492007,Alvin,Central Region,Novena,1.32396,103.84858,Entire home/apt,300,7,3,2018-06-15,0.08,203,264
 14778285,CBD Luxury Bedroom in Marina Bay!,4406052,Marina,Central Region,Downtown Core,1.28177,103.8528,Private room,139,3,5,2019-08-03,0.14,2,356
@@ -1894,8 +1894,8 @@ At Doorstep",11390076,Tryston,Central Region,Museum,1.29756,103.85037,Private ro
 15351390,Private Room near Paya Lebar&Dakota,78386666,Jayce,Central Region,Geylang,1.3115,103.89015,Private room,62,2,0,,,6,0
 15362541,City Apartment Rm w/ Queen Bed @ Orchard_5,97206233,Julie,Central Region,Orchard,1.30385,103.83477,Private room,76,1,37,2019-07-29,1.1,10,347
 15364548,New Spacious Studio Apt @ Somerset /Orchard Area,61619807,Ong,Central Region,River Valley,1.29577,103.83939,Entire home/apt,140,2,37,2019-08-13,1.07,27,323
-15364942,Expat's choice ! En-suites room 3,24496358,Katherine,East Region,Bedok,1.31673,103.91426,Private room,67,88,1,2017-09-16,0.04,24,341
-15365213,Expat's choice! En-suites room with shared pool,24496358,Katherine,East Region,Bedok,1.32415,103.91477,Private room,131,3,0,,,24,342
+15364942,Expat s choice ! En-suites room 3,24496358,Katherine,East Region,Bedok,1.31673,103.91426,Private room,67,88,1,2017-09-16,0.04,24,341
+15365213,Expat s choice! En-suites room with shared pool,24496358,Katherine,East Region,Bedok,1.32415,103.91477,Private room,131,3,0,,,24,342
 15367409,"postwar singlebed rm*Ba, 3min to aljunied mrt",97878860,Chelsey,Central Region,Geylang,1.31639,103.8816,Private room,35,18,3,2018-02-07,0.09,59,359
 15369685,5 Star Condo & a Bright Comfortable Room,23285601,Amir,Central Region,Rochor,1.30095,103.84911,Private room,60,1,0,,,1,0
 15379742,"Luxurious Private Suite, Daily Maid Service",98310459,Diana,Central Region,Tanglin,1.31846,103.83196,Private room,150,7,0,,,1,363
@@ -1994,7 +1994,7 @@ At Doorstep",11390076,Tryston,Central Region,Museum,1.29756,103.85037,Private ro
 15902723,Cozy room just 5 mins walk to NTU.,102149593,Syed,West Region,Jurong West,1.33981,103.68924,Private room,50,2,29,2019-08-10,0.86,1,85
 15905849,For Startups & Entrepreneurs - Queen in 18 Bed,103099105,Tribe Theory,Central Region,Downtown Core,1.27992,103.84483,Shared room,69,1,25,2019-04-05,0.81,4,331
 15921068,Cozy Master Bed Room Near EW6 MRT 舒适宽敞主人房,103300843,Steven,East Region,Bedok,1.32254,103.91947,Private room,58,90,2,2017-12-13,0.06,1,89
-15934708,The Tran's House (Master Bedroom) near MRT/Bus,45711035,Tomy,East Region,Bedok,1.33135,103.94103,Shared room,90,2,5,2017-04-25,0.15,1,0
+15934708,The Tran s House (Master Bedroom) near MRT/Bus,45711035,Tomy,East Region,Bedok,1.33135,103.94103,Shared room,90,2,5,2017-04-25,0.15,1,0
 15938502,Common Room near NUS,37291236,Jason,West Region,Clementi,1.29732,103.76702,Private room,87,3,3,2017-03-08,0.09,2,147
 15943782,For Startups & Entrepreneurs - 2 Bed Private Room,103099105,Tribe Theory,Central Region,Outram,1.28154,103.84565,Private room,90,1,5,2019-06-11,0.16,4,307
 15949448,*Friendly host family@ heart of SG( Potong Pasir)*,6379045,Eddy,Central Region,Toa Payoh,1.33235,103.86791,Private room,67,4,19,2019-08-13,0.59,2,56
@@ -2192,7 +2192,7 @@ Bencoolen station on door step",11390076,Tryston,Central Region,Museum,1.29901,1
 16665225,SG/Cozy/Serangoon MRT/NEX/Aircon/clean/ cheap,25422497,Audrey,North-East Region,Hougang,1.34978,103.88091,Private room,26,90,0,,,7,174
 16665444,(6)SG/ Serangoon MRT/City Center/ Penthouse/cheap,25422497,Audrey,North-East Region,Hougang,1.35141,103.87921,Private room,35,10,5,2017-08-25,0.17,7,214
 16677104,Holiday Apartment for Family -walk to 3 MRT lines,21149720,Mike,Central Region,Kallang,1.31232,103.85837,Entire home/apt,201,1,1,2018-09-18,0.09,16,351
-16678046,"Lim's, your cozy home next to the beach",42169445,碧丹青,Central Region,Marine Parade,1.30138,103.89884,Private room,81,2,4,2017-03-15,0.13,1,0
+16678046,"Lim s, your cozy home next to the beach",42169445,碧丹青,Central Region,Marine Parade,1.30138,103.89884,Private room,81,2,4,2017-03-15,0.13,1,0
 16680449,Sun room,109721016,Lina,East Region,Bedok,1.32403,103.92687,Private room,69,3,35,2019-06-26,1.11,1,172
 16701352,Leisure Studio APT 5 mins from Tg Pagar MRT,66406177,Jay,Central Region,Downtown Core,1.2735,103.84527,Entire home/apt,144,30,34,2019-07-24,1.3,274,359
 16702357,Cosy Private Bedroom Suite@ Orchard /Central area,46685310,L,Central Region,River Valley,1.29601,103.83794,Private room,87,1,7,2019-08-12,0.23,28,345
@@ -2240,7 +2240,7 @@ Bencoolen station on door step",11390076,Tryston,Central Region,Museum,1.29901,1
 16848626,Room for Rent in Terrace House in Siglap Singapore,63448912,River City Inn,East Region,Bedok,1.31387,103.93091,Private room,26,356,1,2018-09-26,0.09,43,365
 16848828,Comfortable Small Studio in Orchard (200 sqft),111065775,Abegail,Central Region,River Valley,1.29774,103.83639,Entire home/apt,119,6,12,2018-09-02,0.4,19,257
 16850703,Cozy apartment tucked in River Valley,23722617,Alex,Central Region,River Valley,1.29587,103.84041,Entire home/apt,119,5,33,2019-08-13,1.08,84,75
-16863370,Divas's Place  Female share room at city centre,47611818,Jessie,Central Region,Rochor,1.30007,103.85154,Shared room,32,2,11,2019-05-15,0.35,14,359
+16863370,Divas s Place  Female share room at city centre,47611818,Jessie,Central Region,Rochor,1.30007,103.85154,Shared room,32,2,11,2019-05-15,0.35,14,359
 16865763,4 Bed Mixed Dorm(1),63448912,River City Inn,Central Region,Singapore River,1.287,103.84691,Shared room,39,1,4,2019-05-01,0.13,43,22
 16881298,PARADISE  SUITE  ACCOMMODATION  FOR  BLESSED (3),112299696,Accomodation,North Region,Sembawang,1.44096,103.82183,Private room,54,7,2,2017-07-16,0.06,3,365
 16886073,Cosy Junior Master Room In City Center. Near MRT,56421978,Nancy,Central Region,Kallang,1.31779,103.85169,Private room,65,5,15,2019-08-03,0.49,7,170
@@ -2360,7 +2360,7 @@ Bencoolen station on door step",11390076,Tryston,Central Region,Museum,1.29901,1
 17712132,Cosy 2 QueenBeds Studio Apt @Somerset/Orchard Area,10248444,Rc,Central Region,River Valley,1.29664,103.83987,Entire home/apt,165,2,35,2019-08-11,1.23,48,336
 17716164,Spacious Master Room for Short and Long Term Stay,77033455,Ho,East Region,Bedok,1.31999,103.91957,Private room,81,1,0,,,4,90
 17727192,Private bedroom / bathroom with mesmerizing view,120868857,Bjarke,Central Region,Downtown Core,1.27357,103.84359,Private room,125,2,3,2019-08-23,0.11,1,59
-17736530,Chua's@33,120966362,Shijie,West Region,Jurong West,1.33755,103.6903,Private room,90,3,25,2019-06-09,0.96,1,261
+17736530,Chua s@33,120966362,Shijie,West Region,Jurong West,1.33755,103.6903,Private room,90,3,25,2019-06-09,0.96,1,261
 17740089,Bedroom twin at Orchard Road,119740557,Nicholas,Central Region,Newton,1.30545,103.83863,Private room,56,2,9,2018-09-19,0.3,3,89
 17742555,Maison Ser401,33189209,Anthony,Central Region,Marine Parade,1.30729,103.89897,Entire home/apt,189,2,13,2019-08-06,0.71,23,36
 17742972,Casa Ser401,16305681,Ace Beautiful Homes,Central Region,Marine Parade,1.30654,103.90009,Entire home/apt,185,3,14,2019-07-29,0.75,17,36
@@ -2455,7 +2455,7 @@ Bencoolen station on door step",11390076,Tryston,Central Region,Museum,1.29901,1
 18061058,fully furnished 1 bedroom apt,9253787,Vanessa,North-East Region,Serangoon,1.34995,103.8613,Entire home/apt,119,30,2,2017-10-21,0.07,1,144
 18062352,Newly renovated unit. Less than 5 mins walk to MRT,115596862,Ken,West Region,Jurong East,1.33406,103.73849,Entire home/apt,210,2,56,2019-08-25,2.01,1,332
 18062829,Lichi Avenue House near Potong Pasir MRT Station,124343633,Joseph,Central Region,Toa Payoh,1.33381,103.87667,Private room,56,1,0,,,1,0
-18080682,sunny islander's home-We love east coast!,112040605,Claire,East Region,Bedok,1.33212,103.94302,Entire home/apt,212,5,36,2019-08-06,1.27,1,44
+18080682,sunny islander s home-We love east coast!,112040605,Claire,East Region,Bedok,1.33212,103.94302,Entire home/apt,212,5,36,2019-08-06,1.27,1,44
 18081902,Studio Serviced Apartments Along Orchard Road,124516401,Orchard Point,Central Region,Orchard,1.30205,103.84032,Entire home/apt,156,6,9,2019-07-30,0.35,6,177
 18085436,GT City Apt,124536308,Gongtong,North-East Region,Serangoon,1.35517,103.86893,Private room,375,7,0,,,1,179
 18086207,2 Bed 2 Bath Central Apartment 2mins to MRT,9321032,Ken,Central Region,Rochor,1.30231,103.85318,Entire home/apt,149,90,7,2018-12-06,0.24,1,362
@@ -2569,7 +2569,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 18674998,Cozy Premium Studio In Orchard Road (300 sqft),111065775,Abegail,Central Region,River Valley,1.29764,103.83706,Entire home/apt,150,6,7,2019-03-27,0.27,19,300
 18675202,Premium Studio 2 Mins Walk To Orchard (300 sqft),111065775,Abegail,Central Region,River Valley,1.29896,103.83643,Entire home/apt,149,6,12,2019-03-30,0.47,19,293
 18677397,0.5 miles (10 minutes walk) to Yew Tee MRT Station,1545156,Jean,West Region,Choa Chu Kang,1.40313,103.74992,Private room,33,210,0,,,1,274
-18677983,Business Traveler's Haven near Orchard Road,129831064,Isabel,Central Region,Tanglin,1.31388,103.82503,Private room,310,7,0,,,1,365
+18677983,Business Traveler s Haven near Orchard Road,129831064,Isabel,Central Region,Tanglin,1.31388,103.82503,Private room,310,7,0,,,1,365
 18679631,Small room for you,108408404,Sutthida,Central Region,Marine Parade,1.30823,103.89461,Private room,14,2,1,2017-05-14,0.04,1,0
 18684661,*New* 3BR Loft Unit 4 bed Condo (8pax),101040883,Ailyn,West Region,Choa Chu Kang,1.38053,103.75979,Entire home/apt,183,1,40,2019-08-09,1.44,6,116
 18692721,A cozy private room located in Kembangan Suites,129951360,Kyle,East Region,Bedok,1.32068,103.91307,Private room,65,10,0,,,1,0
@@ -2584,7 +2584,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 18765777,Boonlay 16sqm Cosy Master Room for Rent,21452339,Xiaowei,West Region,Jurong West,1.3431,103.70169,Private room,56,3,0,,,1,0
 18780571,Cozy Shophouse Studio Apartment 3 mins from MRT,90613922,Jiayi,Central Region,Rochor,1.30251,103.84918,Entire home/apt,110,3,50,2019-07-24,1.89,10,279
 18783955,(*3 MTHS STAY ONWARD) 高级套房 high quality suite,78238544,Kenneth,North Region,Yishun,1.4057,103.82069,Private room,37,1,22,2019-07-10,0.81,3,0
-18830269,Luxury condo's cozy private room near Orchard Road,131127587,Navneet,Central Region,Tanglin,1.31652,103.83092,Private room,194,1,12,2018-10-20,0.44,1,0
+18830269,Luxury condo s cozy private room near Orchard Road,131127587,Navneet,Central Region,Tanglin,1.31652,103.83092,Private room,194,1,12,2018-10-20,0.44,1,0
 18835258,Single room in a resort-like condominium,33615151,Chaolemeng,West Region,Bukit Batok,1.36097,103.76407,Private room,60,1,0,,,1,0
 18848925,"Brand New, Quiet, Modern, Luxury Apartment",126918397,Bobby,Central Region,Novena,1.31964,103.84641,Entire home/apt,401,10,0,,,1,365
 18850989,Fully Equipped 1-bedroom Condo all for yourself.,115417605,Steven,North-East Region,Hougang,1.35113,103.8797,Entire home/apt,112,2,96,2019-07-15,3.5,1,170
@@ -2623,7 +2623,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 19007966,Downtown Ensuite03M2,97878860,Chelsey,Central Region,Outram,1.28455,103.84308,Private room,56,28,1,2018-03-05,0.06,59,333
 19009257,[Botanical Garden] Cozy Room by Beautiful Natures,125804276,Lam,Central Region,Bishan,1.35041,103.83968,Private room,60,2,94,2019-08-12,3.48,1,13
 19020434,Nice location with Nice People here,128556218,Chan,Central Region,Bukit Merah,1.28578,103.83388,Private room,387,1,1,2017-06-03,0.04,1,365
-19027624,King's Landing,132776510,Gustav & Sandra,Central Region,Newton,1.30668,103.84157,Entire home/apt,231,2,1,2017-06-17,0.04,1,0
+19027624,King s Landing,132776510,Gustav & Sandra,Central Region,Newton,1.30668,103.84157,Entire home/apt,231,2,1,2017-06-17,0.04,1,0
 19039775,NEW Cozy Bedroom Suite/ WIFI@Orchard/Somerset Area,46685310,L,Central Region,River Valley,1.29587,103.83799,Private room,100,2,59,2019-07-19,2.21,28,327
 19056267,window greenery *room near CitySQ Mall,2413412,Kaurus,Central Region,Kallang,1.31113,103.85791,Private room,40,18,1,2018-07-17,0.07,112,342
 19073773,Cozy room R at top floor in landed house,68059127,Wei,East Region,Bedok,1.32137,103.91476,Private room,90,3,1,2019-03-17,0.18,21,116
@@ -2668,7 +2668,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 19184502,Spacious bedroom near city centre with free Wi-Fi,134187371,Esther,Central Region,Downtown Core,1.27438,103.84429,Private room,300,1,19,2019-08-01,0.76,10,146
 19184503,Spacious bedroom near city centre with free Wi-Fi,134187371,Esther,Central Region,Outram,1.27551,103.84276,Private room,300,1,16,2019-08-17,0.64,10,171
 19199981,City Hall Quaint & Modern Studio Single Apartment,23336011,Heritage Apartments,Central Region,Downtown Core,1.29624,103.85391,Entire home/apt,131,7,4,2019-05-19,0.5,40,316
-19200431,Michelle and Steven's place (II),20872645,Michelle,West Region,Bukit Batok,1.35612,103.76073,Private room,90,88,3,2017-09-24,0.12,2,331
+19200431,Michelle and Steven s place (II),20872645,Michelle,West Region,Bukit Batok,1.35612,103.76073,Private room,90,88,3,2017-09-24,0.12,2,331
 19205241,Ang mo kio big house,134374708,Alex,North-East Region,Ang Mo Kio,1.3648,103.85425,Private room,108,1,0,,,1,0
 19218794,Renovated Master Bedroom & own bathroom@East Coast,36416351,Min,East Region,Bedok,1.30763,103.91451,Private room,3000,90,33,2018-03-31,1.25,1,90
 19220212,Pool View Room near Clark Quay & Orchard,33035300,Belle,Central Region,River Valley,1.29303,103.8361,Private room,94,8,26,2019-08-25,0.97,2,281
@@ -2685,7 +2685,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 19261441,Downtown partial-Ensuite,97878860,Chelsey,Central Region,Outram,1.28335,103.84338,Private room,56,18,0,,,59,350
 19267435,Center of Mental,8527085,Ben,Central Region,Orchard,1.30382,103.83312,Entire home/apt,251,2,41,2019-08-13,1.55,38,271
 19273088,❀1BR Wonderful Near Purple Line (ers),8492007,Alvin,Central Region,Kallang,1.32204,103.86438,Entire home/apt,118,3,10,2019-05-13,0.38,203,335
-19282261,Michelle and Steven's place (III),20872645,Michelle,West Region,Bukit Batok,1.35726,103.75876,Private room,83,75,0,,,2,234
+19282261,Michelle and Steven s place (III),20872645,Michelle,West Region,Bukit Batok,1.35726,103.75876,Private room,83,75,0,,,2,234
 19286135,Spacious Exotic Mandalay Suite in 1920s Shophouse!,17032962,Shu,Central Region,Rochor,1.311,103.85435,Entire home/apt,135,1,146,2019-08-08,5.52,16,115
 19296446,Comfy Apartment @ Tresalveo,48641356,Keith,Central Region,Bishan,1.3514,103.83941,Entire home/apt,100,360,0,,,5,364
 19299883,Private single room at Sengkang,135164148,Chng,North-East Region,Sengkang,1.38293,103.90259,Private room,53,180,1,2017-07-31,0.04,2,365
@@ -2770,7 +2770,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 19739630,Lakeside Master room of condo 裕廊湖畔公寓主人房,139204582,X-Roy,West Region,Jurong East,1.33633,103.72569,Private room,7000,2,0,,,1,0
 19746238,Apartment perfect for couples or solo travellers,26317200,Mustaffa,East Region,Bedok,1.32589,103.90699,Entire home/apt,125,5,3,2019-08-21,0.12,1,64
 19751695,Newly Refurbished Private Room @ Sembawang MRT,15035611,Anna,North Region,Sembawang,1.45111,103.82765,Private room,87,1,7,2017-12-16,0.28,1,0
-19758047,Ryan's Home,128313510,Fan,West Region,Western Water Catchment,1.35424,103.68162,Private room,31,1,1,2017-07-12,0.04,1,0
+19758047,Ryan s Home,128313510,Fan,West Region,Western Water Catchment,1.35424,103.68162,Private room,31,1,1,2017-07-12,0.04,1,0
 19758048,The Bayshore,139411664,Gwendolen,East Region,Bedok,1.31141,103.93891,Private room,43,1,4,2017-09-16,0.16,1,0
 19771133,Maison Ser301,33189209,Anthony,Central Region,Marine Parade,1.30768,103.89982,Entire home/apt,108,2,36,2019-07-15,1.79,23,48
 19773521,This is Sweet HOME !!!,139582407,Jubilee,East Region,Bedok,1.31342,103.90675,Private room,69,7,1,2018-05-05,0.06,1,0
@@ -2792,14 +2792,14 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 19820440,One Tree Hill Mansion,24711090,Th,Central Region,River Valley,1.30024,103.82483,Private room,69,1,0,,,1,0
 19831199,"Bright & Charming 1BR Shophouse Apt, 3mins to MRT",90613922,Jiayi,Central Region,Rochor,1.30307,103.85025,Entire home/apt,131,3,70,2019-08-09,2.76,10,251
 19832720,2BR [T] Srvcd Apt ★ Clementi,101145755,Joanne,West Region,Clementi,1.31617,103.75728,Entire home/apt,319,3,1,2017-07-31,0.04,11,365
-19832956,3BR [P] Srvcd Apt' ★ Clementi,101145755,Joanne,West Region,Clementi,1.31038,103.7607,Entire home/apt,350,3,3,2017-10-06,0.12,11,355
+19832956,3BR [P] Srvcd Apt  ★ Clementi,101145755,Joanne,West Region,Clementi,1.31038,103.7607,Entire home/apt,350,3,3,2017-10-06,0.12,11,355
 19834053,1BR [W] Srvcd Apt ★ Haw Par Villa,101145755,Joanne,Central Region,Queenstown,1.28031,103.78575,Entire home/apt,200,3,1,2017-09-25,0.04,11,365
-19847774,Beary's 3 Bed Private Room,45368183,Beary Best Hostel,Central Region,Outram,1.28435,103.84477,Private room,137,1,2,2019-01-18,0.19,9,333
+19847774,Beary s 3 Bed Private Room,45368183,Beary Best Hostel,Central Region,Outram,1.28435,103.84477,Private room,137,1,2,2019-01-18,0.19,9,333
 19848045,Conveniently located room @ Redhill mrt,52310102,W3,Central Region,Bukit Merah,1.28839,103.80955,Private room,99,1,1,2017-08-09,0.04,14,365
 19853254,Whitehaven master room,33345191,Zari,Central Region,Queenstown,1.29004,103.77803,Private room,54,90,0,,,3,135
 19856273,"High floor , seaview",41679313,Cheah,West Region,Jurong East,1.32303,103.73898,Private room,69,1,1,2018-03-30,0.06,1,263
 19864736,Premium One Bedroom Apartment,79211365,Steven,Central Region,Novena,1.32433,103.85329,Entire home/apt,94,90,0,,,1,325
-19881239,Beary's Private 6 Bed Dorm,45368183,Beary Best Hostel,Central Region,Outram,1.28286,103.84582,Private room,192,1,1,2018-08-08,0.08,9,355
+19881239,Beary s Private 6 Bed Dorm,45368183,Beary Best Hostel,Central Region,Outram,1.28286,103.84582,Private room,192,1,1,2018-08-08,0.08,9,355
 19884344,"payalebar,公寓出租",140733713,Chao,Central Region,Geylang,1.31163,103.89017,Private room,44,1,0,,,1,0
 19887149,hougang short rent 25th aug to 19th oct,77912036,璐,North-East Region,Hougang,1.36711,103.89832,Entire home/apt,65,7,1,2017-09-05,0.04,1,0
 19895150,Rare Twin Studios /2rm @MarinaBaySG,69121685,Pat,Central Region,Downtown Core,1.2814,103.85193,Entire home/apt,408,3,3,2018-08-20,0.12,6,356
@@ -2883,7 +2883,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 20258646,Condo Ensuite Room close to Jurong east Mrt & Lake,143892668,Chin,West Region,Jurong East,1.33343,103.74084,Private room,79,5,3,2019-07-13,0.15,13,348
 20259295,Modest Studio for Single Travelers A,114571845,Alex,Central Region,Downtown Core,1.29741,103.85659,Entire home/apt,85,1,69,2019-08-21,2.75,3,306
 20291676,5-Star Sanctuary Resort (Twin Room) in Singapore,34146041,Ferdi,Central Region,Bukit Merah,1.28225,103.80322,Private room,100,1,1,2017-09-23,0.04,2,0
-20318492,"Close to Steven's MRT, 1-bed in Singapore",138649185,Paridhi,Central Region,Tanglin,1.32175,103.8166,Private room,269,7,0,,,76,364
+20318492,"Close to Steven s MRT, 1-bed in Singapore",138649185,Paridhi,Central Region,Tanglin,1.32175,103.8166,Private room,269,7,0,,,76,364
 20332582,Maison Ser203,33189209,Anthony,Central Region,Marine Parade,1.30628,103.89811,Entire home/apt,187,2,58,2019-08-08,2.39,23,35
 20335984,"168sf quiet rm, own toilet, fridge, private access",145092912,Susan And David,East Region,Tampines,1.34072,103.95749,Private room,56,1,63,2018-08-01,2.55,1,0
 20363687,The Riverine by the Park,98101583,Chloe,Central Region,Kallang,1.30902,103.86838,Entire home/apt,250,180,0,,,1,358
@@ -2925,7 +2925,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 20564987,Cozy Room,81511180,Eugene,Central Region,Bukit Merah,1.27458,103.83484,Private room,85,2,2,2017-12-29,0.09,1,361
 20573629,Private Bedroom in Charming Tiong Bahru,20953299,Adrian,Central Region,Bukit Merah,1.28407,103.8345,Private room,85,2,1,2017-09-03,0.04,1,0
 20580995,Private Sanctuary Spacious Luxury Condo En-suite,146100311,Cindy,West Region,Jurong West,1.34678,103.72165,Private room,83,3,1,2019-07-05,0.55,10,365
-20581173,Condo Room at Singapore's Oasis,146100311,Cindy,West Region,Jurong East,1.34413,103.73288,Private room,58,3,1,2019-05-16,0.29,10,365
+20581173,Condo Room at Singapore s Oasis,146100311,Cindy,West Region,Jurong East,1.34413,103.73288,Private room,58,3,1,2019-05-16,0.29,10,365
 20581281,Contemporary Tiong Bahru Apartment,16523605,Ben,Central Region,Bukit Merah,1.28325,103.82994,Entire home/apt,150,6,1,2017-11-12,0.05,1,0
 20588444,Luxury 2 BR Home above MRT in Chinatown #38 (市区公寓),107501827,Mich,Central Region,Bukit Merah,1.28027,103.83863,Entire home/apt,300,3,40,2019-06-30,1.64,8,141
 20593641,"Chic Home for 6 pax 2 min walk MRT, 2 min to City",69716475,HomeNaway,Central Region,Kallang,1.30952,103.86208,Entire home/apt,331,2,15,2019-06-25,0.63,1,2
@@ -2979,7 +2979,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 20774506,SPACIOUS  MASTER-SUITE-ROOM  WITH  KING-SIZED BED,148809201,Amazing,North Region,Sembawang,1.4416,103.82328,Private room,110,7,0,,,3,365
 20775760,Nice Clean Simple home at great shopping and foods,11112455,Chris,North-East Region,Ang Mo Kio,1.37359,103.84643,Entire home/apt,76,3,51,2019-08-12,2.21,1,143
 20776819,Single room near commonwealth mrt ( central area ),146709340,Khin Thawdar,Central Region,Queenstown,1.30611,103.79798,Private room,25,1,4,2017-09-27,0.17,1,0
-20778113,1BR @ SG's foodie area,11248671,Mei Xi,Central Region,Marine Parade,1.30917,103.8943,Private room,65,90,1,2017-10-18,0.04,1,90
+20778113,1BR @ SG s foodie area,11248671,Mei Xi,Central Region,Marine Parade,1.30917,103.8943,Private room,65,90,1,2017-10-18,0.04,1,90
 20788751,Near City Square Mall. Farrer Pk. Park Royal hotel,69121685,Pat,Central Region,Kallang,1.30971,103.8569,Private room,65,90,0,,,6,365
 20791161,YOUR entire PRIVATE LUXURY PENTHOUSE condo unit,122991242,Jj,West Region,Tuas,1.31909,103.64656,Entire home/apt,10000,2,5,2017-10-31,0.21,1,89
 20791170,NOVENA CONDO (1+STUDY) NEXT TO MEDICAL HUB,84073548,Wendy,Central Region,Novena,1.31809,103.84731,Entire home/apt,125,14,0,,,1,335
@@ -3046,7 +3046,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 20982852,Two Condo rooms at Same unit just opposite of Mrt,9293170,Lee,West Region,Jurong East,1.34351,103.7343,Private room,140,5,1,2018-06-04,0.07,14,365
 20984770,Ensuite Master3A bedroom @ heritage apmt (3mth+),97878860,Chelsey,Central Region,Kallang,1.31272,103.85581,Private room,51,18,1,2018-07-26,0.08,59,322
 20986154,condo on a   boon lay MRT( 6th 0ct to 13th oct),151020152,超,West Region,Jurong West,1.3398,103.70461,Private room,76,1,0,,,1,0
-20986638,"ECONOMICAL & CENTRAL, FURNISHED STUDIO'S",138649185,Paridhi,Central Region,Marine Parade,1.29496,103.88451,Entire home/apt,165,30,0,,,76,364
+20986638,"ECONOMICAL & CENTRAL, FURNISHED STUDIO S",138649185,Paridhi,Central Region,Marine Parade,1.29496,103.88451,Entire home/apt,165,30,0,,,76,364
 20998924,Spacious apartment @ Teck Whye Lane. Bedroom 1.,151174817,Nurlinahwati,West Region,Choa Chu Kang,1.37857,103.75367,Private room,69,2,50,2019-08-04,2.16,2,131
 20999219,3 Bed Rooms at Same Condo close to Mrt & Garden,9293170,Lee,West Region,Jurong East,1.34469,103.73397,Private room,181,7,1,2018-07-28,0.08,14,365
 21001012,3BR Serviced Apartment-Buona Vista (Heritage View),151196270,Jhian,Central Region,Queenstown,1.30289,103.7853,Entire home/apt,287,89,0,,,45,362
@@ -3080,7 +3080,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 21037382,F2 Condo Room Near City 600m to Aljunied MRT,96467516,Linda,Central Region,Geylang,1.31227,103.87961,Private room,58,2,91,2019-08-20,3.96,26,222
 21037446,F3 Condo Room Near City 600m to Aljunied MRT,96467516,Linda,Central Region,Geylang,1.31402,103.87954,Private room,58,2,104,2019-08-24,4.51,26,198
 21037716,幸福之家,112243804,思宇,North-East Region,Hougang,1.35689,103.88187,Entire home/apt,119,4,0,,,2,11
-21037930,Weifen's home,151527816,Weifen,West Region,Choa Chu Kang,1.37724,103.7374,Shared room,69,1,1,2018-07-22,0.07,1,362
+21037930,Weifen s home,151527816,Weifen,West Region,Choa Chu Kang,1.37724,103.7374,Shared room,69,1,1,2018-07-22,0.07,1,362
 21044510,Elegant 3BR Apartment @ Robertson Quay,135756776,Angie,Central Region,Singapore River,1.29167,103.84084,Entire home/apt,419,6,18,2019-08-10,0.97,22,308
 21047360,Big Bell Tent by the Sea (6 Pax),109089431,Lydia,East Region,Bedok,1.31571,103.96254,Entire home/apt,240,1,16,2018-04-08,0.69,6,54
 21049838,The Sail[Marina Boulevard] Queen Room,32798595,Expats Housing Provider @ Raffles P,Central Region,Downtown Core,1.28456,103.86004,Private room,57,180,0,,,41,365
@@ -3096,7 +3096,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 21069270,4pax family dormitory,125105902,Heritage,Central Region,Outram,1.28117,103.84525,Private room,140,1,19,2019-07-26,0.9,7,64
 21073678,"Posh, Spacious, Luxurious Beachfront Tent",151868779,Shaya,East Region,Bedok,1.3051,103.92919,Private room,119,1,1,2017-12-28,0.05,1,180
 21084415,High floor near the city,141470884,Rajendra,Central Region,Marine Parade,1.2995,103.88845,Private room,97,1,1,2017-11-08,0.05,2,0
-21087639,D'Leedon nice place to stay,112462719,Julian,Central Region,Bukit Timah,1.31634,103.80424,Private room,90,14,2,2017-10-16,0.09,2,0
+21087639,D Leedon nice place to stay,112462719,Julian,Central Region,Bukit Timah,1.31634,103.80424,Private room,90,14,2,2017-10-16,0.09,2,0
 21106419,Jurong Lakeside @ Executive Maisonette Room 1,58662914,IEraaniyan,West Region,Jurong West,1.33714,103.72384,Private room,28,7,12,2019-04-14,0.74,2,274
 21111423,Big Common Room,106870597,Ling,North-East Region,Hougang,1.36114,103.87413,Private room,60,5,0,,,1,0
 21112300,Modern 1 Bedroom Apartment in Queenstown,151196270,Jhian,Central Region,Queenstown,1.29019,103.80635,Entire home/apt,131,89,0,,,45,362
@@ -3120,7 +3120,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 21191824,NEW Condo Private Room - Shared Bathroom,21027142,Zen,East Region,Pasir Ris,1.35519,103.96701,Private room,50,4,20,2019-08-20,0.93,2,148
 21193416,"5分钟步行至高文地铁站,小型别墅社区｡#29-6",100368677,Tim,North-East Region,Hougang,1.36258,103.88068,Private room,62,3,11,2019-07-29,0.61,5,61
 21194355,"5分钟步行至地铁站,小型别墅 #33-6",100368677,Tim,North-East Region,Hougang,1.3639,103.88137,Private room,62,3,25,2019-06-18,1.11,5,52
-21195180,(6 bedder room) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29195,103.76923,Shared room,31,1,12,2018-07-28,0.54,8,17
+21195180,(6 bedder room) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29195,103.76923,Shared room,31,1,12,2018-07-28,0.54,8,17
 21200260,Superhost 1BR APT in the heart of Tg Pagar,66406177,Jay,Central Region,Downtown Core,1.27418,103.84507,Entire home/apt,149,30,8,2019-05-30,0.36,274,271
 21204331,Furnished room with en-suite bath in luxury condo,153169784,Andreas,Central Region,Kallang,1.30023,103.8628,Private room,150,1,0,,,1,0
 21206514,"PrivateRoom,newly Renovated Clean,big window view",138158188,Leonard,West Region,Choa Chu Kang,1.37893,103.75599,Private room,43,14,7,2018-11-03,0.32,2,11
@@ -3151,7 +3151,7 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 21283595,Small Studio 2 mins Walk To Orchard (200 sqft),111065775,Abegail,Central Region,River Valley,1.29854,103.83659,Entire home/apt,110,6,8,2019-02-28,0.36,19,300
 21285979,Safe & Clean! 2 Bedroom In city * Near MRT,28004549,Kenneth,Central Region,Kallang,1.31326,103.87246,Entire home/apt,158,2,28,2019-08-04,1.35,6,231
 21287064,SGEntire 2+1 BedM&2BathM Near City Center整套3室2卫近市区,154015448,Angela,Central Region,Geylang,1.31122,103.87961,Entire home/apt,179,1,36,2019-08-06,2.16,4,149
-21290771,(2 bedder room) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.2927,103.76963,Private room,31,2,36,2019-08-05,1.71,8,120
+21290771,(2 bedder room) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.2927,103.76963,Private room,31,2,36,2019-08-05,1.71,8,120
 21292155,Cosy 1 bedroom unit near to everything,61373182,Fiona,Central Region,Queenstown,1.29177,103.80706,Entire home/apt,125,1,12,2019-04-08,0.53,1,40
 21312604,Tanjong Pagar Cosy Studio Single Apartment,23336011,Heritage Apartments,Central Region,Outram,1.27941,103.84325,Entire home/apt,115,7,8,2019-07-23,0.38,40,338
 21314013,Master Bedroom with private ensuite @Tanjong Pagar,46983200,Spencer,Central Region,Outram,1.27746,103.8426,Private room,100,2,0,,,1,0
@@ -3161,14 +3161,14 @@ Infront of Bencoolen station",11390076,Tryston,Central Region,Rochor,1.29911,103
 21358378,Amazing condo in Outram - close to CBD,28985157,Nicky,Central Region,Bukit Merah,1.2759,103.83665,Entire home/apt,200,2,0,,,1,0
 21358634,"!! CozyRoom@City Center,Little India,FarrerParkMRT",47866620,Nanda,Central Region,Kallang,1.31388,103.85293,Private room,67,2,50,2019-08-11,2.31,13,117
 21360845,New condo beside MRT near shopping mall,81428257,Michael,Central Region,Kallang,1.31406,103.85415,Entire home/apt,219,2,47,2019-07-15,2.17,8,272
-21361474,B (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29242,103.76895,Shared room,25,1,19,2019-08-16,0.87,8,238
+21361474,B (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29242,103.76895,Shared room,25,1,19,2019-08-16,0.87,8,238
 21370642,Gorgeous entire apartment in charming Tiong Bahru!,20509717,Phil,Central Region,Bukit Merah,1.28373,103.83067,Entire home/apt,350,5,27,2018-10-05,1.25,1,0
 21372004,3 Superhost Calm Airy Spacious 2BR near City,90604639,Zhen And Toni,Central Region,Marine Parade,1.30814,103.90163,Entire home/apt,204,2,58,2019-08-13,2.86,9,165
 21376468,Master room with city view and private bathroom,91391093,Sam,Central Region,Kallang,1.30828,103.86453,Private room,79,3,40,2019-03-06,1.81,1,17
 21398866,"1960s Queenbed room, MRT > City 2min",8948251,Joey,Central Region,Kallang,1.31003,103.86143,Private room,37,18,0,,,83,353
 21400246,Private home,51934993,Tze Chong,West Region,Jurong West,1.34643,103.72787,Private room,39,1,0,,,1,0
 21402272,Penthouse with great city views in quiet D14,55973390,Joy,East Region,Bedok,1.33063,103.90893,Entire home/apt,85,90,1,2019-04-27,0.24,1,184
-21402350,Vik's place,35972743,Vik,North-East Region,Serangoon,1.34987,103.86487,Private room,50,1,0,,,1,0
+21402350,Vik s place,35972743,Vik,North-East Region,Serangoon,1.34987,103.86487,Private room,50,1,0,,,1,0
 21403392,Excellent Central CBD Location and Great City View,142193353,Ay,Central Region,Downtown Core,1.27677,103.84651,Entire home/apt,240,2,116,2019-08-10,5.17,2,143
 21405170,Kovan Condo,70456673,Alexander,North-East Region,Hougang,1.36124,103.8841,Private room,81,1,15,2019-07-09,0.72,1,30
 21408571,1 BR @ Little India & Farrer Park MRT,114674497,Mitul,Central Region,Rochor,1.30954,103.85271,Entire home/apt,0,3,9,2019-08-11,0.51,6,351
@@ -3231,7 +3231,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 21613503,1 Bedroom  @ Boon Keng MRT ErS,29420853,Aaron,Central Region,Kallang,1.32026,103.86334,Entire home/apt,131,20,1,2018-04-03,0.06,141,365
 21618918,❀❀Two bed room Owen suite @ farrer park area,8492007,Alvin,Central Region,Kallang,1.31103,103.85848,Entire home/apt,128,3,5,2018-11-10,0.25,203,307
 21621522,"5min to Marina Bay, Convenient & Cosy Apt in CBD",66406177,Jay,Central Region,Downtown Core,1.27357,103.84428,Entire home/apt,146,30,10,2019-06-05,0.47,274,335
-21629960,A (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29201,103.76832,Shared room,25,1,36,2019-07-28,1.79,8,228
+21629960,A (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29201,103.76832,Shared room,25,1,36,2019-07-28,1.79,8,228
 21631361,Modern Apartment near Clarke Quay and Orchard road,155340430,Jane珍珍,Central Region,Tanglin,1.29248,103.83112,Entire home/apt,250,7,14,2018-09-17,0.65,1,0
 21641329,COZY PRIVATE ROOM IN CENTRAL SINGAPORE (CHINATOWN),138220557,Rati,Central Region,Outram,1.28579,103.84235,Private room,50,1,63,2019-08-24,2.93,1,41
 21649410,TOP views in a quiet neighbourhood in St. Michaels,12945350,Nicholas,Central Region,Kallang,1.32557,103.86148,Private room,99,3,16,2019-06-22,0.81,1,0
@@ -3246,7 +3246,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 21671407,"Super place,Cozy 1 bedroom 3Mins to MRT,5 Malls",152267975,Ray,West Region,Jurong East,1.33538,103.74217,Entire home/apt,140,7,2,2019-01-27,0.25,11,60
 21673001,Lucky Plaza Apt 16 (ENTIRE HOME) @ ORCHARD,47268760,Grace,Central Region,Orchard,1.30345,103.83308,Entire home/apt,731,1,15,2019-07-30,0.86,7,167
 21675447,Spacious & ensuite room close to airport & expo,33925188,Pratyush,East Region,Tampines,1.34201,103.95231,Private room,40,2,10,2017-12-31,0.47,1,0
-21689950,AYB's house,110435163,Weibin,North-East Region,Hougang,1.36097,103.89015,Private room,150,1,0,,,1,0
+21689950,AYB s house,110435163,Weibin,North-East Region,Hougang,1.36097,103.89015,Private room,150,1,0,,,1,0
 21703476,1960s Queenbed RmA1 @ lavender bugis,8948251,Joey,Central Region,Kallang,1.3082,103.86151,Private room,40,18,1,2018-03-03,0.06,83,359
 21708730,"Lucky Plaza Apt @ ORCHARD near MRT, Common Room A",47268760,Grace,Central Region,Orchard,1.30364,103.83445,Private room,100,1,11,2019-08-12,0.83,7,174
 21716537,"Room for rent, minimum 3 months rental",50262492,Walter,Central Region,Bishan,1.35399,103.83473,Private room,49,90,0,,,2,180
@@ -3261,7 +3261,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 21755679,Master room at Orchard,11390076,Tryston,Central Region,Orchard,1.30173,103.84024,Private room,85,4,3,2019-07-12,0.3,18,334
 21756093,"Lucky Plaza Apt @ ORCHARD near MRT, Master Room E",47268760,Grace,Central Region,Orchard,1.30547,103.83314,Private room,150,1,10,2019-08-12,0.54,7,178
 21756221,"Lucky Plaza Apt @ ORCHARD near MRT, Master Room F",47268760,Grace,Central Region,Orchard,1.30352,103.83322,Private room,150,1,4,2019-07-09,0.21,7,180
-21756287,SG's tallest residential tower. Private bedroom,82436525,Velladrome,Central Region,Downtown Core,1.27546,103.8444,Private room,110,5,1,2017-12-15,0.05,1,0
+21756287,SG s tallest residential tower. Private bedroom,82436525,Velladrome,Central Region,Downtown Core,1.27546,103.8444,Private room,110,5,1,2017-12-15,0.05,1,0
 21756764,Event Space in Heritage House: Eden at Farrer Park,20828188,"Jon, Ams & Friends",Central Region,Rochor,1.30775,103.85665,Private room,490,1,0,,,13,178
 21756802,Tranquil Sembarwang Corner,39811468,Kasey,North Region,Sembawang,1.45007,103.82388,Entire home/apt,149,3,1,2017-12-26,0.05,1,0
 21758205,Near CBD,158520306,Abhishek,Central Region,Marine Parade,1.29893,103.88729,Private room,81,1,6,2019-03-20,0.3,1,0
@@ -3327,7 +3327,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 21920733,"""American bunker bed shared room Jurong east",56273456,Sona,West Region,Bukit Batok,1.35024,103.743,Private room,100,10,0,,,3,300
 21926382,Warm Accomodation 1 Bedroom in the East,45343820,Deqing,East Region,Tampines,1.34989,103.93477,Private room,15,1,0,,,1,0
 21927257,"1970s singlebed *RmA1, no-sharing",8948251,Joey,Central Region,Geylang,1.31392,103.88223,Private room,33,18,1,2018-04-29,0.06,83,359
-21927943,Ben's Sanctuary,8527085,Ben,Central Region,Downtown Core,1.30116,103.8579,Entire home/apt,528,2,35,2019-08-10,1.74,38,37
+21927943,Ben s Sanctuary,8527085,Ben,Central Region,Downtown Core,1.30116,103.8579,Entire home/apt,528,2,35,2019-08-10,1.74,38,37
 21928089,Experience living in the West in a Private bedroom,130704287,Victor,West Region,Choa Chu Kang,1.39238,103.75079,Private room,35,30,8,2018-08-18,0.38,1,0
 21928140,❀1BR cosy unit @ River Valley town area (rvp),8492007,Alvin,Central Region,Museum,1.29514,103.84249,Entire home/apt,149,3,11,2019-06-25,0.51,203,325
 21928496,Spacious Master Bed room Near Chinatown MRT,160016661,Vinay,Central Region,Outram,1.284,103.84201,Private room,44,1,14,2018-04-11,0.68,1,7
@@ -3518,7 +3518,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 22733254,Female Divas bed/share room @city centre,47611818,Jessie,Central Region,Rochor,1.29825,103.85128,Shared room,31,2,16,2019-04-04,0.91,14,338
 22733377,luxury condo near town 2 bedder 2 queen beds,167817067,Jai,Central Region,Kallang,1.29807,103.87351,Entire home/apt,139,190,4,2018-02-20,0.21,1,363
 22733443,Casa Ser202,16305681,Ace Beautiful Homes,Central Region,Marine Parade,1.30595,103.8981,Entire home/apt,112,2,4,2019-07-22,0.21,17,46
-22734583,Diva's bed/share room at Bugis -female only,47611818,Jessie,Central Region,Rochor,1.29839,103.85171,Shared room,33,2,25,2019-05-19,1.3,14,338
+22734583,Diva s bed/share room at Bugis -female only,47611818,Jessie,Central Region,Rochor,1.29839,103.85171,Shared room,33,2,25,2019-05-19,1.3,14,338
 22743385,Quiet room with private bathroom in central SG,5821854,Sophie,Central Region,Novena,1.31559,103.84279,Private room,110,2,3,2019-08-13,0.16,1,0
 22745179,Sea View Studio @ Shenton,167947458,Kendra,Central Region,Downtown Core,1.27905,103.85044,Entire home/apt,200,1,39,2019-08-22,2.0,1,278
 22760803,"SKYLINE VIEWS FROM LUSH 1-BR, TANJONG PAGAR",138649185,Paridhi,Central Region,Downtown Core,1.27495,103.84485,Entire home/apt,179,30,0,,,76,363
@@ -3554,7 +3554,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 22947456,Cozy Studio 10 mins to Aljunied MRT,23722617,Alex,Central Region,Geylang,1.31456,103.88621,Entire home/apt,94,10,5,2019-04-12,0.37,84,65
 22971370,Family Rm @ SBV Buona Vista & MRT( (Phone number hidden by Airbnb) ),1439258,K2 Guesthouse,Central Region,Queenstown,1.28097,103.78728,Private room,150,5,2,2018-07-10,0.13,32,361
 22972833,Serviced Apartment in CBD (Chinatown),50034878,David,Central Region,Outram,1.28391,103.84379,Entire home/apt,150,90,0,,,1,365
-22973504,C (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29207,103.76904,Shared room,25,1,18,2019-08-17,1.14,8,156
+22973504,C (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29207,103.76904,Shared room,25,1,18,2019-08-17,1.14,8,156
 22979219,Cosy room with private entrance close to town,165209,Lesley,Central Region,Novena,1.31972,103.84568,Private room,81,30,26,2019-08-16,1.51,2,313
 22979766,Jimmy’s place,100474068,Jimmy,West Region,Choa Chu Kang,1.38408,103.74598,Private room,50,8,20,2019-05-22,1.08,2,301
 22986772,The Club Residences - 2 BR Suite (Monthly Stay),84411185,Darren,Central Region,Southern Islands,1.24881,103.82364,Entire home/apt,540,30,0,,,6,363
@@ -3615,7 +3615,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 23108965,Fireworks view8! highrise Ensuite,8948251,Joey,Central Region,Outram,1.28384,103.84199,Private room,60,90,0,,,83,332
 23111888,Comfy 1 Bedroom Apartment at West Coast,135756776,Angie,West Region,Clementi,1.29859,103.76586,Entire home/apt,199,6,7,2019-07-23,0.51,22,264
 23127305,"New!2Bedroom 3mins Jurong East- Near NUH,IBP*",152267975,Ray,West Region,Jurong East,1.33332,103.74384,Entire home/apt,181,3,4,2018-09-29,0.22,11,0
-23130011,Rachel's House by the SEA Near MRT. 圣淘沙旁 近地铁 机场接机,171890055,Gigy,Central Region,Bukit Merah,1.26983,103.81331,Entire home/apt,300,3,64,2019-08-12,3.41,1,86
+23130011,Rachel s House by the SEA Near MRT. 圣淘沙旁 近地铁 机场接机,171890055,Gigy,Central Region,Bukit Merah,1.26983,103.81331,Entire home/apt,300,3,64,2019-08-12,3.41,1,86
 23132022,"10min to Bugis, Orchard Rd, Modern Studio#282",124702769,Marshall,Central Region,Rochor,1.30352,103.84794,Entire home/apt,108,3,29,2019-08-05,1.6,4,157
 23133424,Lor17 L2R2 Small Budget room with AC for 2,33096269,E C,Central Region,Geylang,1.31323,103.8795,Private room,50,3,53,2019-08-24,3.03,14,68
 23134898,Cheap Cozy and Spacious Home (Common Room) :),11280282,Chester,East Region,Pasir Ris,1.37066,103.96204,Private room,37,1,4,2018-02-28,0.22,2,0
@@ -3718,7 +3718,7 @@ Near Sembawang MRT",41596775,Angel,North Region,Sembawang,1.44687,103.81787,Priv
 23733935,Luxurious Penthouse In City Centre 2,1170341,Jenny,Central Region,Tanglin,1.29246,103.83061,Private room,90,30,3,2019-05-12,0.26,3,293
 23738407,Private Room,177996435,Rach,North-East Region,Sengkang,1.39062,103.89481,Private room,40,3,0,,,1,0
 23738722,"Central Singapore, Gym,Pool, Spa Harry Potter Room",105743386,Anastazia,Central Region,Tanglin,1.31842,103.83077,Private room,50,1,1,2018-10-22,0.1,1,0
-23751725,Perfect Location at Elite Shopping Paradize S'pore,177815609,Jane,Central Region,Newton,1.30636,103.83711,Private room,150,1,33,2019-08-20,1.94,3,36
+23751725,Perfect Location at Elite Shopping Paradize S pore,177815609,Jane,Central Region,Newton,1.30636,103.83711,Private room,150,1,33,2019-08-20,1.94,3,36
 23752565,• Gorgeous Private Room @ Elite Shopping Paradize,177815609,Jane,Central Region,Newton,1.30669,103.83564,Private room,119,1,57,2019-08-24,3.23,3,39
 23753563,Superhost 1BR APT in the heart of Tg Pagar,66406177,Jay,Central Region,Downtown Core,1.27552,103.84405,Entire home/apt,369,30,2,2018-08-26,0.12,274,336
 23754858,Unique spacious loft located near CBD,175052522,Ivan,Central Region,Rochor,1.30493,103.85387,Entire home/apt,487,1,1,2018-03-26,0.06,1,365
@@ -3770,7 +3770,7 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 23964810,Convenient and quick,43109729,Yin,North Region,Sungei Kadut,1.4055,103.75747,Shared room,290,1,0,,,1,364
 23966654,The environment is quiet,119418463,徉,Central Region,Kallang,1.30347,103.88134,Private room,300,1,0,,,1,365
 23967500,Delightful private room in Lacasa condominium,1178636,Shari,North Region,Woodlands,1.43089,103.7943,Private room,44,30,1,2018-04-01,0.06,1,363
-23968828,You'd like to be quiet,145959309,冉,Central Region,Kallang,1.31198,103.87489,Private room,319,1,0,,,1,365
+23968828,You d like to be quiet,145959309,冉,Central Region,Kallang,1.31198,103.87489,Private room,319,1,0,,,1,365
 23969042,Warm and convenient,8294025,Vivianchen,East Region,Bedok,1.31291,103.94232,Private room,300,1,0,,,1,365
 23984837,Entire 3 bedroom+2 bathroom close to city,178717051,Lily,Central Region,Geylang,1.3112,103.87873,Entire home/apt,179,1,37,2019-07-28,2.19,1,149
 23999130,Family Room/3 people near Katong Shopping Centre,108773366,RedDoorz,East Region,Bedok,1.3096,103.91133,Private room,144,1,0,,,109,358
@@ -3841,11 +3841,11 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 24241421,"RIGHT IN THE HEART OF JURONG, 3 BR-2 BATH",138649185,Paridhi,West Region,Jurong East,1.33613,103.74161,Entire home/apt,231,30,0,,,76,0
 24254508,"CHARMING 2 BR IN GATEWAY DRIVE, JURONG EAST",138649185,Paridhi,West Region,Jurong East,1.33431,103.74137,Entire home/apt,210,28,3,2019-01-04,0.35,76,364
 24255043,"LUSH 2 BR DERBYSHIRE APARTMENT, NOVENA",138649185,Paridhi,Central Region,Novena,1.31638,103.84665,Entire home/apt,331,25,0,,,76,364
-24256649,"5'MINUTES STROLL TO RAFFLES PLACE, LAVISH 2-BR",138649185,Paridhi,Central Region,Downtown Core,1.28062,103.84854,Entire home/apt,249,30,0,,,76,334
+24256649,"5 MINUTES STROLL TO RAFFLES PLACE, LAVISH 2-BR",138649185,Paridhi,Central Region,Downtown Core,1.28062,103.84854,Entire home/apt,249,30,0,,,76,334
 24261748,M.Room • Bold & Eclectic Apartment 5min train-MBS,3234859,Sk,Central Region,Kallang,1.30464,103.86217,Private room,104,1,84,2019-08-24,4.99,9,149
 24274708,Big private bed room at train station,114002560,William,Central Region,Kallang,1.32001,103.8621,Private room,58,1,0,,,4,79
 24276360,SP Studio - Modern house in the East,31731290,Wansik,East Region,Bedok,1.32287,103.91336,Private room,181,3,40,2019-08-13,2.48,5,16
-24276647,Ben's Business Pad,8527085,Ben,Central Region,Outram,1.28163,103.84885,Entire home/apt,258,2,42,2019-08-13,2.58,38,271
+24276647,Ben s Business Pad,8527085,Ben,Central Region,Outram,1.28163,103.84885,Entire home/apt,258,2,42,2019-08-13,2.58,38,271
 24280470,Condo at the heart of Singapore,2356765,Cheng Ho,Central Region,Queenstown,1.30278,103.7893,Entire home/apt,100,60,2,2018-08-04,0.15,1,83
 24288828,C.Room • Bold & Eclectic Apartment 5min train-MBS,3234859,Sk,Central Region,Kallang,1.30493,103.86103,Private room,94,1,109,2019-08-16,7.6,9,134
 24290316,Studio Apartment - Oakwood Premier,178584113,Oakwood Premier OUE Singapore,Central Region,Downtown Core,1.27655,103.84888,Entire home/apt,281,4,18,2019-07-19,1.12,15,344
@@ -4240,7 +4240,7 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 26207768,**3BR Near Kallang MRT mins Drive to Bugis (GL7),31464513,Darcy,Central Region,Geylang,1.31042,103.87654,Entire home/apt,318,3,6,2018-11-13,0.43,114,362
 26209751,3-BEDROOM IN QUEENSTOWN SINGAPORE,138649185,Paridhi,Central Region,Queenstown,1.29236,103.80767,Entire home/apt,319,4,0,,,76,363
 26217724,Luxury 2br Opulent Next to MBS,8527085,Ben,Central Region,Outram,1.28158,103.84871,Entire home/apt,258,2,7,2019-07-20,0.51,38,13
-26218347,Ben's Lucky Lad,8527085,Ben,Central Region,Orchard,1.30441,103.83354,Entire home/apt,319,2,29,2019-08-07,2.4,38,299
+26218347,Ben s Lucky Lad,8527085,Ben,Central Region,Orchard,1.30441,103.83354,Entire home/apt,319,2,29,2019-08-07,2.4,38,299
 26221747,Premium Apt close to MRT station & Shopping Malls,41039458,Zack,Central Region,Queenstown,1.28108,103.78316,Entire home/apt,135,25,2,2019-05-07,0.48,10,0
 26232923,Modern Room1. Clean & Cosy. suitable for everyone.,36277810,Johanna,North-East Region,Sengkang,1.39042,103.87892,Private room,44,1,81,2019-08-05,5.79,1,325
 26236461,"***6BR, 2Kitchen, 2Balcony Near Kallang MRT (GL)",31464513,Darcy,Central Region,Geylang,1.31042,103.87689,Entire home/apt,719,4,3,2019-05-19,0.31,114,356
@@ -4433,9 +4433,9 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 27271822,Ideal place for travellers,20883050,Alvin,Central Region,Geylang,1.31224,103.88141,Private room,60,1,4,2019-07-29,0.36,37,365
 27272375,Ideal place for Travelers 2,20883050,Alvin,Central Region,Geylang,1.31074,103.88177,Private room,60,1,20,2019-07-25,1.53,37,356
 27292722,Sanctuary In The West - Boon Lay MRT,1030128,Lena,West Region,Jurong West,1.34205,103.71297,Private room,53,2,4,2019-06-11,0.31,3,345
-27302197,D (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29261,103.76986,Shared room,25,1,6,2019-06-13,0.59,8,149
-27302911,E (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29241,103.76817,Shared room,25,1,3,2019-07-22,0.35,8,116
-27303780,F (1 of 6 beds) Students' hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29414,103.76948,Shared room,25,1,0,,,8,0
+27302197,D (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29261,103.76986,Shared room,25,1,6,2019-06-13,0.59,8,149
+27302911,E (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29241,103.76817,Shared room,25,1,3,2019-07-22,0.35,8,116
+27303780,F (1 of 6 beds) Students  hostel 3 mins from NUS,153080781,WeiIn,Central Region,Queenstown,1.29414,103.76948,Shared room,25,1,0,,,8,0
 27306443,Huge one bedroom apt with a view in city central,23466247,Willy,Central Region,Kallang,1.30007,103.86201,Entire home/apt,100,30,0,,,2,365
 27324882,Bed Space > East Coast Road,91165081,Chong,East Region,Bedok,1.30794,103.9118,Private room,40,4,1,2018-11-18,0.11,10,365
 27342137,2BR (For 3) Apt Orchard/Stevens/UNESCO *MRT* 3,6609641,Catherine,Central Region,Tanglin,1.31772,103.82755,Entire home/apt,240,7,6,2019-07-28,0.48,19,333
@@ -4477,9 +4477,9 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 27496445,*Amazing Seaview* canvas tent outdoor experience,201704887,Kelaideng,East Region,Bedok,1.31227,103.94612,Entire home/apt,94,1,1,2018-08-08,0.08,1,0
 27499455,"LUXURY AT EASE, 3 BEDROOM 3 BATH ON HAVELOCK RD",138649185,Paridhi,Central Region,Singapore River,1.28776,103.83712,Entire home/apt,600,1,0,,,76,360
 27501982,MASTER SUITE 8@HOLLAND VILLAGE MRT/INSEAD/NUH,4412979,Sue,Central Region,Bukit Timah,1.3123,103.79081,Private room,89,3,4,2019-05-26,0.34,8,323
-27513236,Maggie's bnb 1bedroom,206769167,Maggie Wu,East Region,Bedok,1.31708,103.906,Private room,81,3,5,2019-08-05,0.4,3,148
+27513236,Maggie s bnb 1bedroom,206769167,Maggie Wu,East Region,Bedok,1.31708,103.906,Private room,81,3,5,2019-08-05,0.4,3,148
 27513348,Acasia Breeze @ Yishun (pink Rm),172761127,Nuzaibah,North Region,Yishun,1.41545,103.8436,Private room,49,1,13,2019-08-17,2.71,2,36
-27513625,Maggie's bnb,206769167,Maggie Wu,East Region,Bedok,1.3179,103.90737,Private room,81,90,4,2019-06-30,0.33,3,146
+27513625,Maggie s bnb,206769167,Maggie Wu,East Region,Bedok,1.3179,103.90737,Private room,81,90,4,2019-06-30,0.33,3,146
 27530446,@4pax family dormitory,125105902,Heritage,Central Region,Outram,1.28178,103.84419,Private room,158,1,19,2019-08-11,1.48,7,8
 27537549,Private room few stops from Sentosa,159842957,Nt,Central Region,Bukit Merah,1.27809,103.82065,Private room,35,1,1,2018-08-19,0.08,1,0
 27554484,✪✪2BR 4mins to Bugis Luxury Stay (ar),8492007,Alvin,Central Region,Geylang,1.31299,103.88133,Entire home/apt,189,5,1,2018-11-15,0.1,203,365
@@ -4487,7 +4487,7 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 27561087,"Modern, Stylish & Spacious 2 Bedroom in CBD",203637940,Your Community Host,Central Region,Singapore River,1.28723,103.84634,Entire home/apt,219,6,17,2019-08-12,1.41,4,97
 27561736,"Modern, Loft Living in Art Deco Shophouse - CBD",203637940,Your Community Host,Central Region,Singapore River,1.28714,103.84628,Entire home/apt,260,6,15,2019-08-07,1.3,4,282
 27562324,"Stylish Studio, Large Roof Terrace in Heart of CBD",203637940,Your Community Host,Central Region,Singapore River,1.28799,103.84626,Entire home/apt,181,6,17,2019-07-31,1.56,4,138
-27581596,Maggie's apartment - 1bdroom,206769167,Maggie Wu,East Region,Bedok,1.3189,103.90833,Private room,81,90,2,2019-04-30,0.4,3,356
+27581596,Maggie s apartment - 1bdroom,206769167,Maggie Wu,East Region,Bedok,1.3189,103.90833,Private room,81,90,2,2019-04-30,0.4,3,356
 27583484,"Entire 5 bedroom apartment near MRT, shops, eateries!",119613097,Su Moy,Central Region,Newton,1.3055,103.84748,Entire home/apt,600,1,8,2019-08-11,0.9,27,345
 27584211,2 Bedroom @ Aljiunied MRT AR,29420853,Aaron,Central Region,Geylang,1.3132,103.88152,Entire home/apt,168,3,3,2019-07-03,0.32,141,321
 27593840,M-SUITES near Paya Lebar,208207840,Kent,Central Region,Geylang,1.31664,103.89942,Entire home/apt,118,20,5,2019-04-20,0.5,1,146
@@ -4740,7 +4740,7 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 28706989,"Superior Room at Genting Hotel, Jurong Singapore",190730356,Kyle,West Region,Jurong East,1.33129,103.7383,Private room,125,1,9,2019-06-21,0.81,2,0
 28709337,Orchard Emerald hill single room for 2,119740557,Nicholas,Central Region,Newton,1.30616,103.83883,Private room,96,2,0,,,3,365
 28709418,★DelightfulCityFringeRm/Kallang/Suntec/Katong★,20874965,Marilyn,Central Region,Marine Parade,1.30649,103.89457,Private room,62,1,33,2019-08-07,2.94,8,65
-28724933,John's place,79389640,Daryl,East Region,Pasir Ris,1.3708,103.96211,Private room,36,1,1,2018-09-23,0.09,1,89
+28724933,John s place,79389640,Daryl,East Region,Pasir Ris,1.3708,103.96211,Private room,36,1,1,2018-09-23,0.09,1,89
 28728124,2Br central apt just 5min walk to Aljunied MRT,66406177,Jay,Central Region,Geylang,1.31896,103.88079,Entire home/apt,131,30,1,2019-02-15,0.15,274,321
 28728987,Stylish 1BR Located 7 mins from Tg Pagar MRT,66406177,Jay,Central Region,Downtown Core,1.27445,103.84507,Entire home/apt,156,30,1,2019-01-31,0.14,274,326
 28729429,Spacious 2Br apt near Tanjong Pagar MRT,66406177,Jay,Central Region,Downtown Core,1.27487,103.84506,Entire home/apt,194,30,0,,,274,331
@@ -4795,7 +4795,7 @@ Cheap good n right in the heart of orchard road.",39534219,Maya,Central Region,O
 28950843,Comfy Cosy City-fringe Private Room 套房民宿 206,7029973,Teddy,Central Region,Novena,1.32191,103.85393,Private room,58,2,42,2019-08-25,4.13,5,77
 28958329,B1 Big Master Room with Private Bathroom Near City,96467516,Linda,Central Region,Geylang,1.31425,103.88727,Private room,87,2,47,2019-08-21,4.42,26,147
 28966874,"5min MRT, attached private bathroom, for 2",70728341,Jen,West Region,Choa Chu Kang,1.3873,103.74486,Private room,51,60,4,2019-05-08,0.43,2,0
-28967232,Lem's crib,190297680,Lemuel,North Region,Central Water Catchment,1.35279,103.81906,Private room,50,1,1,2018-10-09,0.09,1,90
+28967232,Lem s crib,190297680,Lemuel,North Region,Central Water Catchment,1.35279,103.81906,Private room,50,1,1,2018-10-09,0.09,1,90
 28970364,Bedroom in sembawang,35666883,Ethan,North Region,Sembawang,1.43701,103.82571,Private room,90,1,5,2019-08-11,0.62,7,180
 28975564,B2 Big Condo Room Near City 600m to Aljunied MRT,96467516,Linda,Central Region,Geylang,1.31488,103.88588,Private room,72,2,50,2019-08-20,4.89,26,191
 28977161,The Cozy Place,112957276,Jim K. Y.,North-East Region,Ang Mo Kio,1.3852,103.83916,Entire home/apt,200,3,2,2018-12-19,0.19,1,0
@@ -5066,7 +5066,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 29424688,studio unit-10 min to paya lebar,32184450,Apollo,Central Region,Geylang,1.3145,103.8989,Entire home/apt,100,1,2,2019-06-30,0.21,67,364
 29424749,10 reason to stay- studio house,32184450,Apollo,Central Region,Geylang,1.31553,103.89898,Entire home/apt,119,5,2,2018-12-02,0.21,67,365
 29424787,studio unit for rent-katong area,32184450,Apollo,Central Region,Geylang,1.31593,103.89685,Entire home/apt,101,1,4,2019-08-06,0.94,67,365
-29439672,Jacufier's House,221677389,Xianliang,East Region,Tampines,1.35265,103.92941,Private room,44,2,23,2019-08-22,3.18,1,35
+29439672,Jacufier s House,221677389,Xianliang,East Region,Tampines,1.35265,103.92941,Private room,44,2,23,2019-08-22,3.18,1,35
 29440632,unit loteng - area luas,32184450,Apollo,Central Region,Geylang,1.31412,103.89845,Entire home/apt,119,7,0,,,67,365
 29440742,loft unit 4 patient family seeking accommodation,32184450,Apollo,Central Region,Geylang,1.31399,103.89704,Entire home/apt,119,24,0,,,67,365
 29443536,Pool view master bedroom with private bathroom,9716032,Margaret,Central Region,Marine Parade,1.29659,103.8885,Private room,58,90,0,,,2,93
@@ -5129,7 +5129,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 29546144,2-bedroom luxury 20th floor penthouse+BBQ Terrace,800558,Kim (金),Central Region,Rochor,1.3118,103.85362,Entire home/apt,1481,2,0,,,6,364
 29547507,2-bedroom luxury 20th floor penthouse+BBQ Terrace*,800558,Kim (金),Central Region,Rochor,1.31164,103.85336,Entire home/apt,1481,2,0,,,6,364
 29548114,1-bedroom luxury penthouse 5 star + BBQ terrace,800558,Kim (金),Central Region,Rochor,1.31198,103.85479,Entire home/apt,771,2,1,2019-01-04,0.13,6,364
-29548473,2-bedroom luxury penthouse - 2 Jacuzzi's BBQ deck,800558,Kim (金),Central Region,Rochor,1.31196,103.85523,Entire home/apt,2697,2,0,,,6,364
+29548473,2-bedroom luxury penthouse - 2 Jacuzzi s BBQ deck,800558,Kim (金),Central Region,Rochor,1.31196,103.85523,Entire home/apt,2697,2,0,,,6,364
 29549073,Private Room 1 - Central Area,43043281,Tina,Central Region,Kallang,1.31315,103.85907,Private room,22,3,20,2019-08-08,2.7,3,306
 29549880,2-bedroom luxury penthouse + Jacuzzi + BBQ deck,800558,Kim (金),Central Region,Rochor,1.31313,103.85394,Entire home/apt,4162,2,0,,,6,364
 29552115,Chinatown Skylight Studio Single,23336011,Heritage Apartments,Central Region,Outram,1.28321,103.84494,Entire home/apt,125,7,6,2019-04-22,0.67,40,350
@@ -5273,7 +5273,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 30019271,Pan Pacific Serviced Suites Orchard 1-BR Executive,225641992,David,Central Region,Newton,1.30215,103.83863,Entire home/apt,340,6,1,2019-02-21,0.16,6,312
 30021614,Spaciou room with king bed in the city area,3034356,Lily,Central Region,Geylang,1.31936,103.88279,Private room,81,1,4,2019-08-11,0.5,2,348
 30023796,H - Comfy Quiet Spacious studio at City,225666624,Han,Central Region,Bukit Merah,1.28166,103.82997,Entire home/apt,125,2,1,2019-04-14,0.22,24,312
-30024441,Ben's Concrete Jungle,8527085,Ben,Central Region,Downtown Core,1.28059,103.84938,Entire home/apt,250,2,16,2019-08-09,1.95,38,289
+30024441,Ben s Concrete Jungle,8527085,Ben,Central Region,Downtown Core,1.28059,103.84938,Entire home/apt,250,2,16,2019-08-09,1.95,38,289
 30024481,Cosy and Private Family Room for 8 pax,175566234,Quek,Central Region,Downtown Core,1.29861,103.85747,Private room,365,1,0,,,9,279
 30026102,M - SPACIOUS QUIET 1 BEDROOM CITY APT,189449378,Mindy,Central Region,Bukit Merah,1.28301,103.83112,Entire home/apt,131,1,2,2018-12-29,0.24,26,266
 30026353,Superhost Loft APT in the heart of Tg Pagar,66406177,Jay,Central Region,Downtown Core,1.27549,103.84515,Entire home/apt,144,30,1,2019-01-31,0.14,274,321
@@ -5574,7 +5574,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31105962,Haus Sims 201,231534188,Vu,Central Region,Geylang,1.3161,103.88817,Entire home/apt,199,3,3,2019-08-12,0.9,17,117
 31106470,Haus Ava 401,231534188,Vu,Central Region,Novena,1.3216,103.85341,Entire home/apt,106,3,1,2019-08-10,1.0,17,133
 31106729,Haus Ava 402,231534188,Vu,Central Region,Novena,1.32277,103.85181,Entire home/apt,110,3,0,,,17,146
-31106977,Luke's,232462982,Wankeun,Central Region,Newton,1.30545,103.83616,Private room,160,1,11,2019-08-07,1.54,3,70
+31106977,Luke s,232462982,Wankeun,Central Region,Newton,1.30545,103.83616,Private room,160,1,11,2019-08-07,1.54,3,70
 31107061,Haus Ava 501,231534188,Vu,Central Region,Novena,1.32352,103.85374,Entire home/apt,106,3,0,,,17,129
 31107161,Trendy & Bright 2BR beside Aljunied MRT,66406177,Jay,Central Region,Geylang,1.31534,103.88599,Entire home/apt,135,90,1,2019-05-01,0.25,274,243
 31107359,Haus Ava 502,231534188,Vu,Central Region,Novena,1.32152,103.85162,Entire home/apt,110,3,0,,,17,94
@@ -5593,7 +5593,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31130959,Single Bed in Serviced Apartment @ Kembangan,108773366,RedDoorz,East Region,Bedok,1.32078,103.91289,Entire home/apt,110,1,0,,,109,358
 31132213,BEAUTIFUL LOFT 2 BR IN JURONG EAST,156409670,Rajan,West Region,Jurong East,1.33662,103.74138,Entire home/apt,260,28,2,2019-06-03,0.25,78,364
 31132529,"For 14 paxes, Entire 4 bedroom Apartment near MRT!",211434562,Paryani,Central Region,Kallang,1.31184,103.86075,Entire home/apt,400,1,1,2019-07-09,0.59,64,352
-31152040,luke's master room,232462982,Wankeun,Central Region,Newton,1.30619,103.83524,Private room,110,1,13,2019-08-09,1.63,3,64
+31152040,luke s master room,232462982,Wankeun,Central Region,Newton,1.30619,103.83524,Private room,110,1,13,2019-08-09,1.63,3,64
 31152416,M - BEAUTIFUL CHIC THREE BEDROOM APARTMENT,189449378,Mindy,Central Region,Bukit Merah,1.28311,103.83256,Entire home/apt,292,2,5,2019-06-18,0.69,26,328
 31154596,"Spacious, cosy ensuite 宽敞､舒适､宁静的主人房",44885364,Yong Wah,West Region,Choa Chu Kang,1.39189,103.75281,Private room,56,1,17,2019-08-24,2.31,2,63
 31155160,HighFloor City/chinatown *Queenbed room,201775246,Hillary,Central Region,Outram,1.28512,103.84277,Private room,53,90,1,2019-05-19,0.29,48,352
@@ -5602,7 +5602,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31156864,2BR Rivervalley Beside UE Square (RvP2BR),31464513,Darcy,Central Region,River Valley,1.29441,103.84119,Entire home/apt,181,7,3,2019-06-10,0.42,114,362
 31157002,Haus Ava 301,231534188,Vu,Central Region,Novena,1.32134,103.85365,Entire home/apt,106,3,0,,,17,131
 31157531,A - Cozy Comfortable 2 bedroom Apartment,225311799,Ada,Central Region,Bukit Merah,1.28357,103.83499,Entire home/apt,211,1,5,2019-07-29,0.64,30,293
-31160493,"1ST CHOICE, CHEAPEST, CONVENIENCE, NEW, DON'T MISS",14818409,Catherine,North-East Region,Serangoon,1.37462,103.87642,Private room,100,1,8,2019-08-07,1.13,2,361
+31160493,"1ST CHOICE, CHEAPEST, CONVENIENCE, NEW, DON T MISS",14818409,Catherine,North-East Region,Serangoon,1.37462,103.87642,Private room,100,1,8,2019-08-07,1.13,2,361
 31162237,M - Cozy Comfortable 2  bedroom Apartment,189449378,Mindy,Central Region,Bukit Merah,1.2836,103.8336,Entire home/apt,208,2,4,2019-02-03,0.5,26,293
 31175610,"H - Bright, Quiet City Apt 400M to MRT",225666624,Han,Central Region,Bukit Merah,1.28399,103.83258,Entire home/apt,139,1,1,2019-04-07,0.21,24,208
 31178204,Penthouse+1 BedroomKitchenLivingWIFI SeaCityViews,52590953,Ann,East Region,Bedok,1.30851,103.92457,Entire home/apt,168,4,3,2019-05-14,0.45,4,325
@@ -5676,7 +5676,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31405419,Live in the city(3BRs)近地铁市区三房公寓@MRT&Swimming Pool,80570036,Chris,Central Region,Geylang,1.31658,103.89127,Entire home/apt,214,1,20,2019-07-31,3.09,22,0
 31408475,French Window 2BR+2BA 1 min to MRT Sky Swimming,232352285,Sunny,Central Region,Toa Payoh,1.33053,103.86773,Entire home/apt,219,3,5,2019-08-09,0.75,8,340
 31420240,2BR - Balestier Jalan Dusun novena mrt,8492007,Alvin,Central Region,Novena,1.32634,103.84461,Entire home/apt,200,10,0,,,203,365
-31420451,Big Ben's Victorian,8527085,Ben,Central Region,Rochor,1.30318,103.85339,Entire home/apt,319,2,12,2019-08-13,1.73,38,155
+31420451,Big Ben s Victorian,8527085,Ben,Central Region,Rochor,1.30318,103.85339,Entire home/apt,319,2,12,2019-08-13,1.73,38,155
 31422985,Loft @ Onan Near Paya Lebar MRT,234870042,Kevin,Central Region,Geylang,1.31433,103.89877,Entire home/apt,181,3,0,,,28,48
 31423188,2BR APARTMENT NEAR ROCHOR MRT,156409670,Rajan,Central Region,Rochor,1.3025,103.85177,Entire home/apt,393,3,0,,,78,364
 31423566,Loft @ Onan Near Paya Lebar MRT,234870042,Kevin,Central Region,Geylang,1.31391,103.89703,Entire home/apt,169,3,0,,,28,45
@@ -5723,7 +5723,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31500076,Sunny Room in great location !,10352561,Moira,Central Region,Orchard,1.30357,103.82511,Private room,75,90,0,,,2,365
 31520512,Private Room to Rent,131876267,Aghita,Central Region,Bukit Timah,1.31321,103.80043,Private room,60,2,14,2019-05-30,1.85,1,158
 31522914,BUGIS - 这间公寓距离地铁交通和餐厅只需1分钟的路程,9794916,Sara,Central Region,Rochor,1.30113,103.85288,Entire home/apt,356,3,4,2019-06-02,0.66,3,80
-31527262,"Jo's Place Sentosa, a Unique & Romantic Boat Stay",170561338,Josephine,Central Region,Southern Islands,1.24526,103.83999,Entire home/apt,200,1,33,2019-08-22,5.13,1,155
+31527262,"Jo s Place Sentosa, a Unique & Romantic Boat Stay",170561338,Josephine,Central Region,Southern Islands,1.24526,103.83999,Entire home/apt,200,1,33,2019-08-22,5.13,1,155
 31532527,Queens condo room available,204863401,Ko,Central Region,Queenstown,1.29308,103.80709,Private room,50,1,1,2019-02-06,0.15,1,0
 31532719,Farrer Park - Serenity in the heart of the city,236303515,Catherine,Central Region,Kallang,1.31577,103.85544,Private room,100,3,13,2019-07-31,1.9,4,68
 31545564,Cosy Home Near City,18430906,Aaron,Central Region,Geylang,1.31625,103.88582,Entire home/apt,250,90,0,,,1,365
@@ -5774,7 +5774,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 31768511,Comfy room at Woodlands district (for ladies only),158022928,Herman,North Region,Woodlands,1.43012,103.78673,Private room,40,90,0,,,1,108
 31774152,common room @ punggol,150540513,Nana,North-East Region,Punggol,1.41196,103.89907,Private room,35,2,2,2019-05-31,0.55,1,54
 31775980,1BR cosy room near East Coast park,182179441,Ailing,East Region,Bedok,1.32118,103.92055,Private room,44,1,14,2019-08-18,1.94,2,0
-31776450,Singapore's Most Exclusive Penthouse,93747362,Susana,Central Region,Southern Islands,1.24387,103.84246,Entire home/apt,865,90,0,,,1,365
+31776450,Singapore s Most Exclusive Penthouse,93747362,Susana,Central Region,Southern Islands,1.24387,103.84246,Entire home/apt,865,90,0,,,1,365
 31784492,"PREMIUM STUDIO SNGE, CHINATOWN",156409670,Rajan,Central Region,Outram,1.283,103.84651,Entire home/apt,165,7,0,,,78,364
 31796994,"3 min to Macpherson/Mattar MRT, near City, Airport",14536173,Ric,Central Region,Geylang,1.32786,103.88709,Private room,40,2,2,2019-08-16,0.33,3,2
 31807204,$950/mth private room in spacious 125sqm flat,5748910,Sarah,West Region,Bukit Panjang,1.37984,103.76916,Private room,49,3,0,,,2,240
@@ -6175,7 +6175,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 33025140,☀☀2BR WIFI POOL GYM @Zhong Shan Mall ZSM2,209913841,Richards,Central Region,Novena,1.32782,103.849,Entire home/apt,200,3,0,,,157,251
 33025145,"☀☀2BR WIFI, POOL, GYM @ Balestier ZSM4",209913841,Richards,Central Region,Novena,1.32624,103.84876,Entire home/apt,199,3,0,,,157,257
 33025220,1 Bedroom Serviced apartment near Queenstown MRT,151196270,Jhian,Central Region,Queenstown,1.29099,103.80711,Entire home/apt,119,89,0,,,45,365
-33025531,Private Studio @ Chinatown's Coolest Spot,55611829,Christine,Central Region,Outram,1.28156,103.84516,Entire home/apt,150,3,3,2019-07-27,1.58,15,62
+33025531,Private Studio @ Chinatown s Coolest Spot,55611829,Christine,Central Region,Outram,1.28156,103.84516,Entire home/apt,150,3,3,2019-07-27,1.58,15,62
 33025576,1 BR apartment for Corporate Rental near CBD,151196270,Jhian,Central Region,Queenstown,1.29069,103.80709,Entire home/apt,119,89,0,,,45,365
 33026305,Studio for 4pax in Chinatown Eclave!,55611829,Christine,Central Region,Outram,1.28163,103.84686,Entire home/apt,160,3,2,2019-04-28,0.4,15,47
 33026333,1 Bedroom Serviced Apartment for Expats near CBD,151196270,Jhian,Central Region,Queenstown,1.2918,103.80624,Entire home/apt,125,89,0,,,45,365
@@ -6255,7 +6255,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 33175321,"STROLL TO CLARKE QUAY, PLUSH 1BR SPACE",138649185,Paridhi,Central Region,Singapore River,1.29148,103.84283,Entire home/apt,435,2,0,,,76,364
 33175650,❀❀❀Amazing Spacious 3 Bedroom @ Boon Keng ERS3B5,8492007,Alvin,Central Region,Kallang,1.32009,103.86516,Entire home/apt,287,30,0,,,203,265
 33179094,Little India & Farrer Park Room No 02,114674497,Mitul,Central Region,Rochor,1.31089,103.8525,Private room,100,1,7,2019-08-11,1.53,6,177
-33199451,Female only-Windy High Floor Modern Lil' Apartment,2836231,Hervie,Central Region,Kallang,1.32811,103.86288,Private room,58,7,1,2019-04-25,0.24,1,256
+33199451,Female only-Windy High Floor Modern Lil  Apartment,2836231,Hervie,Central Region,Kallang,1.32811,103.86288,Private room,58,7,1,2019-04-25,0.24,1,256
 33200074,❀❀❀Amazing Spacious 3 Bedroom Unit @ Balestier GA1,8492007,Alvin,Central Region,Novena,1.32842,103.84413,Entire home/apt,287,14,0,,,203,262
 33200889,Sea View Studio @ CBD District,183618288,Jimmy,Central Region,Downtown Core,1.27668,103.85017,Entire home/apt,206,30,0,,,30,0
 33201295,"2BR Beautiful Apt w Pool, Gym, WIFI @ Balestier",201034613,Marcelo,Central Region,Novena,1.32469,103.84983,Entire home/apt,181,15,0,,,67,365
@@ -6277,7 +6277,7 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 33259000,S - SPACIOUS QUIET 1 BEDROOM CITY APT,239242652,Shasha,Central Region,Bukit Merah,1.28283,103.83153,Entire home/apt,132,1,1,2019-03-23,0.19,25,266
 33259308,S - Luxe Modern Cozy Studio @ City,239242652,Shasha,Central Region,Bukit Merah,1.28236,103.83243,Entire home/apt,104,1,6,2019-08-11,1.13,25,277
 33259687,Amazing Spacious 1 Bedroom Unit @ Balestier MZ1B,35691521,Vinn,Central Region,Novena,1.32108,103.85325,Entire home/apt,137,3,0,,,45,361
-33282970,Louis' apartment,76435986,Sindarto,Central Region,Bishan,1.36348,103.84039,Private room,600,1,0,,,1,364
+33282970,Louis  apartment,76435986,Sindarto,Central Region,Bishan,1.36348,103.84039,Private room,600,1,0,,,1,364
 33305646,"Master room near Paya Lebar MRT, City centre",49075669,Rambo,Central Region,Geylang,1.31479,103.88989,Private room,85,1,8,2019-08-11,1.68,1,165
 33316712,"Big single room in city, 市区地铁单人房@food street&MRT",80570036,Chris,Central Region,Geylang,1.31278,103.88884,Private room,44,1,10,2019-07-26,1.99,22,131
 33320480,☀ HUGE & MODERN 2BR w/ QUEEN SIZE BED FOR STAY ☀,219550151,Rain,Central Region,Kallang,1.32174,103.86343,Entire home/apt,199,7,3,2019-05-31,0.69,113,115
@@ -6398,14 +6398,14 @@ high floor view in CBD one min to Mrt",42952583,Stefanie,Central Region,Downtown
 33600333,"S -Brand-New Charming, Quiet Studio for Two",239242652,Shasha,Central Region,Tanglin,1.29478,103.82975,Entire home/apt,124,1,9,2019-08-11,2.37,25,235
 33601064,"Staycation on Yacht
 Per night $ (Phone number hidden by Airbnb) Hp: (Phone number hidden by Airbnb)",253196803,Carol,Central Region,Southern Islands,1.24627,103.84063,Entire home/apt,1200,1,0,,,1,362
-33603268,Beary's 8 Bed Family Room - Shared Shower,253217128,Beary Best,Central Region,Rochor,1.30088,103.85908,Private room,200,1,0,,,7,0
-33604087,Beary's Lower Capsule - Mixed - Ensuite Shower,253217128,Beary Best,Central Region,Rochor,1.30189,103.85943,Shared room,200,1,0,,,7,363
-33604275,Beary's Upper Capsule - Mixed - Ensuite Shower,253217128,Beary Best,Central Region,Rochor,1.30207,103.85812,Shared room,200,1,2,2019-07-09,0.81,7,364
+33603268,Beary s 8 Bed Family Room - Shared Shower,253217128,Beary Best,Central Region,Rochor,1.30088,103.85908,Private room,200,1,0,,,7,0
+33604087,Beary s Lower Capsule - Mixed - Ensuite Shower,253217128,Beary Best,Central Region,Rochor,1.30189,103.85943,Shared room,200,1,0,,,7,363
+33604275,Beary s Upper Capsule - Mixed - Ensuite Shower,253217128,Beary Best,Central Region,Rochor,1.30207,103.85812,Shared room,200,1,2,2019-07-09,0.81,7,364
 33604276,Spacious Studio in the Heart Of the city,42295661,Bella,Central Region,Rochor,1.31005,103.85264,Entire home/apt,115,2,7,2019-08-23,3.5,8,253
-33604552,Beary's Lower Capsule - Mixed - Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30202,103.86012,Shared room,200,1,0,,,7,365
-33604718,Beary's Upper Capsule - Mixed - Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30179,103.86003,Shared room,200,1,1,2019-07-17,0.7,7,365
-33604867,Beary's Capsule - 8 Bed Mixed Room - Shared Shower,253217128,Beary Best,Central Region,Rochor,1.30209,103.85796,Shared room,200,1,0,,,7,0
-33605437,Beary's 2 Single Capsules-Mixed-Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30248,103.85983,Shared room,200,1,0,,,7,365
+33604552,Beary s Lower Capsule - Mixed - Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30202,103.86012,Shared room,200,1,0,,,7,365
+33604718,Beary s Upper Capsule - Mixed - Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30179,103.86003,Shared room,200,1,1,2019-07-17,0.7,7,365
+33604867,Beary s Capsule - 8 Bed Mixed Room - Shared Shower,253217128,Beary Best,Central Region,Rochor,1.30209,103.85796,Shared room,200,1,0,,,7,0
+33605437,Beary s 2 Single Capsules-Mixed-Shared Bathroom,253217128,Beary Best,Central Region,Rochor,1.30248,103.85983,Shared room,200,1,0,,,7,365
 33619991,Condo Master Room for rent,10776798,Tracey,West Region,Bukit Panjang,1.34844,103.77219,Private room,65,1,0,,,4,332
 33621601,"LUXURY AT EASE, 1 BED-2 BATH on HAVELOCK RD.",156409670,Rajan,North Region,Central Water Catchment,1.35233,103.81874,Entire home/apt,300,2,0,,,78,364
 33622293,"S - Sunny & Modern Apt , Four mins to Orchard Rd",239242652,Shasha,Central Region,Tanglin,1.2934,103.83027,Entire home/apt,124,2,5,2019-06-05,1.34,25,328
@@ -6519,7 +6519,7 @@ Per night $ (Phone number hidden by Airbnb) Hp: (Phone number hidden by Airbnb)"
 33889823,Central Singapore Living!  Super Comfortable Condo,48456754,Michael,Central Region,Outram,1.27763,103.84164,Entire home/apt,181,4,3,2019-07-24,0.93,1,284
 33894164,Master bed room available for rent,5249382,Natesh,North-East Region,Hougang,1.37256,103.87992,Private room,29,60,0,,,2,105
 33894843,"W/D KING+SINGLE BED, 2BR ON STEVENS RD.",156409670,Rajan,Central Region,Tanglin,1.31559,103.82732,Entire home/apt,315,7,0,,,78,364
-33895462,Missy's  Cabin,136519468,Jing,Central Region,Kallang,1.32437,103.86613,Private room,40,3,5,2019-06-02,1.15,1,0
+33895462,Missy s  Cabin,136519468,Jing,Central Region,Kallang,1.32437,103.86613,Private room,40,3,5,2019-06-02,1.15,1,0
 33896154,"OPT FOR 4, 1-KING + 2-SINGLES on STEVENS RD.",156409670,Rajan,Central Region,Tanglin,1.31742,103.82621,Entire home/apt,360,7,0,,,78,364
 33909057,SOLO Studio-Style Room in Central w/ WIFI.NoAgent,256064857,Toa,Central Region,Toa Payoh,1.33877,103.84762,Private room,31,365,0,,,1,358
 33912109,Super big room attached bathroom sparkling clean,225497332,Lina,North Region,Woodlands,1.43098,103.7915,Private room,60,1,8,2019-08-03,2.73,1,177
@@ -6574,7 +6574,7 @@ Per night $ (Phone number hidden by Airbnb) Hp: (Phone number hidden by Airbnb)"
 34004893,♛1BR Near to MRT w/ WIFI POOL GYM 8M8,201034613,Marcelo,Central Region,Newton,1.30515,103.84827,Entire home/apt,137,3,0,,,67,243
 34004897,1BR Near Farrer Park Mrt RG2,201034613,Marcelo,Central Region,Kallang,1.3138,103.85298,Entire home/apt,137,20,0,,,67,365
 34004903,"1BR WIFI, Pool, Near Farrer Park MRT RG1",201034613,Marcelo,Central Region,Kallang,1.31557,103.85289,Entire home/apt,140,20,1,2019-07-20,0.75,67,365
-34007273,Ben's Luxe,8527085,Ben,Central Region,Downtown Core,1.28138,103.84931,Entire home/apt,319,2,5,2019-08-02,1.27,38,347
+34007273,Ben s Luxe,8527085,Ben,Central Region,Downtown Core,1.28138,103.84931,Entire home/apt,319,2,5,2019-08-02,1.27,38,347
 34010187,Private hostel room at The Great Madras Singapore,242433054,TheHotelLot,Central Region,Rochor,1.30596,103.85235,Shared room,208,1,0,,,1,365
 34014701,Studio apartment marina bay view,31773419,Teo,Central Region,Downtown Core,1.27599,103.84824,Entire home/apt,193,1,7,2019-07-29,1.65,5,162
 34026270,"3BR WIFI POOL, Great for family Stays!",201034613,Marcelo,Central Region,Novena,1.32743,103.84489,Entire home/apt,287,20,0,,,67,365
@@ -7067,7 +7067,7 @@ Per night $ (Phone number hidden by Airbnb) Hp: (Phone number hidden by Airbnb)"
 35397761,Single Bed in 6-Bed Ensuite Dormitory Room,212039019,Thads,Central Region,Bukit Merah,1.28447,103.83171,Shared room,40,1,0,,,7,352
 35409920,Newly Renovated Room with Private Common Bathroom,96946019,Samantha,West Region,Bukit Batok,1.35497,103.73796,Private room,35,30,0,,,1,100
 35429425,"Room with en-suite Bathroom, 1 min walk to Holland V MRT",25185912,Rebekah,Central Region,Bukit Timah,1.31289,103.79625,Private room,81,28,0,,,14,365
-35431638,Ben's Green Dungeon,8527085,Ben,Central Region,Newton,1.30634,103.84722,Entire home/apt,110,2,10,2019-08-13,4.29,38,344
+35431638,Ben s Green Dungeon,8527085,Ben,Central Region,Newton,1.30634,103.84722,Entire home/apt,110,2,10,2019-08-13,4.29,38,344
 35431690,Private and quiet room with attached toilet 别墅小主人房,266289317,Hz,Central Region,Geylang,1.32073,103.90471,Private room,81,90,2,2019-07-07,0.98,5,169
 35431779,Private room with attached toilet 别墅小主人房 带宽敞卫生间,266289317,Hz,East Region,Bedok,1.3215,103.90671,Private room,81,90,0,,,5,169
 35432361,Private room with attached toilet 别墅小主人房 带卫生间 明亮舒适,266289317,Hz,East Region,Bedok,1.32316,103.90591,Private room,81,90,0,,,5,169
@@ -7120,7 +7120,7 @@ Per night $ (Phone number hidden by Airbnb) Hp: (Phone number hidden by Airbnb)"
 35656871,"269 SQ FT TWIN STUDIO, NOVENA",238891646,Neha,Central Region,Novena,1.31851,103.84885,Entire home/apt,256,6,0,,,34,364
 35657143,3 Bedroom 3min Walk to  Dakota MRT 2,29420853,Aaron,Central Region,Geylang,1.31276,103.88516,Entire home/apt,258,3,2,2019-07-07,0.83,141,327
 35657322,CENTRAL 2 BEDROOM 1 BATH ON OUTRAM ROAD,238891646,Neha,North Region,Central Water Catchment,1.35094,103.82007,Entire home/apt,275,30,0,,,34,364
-35657732,Luke's 2nd family room,232462982,Wankeun,Central Region,Newton,1.30631,103.83496,Private room,150,1,6,2019-08-14,3.67,3,66
+35657732,Luke s 2nd family room,232462982,Wankeun,Central Region,Newton,1.30631,103.83496,Private room,150,1,6,2019-08-14,3.67,3,66
 35659326,2BR Bright & Airy @ Balestier,201034613,Marcelo,Central Region,Novena,1.32276,103.8526,Entire home/apt,187,20,0,,,67,365
 35659422,Amazing Spacious 2 Bedroom Unit @ Central Near MRT,209913841,Richards,Central Region,Geylang,1.31142,103.88593,Entire home/apt,281,3,0,,,157,327
 35659910,❤❤❤Spacious 3 Bedroom Unit @ Central MRT,209913841,Richards,Central Region,Geylang,1.31288,103.88726,Entire home/apt,281,3,0,,,157,327
@@ -7376,7 +7376,7 @@ Prime location",5130373,Tim,Central Region,Bukit Merah,1.27112,103.82411,Entire 
 36368058,❀❀❀Amazing Spacious 3 Bedroom Unit @ Central G9,8492007,Alvin,Central Region,Geylang,1.30984,103.87609,Entire home/apt,287,3,2,2019-07-27,1.5,203,356
 36370811,Cozy loft prime location Novena MRT/balestier,25044949,Maggie,Central Region,Novena,1.32376,103.84773,Entire home/apt,150,2,1,2019-07-13,0.64,1,4
 36372986,Unforgettable experience with private lift 私人电梯房,250510187,Dian,Central Region,Geylang,1.31345,103.89326,Entire home/apt,381,2,5,2019-08-13,3.95,7,354
-36379318,"Big groups'  first choice@MRT,Food Street&Airport",80570036,Chris,Central Region,Geylang,1.3105,103.88507,Entire home/apt,169,1,2,2019-08-08,1.2,22,157
+36379318,"Big groups   first choice@MRT,Food Street&Airport",80570036,Chris,Central Region,Geylang,1.3105,103.88507,Entire home/apt,169,1,2,2019-08-08,1.2,22,157
 36391905,Cozy Comfy Common Room near airport/ LRT station,148489389,UniWorld,North-East Region,Sengkang,1.39159,103.907,Private room,26,5,2,2019-08-11,2.0,3,86
 36393846,Clean room near Orchard rented at cheap price,243835202,Huang,Central Region,River Valley,1.29366,103.83692,Private room,40,14,1,2019-08-06,1.0,2,73
 36414224,Beautiful rooms Modern condo in East Coast,115509710,Megy,East Region,Bedok,1.31342,103.93945,Private room,60,1,0,,,1,56
@@ -7655,7 +7655,7 @@ Highly cleanliness",274368510,Thaslimah,North-East Region,Hougang,1.37121,103.88
 37431261,Private Room with attached bathroom near Mustaffa,211434562,Paryani,Central Region,Rochor,1.30909,103.85588,Private room,81,1,0,,,64,365
 37431355,"Room for 3, with bathroom, can cook, Mustaffa, MRT",211434562,Paryani,Central Region,Rochor,1.30749,103.85384,Private room,100,1,0,,,64,365
 37431487,"Room with bathroom for 2, Can cook, Mustaffa, MRT!",211434562,Paryani,Central Region,Rochor,1.30774,103.85446,Private room,81,1,0,,,64,365
-37433817,Ciccini's Home,54701486,Amber&Marco,Central Region,Kallang,1.2989,103.86095,Entire home/apt,300,3,1,2019-08-12,1.0,2,25
+37433817,Ciccini s Home,54701486,Amber&Marco,Central Region,Kallang,1.2989,103.86095,Entire home/apt,300,3,1,2019-08-12,1.0,2,25
 37435377,Heritage apartment: Master room +bathroom (3mth+),2413412,Kaurus,Central Region,Kallang,1.31294,103.85934,Private room,69,18,0,,,112,332
 37435887,"Room with bathroom, can cook,near Raffles Hospital",211434562,Paryani,Central Region,Rochor,1.30758,103.8557,Private room,81,1,0,,,64,362
 37436063,"Room with toilet,ground floor, can cook, Mustaffa",211434562,Paryani,Central Region,Rochor,1.30785,103.85554,Private room,81,1,0,,,64,365
@@ -7671,7 +7671,7 @@ Highly cleanliness",274368510,Thaslimah,North-East Region,Hougang,1.37121,103.88
 37448416,CITY Modern Studio Apt/WIFI@ Orchard/ Central Area,10248444,Rc,Central Region,River Valley,1.29682,103.83903,Entire home/apt,119,2,0,,,48,345
 37463290,this apartment,263326126,현재,Central Region,Rochor,1.31204,103.85361,Entire home/apt,115,1,0,,,1,237
 37465752,Simple Room for Good Rest,228867,Champ,West Region,Jurong West,1.34367,103.72086,Private room,35,3,1,2019-08-13,1.0,7,363
-37467359,Stern's cottage,101330330,선미,Central Region,Downtown Core,1.28048,103.84868,Entire home/apt,175,1,0,,,1,234
+37467359,Stern s cottage,101330330,선미,Central Region,Downtown Core,1.28048,103.84868,Entire home/apt,175,1,0,,,1,234
 37469083,YouA hotel,18952652,YouA,Central Region,Rochor,1.30391,103.85855,Entire home/apt,108,1,0,,,1,228
 37471375,Main road orchard 2 bed rooms.,281898594,Hanjin,Central Region,Orchard,1.30108,103.83788,Private room,207,1,1,2019-08-25,1.0,2,310
 37472011,1 min to MRT. 15 min to airport,225705538,Kelvin,East Region,Bedok,1.32696,103.94452,Private room,58,2,0,,,2,119
@@ -7721,7 +7721,7 @@ Highly cleanliness",274368510,Thaslimah,North-East Region,Hougang,1.37121,103.88
 37586357,partial Ensuite with own washer/dryer,8948251,Joey,Central Region,Kallang,1.31195,103.86168,Private room,58,18,0,,,83,355
 37587133,"FULLY FURNISHED 3 BEDROOM, CLEMENTI",238891646,Neha,West Region,Clementi,1.31403,103.75964,Entire home/apt,344,3,1,2019-08-21,1.0,34,364
 37588632,免费接机1分钟MRT CBD鱼尾狮地标滨海湾旁Marinabay good location,49255774,Kelly,Central Region,Downtown Core,1.28073,103.85365,Entire home/apt,337,3,0,,,6,163
-37590676,"You'll like this place - 2 Bedrooms, 3 mins to MRT",77266342,Benny,Central Region,Geylang,1.31432,103.88495,Entire home/apt,158,2,0,,,2,131
+37590676,"You ll like this place - 2 Bedrooms, 3 mins to MRT",77266342,Benny,Central Region,Geylang,1.31432,103.88495,Entire home/apt,158,2,0,,,2,131
 37603353,"Awesome single room @ Alexandra area near NUS, MRT",18618387,Joyce,Central Region,Bukit Merah,1.28891,103.80991,Private room,49,30,0,,,18,361
 37604899,Bright 2Bedroom Condo in Very Convenient Location,188478841,Sofia,Central Region,Novena,1.32655,103.8499,Entire home/apt,218,5,0,,,1,337
 37605217,"Lavender Queenbed, 4min lavender MRT, 2min  Bugis",2413412,Kaurus,Central Region,Kallang,1.31232,103.86306,Private room,49,18,0,,,112,353

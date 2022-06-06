@@ -596,11 +596,11 @@ EgyptAir,EgyptAir Express,Embraer ERJ-170,12.0,,,12.0,,$39,$464,8.7
 EgyptAir,EgyptAir,McDonnell Douglas DC-8,,,7.0,7.0,,$6,$0,
 EgyptAir,EgyptAir,McDonnell Douglas DC-9,,,2.0,2.0,,$45,$0,
 El Al,El Al,Boeing 737,23.0,,6.0,29.0,,$74,"$1,702",9.1
-El Al,Sun d'Or,Boeing 737,2.0,,,2.0,,$74,$148,17.4
+El Al,Sun d Or,Boeing 737,2.0,,,2.0,,$74,$148,17.4
 El Al,Up,Boeing 737,4.0,,,4.0,,$74,$296,12.9
 El Al,El Al,Boeing 747,7.0,,19.0,26.0,,$316,"$2,211",21.4
 El Al,El Al,Boeing 757,,,10.0,10.0,,$73,$0,
-El Al,Sun d'Or,Boeing 757,,,6.0,6.0,,$73,$0,
+El Al,Sun d Or,Boeing 757,,,6.0,6.0,,$73,$0,
 El Al,El Al,Boeing 767,7.0,,6.0,13.0,,$187,"$1,308",21.1
 El Al,El Al,Boeing 777,6.0,,,6.0,,$295,"$1,767",13.5
 El Al,El Al,Boeing 787,,,,16.0,,$265,$0,

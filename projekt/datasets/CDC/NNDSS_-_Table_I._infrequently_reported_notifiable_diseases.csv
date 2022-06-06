@@ -20,7 +20,7 @@ Diphtheria,2017.0,1.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,1.0,,-,,-,5.0,,142.0,,175.0,,128.0,,141.0,,115.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,1.0,1.0,,1.0,,2.0,,123.0,,135.0,,266.0,,233.0,,263.0,,NE (1 )
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,1.0,3.0,,3.0,,5.0,,227.0,,167.0,,39.0,,34.0,,37.0,,"OH (1 ), DE (1 ), CO (1 )"
-Hansen's disease**,2017.0,1.0,,-,,-,2.0,,41.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,1.0,,-,,-,2.0,,41.0,,89.0,,88.0,,81.0,,82.0,,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,1.0,,-,,-,,-,3.0,,3.0,,,NN,,NN,,NN,
 "Hantavirus**, Hantavirus Pulmonary Syndrome (HPS)",2017.0,1.0,,-,,-,0.0,,19.0,,21.0,,32.0,,21.0,,30.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,1.0,,-,,-,3.0,,258.0,,274.0,,250.0,,329.0,,274.0,,
@@ -116,7 +116,7 @@ Tularemia,2017.0,2.0,,-,,-,1.0,,199.0,,314.0,,180.0,,203.0,,149.0,,
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,2.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,2.0,,-,,-,,-,3.0,,3.0,,,NN,,NN,,NN,
 Psittacosis**,2017.0,2.0,,-,,-,0.0,,9.0,,4.0,,8.0,,6.0,,2.0,,
-Hansen's disease**,2017.0,2.0,1.0,,1.0,,2.0,,43.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
+Hansen s disease**,2017.0,2.0,1.0,,1.0,,2.0,,43.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
 Cyclosporiasis**,2017.0,2.0,,-,,-,2.0,,499.0,,645.0,,388.0,,784.0,,123.0,,
 "Botulism, other (wound and unspecified)",2017.0,2.0,,-,,-,0.0,,24.0,,20.0,,19.0,,12.0,,18.0,,
 "Hepatitis B, perinatal virus infection§§",2017.0,2.0,,-,,-,1.0,,25.0,,37.0,,47.0,,48.0,,40.0,,
@@ -183,7 +183,7 @@ Anthrax,2017.0,3.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,3.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 Novel influenza A virus infections§§§,2017.0,3.0,,-,,-,0.0,,23.0,,7.0,,3.0,,21.0,,313.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,3.0,,-,3.0,,5.0,,149.0,,175.0,,128.0,,141.0,,115.0,,
-Hansen's disease**,2017.0,3.0,1.0,,3.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
+Hansen s disease**,2017.0,3.0,1.0,,3.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
 "Viral hemorrhagic fever****, Crimean-Congo hemorrhagic fever",2017.0,3.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 Psittacosis**,2017.0,3.0,,-,,-,0.0,,9.0,,4.0,,8.0,,6.0,,2.0,,
 Toxic-shock syndrome (other than staphylococcal)**,2017.0,3.0,,-,,-,1.0,,46.0,,64.0,,59.0,,71.0,,65.0,,
@@ -209,7 +209,7 @@ Yellow fever,2017.0,4.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Tularemia,2017.0,4.0,1.0,,1.0,,0.0,,202.0,,314.0,,180.0,,203.0,,149.0,,PA (1 )
 Measles***,2017.0,4.0,6.0,,16.0,,7.0,,78.0,,188.0,,667.0,,187.0,,55.0,,"PA (3 ), FL (2 ), CA (1 )"
 Chancroid,2017.0,4.0,,-,,-,0.0,,10.0,,11.0,,,-,,-,15.0,,
-Hansen's disease**,2017.0,4.0,1.0,,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
+Hansen s disease**,2017.0,4.0,1.0,,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,4.0,,-,3.0,,3.0,,99.0,,120.0,,123.0,,142.0,,161.0,,
 "Syphilis, congenital¶¶¶",2017.0,4.0,,-,5.0,,8.0,,469.0,,493.0,,458.0,,348.0,,322.0,,
 Tularemia,2017.0,5.0,,-,1.0,,0.0,,202.0,,314.0,,180.0,,203.0,,149.0,,
@@ -280,7 +280,7 @@ Cholera,2017.0,5.0,,-,,-,0.0,,4.0,,5.0,,5.0,,14.0,,17.0,,
 "Viral hemorrhagic fever****, Junin hemorrhagic fever",2017.0,5.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,5.0,4.0,,10.0,,2.0,,271.0,,274.0,,250.0,,329.0,,274.0,,"MD (1 ), GA (1 ), FL (2 )"
 Yellow fever,2017.0,5.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,5.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,5.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,5.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 "Botulism, infant",2017.0,5.0,1.0,,4.0,,2.0,,126.0,,138.0,,127.0,,136.0,,123.0,,TN (1 )
 "Meningococcal disease(Neisseria meningitidis)†††, unknown serogroup",2017.0,5.0,2.0,,21.0,,6.0,,171.0,,120.0,,196.0,,298.0,,260.0,,"TX (1 ), ID (1 )"
@@ -329,7 +329,7 @@ Listeriosis,2017.0,6.0,4.0,,48.0,,8.0,,707.0,,768.0,,769.0,,735.0,,727.0,,"MI (1
 "Viral hemorrhagic fever****, Lassa fever",2017.0,6.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 Cyclosporiasis**,2017.0,6.0,,-,2.0,,1.0,,505.0,,645.0,,388.0,,784.0,,123.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,6.0,3.0,,21.0,,5.0,,236.0,,167.0,,39.0,,34.0,,37.0,,"NE (1 ), TN (1 ), CA (1 )"
-Hansen's disease**,2017.0,6.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,6.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
 "Syphilis, congenital¶¶¶",2017.0,6.0,,-,15.0,,8.0,,476.0,,493.0,,458.0,,348.0,,322.0,,
 Plague,2017.0,6.0,,-,,-,,-,,-,16.0,,10.0,,4.0,,4.0,,
 "Viral hemorrhagic fever****, Guanarito hemorrhagic fever",2017.0,6.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
@@ -425,7 +425,7 @@ Vancomycin-resistant Staphylococcus aureus**,2017.0,7.0,,-,,-,0.0,,,-,3.0,,,-,,-
 Trichinellosis**,2017.0,7.0,,-,3.0,,0.0,,26.0,,14.0,,14.0,,22.0,,18.0,,
 "Viral hemorrhagic fever****, Ebola hemorrhagic fever",2017.0,7.0,,-,,-,,-,,-,,-,4.0,,,NP,,NP,
 "Hepatitis B, perinatal virus infection§§",2017.0,7.0,,-,1.0,,1.0,,26.0,,37.0,,47.0,,48.0,,40.0,,
-Hansen's disease**,2017.0,7.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,7.0,,-,4.0,,1.0,,43.0,,89.0,,88.0,,81.0,,82.0,,
 Leptospirosis**,2017.0,7.0,1.0,,5.0,,0.0,,58.0,,40.0,,38.0,,,NN,,NN,FL (1 )
 "Q fever, acute**",2017.0,7.0,,-,4.0,,2.0,,112.0,,122.0,,132.0,,137.0,,113.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,7.0,,-,4.0,,2.0,,103.0,,120.0,,123.0,,142.0,,161.0,,
@@ -484,7 +484,7 @@ Smallpox,2017.0,8.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,8.0,2.0,,32.0,,5.0,,236.0,,167.0,,39.0,,34.0,,37.0,,FL (2 )
 Plague,2017.0,8.0,,-,,-,,-,,-,16.0,,10.0,,4.0,,4.0,,
 Tularemia,2017.0,8.0,,-,2.0,,0.0,,202.0,,314.0,,180.0,,203.0,,149.0,,
-Hansen's disease**,2017.0,8.0,,-,5.0,,1.0,,55.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,8.0,,-,5.0,,1.0,,55.0,,89.0,,88.0,,81.0,,82.0,,
 "Arboviral diseases¶,** Chikungunya virus disease",2017.0,8.0,,-,3.0,,2.0,,201.0,,896.0,,,NN,,NN,,NN,
 "Viral hemorrhagic fever****, Ebola hemorrhagic fever",2017.0,8.0,,-,,-,,-,,-,,-,4.0,,,NP,,NP,
 "Q fever, acute**",2017.0,8.0,,-,5.0,,2.0,,114.0,,122.0,,132.0,,137.0,,113.0,,
@@ -522,7 +522,7 @@ Trichinellosis**,2017.0,9.0,,-,5.0,,1.0,,27.0,,14.0,,14.0,,22.0,,18.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, serotype b",2017.0,9.0,,-,1.0,,1.0,,21.0,,29.0,,40.0,,31.0,,30.0,,
 Cyclosporiasis**,2017.0,9.0,,-,2.0,,1.0,,503.0,,645.0,,388.0,,784.0,,123.0,,
 Leptospirosis**,2017.0,9.0,,-,6.0,,0.0,,70.0,,40.0,,38.0,,,NN,,NN,
-Hansen's disease**,2017.0,9.0,2.0,,9.0,,1.0,,72.0,,89.0,,88.0,,81.0,,82.0,,"OH (1 ), FL (1 )"
+Hansen s disease**,2017.0,9.0,2.0,,9.0,,1.0,,72.0,,89.0,,88.0,,81.0,,82.0,,"OH (1 ), FL (1 )"
 Cholera,2017.0,9.0,,-,,-,0.0,,4.0,,5.0,,5.0,,14.0,,17.0,,
 "Hantavirus**, Hantavirus Pulmonary Syndrome (HPS)",2017.0,9.0,,-,1.0,,0.0,,15.0,,21.0,,32.0,,21.0,,30.0,,
 Brucellosis,2017.0,9.0,1.0,,8.0,,1.0,,120.0,,126.0,,92.0,,99.0,,114.0,,TX (1 )
@@ -616,7 +616,7 @@ Vancomycin-intermediate Staphylococcus aureus**,2017.0,10.0,2.0,,13.0,,3.0,,106.
 Trichinellosis**,2017.0,10.0,,-,4.0,,0.0,,27.0,,14.0,,14.0,,22.0,,18.0,,
 Chancroid,2017.0,10.0,1.0,,2.0,,,-,8.0,,11.0,,,-,,-,15.0,,CA (1 )
 Yellow fever,2017.0,10.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,10.0,,-,10.0,,1.0,,72.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,10.0,,-,10.0,,1.0,,72.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Sabia-associated hemorrhagic fever",2017.0,10.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Poliomyelitis, paralytic",2017.0,10.0,,-,,-,,-,,-,,-,,-,1.0,,,-,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,10.0,,-,8.0,,3.0,,102.0,,120.0,,123.0,,142.0,,161.0,,
@@ -640,7 +640,7 @@ Psittacosis**,2017.0,10.0,,-,1.0,,0.0,,11.0,,4.0,,8.0,,6.0,,2.0,,
 "Rabies, human",2017.0,10.0,,-,,-,,-,,-,2.0,,1.0,,2.0,,1.0,,
 Leptospirosis**,2017.0,10.0,1.0,,9.0,,0.0,,70.0,,40.0,,38.0,,,NN,,NN,FL (1 )
 Cyclosporiasis**,2017.0,11.0,,-,4.0,,0.0,,514.0,,645.0,,388.0,,784.0,,123.0,,
-Hansen's disease**,2017.0,11.0,1.0,,12.0,,1.0,,74.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
+Hansen s disease**,2017.0,11.0,1.0,,12.0,,1.0,,74.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
 "Hantavirus**, Hantavirus Pulmonary Syndrome (HPS)",2017.0,11.0,,-,1.0,,0.0,,15.0,,21.0,,32.0,,21.0,,30.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,11.0,4.0,,52.0,,5.0,,256.0,,167.0,,39.0,,34.0,,37.0,,"PA (1 ), FL (3 )"
 "Botulism, foodborne",2017.0,11.0,,-,,-,0.0,,32.0,,37.0,,15.0,,4.0,,27.0,,
@@ -755,7 +755,7 @@ Cholera,2017.0,12.0,,-,,-,0.0,,3.0,,5.0,,5.0,,14.0,,17.0,,
 "Botulism, other (wound and unspecified)",2017.0,12.0,,-,3.0,,1.0,,25.0,,20.0,,19.0,,12.0,,18.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, other serogroup",2017.0,12.0,,-,1.0,,1.0,,17.0,,21.0,,25.0,,17.0,,20.0,,
 Diphtheria,2017.0,12.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
-Hansen's disease**,2017.0,12.0,1.0,,13.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
+Hansen s disease**,2017.0,12.0,1.0,,13.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,12.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Botulism, infant",2017.0,12.0,,-,16.0,,3.0,,153.0,,138.0,,127.0,,136.0,,123.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,12.0,2.0,,114.0,,11.0,,4982.0,,,NN,,NN,,NN,,NN,"NY (1 ), TX (1 )"
@@ -820,7 +820,7 @@ Anthrax,2017.0,13.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,13.0,,-,,-,,-,,-,3.0,,,-,,-,2.0,,
 Measles***,2017.0,13.0,,-,29.0,,2.0,,81.0,,188.0,,667.0,,187.0,,55.0,,
 Trichinellosis**,2017.0,13.0,,-,4.0,,0.0,,29.0,,14.0,,14.0,,22.0,,18.0,,
-Hansen's disease**,2017.0,13.0,3.0,,17.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,"NYC (2 ), FL (1 )"
+Hansen s disease**,2017.0,13.0,3.0,,17.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,"NYC (2 ), FL (1 )"
 "Viral hemorrhagic fever****, Lassa fever",2017.0,13.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 "Viral hemorrhagic fever****, Lujo virus",2017.0,13.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Zika virus disease, non-congenital††††  ",2017.0,13.0,3.0,,123.0,,11.0,,4988.0,,,NN,,NN,,NN,,NN,"RI (1 ), VA (1 ), FL (1 )"
@@ -848,7 +848,7 @@ Leptospirosis**,2017.0,14.0,,-,15.0,,1.0,,75.0,,40.0,,38.0,,,NN,,NN,
 Leptospirosis**,2017.0,15.0,,-,15.0,,1.0,,75.0,,40.0,,38.0,,,NN,,NN,
 SARS-CoV,2017.0,15.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,14.0,,-,32.0,,4.0,,156.0,,175.0,,128.0,,141.0,,115.0,,
-Hansen's disease**,2017.0,15.0,2.0,,19.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,NYC (2 )
+Hansen s disease**,2017.0,15.0,2.0,,19.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,NYC (2 )
 Plague,2017.0,15.0,,-,,-,0.0,,,-,16.0,,10.0,,4.0,,4.0,,
 Psittacosis**,2017.0,15.0,,-,2.0,,0.0,,13.0,,4.0,,8.0,,6.0,,2.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,15.0,,-,134.0,,13.0,,5017.0,,,NN,,NN,,NN,,NN,
@@ -860,7 +860,7 @@ Chancroid,2017.0,14.0,,-,5.0,,0.0,,9.0,,11.0,,,-,,-,15.0,,
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,14.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Viral hemorrhagic fever****, Marburg fever",2017.0,14.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** St. Louis encephalitis virus disease",2017.0,14.0,,-,,-,0.0,,8.0,,23.0,,10.0,,1.0,,3.0,,
-Hansen's disease**,2017.0,14.0,,-,17.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,14.0,,-,17.0,,1.0,,75.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Guanarito hemorrhagic fever",2017.0,15.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Powassan virus disease",2017.0,14.0,,-,,-,0.0,,17.0,,7.0,,8.0,,12.0,,7.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, serotype b",2017.0,14.0,1.0,,4.0,,0.0,,22.0,,29.0,,40.0,,31.0,,30.0,,MT (1 )
@@ -1011,7 +1011,7 @@ Vancomycin-resistant Staphylococcus aureus**,2017.0,16.0,,-,,-,,-,,-,3.0,,,-,,-,
 "Meningococcal disease(Neisseria meningitidis)†††, unknown serogroup",2017.0,16.0,1.0,,66.0,,4.0,,156.0,,120.0,,196.0,,298.0,,260.0,,VA (1 )
 "Influenza-associated pediatric mortality**,¶¶",2017.0,16.0,6.0,,84.0,,3.0,,83.0,,130.0,,141.0,,160.0,,52.0,,"MI (1 ), SC (1 ), FL (2 ), MS (1 ), CO (1 )"
 Vancomycin-intermediate Staphylococcus aureus**,2017.0,16.0,,-,20.0,,4.0,,107.0,,183.0,,212.0,,248.0,,134.0,,
-Hansen's disease**,2017.0,16.0,,-,23.0,,1.0,,73.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,16.0,,-,23.0,,1.0,,73.0,,89.0,,88.0,,81.0,,82.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,16.0,,-,41.0,,1.0,,131.0,,135.0,,266.0,,233.0,,263.0,,
 Tularemia,2017.0,16.0,1.0,,9.0,,3.0,,235.0,,314.0,,180.0,,203.0,,149.0,,OK (1 )
 Measles***,2017.0,16.0,1.0,,39.0,,4.0,,83.0,,188.0,,667.0,,187.0,,55.0,,NE (1 )
@@ -1068,7 +1068,7 @@ Toxic-shock syndrome (other than staphylococcal)**,2017.0,17.0,,-,7.0,,1.0,,42.0
 "Arboviral diseases¶,** St. Louis encephalitis virus disease",2017.0,17.0,,-,,-,0.0,,8.0,,23.0,,10.0,,1.0,,3.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,17.0,,-,19.0,,3.0,,105.0,,120.0,,123.0,,142.0,,161.0,,
 Trichinellosis**,2017.0,17.0,,-,3.0,,0.0,,26.0,,14.0,,14.0,,22.0,,18.0,,
-Hansen's disease**,2017.0,17.0,,-,25.0,,1.0,,77.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,17.0,,-,25.0,,1.0,,77.0,,89.0,,88.0,,81.0,,82.0,,
 Measles***,2017.0,17.0,4.0,,55.0,,5.0,,81.0,,188.0,,667.0,,187.0,,55.0,,MN (4 )
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,17.0,1.0,,46.0,,1.0,,131.0,,135.0,,266.0,,233.0,,263.0,,NE (1 )
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,17.0,,-,,-,,-,8.0,,11.0,,11.0,,22.0,,2.0,,
@@ -1109,7 +1109,7 @@ Novel influenza A virus infections§§§,2017.0,18.0,1.0,,1.0,,0.0,,23.0,,7.0,,3
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,18.0,,-,,-,0.0,,3.0,,3.0,,,NN,,NN,,NN,
 Measles***,2017.0,18.0,1.0,,58.0,,6.0,,81.0,,188.0,,667.0,,187.0,,55.0,,MN (1 )
 Trichinellosis**,2017.0,18.0,,-,3.0,,0.0,,25.0,,14.0,,14.0,,22.0,,18.0,,
-Hansen's disease**,2017.0,18.0,,-,25.0,,2.0,,76.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,18.0,,-,25.0,,2.0,,76.0,,89.0,,88.0,,81.0,,82.0,,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,18.0,2.0,,95.0,,3.0,,83.0,,130.0,,141.0,,160.0,,52.0,,"OH (1 ), TX (1 )"
 Typhoid fever (caused by Salmonella typhi),2017.0,18.0,4.0,,85.0,,6.0,,357.0,,367.0,,349.0,,338.0,,354.0,,"MD (1 ), WA (3 )"
 Listeriosis,2017.0,18.0,7.0,,161.0,,11.0,,752.0,,768.0,,769.0,,735.0,,727.0,,"ME (1 ), NY (2 ), OH (1 ), WA (3 )"
@@ -1154,7 +1154,7 @@ Plague,2017.0,18.0,,-,,-,0.0,,,-,16.0,,10.0,,4.0,,4.0,,
 "Viral hemorrhagic fever****, Sabia-associated hemorrhagic fever",2017.0,19.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroup B",2017.0,19.0,1.0,,29.0,,2.0,,74.0,,111.0,,89.0,,99.0,,110.0,,NY (1 )
 Anthrax,2017.0,19.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,19.0,1.0,,27.0,,2.0,,76.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
+Hansen s disease**,2017.0,19.0,1.0,,27.0,,2.0,,76.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
 "Rabies, human",2017.0,19.0,,-,,-,0.0,,,-,2.0,,1.0,,2.0,,1.0,,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,19.0,,-,1.0,,0.0,,14.0,,11.0,,11.0,,22.0,,2.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,19.0,2.0,,26.0,,3.0,,104.0,,120.0,,123.0,,142.0,,161.0,,TX (2 )
@@ -1246,7 +1246,7 @@ Measles***,2017.0,20.0,,-,90.0,,11.0,,83.0,,188.0,,667.0,,187.0,,55.0,,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,20.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 "Arboviral diseases¶,** Chikungunya virus disease",2017.0,20.0,,-,8.0,,3.0,,244.0,,896.0,,,NN,,NN,,NN,
 Toxic-shock syndrome (other than staphylococcal)**,2017.0,20.0,,-,7.0,,1.0,,43.0,,64.0,,59.0,,71.0,,65.0,,
-Hansen's disease**,2017.0,20.0,,-,27.0,,2.0,,81.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,20.0,,-,27.0,,2.0,,81.0,,89.0,,88.0,,81.0,,82.0,,
 Vancomycin-intermediate Staphylococcus aureus**,2017.0,20.0,,-,25.0,,3.0,,107.0,,183.0,,212.0,,248.0,,134.0,,
 "Q fever, acute**",2017.0,20.0,,-,32.0,,3.0,,134.0,,122.0,,132.0,,137.0,,113.0,,
 Yellow fever,2017.0,20.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -1306,7 +1306,7 @@ Novel influenza A virus infections§§§,2017.0,21.0,,-,1.0,,,-,23.0,,7.0,,3.0,,
 "Arboviral diseases¶,** Eastern equine encephalitis virus disease",2017.0,21.0,,-,,-,0.0,,7.0,,6.0,,8.0,,8.0,,15.0,,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,28.0,,-,,-,1.0,,35.0,,55.0,,80.0,,85.0,,78.0,,
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,28.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,28.0,,-,39.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,28.0,,-,39.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Lujo virus",2017.0,21.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Powassan virus disease",2017.0,21.0,,-,,-,0.0,,21.0,,7.0,,8.0,,12.0,,7.0,,
 Chancroid,2017.0,21.0,,-,7.0,,0.0,,7.0,,11.0,,,-,,-,15.0,,
@@ -1357,7 +1357,7 @@ Psittacosis**,2017.0,21.0,,-,4.0,,0.0,,12.0,,4.0,,8.0,,6.0,,2.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,21.0,6.0,,107.0,,4.0,,227.0,,167.0,,39.0,,34.0,,37.0,,"PA (2 ), MO (1 ), FL (1 ), CO (1 ), OR (1 )"
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,21.0,1.0,,30.0,,3.0,,120.0,,120.0,,123.0,,142.0,,161.0,,OH (1 )
 Tularemia,2017.0,21.0,4.0,,27.0,,7.0,,230.0,,314.0,,180.0,,203.0,,149.0,,MO (4 )
-Hansen's disease**,2017.0,21.0,1.0,,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
+Hansen s disease**,2017.0,21.0,1.0,,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,FL (1 )
 "Botulism, foodborne",2017.0,21.0,,-,10.0,,1.0,,30.0,,37.0,,15.0,,4.0,,27.0,,
 Vancomycin-intermediate Staphylococcus aureus**,2017.0,21.0,,-,25.0,,4.0,,108.0,,183.0,,212.0,,248.0,,134.0,,
 Streptococcal toxic-shock syndrome**,2017.0,21.0,3.0,,130.0,,5.0,,283.0,,335.0,,259.0,,224.0,,194.0,,"RI (1 ), NY (1 ), VA (1 )"
@@ -1435,7 +1435,7 @@ Plague,2017.0,22.0,,-,1.0,,0.0,,,-,16.0,,10.0,,4.0,,4.0,,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,22.0,,-,,-,0.0,,36.0,,55.0,,80.0,,85.0,,78.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,22.0,2.0,,55.0,,3.0,,180.0,,175.0,,128.0,,141.0,,115.0,,"AZ (1 ), OR (1 )"
 "Viral hemorrhagic fever****, Lujo virus",2017.0,22.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,22.0,,-,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,22.0,,-,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,22.0,,-,102.0,,1.0,,83.0,,130.0,,141.0,,160.0,,52.0,,
 Psittacosis**,2017.0,22.0,,-,4.0,,0.0,,12.0,,4.0,,8.0,,6.0,,2.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,22.0,,-,61.0,,2.0,,147.0,,135.0,,266.0,,233.0,,263.0,,
@@ -1449,7 +1449,7 @@ Cholera,2017.0,23.0,,-,,-,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,23.0,2.0,,86.0,,5.0,,309.0,,274.0,,250.0,,329.0,,274.0,,"NYC (1 ), AZ (1 )"
 Psittacosis**,2017.0,23.0,,-,4.0,,0.0,,12.0,,4.0,,8.0,,6.0,,2.0,,
 Chancroid,2017.0,23.0,,-,5.0,,0.0,,7.0,,11.0,,,-,,-,15.0,,
-Hansen's disease**,2017.0,23.0,,-,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,23.0,,-,29.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,
 "Arboviral diseases¶,** Eastern equine encephalitis virus ",2017.0,23.0,,-,,-,0.0,,7.0,,6.0,,8.0,,8.0,,15.0,,
 "Poliomyelitis, paralytic",2017.0,23.0,,-,,-,,-,,-,,-,,-,1.0,,,-,
 Typhoid fever,2017.0,23.0,1.0,,124.0,,7.0,,371.0,,367.0,,349.0,,338.0,,354.0,,MD (1 )
@@ -1525,7 +1525,7 @@ Cholera,2017.0,24.0,,-,,-,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,24.0,,-,62.0,,2.0,,147.0,,135.0,,266.0,,233.0,,263.0,,
 "Arboviral diseases¶,** St. Louis encephalitis virus disease",2017.0,24.0,,-,1.0,,0.0,,8.0,,23.0,,10.0,,1.0,,3.0,,
 Trichinellosis**,2017.0,24.0,,-,5.0,,0.0,,25.0,,14.0,,14.0,,22.0,,18.0,,
-Hansen's disease**,2017.0,24.0,3.0,,34.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,FL (3 )
+Hansen s disease**,2017.0,24.0,3.0,,34.0,,1.0,,80.0,,89.0,,88.0,,81.0,,82.0,,FL (3 )
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,24.0,,-,,-,,-,2.0,,3.0,,,NN,,NN,,NN,
 Brucellosis,2017.0,24.0,1.0,,40.0,,3.0,,130.0,,126.0,,92.0,,99.0,,114.0,,AZ (1 )
 "Meningococcal disease (Neisseria meningitidis)†††, other serogroup",2017.0,24.0,,-,6.0,,0.0,,22.0,,21.0,,25.0,,17.0,,20.0,,
@@ -1579,7 +1579,7 @@ Streptococcal toxic-shock syndrome**,2017.0,25.0,1.0,,154.0,,4.0,,283.0,,335.0,,
 "Q fever, total**",2017.0,25.0,1.0,,65.0,,4.0,,163.0,,156.0,,168.0,,170.0,,135.0,,
 "Arboviral diseases¶,** Chikungunya virus disease",2017.0,25.0,1.0,,13.0,,6.0,,245.0,,896.0,,,NN,,NN,,NN,TX (1 )
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,25.0,6.0,,130.0,,3.0,,217.0,,167.0,,39.0,,34.0,,37.0,,"NY (2 ), FL (2 ), ID (1 ), AZ (1 )"
-Hansen's disease**,2017.0,25.0,,-,37.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,25.0,,-,37.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Psittacosis**,2017.0,25.0,,-,4.0,,0.0,,12.0,,4.0,,8.0,,6.0,,2.0,,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,25.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 "Rabies, human",2017.0,25.0,,-,,-,0.0,,,-,2.0,,1.0,,2.0,,1.0,,
@@ -1692,7 +1692,7 @@ Streptococcal toxic-shock syndrome**,2017.0,26.0,3.0,,172.0,,4.0,,283.0,,335.0,,
 Brucellosis,2017.0,26.0,2.0,,43.0,,2.0,,127.0,,126.0,,92.0,,99.0,,114.0,,"NY (1 ), CA (1 )"
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,26.0,,-,,-,,-,2.0,,3.0,,,NN,,NN,,NN,
 "Poliomyelitis, paralytic",2017.0,26.0,,-,,-,0.0,,,-,,-,,-,1.0,,,-,
-Hansen's disease**,2017.0,26.0,,-,38.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,26.0,,-,38.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Cholera,2017.0,26.0,,-,,-,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 "Q fever, acute**",2017.0,26.0,,-,52.0,,3.0,,131.0,,122.0,,132.0,,137.0,,113.0,,
 Smallpox,2017.0,26.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -1706,7 +1706,7 @@ Yellow fever,2017.0,27.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Arboviral diseases¶,** St. Louis encephalitis virus disease",2017.0,27.0,,-,1.0,,1.0,,8.0,,23.0,,10.0,,1.0,,3.0,,
 "Polio virus Infection, nonparalytic**",2017.0,27.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,27.0,,-,,-,,-,2.0,,3.0,,,NN,,NN,,NN,
-Hansen's disease**,2017.0,27.0,,-,39.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,27.0,,-,39.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Arboviral diseases¶,** Powassan virus disease",2017.0,27.0,,-,5.0,,0.0,,22.0,,7.0,,8.0,,12.0,,7.0,,
 SARS-CoV,2017.0,27.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Cholera,2017.0,27.0,,-,,-,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
@@ -1804,7 +1804,7 @@ Cholera,2017.0,29.0,,-,,-,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 "Viral hemorrhagic fever****, Sabia-associated hemorrhagic fever",2017.0,29.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,29.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Yellow fever,2017.0,29.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,29.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,29.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,29.0,,-,,-,,-,2.0,,3.0,,,NN,,NN,,NN,
 "Botulism, infant",2017.0,29.0,1.0,,61.0,,3.0,,144.0,,138.0,,127.0,,136.0,,123.0,,KY (1 )
 Novel influenza A virus infections§§§,2017.0,29.0,,-,1.0,,2.0,,23.0,,7.0,,3.0,,21.0,,313.0,,
@@ -1910,7 +1910,7 @@ Cyclosporiasis**,2017.0,30.0,25.0,,352.0,,44.0,,535.0,,645.0,,388.0,,784.0,,123.
 "Viral hemorrhagic fever****, Lujo virus",2017.0,30.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,30.0,,-,,-,,-,2.0,,3.0,,,NN,,NN,,NN,
 Vancomycin-intermediate Staphylococcus aureus**,2017.0,30.0,1.0,,43.0,,3.0,,108.0,,183.0,,212.0,,248.0,,134.0,,OH (1 )
-Hansen's disease**,2017.0,30.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,30.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,30.0,,-,,-,0.0,,,-,3.0,,,-,,-,2.0,,
 Plague,2017.0,30.0,,-,1.0,,1.0,,,-,16.0,,10.0,,4.0,,4.0,,
 Anthrax,2017.0,30.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -1934,7 +1934,7 @@ Vancomycin-resistant Staphylococcus aureus**,2017.0,31.0,,-,,-,0.0,,,-,3.0,,,-,,
 Tularemia,2017.0,31.0,,-,97.0,,8.0,,230.0,,314.0,,180.0,,203.0,,149.0,,
 "Rabies, human",2017.0,31.0,,-,,-,0.0,,,-,2.0,,1.0,,2.0,,1.0,,
 "Viral hemorrhagic fever****, Guanarito hemorrhagic fever",2017.0,31.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,31.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,31.0,,-,40.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,31.0,6.0,,248.0,,88.0,,5106.0,,,NN,,NN,,NN,,NN,"NY (1 ), FL (3 ), TX (2 )"
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,31.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,31.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -2031,7 +2031,7 @@ Vancomycin-intermediate Staphylococcus aureus**,2017.0,32.0,,-,46.0,,3.0,,108.0,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,32.0,,-,41.0,,2.0,,126.0,,120.0,,123.0,,142.0,,161.0,,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,32.0,,-,17.0,,1.0,,15.0,,11.0,,11.0,,22.0,,2.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,32.0,1.0,,83.0,,3.0,,196.0,,175.0,,128.0,,141.0,,115.0,,ME (1 )
-Hansen's disease**,2017.0,32.0,,-,41.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,32.0,,-,41.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Polio virus Infection, nonparalytic**",2017.0,32.0,,-,,-,,-,,-,,-,,-,,-,,-,
 SARS-CoV,2017.0,32.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Poliomyelitis, paralytic",2017.0,32.0,,-,,-,,-,,-,,-,,-,1.0,,,-,
@@ -2074,7 +2074,7 @@ SARS-CoV,2017.0,33.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,33.0,2.0,,16.0,,2.0,,35.0,,55.0,,80.0,,85.0,,78.0,,TN (2 )
 "Influenza-associated pediatric mortality**,¶¶",2017.0,33.0,,-,108.0,,1.0,,83.0,,130.0,,141.0,,160.0,,52.0,,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,33.0,,-,21.0,,0.0,,15.0,,11.0,,11.0,,22.0,,2.0,,
-Hansen's disease**,2017.0,33.0,,-,41.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,33.0,,-,41.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Cholera,2017.0,33.0,,-,1.0,,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,33.0,2.0,,156.0,,2.0,,187.0,,167.0,,39.0,,34.0,,37.0,,"FL (1 ), AZ (1 )"
 Yellow fever,2017.0,33.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -2170,7 +2170,7 @@ SARS-CoV,2017.0,34.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Yellow fever,2017.0,34.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Arboviral diseases¶,** Powassan virus disease",2017.0,34.0,,-,18.0,,0.0,,22.0,,7.0,,8.0,,12.0,,7.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,34.0,,-,42.0,,2.0,,126.0,,120.0,,123.0,,142.0,,161.0,,
-Hansen's disease**,2017.0,34.0,1.0,,42.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
+Hansen s disease**,2017.0,34.0,1.0,,42.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,NYC (1 )
 Leptospirosis**,2017.0,34.0,,-,33.0,,1.0,,78.0,,40.0,,38.0,,,NN,,NN,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,34.0,,-,,-,0.0,,,-,3.0,,,-,,-,2.0,,
 Toxic-shock syndrome (other than staphylococcal)**,2017.0,34.0,,-,14.0,,1.0,,40.0,,64.0,,59.0,,71.0,,65.0,,
@@ -2184,7 +2184,7 @@ Chancroid,2017.0,35.0,,-,7.0,,0.0,,7.0,,11.0,,,-,,-,15.0,,
 Typhoid fever (caused by Salmonella typhi),2017.0,35.0,3.0,,192.0,,9.0,,376.0,,367.0,,349.0,,338.0,,354.0,,"NY (1 ), NYC (1 ), PA (1 )"
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,35.0,1.0,,97.0,,2.0,,159.0,,135.0,,266.0,,233.0,,263.0,,TX (1 )
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,35.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,35.0,,-,43.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,35.0,,-,43.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Streptococcal toxic-shock syndrome**,2017.0,35.0,1.0,,225.0,,3.0,,283.0,,335.0,,259.0,,224.0,,194.0,,NY (1 )
 "Botulism, total",2017.0,35.0,,-,93.0,,3.0,,201.0,,195.0,,161.0,,152.0,,168.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,35.0,2.0,,168.0,,8.0,,307.0,,274.0,,250.0,,329.0,,274.0,,"OH (1 ), CA (1 )"
@@ -2270,7 +2270,7 @@ Tularemia,2017.0,36.0,2.0,,132.0,,6.0,,230.0,,314.0,,180.0,,203.0,,149.0,,MO (2 
 "Viral hemorrhagic fever****, Ebola hemorrhagic fever",2017.0,36.0,,-,,-,,-,,-,,-,4.0,,,NP,,NP,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,36.0,1.0,,110.0,,1.0,,83.0,,130.0,,141.0,,160.0,,52.0,,IL (1 )
 Trichinellosis**,2017.0,36.0,,-,10.0,,0.0,,26.0,,14.0,,14.0,,22.0,,18.0,,
-Hansen's disease**,2017.0,36.0,,-,45.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,36.0,,-,45.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Guanarito hemorrhagic fever",2017.0,36.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,36.0,,-,,-,,-,,-,3.0,,,-,,-,2.0,,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,36.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
@@ -2346,7 +2346,7 @@ Leptospirosis**,2017.0,37.0,,-,40.0,,1.0,,78.0,,40.0,,38.0,,,NN,,NN,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, nontypeable ",2017.0,37.0,,-,95.0,,3.0,,196.0,,175.0,,128.0,,141.0,,115.0,,
 "Hepatitis B, perinatal virus infection§§",2017.0,37.0,,-,14.0,,1.0,,34.0,,37.0,,47.0,,48.0,,40.0,,
 "Viral hemorrhagic fever****, Sabia-associated hemorrhagic fever",2017.0,37.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,37.0,,-,45.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,37.0,,-,45.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,37.0,,-,27.0,,2.0,,35.0,,55.0,,80.0,,85.0,,78.0,,
 "Viral hemorrhagic fever****, Lujo virus",2017.0,37.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 Novel influenza A virus infections§§§,2017.0,37.0,,-,20.0,,2.0,,23.0,,7.0,,3.0,,21.0,,313.0,,
@@ -2378,7 +2378,7 @@ Measles***,2017.0,38.0,,-,123.0,,1.0,,85.0,,188.0,,667.0,,187.0,,55.0,,
 "Q fever, total**",2017.0,38.0,,-,114.0,,3.0,,164.0,,156.0,,168.0,,170.0,,135.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,38.0,1.0,,203.0,,7.0,,307.0,,274.0,,250.0,,329.0,,274.0,,AZ (1 )
 "Polio virus Infection, nonparalytic**",2017.0,38.0,,-,,-,,-,,-,,-,,-,,-,,-,
-Hansen's disease**,2017.0,38.0,,-,46.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,38.0,,-,46.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Lujo virus",2017.0,38.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, serotype b",2017.0,38.0,1.0,,18.0,,1.0,,30.0,,29.0,,40.0,,31.0,,30.0,,OH (1 )
 "Arboviral diseases¶,** St. Louis encephalitis virus disease",2017.0,38.0,,-,2.0,,0.0,,8.0,,23.0,,10.0,,1.0,,3.0,,
@@ -2485,7 +2485,7 @@ Cholera,2017.0,39.0,,-,1.0,,0.0,,2.0,,5.0,,5.0,,14.0,,17.0,,
 SARS-CoV,2017.0,39.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,39.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,39.0,,-,40.0,,0.0,,15.0,,11.0,,11.0,,22.0,,2.0,,
-Hansen's disease**,2017.0,39.0,,-,46.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,39.0,,-,46.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,39.0,1.0,,111.0,,0.0,,83.0,,130.0,,141.0,,160.0,,52.0,,FL (1 )
 "Zika virus disease, non-congenital††††  ",2017.0,39.0,,-,334.0,,29.0,,5115.0,,,NN,,NN,,NN,,NN,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroup B",2017.0,39.0,,-,46.0,,2.0,,86.0,,111.0,,89.0,,99.0,,110.0,,
@@ -2517,7 +2517,7 @@ Listeriosis,2017.0,40.0,6.0,,513.0,,18.0,,786.0,,768.0,,769.0,,735.0,,727.0,,"NY
 "Viral hemorrhagic fever****, Marburg fever",2017.0,40.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,40.0,,-,,-,,-,,-,3.0,,,-,,-,2.0,,
 Plague,2017.0,40.0,,-,1.0,,0.0,,,-,16.0,,10.0,,4.0,,4.0,,
-Hansen's disease**,2017.0,40.0,,-,47.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,40.0,,-,47.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Typhoid fever (caused by Salmonella typhi),2017.0,40.0,12.0,,254.0,,6.0,,376.0,,367.0,,349.0,,338.0,,354.0,,"NYC (1 ), PA (1 ), OH (9 ), MD (1 )"
 Smallpox,2017.0,40.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Botulism, foodborne",2017.0,40.0,,-,17.0,,0.0,,31.0,,37.0,,15.0,,4.0,,27.0,,
@@ -2594,7 +2594,7 @@ Plague,2017.0,41.0,,-,1.0,,0.0,,,-,16.0,,10.0,,4.0,,4.0,,
 "Viral hemorrhagic fever****, Junin hemorrhagic fever",2017.0,41.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Hepatitis B, perinatal virus infection§§",2017.0,41.0,,-,19.0,,1.0,,34.0,,37.0,,47.0,,48.0,,40.0,,
 Listeriosis,2017.0,41.0,6.0,,530.0,,18.0,,786.0,,768.0,,769.0,,735.0,,727.0,,"NY (1 ), NYC (1 ), VA (1 ), FL (3 )"
-Hansen's disease**,2017.0,41.0,,-,47.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,41.0,,-,47.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,41.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Arboviral diseases¶,** Eastern equine encephalitis virus disease",2017.0,41.0,,-,2.0,,0.0,,7.0,,6.0,,8.0,,8.0,,15.0,,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,41.0,1.0,,112.0,,0.0,,83.0,,130.0,,141.0,,160.0,,52.0,,CT (1 )
@@ -2663,7 +2663,7 @@ Anthrax,2017.0,42.0,,-,,-,,-,,-,,-,,-,,-,,-,
 Measles***,2017.0,42.0,,-,122.0,,1.0,,85.0,,188.0,,667.0,,187.0,,55.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,42.0,1.0,,373.0,,26.0,,5116.0,,,NN,,NN,,NN,,NN,TX (1 )
 "Botulism, infant",2017.0,42.0,1.0,,86.0,,3.0,,144.0,,138.0,,127.0,,136.0,,123.0,,PA (1 )
-Hansen's disease**,2017.0,42.0,,-,48.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,42.0,,-,48.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,42.0,1.0,,231.0,,7.0,,307.0,,274.0,,250.0,,329.0,,274.0,,VA (1 )
 "Arboviral diseases¶,** Eastern equine encephalitis virus disease",2017.0,42.0,,-,1.0,,0.0,,7.0,,6.0,,8.0,,8.0,,15.0,,
 "Viral hemorrhagic fever****, Ebola hemorrhagic fever",2017.0,42.0,,-,,-,,-,,-,,-,4.0,,,NP,,NP,
@@ -2737,7 +2737,7 @@ Smallpox,2017.0,43.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Hepatitis B, perinatal virus infection§§",2017.0,43.0,,-,19.0,,1.0,,32.0,,37.0,,47.0,,48.0,,40.0,,
 "Hantavirus**, Hantavirus infection, non-HPS",2017.0,43.0,,-,,-,0.0,,6.0,,3.0,,,NN,,NN,,NN,
 Typhoid fever (caused by Salmonella typhi),2017.0,43.0,1.0,,292.0,,5.0,,376.0,,367.0,,349.0,,338.0,,354.0,,OH (1 )
-Hansen's disease**,2017.0,43.0,,-,48.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,43.0,,-,48.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Trichinellosis**,2017.0,43.0,,-,11.0,,0.0,,26.0,,14.0,,14.0,,22.0,,18.0,,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,43.0,,-,36.0,,0.0,,35.0,,55.0,,80.0,,85.0,,78.0,,
 Diphtheria,2017.0,43.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
@@ -2809,7 +2809,7 @@ Vancomycin-resistant Staphylococcus aureus**,2017.0,44.0,,-,,-,,-,,-,3.0,,,-,,-,
 "Arboviral diseases¶,** La Crosse virus disease",2017.0,44.0,,-,35.0,,0.0,,35.0,,55.0,,80.0,,85.0,,78.0,,
 "Viral hemorrhagic fever****, Junin hemorrhagic fever",2017.0,44.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Viral hemorrhagic fever****, Machupo hemorrhagic fever",2017.0,44.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,44.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,44.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Influenza-associated pediatric mortality**,¶¶",2017.0,44.0,,-,114.0,,1.0,,82.0,,130.0,,141.0,,160.0,,52.0,,
 Typhoid fever (caused by Salmonella typhi),2017.0,44.0,2.0,,298.0,,4.0,,376.0,,367.0,,349.0,,338.0,,354.0,,"NYC (1 ), AR (1 )"
 "Arboviral diseases¶,** Eastern equine encephalitis virus disease",2017.0,44.0,,-,1.0,,0.0,,7.0,,6.0,,8.0,,8.0,,15.0,,
@@ -2866,7 +2866,7 @@ Vancomycin-intermediate Staphylococcus aureus**,2017.0,45.0,,-,74.0,,3.0,,108.0,
 SARS-CoV,2017.0,45.0,,-,,-,,-,,-,,-,,-,,-,,-,
 "Meningococcal disease (Neisseria meningitidis)†††, other serogroup",2017.0,45.0,,-,12.0,,0.0,,21.0,,21.0,,25.0,,17.0,,20.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,45.0,,-,123.0,,2.0,,159.0,,135.0,,266.0,,233.0,,263.0,,
-Hansen's disease**,2017.0,45.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,45.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Arboviral diseases¶,** Powassan virus disease",2017.0,45.0,,-,26.0,,0.0,,22.0,,7.0,,8.0,,12.0,,7.0,,
 Brucellosis,2017.0,45.0,2.0,,109.0,,1.0,,127.0,,126.0,,92.0,,99.0,,114.0,,"NYC (1 ), CO (1 )"
 "Q fever, chronic**",2017.0,45.0,,-,27.0,,1.0,,32.0,,34.0,,36.0,,33.0,,22.0,,
@@ -2906,7 +2906,7 @@ Vancomycin-intermediate Staphylococcus aureus**,2017.0,46.0,,-,77.0,,3.0,,108.0,
 Streptococcal toxic-shock syndrome**,2017.0,46.0,,-,257.0,,4.0,,283.0,,335.0,,259.0,,224.0,,194.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroup B",2017.0,46.0,,-,53.0,,2.0,,86.0,,111.0,,89.0,,99.0,,110.0,,
 Cyclosporiasis**,2017.0,46.0,,-,1057.0,,2.0,,535.0,,645.0,,388.0,,784.0,,123.0,,
-Hansen's disease**,2017.0,46.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,46.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Botulism, other (wound and unspecified)",2017.0,46.0,,-,16.0,,0.0,,26.0,,20.0,,19.0,,12.0,,18.0,,
 "Viral hemorrhagic fever****, Lassa fever",2017.0,46.0,,-,,-,,-,,-,1.0,,1.0,,,NP,,NP,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, unknown serotype",2017.0,46.0,2.0,,205.0,,4.0,,187.0,,167.0,,39.0,,34.0,,37.0,,OH (2 )
@@ -2945,7 +2945,7 @@ Toxic-shock syndrome (other than staphylococcal)**,2017.0,46.0,,-,17.0,,1.0,,40.
 "Q fever, acute**",2017.0,46.0,1.0,,117.0,,1.0,,132.0,,122.0,,132.0,,137.0,,113.0,,VA (1 )
 Measles***,2017.0,46.0,,-,123.0,,1.0,,85.0,,188.0,,667.0,,187.0,,55.0,,
 Vancomycin-resistant Staphylococcus aureus**,2017.0,47.0,,-,,-,0.0,,,-,3.0,,,-,,-,2.0,,
-Hansen's disease**,2017.0,47.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,47.0,,-,50.0,,1.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, serotype b",2017.0,47.0,,-,21.0,,1.0,,30.0,,29.0,,40.0,,31.0,,30.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroups ACWY",2017.0,47.0,1.0,,59.0,,3.0,,126.0,,120.0,,123.0,,142.0,,161.0,,MD (1 )
 "Arboviral diseases¶,** Western equine encephalitis virus disease",2017.0,47.0,,-,,-,,-,,-,,-,,-,,-,,-,
@@ -3040,7 +3040,7 @@ Diphtheria,2017.0,48.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
 "Viral hemorrhagic fever****, Crimean-Congo hemorrhagic fever",2017.0,48.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 Cholera,2017.0,48.0,,-,4.0,,0.0,,15.0,,5.0,,5.0,,14.0,,17.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,48.0,,-,423.0,,16.0,,5132.0,,,NN,,NN,,NN,,NN,
-Hansen's disease**,2017.0,48.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,48.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Hepatitis B, perinatal virus infection§§",2017.0,48.0,,-,20.0,,1.0,,32.0,,37.0,,47.0,,48.0,,40.0,,
 "Arboviral diseases¶,** Chikungunya virus disease",2017.0,48.0,,-,97.0,,3.0,,247.0,,896.0,,,NN,,NN,,NN,
 "Botulism, infant",2017.0,48.0,,-,98.0,,3.0,,144.0,,138.0,,127.0,,136.0,,123.0,,
@@ -3092,7 +3092,7 @@ Toxic-shock syndrome (other than staphylococcal)**,2017.0,49.0,,-,24.0,,1.0,,40.
 "Q fever, chronic**",2017.0,49.0,,-,29.0,,0.0,,32.0,,34.0,,36.0,,33.0,,22.0,,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,49.0,,-,63.0,,0.0,,15.0,,11.0,,11.0,,22.0,,2.0,,
 Brucellosis,2017.0,49.0,1.0,,119.0,,2.0,,127.0,,126.0,,92.0,,99.0,,114.0,,TX (1 )
-Hansen's disease**,2017.0,49.0,,-,51.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,49.0,,-,51.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 "Haemophilus influenzae invasive disease (age <5 yrs)††, non-b serotype",2017.0,49.0,,-,132.0,,2.0,,159.0,,135.0,,266.0,,233.0,,263.0,,
 "Viral hemorrhagic fever****, Crimean-Congo hemorrhagic fever",2017.0,49.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
 "Botulism, infant",2017.0,49.0,,-,99.0,,3.0,,144.0,,138.0,,127.0,,136.0,,123.0,,
@@ -3184,7 +3184,7 @@ Toxic-shock syndrome (other than staphylococcal)**,2017.0,50.0,,-,24.0,,1.0,,40.
 "Meningococcal disease(Neisseria meningitidis)†††, unknown serogroup",2017.0,50.0,1.0,,175.0,,4.0,,142.0,,120.0,,196.0,,298.0,,260.0,,WA (1 )
 Leptospirosis**,2017.0,50.0,,-,47.0,,1.0,,78.0,,40.0,,38.0,,,NN,,NN,
 Streptococcal toxic-shock syndrome**,2017.0,50.0,,-,276.0,,5.0,,283.0,,335.0,,259.0,,224.0,,194.0,,
-Hansen's disease**,2017.0,50.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,50.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Typhoid fever (caused by Salmonella typhi),2017.0,50.0,4.0,,284.0,,7.0,,376.0,,367.0,,349.0,,338.0,,354.0,,"NYC (2 ), MO (1 ), MD (1 )"
 "Botulism, total",2017.0,50.0,1.0,,78.0,,4.0,,201.0,,195.0,,161.0,,152.0,,168.0,,
 "Zika virus disease, non-congenital††††  ",2017.0,50.0,,-,435.0,,16.0,,5132.0,,,NN,,NN,,NN,,NN,
@@ -3206,7 +3206,7 @@ Diphtheria,2017.0,52.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
 "Arboviral diseases¶,** Jamestown Canyon virus disease",2017.0,51.0,,-,67.0,,,-,15.0,,11.0,,11.0,,22.0,,2.0,,
 "Viral hemorrhagic fever****, Ebola hemorrhagic fever",2017.0,51.0,,-,,-,,-,,-,,-,4.0,,,NP,,NP,
 "Viral hemorrhagic fever****, Crimean-Congo hemorrhagic fever",2017.0,51.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,52.0,,-,51.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,52.0,,-,51.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Tularemia,2017.0,52.0,,-,213.0,,2.0,,230.0,,314.0,,180.0,,203.0,,149.0,,
 "Meningococcal disease (Neisseria meningitidis)†††, serogroup B",2017.0,52.0,,-,67.0,,2.0,,86.0,,111.0,,89.0,,99.0,,110.0,,
 "Hemolytic uremic syndrome, postdiarrheal**",2017.0,51.0,,-,241.0,,4.0,,307.0,,274.0,,250.0,,329.0,,274.0,,
@@ -3259,7 +3259,7 @@ Diphtheria,2017.0,51.0,,-,,-,,-,,-,,-,1.0,,,-,1.0,,
 Plague,2017.0,51.0,,-,1.0,,,-,4.0,,16.0,,10.0,,4.0,,4.0,,
 "Botulism, infant",2017.0,51.0,,-,71.0,,3.0,,144.0,,138.0,,127.0,,136.0,,123.0,,
 "Viral hemorrhagic fever****, Marburg fever",2017.0,52.0,,-,,-,,-,,-,,-,,NP,,NP,,NP,
-Hansen's disease**,2017.0,51.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
+Hansen s disease**,2017.0,51.0,,-,50.0,,2.0,,78.0,,89.0,,88.0,,81.0,,82.0,,
 Trichinellosis**,2017.0,51.0,,-,14.0,,1.0,,26.0,,14.0,,14.0,,22.0,,18.0,,
 Brucellosis,2017.0,52.0,1.0,,109.0,,2.0,,127.0,,126.0,,92.0,,99.0,,114.0,,MD (1 )
 Leptospirosis**,2017.0,52.0,,-,49.0,,1.0,,78.0,,40.0,,38.0,,,NN,,NN,

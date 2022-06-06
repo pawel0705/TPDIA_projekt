@@ -897,44 +897,44 @@ NoArrond,NomArrond,NoDistrict,NomDistrict,NoSection,NbrAdrVac,NbrElectNDom,NbrEl
 5,05 LaSalle,52,052 Cecil-P.-Newman,89,7,0,222,105
 5,05 LaSalle,52,052 Cecil-P.-Newman,90,34,2,285,123
 5,05 LaSalle,52,052 Cecil-P.-Newman,91,40,0,273,113
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,1,137,0,270,38
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,2,9,0,335,151
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,3,5,0,302,149
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,4,6,0,344,170
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,5,8,0,328,163
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,6,7,0,352,177
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,7,5,0,366,159
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,8,8,0,385,173
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,9,6,0,375,148
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,10,8,0,353,159
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,11,25,0,349,157
-6,06 L'Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,12,10,1,403,168
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,1,5,0,383,162
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,2,4,0,340,147
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,3,7,0,338,156
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,4,8,3,297,127
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,5,7,0,317,136
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,6,6,0,353,164
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,7,2,0,292,159
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,8,56,0,366,127
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,9,12,0,386,132
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,10,11,0,330,143
-6,06 L'Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,11,18,1,374,147
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,1,6,0,329,150
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,2,20,4,378,151
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,3,33,2,367,147
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,4,17,0,371,153
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,5,28,2,338,165
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,6,62,2,393,146
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,7,46,1,381,156
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,8,3,0,357,137
-6,06 L'Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,9,30,1,429,162
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,1,53,2,436,138
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,2,160,2,451,78
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,3,214,2,466,152
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,4,106,3,456,117
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,5,49,1,473,131
-6,06 L'Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,6,34,0,327,212
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,1,137,0,270,38
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,2,9,0,335,151
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,3,5,0,302,149
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,4,6,0,344,170
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,5,8,0,328,163
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,6,7,0,352,177
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,7,5,0,366,159
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,8,8,0,385,173
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,9,6,0,375,148
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,10,8,0,353,159
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,11,25,0,349,157
+6,06 L Île-Bizard--Sainte-Geneviève,61,061 Pierre-Foretier,12,10,1,403,168
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,1,5,0,383,162
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,2,4,0,340,147
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,3,7,0,338,156
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,4,8,3,297,127
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,5,7,0,317,136
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,6,6,0,353,164
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,7,2,0,292,159
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,8,56,0,366,127
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,9,12,0,386,132
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,10,11,0,330,143
+6,06 L Île-Bizard--Sainte-Geneviève,62,062 Denis-Benjamin-Viger,11,18,1,374,147
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,1,6,0,329,150
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,2,20,4,378,151
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,3,33,2,367,147
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,4,17,0,371,153
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,5,28,2,338,165
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,6,62,2,393,146
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,7,46,1,381,156
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,8,3,0,357,137
+6,06 L Île-Bizard--Sainte-Geneviève,63,063 Jacques-Bizard,9,30,1,429,162
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,1,53,2,436,138
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,2,160,2,451,78
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,3,214,2,466,152
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,4,106,3,456,117
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,5,49,1,473,131
+6,06 L Île-Bizard--Sainte-Geneviève,64,064 Sainte-Geneviève,6,34,0,327,212
 7,07 Mercier--Hochelaga-Maisonneuve,71,071 Tétreaultville,1,250,0,360,118
 7,07 Mercier--Hochelaga-Maisonneuve,71,071 Tétreaultville,2,23,0,356,154
 7,07 Mercier--Hochelaga-Maisonneuve,71,071 Tétreaultville,3,19,0,306,160
@@ -2816,113 +2816,113 @@ NoArrond,NomArrond,NoDistrict,NomDistrict,NoSection,NbrAdrVac,NbrElectNDom,NbrEl
 16,16 Le Sud-Ouest,162,162 Saint-Paul--Émard--Saint-Henri-Ouest,75,52,6,349,116
 16,16 Le Sud-Ouest,162,162 Saint-Paul--Émard--Saint-Henri-Ouest,76,105,2,399,85
 16,16 Le Sud-Ouest,162,162 Saint-Paul--Émard--Saint-Henri-Ouest,77,40,0,283,82
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,1,17,0,192,83
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,2,93,0,212,114
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,3,28,0,212,77
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,4,32,3,202,66
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,5,20,1,172,61
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,6,32,2,206,74
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,7,34,1,222,79
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,8,38,1,223,83
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,9,27,0,220,75
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,10,37,1,198,77
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,11,18,1,235,87
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,12,12,0,211,95
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,13,23,0,269,116
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,14,54,0,189,58
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,15,99,0,260,70
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,16,101,0,282,74
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,17,68,0,248,83
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,18,43,0,207,63
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,19,57,0,252,79
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,20,56,0,270,78
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,21,8,0,180,86
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,22,11,0,218,94
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,23,7,0,203,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,24,66,0,226,76
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,25,34,0,231,96
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,26,80,1,330,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,27,49,2,305,89
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,28,41,0,283,87
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,29,37,0,226,102
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,30,171,0,336,67
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,31,89,0,233,59
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,32,39,3,276,110
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,33,35,4,261,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,34,14,0,204,93
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,35,21,0,200,69
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,36,41,1,261,87
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,37,18,0,200,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,38,29,0,255,92
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,39,13,0,200,88
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,40,24,1,221,81
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,41,8,0,205,94
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,42,21,0,191,69
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,43,29,0,233,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,44,20,1,243,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,45,13,1,235,88
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,46,51,0,235,54
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,47,24,2,157,60
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,48,16,0,164,58
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,49,34,1,266,103
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,50,38,1,274,98
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,51,25,2,312,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,52,12,1,234,81
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,53,33,0,256,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,54,5,0,247,102
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,55,36,0,190,95
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,56,39,0,270,96
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,57,37,0,154,63
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,58,65,0,162,63
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,59,42,0,153,40
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,60,21,0,283,133
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,61,34,0,185,49
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,62,62,2,275,99
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,63,58,0,257,71
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,64,118,2,416,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,65,120,0,259,84
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,66,51,0,250,102
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,67,53,0,284,82
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,68,15,2,214,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,69,79,1,292,97
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,70,73,0,237,97
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,71,54,1,293,125
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,72,34,0,215,92
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,73,84,1,236,90
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,74,36,0,232,94
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,75,17,1,209,77
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,76,116,1,283,91
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,77,115,1,285,88
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,78,83,1,321,96
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,79,125,2,299,69
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,80,98,2,281,94
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,81,98,1,340,98
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,82,104,1,396,80
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,83,81,1,388,113
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,84,71,1,380,104
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,85,50,1,332,96
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,86,92,4,281,78
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,87,38,0,265,83
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,88,38,2,258,83
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,89,63,2,273,95
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,90,59,3,291,82
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,91,47,0,260,109
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,92,61,0,262,119
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,93,56,1,307,74
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,94,76,1,336,109
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,95,48,0,275,101
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,96,57,1,226,84
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,97,57,2,243,85
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,98,148,2,435,117
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,99,148,1,325,76
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,100,41,3,243,95
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,101,26,0,322,105
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,102,47,0,253,102
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,103,30,1,328,119
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,104,17,0,247,95
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,105,42,0,257,71
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,106,29,0,327,104
-17,17 Verdun,171,171 Champlain-L'Île-des-Soeurs,107,192,0,380,126
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,1,17,0,192,83
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,2,93,0,212,114
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,3,28,0,212,77
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,4,32,3,202,66
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,5,20,1,172,61
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,6,32,2,206,74
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,7,34,1,222,79
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,8,38,1,223,83
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,9,27,0,220,75
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,10,37,1,198,77
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,11,18,1,235,87
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,12,12,0,211,95
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,13,23,0,269,116
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,14,54,0,189,58
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,15,99,0,260,70
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,16,101,0,282,74
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,17,68,0,248,83
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,18,43,0,207,63
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,19,57,0,252,79
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,20,56,0,270,78
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,21,8,0,180,86
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,22,11,0,218,94
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,23,7,0,203,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,24,66,0,226,76
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,25,34,0,231,96
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,26,80,1,330,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,27,49,2,305,89
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,28,41,0,283,87
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,29,37,0,226,102
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,30,171,0,336,67
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,31,89,0,233,59
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,32,39,3,276,110
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,33,35,4,261,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,34,14,0,204,93
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,35,21,0,200,69
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,36,41,1,261,87
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,37,18,0,200,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,38,29,0,255,92
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,39,13,0,200,88
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,40,24,1,221,81
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,41,8,0,205,94
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,42,21,0,191,69
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,43,29,0,233,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,44,20,1,243,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,45,13,1,235,88
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,46,51,0,235,54
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,47,24,2,157,60
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,48,16,0,164,58
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,49,34,1,266,103
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,50,38,1,274,98
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,51,25,2,312,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,52,12,1,234,81
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,53,33,0,256,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,54,5,0,247,102
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,55,36,0,190,95
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,56,39,0,270,96
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,57,37,0,154,63
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,58,65,0,162,63
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,59,42,0,153,40
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,60,21,0,283,133
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,61,34,0,185,49
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,62,62,2,275,99
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,63,58,0,257,71
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,64,118,2,416,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,65,120,0,259,84
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,66,51,0,250,102
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,67,53,0,284,82
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,68,15,2,214,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,69,79,1,292,97
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,70,73,0,237,97
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,71,54,1,293,125
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,72,34,0,215,92
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,73,84,1,236,90
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,74,36,0,232,94
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,75,17,1,209,77
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,76,116,1,283,91
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,77,115,1,285,88
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,78,83,1,321,96
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,79,125,2,299,69
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,80,98,2,281,94
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,81,98,1,340,98
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,82,104,1,396,80
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,83,81,1,388,113
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,84,71,1,380,104
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,85,50,1,332,96
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,86,92,4,281,78
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,87,38,0,265,83
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,88,38,2,258,83
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,89,63,2,273,95
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,90,59,3,291,82
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,91,47,0,260,109
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,92,61,0,262,119
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,93,56,1,307,74
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,94,76,1,336,109
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,95,48,0,275,101
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,96,57,1,226,84
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,97,57,2,243,85
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,98,148,2,435,117
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,99,148,1,325,76
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,100,41,3,243,95
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,101,26,0,322,105
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,102,47,0,253,102
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,103,30,1,328,119
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,104,17,0,247,95
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,105,42,0,257,71
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,106,29,0,327,104
+17,17 Verdun,171,171 Champlain-L Île-des-Soeurs,107,192,0,380,126
 17,17 Verdun,172,172 Desmarchais-Crawford,1,14,0,174,84
 17,17 Verdun,172,172 Desmarchais-Crawford,2,3,0,163,67
 17,17 Verdun,172,172 Desmarchais-Crawford,3,57,0,268,94

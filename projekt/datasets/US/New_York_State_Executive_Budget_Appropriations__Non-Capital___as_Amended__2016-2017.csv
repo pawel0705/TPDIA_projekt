@@ -226,7 +226,7 @@ Debt Service,Debt Service Funds,General Debt Service Fund,40150,General Debt Ser
 "Criminal Justice Services, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25477,Violence Against Women Account,Crime Prevention and Reduction Strategies,State Operations,1500000,1500000,3055000,7,7
 "Criminal Justice Services, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,ESAJU,DCJS Federal Equitable Sharing Agreement - Justice Account,Crime Prevention and Reduction Strategies,State Operations,0,8000000,0,0,0
 "Criminal Justice Services, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,ESATR,DCJS Federal Equitable Sharing Agreement - Treasury Account,Crime Prevention and Reduction Strategies,State Operations,0,8000000,0,0,0
-"Criminal Justice Services, Division of",Special Revenue Funds - Other,Combined Expendable Trust,20192,Missing and Exploited Children's Clearinghouse Account,Crime Prevention and Reduction Strategies,State Operations,1250000,1250000,0,3,3
+"Criminal Justice Services, Division of",Special Revenue Funds - Other,Combined Expendable Trust,20192,Missing and Exploited Children s Clearinghouse Account,Crime Prevention and Reduction Strategies,State Operations,1250000,1250000,0,3,3
 "Criminal Justice Services, Division of",Special Revenue Funds - Other,Combined Expendable Trust,20197,DCJ01 Comb Gifts Grant Bequest,Crime Prevention and Reduction Strategies,State Operations,200000,200000,0,0,0
 "Criminal Justice Services, Division of",Special Revenue Funds - Other,Medical Marihuana Trust,23753,MMF - Law Enforcement,Crime Prevention and Reduction Strategies,Aid To Localities,200000,200000,200000,0,0
 "Criminal Justice Services, Division of",Special Revenue Funds - Other,Miscellaneous Special Revenue,21945,Criminal Justice Improvement Account,Crime Prevention and Reduction Strategies,Aid To Localities,0,0,25000,0,0
@@ -703,8 +703,8 @@ Judiciary,Special Revenue Funds - Other,Miscellaneous Special Revenue,22012,Atto
 Judiciary,Special Revenue Funds - Other,Miscellaneous Special Revenue,22012,Attorney Licensing Account,Appellate Auxillary Operations,State Operations,21165232,21521894,0,0,0
 Judiciary,Special Revenue Funds - Other,Miscellaneous Special Revenue,22012,Attorney Licensing Account,Courts of Original Jurisdiction,State Operations,2053337,2088029,960000,0,0
 Judiciary,Special Revenue Funds - Other,Miscellaneous Special Revenue,22012,Attorney Licensing Account,Employee Fringe Benefits,State Operations,7742176,7827554,0,0,0
-Judiciary,Special Revenue Funds - Other,New York City County Clerks' Operations Offset Fund,23151,NYCCC Operat Offset Fund,Courts of Original Jurisdiction,State Operations,23297481,23837839,0,0,0
-Judiciary,Special Revenue Funds - Other,New York City County Clerks' Operations Offset Fund,23151,NYCCC Operat Offset Fund,Employee Fringe Benefits,State Operations,10487063,11226089,0,0,0
+Judiciary,Special Revenue Funds - Other,New York City County Clerks  Operations Offset Fund,23151,NYCCC Operat Offset Fund,Courts of Original Jurisdiction,State Operations,23297481,23837839,0,0,0
+Judiciary,Special Revenue Funds - Other,New York City County Clerks  Operations Offset Fund,23151,NYCCC Operat Offset Fund,Employee Fringe Benefits,State Operations,10487063,11226089,0,0,0
 Justice Center for the Protection of People with Special Needs,Enterprise Funds,Agency Enterprise,50301,Mentally Disabled Printing,Program Oversight,State Operations,500000,500000,0,0,0
 Justice Center for the Protection of People with Special Needs,General Fund,Local Assistance Account,10000,Local Assistance Account,Community Support,Aid To Localities,170000,170000,0,0,0
 Justice Center for the Protection of People with Special Needs,General Fund,State Operations Account,10050,State Purposes Account,Program Oversight,State Operations,41617000,41685000,0,406,428
@@ -838,9 +838,9 @@ Metropolitan Transportation Authority,Special Revenue Funds - Other,Metropolitan
 "Mortgage Agency, State of New York",General Fund,State Operations Account,10050,State Purposes Account,Mortgage Insurance Fund Reimbursement Program,State Operations,15000000,15000000,0,0,0
 "Motor Vehicles, Department of",Capital Projects Funds - Other,Dedicated Highway and Bridge Trust Fund,30051,Highway & Bridge Trust,Transportation Support,Capital Projects,0,0,0,1467,1624
 "Motor Vehicles, Department of",Internal Service Funds,Agency Internal Service Fund,55057,Banking Services Account,Administration,State Operations,5300000,5300000,0,0,0
-"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25319,Hway Safety Sec 402 Acct,Governor's Traffic Safety Committee,Aid To Localities,21400000,21600000,67718000,0,0
-"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25319,Hway Safety Sec 402 Acct,Governor's Traffic Safety Committee,State Operations,13839000,13966000,19181000,17,17
-"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25320,Highway Safety Section 403 Account,Governor's Traffic Safety Committee,State Operations,5500000,6000000,20123000,0,0
+"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25319,Hway Safety Sec 402 Acct,Governor s Traffic Safety Committee,Aid To Localities,21400000,21600000,67718000,0,0
+"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25319,Hway Safety Sec 402 Acct,Governor s Traffic Safety Committee,State Operations,13839000,13966000,19181000,17,17
+"Motor Vehicles, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25320,Highway Safety Section 403 Account,Governor s Traffic Safety Committee,State Operations,5500000,6000000,20123000,0,0
 "Motor Vehicles, Department of",Special Revenue Funds - Other,Clean Air Fund,21452,Mobile Source Account,Clean Air,State Operations,19162000,19162000,0,179,179
 "Motor Vehicles, Department of",Special Revenue Funds - Other,Miscellaneous Special Revenue,21906,Department of Motor Vehicles Seized Assets Account,Administration,State Operations,400000,0,0,0,0
 "Motor Vehicles, Department of",Special Revenue Funds - Other,Miscellaneous Special Revenue,21976,Motorcycle Safety Fund,Transportation Safety,State Operations,1628000,0,0,1,0
@@ -950,7 +950,7 @@ Special Federal Emergency Appropriation,Special Revenue Funds - Federal,Federal 
 "State Police, Division of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22054,Seized Assets Account,Patrol Activities,State Operations,16000000,16000000,0,0,0
 "State Police, Division of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22123,Public Safety Communication Account,Technical Police Services,State Operations,16000000,21000000,0,0,0
 "State Police, Division of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22167,Training Academy Account,Administration,State Operations,300000,300000,0,0,0
-"State Police, Division of",Special Revenue Funds - Other,NYS DOT Commercial Vehicle Safety Program,23001,DOT Commercial Vehicle Safety Program Account,Governor's Traffic Safety Committee,State Operations,0,0,0,4,4
+"State Police, Division of",Special Revenue Funds - Other,NYS DOT Commercial Vehicle Safety Program,23001,DOT Commercial Vehicle Safety Program Account,Governor s Traffic Safety Committee,State Operations,0,0,0,4,4
 "State Police, Division of",Special Revenue Funds - Other,NYS DOT Commercial Vehicle Safety Program,23001,DOT Commercial Vehicle Safety Program Account,Patrol Activities,State Operations,3377000,3377000,0,25,25
 "State Police, Division of",Special Revenue Funds - Other,State Police Motor Vehicle Law Enforcement and MV Theft & Ins Fraud Prevention,22802,State Police Motor Vehicle Enforcement Account,Technical Police Services,State Operations,9100000,9100000,0,0,0
 State University Construction Fund,Capital Projects Funds - Other,Capital Projects Fund,30000,Capital Projects Fund,Administration,Capital Projects,0,0,0,152,152
@@ -970,7 +970,7 @@ State University of New York,Special Revenue Funds - Federal,Federal Health and 
 State University of New York,Special Revenue Funds - Federal,Federal Health and Human Services Fund,25114,91A6G-28650-SUNY,Student Aid,State Operations,500000,500000,0,0,0
 State University of New York,Special Revenue Funds - Other,Combined Student Loan Fund,20955,Nursing - Federal,Student Loans,State Operations,34000000,34000000,0,0,0
 State University of New York,Special Revenue Funds - Other,Miscellaneous Special Revenue,21937,State University Dormitory Income Reimbursable Account,Dormitory Income Reimbursable,State Operations,343400000,343400000,0,2452,2452
-State University of New York,Special Revenue Funds - Other,State University Income Fund,22652,Long Island Veterans' Home Account,Long Island Veterans Home Reimbursable,State Operations,46622000,49223000,0,433,433
+State University of New York,Special Revenue Funds - Other,State University Income Fund,22652,Long Island Veterans  Home Account,Long Island Veterans Home Reimbursable,State Operations,46622000,49223000,0,433,433
 State University of New York,Special Revenue Funds - Other,State University Income Fund,22653,State University General IFR Account,All State University Colleges and Schools,State Operations,0,0,668837000,0,0
 State University of New York,Special Revenue Funds - Other,State University Income Fund,22653,State University General IFR Account,General Income Reimbursable,State Operations,837800000,837800000,0,2012,2012
 State University of New York,Special Revenue Funds - Other,State University Income Fund,22655,General Revenue Offset Account,All State University Colleges and Schools,State Operations,1823158800,1912458800,0,24498,24498
@@ -1077,7 +1077,7 @@ Statewide Financial System,General Fund,State Operations Account,10050,State Pur
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25314,UMTA-16(B);(2); 1985-86,Office of Passenger and Freight Transportation Program,Aid To Localities,16800000,16800000,58040000,0,0
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25316,Motor Carrier Safety Assistance Program Account,Office of Passenger and Freight Transportation Program,State Operations,0,0,0,53,53
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25397,17000MOTOR CARRIER SAFETY,Office of Passenger and Freight Transportation Program,State Operations,9909000,9928000,24487000,0,0
-"Veterans' Affairs, Division of",General Fund,State Operations Account,10050,State Purposes Account,Administration,State Operations,480000,480000,500000,3,3
+"Veterans  Affairs, Division of",General Fund,State Operations Account,10050,State Purposes Account,Administration,State Operations,480000,480000,500000,3,3
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25446,Federal Transit Administrative Management Account,Office of Passenger and Freight Transportation Program,State Operations,7949000,7963000,44559000,20,20
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25471,Rural and Small Urban Transit Aid Account,Rural and Small Urban Transit Aid Program,Aid To Localities,25100000,25100000,156005000,0,0
 "Transportation, Department of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25472,FHWA Local Planning,Local Transportation Planning Studies Program,Aid To Localities,14789000,14789000,38446000,0,0
@@ -1098,13 +1098,13 @@ Statewide Financial System,General Fund,State Operations Account,10050,State Pur
 "Transportation, Department of",Special Revenue Funds - Other,Miscellaneous Special Revenue,21933,Transportation Surplus Property Account,Operations ,State Operations,3000000,3000000,0,0,0
 "Transportation, Department of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22089,Highway Construction & Maintenance Safety Education,Operations ,State Operations,210000,210000,1050000,0,0
 "Transportation, Department of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22165,Transportation Aviation Account,Office of Passenger and Freight Transportation Program,State Operations,4107000,4112000,5581000,1,1
-"Veterans' Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Administration,Aid To Localities,999000,999000,0,0,0
-"Veterans' Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Blind Veteran Annuity Assistance,Aid To Localities,6380000,6380000,3851000,0,0
-"Veterans' Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Veterans Counseling Services,Aid To Localities,3177000,1427000,3327000,0,0
-"Veterans' Affairs, Division of",General Fund,State Operations Account,10050,State Purposes Account,Veterans Counseling Services,State Operations,5779000,5779000,0,87,87
-"Veterans' Affairs, Division of",Special Revenue Funds - Federal,Federal Health and Human Services Fund,25100,Federal Health and Human Services Fund,Veterans Counseling Services,Aid To Localities,500000,500000,0,0,0
-"Veterans' Affairs, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25300,Federal Operating Grants Fund,Veterans Education,State Operations,0,0,0,8,8
-"Veterans' Affairs, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25386,01190-Veterans Affairs,Veterans Education,State Operations,1966000,1966000,3330000,0,0
+"Veterans  Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Administration,Aid To Localities,999000,999000,0,0,0
+"Veterans  Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Blind Veteran Annuity Assistance,Aid To Localities,6380000,6380000,3851000,0,0
+"Veterans  Affairs, Division of",General Fund,Local Assistance Account,10000,Local Assistance Account,Veterans Counseling Services,Aid To Localities,3177000,1427000,3327000,0,0
+"Veterans  Affairs, Division of",General Fund,State Operations Account,10050,State Purposes Account,Veterans Counseling Services,State Operations,5779000,5779000,0,87,87
+"Veterans  Affairs, Division of",Special Revenue Funds - Federal,Federal Health and Human Services Fund,25100,Federal Health and Human Services Fund,Veterans Counseling Services,Aid To Localities,500000,500000,0,0,0
+"Veterans  Affairs, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25300,Federal Operating Grants Fund,Veterans Education,State Operations,0,0,0,8,8
+"Veterans  Affairs, Division of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25386,01190-Veterans Affairs,Veterans Education,State Operations,1966000,1966000,3330000,0,0
 "Victim Services, Office of",General Fund,Local Assistance Account,10000,Local Assistance Account,Victim and Witness Assistance,Aid To Localities,2788000,2788000,1690000,0,0
 "Victim Services, Office of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25370,Crime Victims Assistance Account,Administration,State Operations,3043000,5077000,3043000,27,27
 "Victim Services, Office of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25370,Crime Victims Assistance Account,Payment to Victims,Aid To Localities,11523000,11523000,14423000,0,0
@@ -1119,6 +1119,6 @@ Statewide Financial System,General Fund,State Operations Account,10050,State Pur
 "Victim Services, Office of",Special Revenue Funds - Other,Miscellaneous Special Revenue,22134,OVS-RESTITUTION ACCT,Administration,State Operations,868000,868000,0,8,8
 "Welfare Inspector General, Office of",General Fund,State Operations Account,10050,State Purposes Account,"Welfare Inspector General, Office of the",State Operations,1162000,1162000,0,7,7
 "Welfare Inspector General, Office of",Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,WIGSA,Welfare Inspector General Federal Seized Assets,"Welfare Inspector General, Office of the",State Operations,0,100000,0,0,0
-Workers' Compensation Board,Special Revenue Funds - Other,Miscellaneous Special Revenue,21995,Workers Compensation Board Account,Workers Compensation,State Operations,187120000,189063000,0,1165,1165
-Workers' Compensation Reserve,General Fund,State Operations Account,10050,State Purposes Account,Workers' Compensation Reserve,State Operations,12450000,11200000,0,0,0
+Workers  Compensation Board,Special Revenue Funds - Other,Miscellaneous Special Revenue,21995,Workers Compensation Board Account,Workers Compensation,State Operations,187120000,189063000,0,1165,1165
+Workers  Compensation Reserve,General Fund,State Operations Account,10050,State Purposes Account,Workers  Compensation Reserve,State Operations,12450000,11200000,0,0,0
 World Trade Center - Workers Compensation Board,Special Revenue Funds - Federal,Federal Miscellaneous Operating Grants Fund,25500,Disaster Assistance,World Trade Center - Workers Compensation Board,Aid To Localities,0,0,5100000,0,0

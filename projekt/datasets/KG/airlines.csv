@@ -33,7 +33,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 31,Astro Air International,\N,,AAV,ASTRO-PHIL,United States,N
 32,Afriqiyah Airways,\N,8U,AAW,AFRIQIYAH,Libya,Y
 33,Afrinat International Airlines,\N,Q9,AFU,,Gambia,N
-34,Afric'air Express,\N,,AAX,AFREX,Ivory Coast,N
+34,Afric air Express,\N,,AAX,AFREX,Ivory Coast,N
 35,Allegiant Air,\N,G4,AAY,ALLEGIANT,United States,Y
 36,Angus Aviation,\N,,AAZ,ANGUS,Canada,N
 37,Artem-Avia,\N,,ABA,ARTEM-AVIA,Ukraine,N
@@ -133,7 +133,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 131,Aero Empresa Mexicana,\N,,AFO,AERO EMPRESA,Mexico,N
 132,Air Bosna,\N,JA,BON,AIR BOSNA,Bosnia and Herzegovina,Y
 133,Air Bravo,\N,,BRF,AIR BRAVO,Uganda,N
-134,Air Brasd'or,\N,,BRL,BRASD'OR,Canada,N
+134,Air Brasd or,\N,,BRL,BRASD OR,Canada,N
 135,Air 500,\N,,BRM,BOOMERANG,Canada,N
 136,Alba Servizi Aerotrasporti,\N,,AFQ,ALBA,Italy,N
 137,Air France,\N,AF,AFR,AIRFRANS,France,Y
@@ -739,7 +739,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 737,Avia Trans Air Transport,\N,,VTT,VIATRANSPORT,Sudan,N
 738,Aviostart AS,\N,,VSR,AVIOSTART,Bulgaria,N
 739,Aviacao Transportes Aereos e Cargas,\N,,VTG,ATACARGO,Angola,N
-740,Assistance Aeroportuaire de L'Aeroport de Paris,\N,,XJA,,France,N
+740,Assistance Aeroportuaire de L Aeroport de Paris,\N,,XJA,,France,N
 741,American Flight Service Systems,\N,,XFS,,United States,N
 742,AASANA,\N,,XXV,,Bolivia,N
 743,Australian air Express,\N,,XME,AUS-CARGO,Australia,N
@@ -890,7 +890,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 888,African Company Airlines,\N,,FPY,AFRICOMPANY,Democratic Republic of the Congo,N
 889,Afrijet Airlines,\N,,FRJ,AFRIJET,Nigeria,N
 890,Afrika Aviation Handlers,\N,,FRK,AFRIFAST,Kenya,N
-891,Afrique Chart'air,\N,,FRQ,CHARTER AFRIQUE,Cameroon,N
+891,Afrique Chart air,\N,,FRQ,CHARTER AFRIQUE,Cameroon,N
 892,Aerofreight Airlines,\N,,FRT,,Russia,N
 893,Aereos Limited,\N,,FST,FAST TRACK,United Kingdom,N
 894,Air Affaires Tchad,\N,,FTC,AFFAIRES TCHAD,Chad,N
@@ -932,7 +932,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 930,Aerotaxis de Aguascalientes,\N,,GUA,AGUASCALIENTES,Mexico,N
 931,Air Guyane,\N,GG,GUY,GREEN BIRD,French Guiana,Y
 932,Air Victoria Georgia,\N,,GVI,IRINA,Georgia,N
-933,Air D'Ayiti,\N,H9,HAD,HAITI AVIA,Haiti,N
+933,Air D Ayiti,\N,H9,HAD,HAITI AVIA,Haiti,N
 934,Air Comores International,\N,GG,HAH,AIR COMORES,Comoros,N
 935,Air Taxi,\N,,HAT,TAXI BIRD,France,N
 936,Aerohein,\N,,HEI,AEROHEIN,Chile,N
@@ -997,7 +997,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 995,Atlasjet,\N,KK,KKK,ATLASJET,Turkey,Y
 996,Air Mali International,\N,,KLB,TRANS MALI,Mali,N
 997,Aerokaluz,\N,,KLZ,AEROKALUZ,Mexico,N
-998,Air Koryo,\N,JS,KOR,AIR KORYO,Democratic People's Republic of Korea,Y
+998,Air Koryo,\N,JS,KOR,AIR KORYO,Democratic People s Republic of Korea,Y
 999,Araiavia,\N,,KOY,ALEKS,Kazakhstan,N
 1000,AeroSucre,\N,,KRE,AEROSUCRE,Colombia,N
 1001,Air Kokshetau,\N,,KRT,KOKTA,Kazakhstan,N
@@ -1687,7 +1687,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 1686,Celtic Airways,\N,,CEC,CELTAIR,United Kingdom,N
 1687,Celtic West,\N,,CWE,CELTIC,United Kingdom,N
 1688,Centavia,\N,7N,CNA,,Serbia,N
-1689,Cente D'Essais En Vol,\N,,CEV,CENTEV,France,N
+1689,Cente D Essais En Vol,\N,,CEV,CENTEV,France,N
 1690,Centennial Airlines,\N,,CNL,WYO-AIR,United States,N
 1691,Centennial Flight Centre,\N,,CNS,CENTENNIAL,Canada,N
 1692,Center Vol,\N,,CVO,CENTERVOL,Spain,N
@@ -1719,7 +1719,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 1718,Cetraca Aviation Service,\N,,CER,CETRACA,Democratic Republic of the Congo,N
 1719,Chabahar Airlines,\N,,IRU,CHABAHAR,Iran,N
 1720,Chalair Aviation,\N,,CLG,CHALLAIR,France,N
-1721,Chalk's Ocean Airways,\N,OP,CHK,CHALKS,United States,N
+1721,Chalk s Ocean Airways,\N,OP,CHK,CHALKS,United States,N
 1722,Challenge Air Transport,\N,,CLS,AIRISTO,Germany,N
 1723,Challenge Aviation,\N,,CHS,CHALLENGE AVIATION,Australia,N
 1724,Challenge International Airlines,\N,,OFF,CHALLENGE AIR,United States,N
@@ -2063,7 +2063,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2062,Ducair,\N,,DUK,LION KING,Luxembourg,N
 2063,Duchess of Britany (Jersey) Limited,\N,,DBJ,DUCHESS,United Kingdom,N
 2064,UK Royal/HRH Duke of York,\N,,LPD,LEOPARD,United Kingdom,N
-2065,Dun'Air,\N,,DUN,DUNAIR,Mauritania,N
+2065,Dun Air,\N,,DUN,DUNAIR,Mauritania,N
 2066,Duncan Aviation,\N,,PHD,PANHANDLE,United States,N
 2067,Dunyaya Bakis Hava Tasimaciligi,\N,,VVF,WORLDFOCUS,Turkey,N
 2068,Duo Airways,\N,,DUO,FLY DUO,United Kingdom,N
@@ -2166,7 +2166,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2165,Elilombarda,\N,,EOA,LOMBARDA,Italy,N
 2166,Elimediterranea,\N,,MEE,ELIMEDITERRANEA,Italy,N
 2167,Elios,\N,,VUL,ELIOS,Italy,N
-2168,Elipiu',\N,,IEP,ELIPIU,Italy,N
+2168,Elipiu ,\N,,IEP,ELIPIU,Italy,N
 2169,Elisra Airlines,\N,,RSA,ESRA,Sudan,N
 2170,Elite Air,\N,,EAI,ELAIR,Togo,N
 2171,Elite Jets,\N,,EJD,ELITE DUBAI,United Arab Emirates,N
@@ -2186,7 +2186,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2185,Empire Air Service,\N,,EMP,EMPIRE,United States,N
 2186,Empire Airlines,\N,EM,CFS,EMPIRE AIR,United States,N
 2187,Empire Aviation Services,\N,,MPR,,Nigeria,N
-2188,Empire Test Pilots' School,\N,,ETP,TESTER,United Kingdom,N
+2188,Empire Test Pilots  School,\N,,ETP,TESTER,United Kingdom,N
 2189,Empresa (Aero Uruguay),\N,,AUO, S.A.,UNIFORM OSCAR,N
 2190,Empresa Aero-Servicios Parrague,\N,,PRG,ASPAR,Chile,N
 2191,Empresa Aerocaribbean,\N,,CRN,AEROCARIBBEAN,Cuba,N
@@ -2347,7 +2347,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2346,Finalair Congo,\N,4S,FNC,FINALAIR CONGO,Republic of the Congo,N
 2347,Financial Airxpress,\N,,FAK,FACTS,United States,N
 2348,Fine Airlines,\N,,FBF,FINE AIR,United States,N
-2349,Finist'air,\N,,FTR,FINISTAIR,France,N
+2349,Finist air,\N,,FTR,FINISTAIR,France,N
 2350,Finnair,\N,AY,FIN,FINNAIR,Finland,Y
 2351,Finncomm Airlines,\N,FC,WBA,WESTBIRD,Finland,Y
 2352,Finnish Air Force,\N,,FNF,FINNFORCE,Finland,N
@@ -2459,7 +2459,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2458,Freeway Air,\N,,FWC,FREEWAY,Netherlands,N
 2459,Freight Runners Express,\N,,FRG,FREIGHT RUNNERS,United States,N
 2460,Force Aerienne Francaise,\N,,FAF,FRENCH AIR FORCE,France,N
-2461,Aviation Legere De L'Armee De Terre,\N,,FMY,FRENCH ARMY,France,N
+2461,Aviation Legere De L Armee De Terre,\N,,FMY,FRENCH ARMY,France,N
 2462,France Marine Nationale,\N,,FNY,FRENCH NAVY,France,N
 2463,Fresh Air,\N,,FRR,FRESH AIR,Nigeria,N
 2464,Freshaer,\N,,FAE,WILDGOOSE,United Kingdom,N
@@ -2547,7 +2547,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2546,German Sky Airlines,\N,,GHY,GERMAN SKY,Germany,N
 2547,Germania,\N,ST,GMI,GERMANIA,Germany,Y
 2548,Germanwings,\N,4U,GWI,GERMAN WINGS,Germany,Y
-2549,Gerry's Dnata,\N,,GDN,,Pakistan,N
+2549,Gerry s Dnata,\N,,GDN,,Pakistan,N
 2550,Gesekkschaft Fur Flugzieldarstellung,\N,,GFD,KITE,Germany,N
 2551,Gestair,\N,GP,GES,GESTAIR,Spain,N
 2552,Gestar,\N,,GTR,STAR GESTAR,Chile,N
@@ -2751,10 +2751,10 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2751,Hemus Air,\N,DU,HMS,HEMUS AIR,Bulgaria,N
 2752,Henebury Aviation,\N,,HAC,,Australia,N
 2753,Heritiage Flight (Valley Air Services),\N,,SSH,SNOWSHOE,United States,N
-2754,Herman's Markair Express,\N,,MRX,SPEEDMARK,United States,N
+2754,Herman s Markair Express,\N,,MRX,SPEEDMARK,United States,N
 2755,Herritage Aviation Developments,\N,,HED,FLAPJACK,United Kingdom,N
 2756,Hewa Bora Airways,\N,EO,ALX,ALLCONGO,Democratic Republic of the Congo,N
-2757,Hex'Air,\N,UD,HER,HEX AIRLINE,France,Y
+2757,Hex Air,\N,UD,HER,HEX AIRLINE,France,Y
 2758,Hi-Jet Helicopter Services,\N,,HHS,HIJET,Suriname,N
 2759,Hi Fly,\N,5K,HFY,SKY FLYER,Portugal,N
 2760,High-Line Airways,\N,,HLB,HIGH-LINE,Canada,N
@@ -3097,7 +3097,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3097,Kam Air,\N,RQ,KMF,KAMGAR,Afghanistan,Y
 3098,Kampuchea Airlines,\N,E2,KMP,KAMPUCHEA,Cambodia,N
 3099,Kanaf-Arkia Airlines,\N,,KIZ,,Israel,N
-3100,Kanfey Ha'emek Aviation,\N,,KHE,KANFEY HAEMEK,Israel,N
+3100,Kanfey Ha emek Aviation,\N,,KHE,KANFEY HAEMEK,Israel,N
 3101,Kansas State University,\N,,KSU,K-STATE,United States,N
 3102,Karat,\N,V2,AKT,AVIAKARAT,Russia,N
 3103,Karibu Airways Company,\N,,KRB,KARIBU AIR,Tanzania,N
@@ -3191,7 +3191,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3191,L J Aviation,\N,,LJY,ELJAY,United States,N
 3192,L R Airlines,\N,,LRB,LADY RACINE,Czech Republic,N
 3193,L&L Flygbildteknik,\N,,PHO,PHOTOFLIGHT,Sweden,N
-3194,L'Express,\N,,LEX,LEX,United States,N
+3194,L Express,\N,,LEX,LEX,United States,N
 3195,L-3 Communications Flight Internation Aviation,\N,,FNT,FLIGHT INTERNATIONAL,United States,N
 3196,L.A.B. Flying Service,\N,JF,LAB,LAB,United States,N
 3197,LACSA,\N,LR,LRC,LACSA,Costa Rica,Y
@@ -3341,7 +3341,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3343,L,\N,,LAU,SURAMERICANO,Colombia,N
 3344,M & N Aviation,\N,,JNH,JONAH,United States,N
 3345,MAC Fotografica,\N,,MCF,MAC FOTO,Spain,N
-3346,MANAG'AIR,\N,,MRG,MANAG'AIR,France,N
+3346,MANAG AIR,\N,,MRG,MANAG AIR,France,N
 3347,MAP-Management and Planung,\N,,MPJ,MAPJET,Austria,N
 3348,MAS Airways,\N,,TFG,TRAFALGAR,United Kingdom,N
 3349,MasAir,\N,M7,MAA,MAS CARGA,Mexico,Y
@@ -3750,7 +3750,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3753,Nyasa Express,\N,,NYS,NYASA,Malawi,N
 3754,Nas Air,\N,XY,KNE,NAS EXPRESS,Saudi Arabia,Y
 3755,O Air,\N,,OCN,O-BIRD,France,N
-3756,O'Connor Airlines,\N,UQ,OCM,OCONNOR,Australia,N
+3756,O Connor Airlines,\N,UQ,OCM,OCONNOR,Australia,N
 3757,OAG,\N,CR,,,United Kingdom,N
 3758,OSACOM,\N,,JPA,J-PAT,United States,N
 3759,Oasis Hong Kong Airlines,\N,O8,OHK,OASIS,Hong Kong,Y
@@ -3762,7 +3762,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3765,Oceanic Airlines,\N,O2,,,Guinea,Y
 3766,Odessa Airlines,\N,,ODS,ODESSA AIR,Ukraine,N
 3767,Odyssey International,\N,,ODY,ODYSSEY,Canada,N
-3768,Office Federal De'Aviation Civile,\N,,FOC,FOCA,Switzerland,N
+3768,Office Federal De Aviation Civile,\N,,FOC,FOCA,Switzerland,N
 3769,Ogooue Air Cargo,\N,,GBO,,Gabon,N
 3770,Okada Airlines,\N,,OKJ,OKADA AIR,Nigeria,N
 3771,Okapi Airways,\N,,OKP,OKAPI,Democratic Republic of Congo,N
@@ -3930,7 +3930,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 3934,Pen-Avia,\N,,PDY,PENDLEY,United Kingdom,N
 3935,Peninsula Airways,\N,KS,PEN,PENINSULA,United States,Y
 3936,Peninter Aerea,\N,,PNE,PENINTER,Mexico,N
-3937,Penya De L'Aire,\N,,PCA,PENA DEL AIRE,Spain,N
+3937,Penya De L Aire,\N,,PCA,PENA DEL AIRE,Spain,N
 3938,Peran,\N,,CVT,CVETA,Kazakhstan,N
 3939,Perforadora Central,\N,,PCC,PERFORADORA CENTRAL,Mexico,N
 3940,Perimeter Aviation,\N,,PAG,PERIMETER,Canada,N
@@ -4188,7 +4188,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 4192,Riau Airlines,\N,,RIU,RIAU AIR,Indonesia,N
 4193,Rich International Airways,\N,,RIA,RICHAIR,United States,N
 4194,Richards Aviation,\N,,RVC,RIVER CITY,United States,N
-4195,Richardson's Airway,\N,,RIC,RICHARDSON,United States,N
+4195,Richardson s Airway,\N,,RIC,RICHARDSON,United States,N
 4196,Richland Aviation,\N,,RCA,RICHLAND,United States,N
 4197,Rick Lucas Helicopters,\N,,HPR,HELIPRO,New Zealand,N
 4198,Rico Linhas A,\N,C7,RLE,RICO,Brazil,N
@@ -4409,7 +4409,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 4415,Shell Aircraft,\N,,SHE,SHELL,United Kingdom,N
 4416,Shoprite Group,\N,,SHG,SHOP AIR,United Kingdom,N
 4417,Seoul Air International,\N,,SHI,SEOUL AIR,Republic of Korea,N
-4418,Sharjah Ruler's Flight,\N,,SHJ,SHARJAH,United Arab Emirates,N
+4418,Sharjah Ruler s Flight,\N,,SHJ,SHARJAH,United Arab Emirates,N
 4419,Shorouk Air,\N,,SHK,,Egypt,N
 4420,Samson Aviation,\N,,SHL,SAMSON,United Kingdom,N
 4421,Sheltam Aviation,\N,,SHM,SHELTAM,South Africa,N
@@ -4610,7 +4610,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 4616,Swiss Eagle,\N,,EAB,SWISS EAGLE,Switzerland,N
 4617,Skypower Express Airways,\N,,EAN,NIGERIA EXPRESS,Nigeria,N
 4618,Scenic Air,\N,,ENR,,Namibia,N
-4619,Sun D'Or,\N,7L,ERO,ECHO ROMEO,Israel,Y
+4619,Sun D Or,\N,7L,ERO,ECHO ROMEO,Israel,Y
 4620,SkyEurope,\N,NE,ESK,RELAX,Slovakia,Y
 4621,Sunshine Express Airlines,\N,CQ,EXL,,Australia,N
 4622,South African Express,\N,,EXY,EXPRESSWAYS,South Africa,N
@@ -5048,7 +5048,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 5056,TAF-Linhas Aereas,\N,,TSD,TAFI,Brazil,N
 5057,Transmile Air Services,\N,TH,TSE,TRANSMILE,Malaysia,N
 5058,Trans-Air-Congo,\N,,TSG,TRANS-CONGO,Republic of the Congo,N
-5059,Transport'air,\N,,TSI,TRANSPORTAIR,France,N
+5059,Transport air,\N,,TSI,TRANSPORTAIR,France,N
 5060,Trast Aero,\N,S5,TSJ,TRAST AERO,Kyrgyzstan,N
 5061,Trast Aero,\N,,TSK,TOMSK-AVIA,Kyrgyzstan,N
 5062,Thai Aviation Services,\N,,TSL,THAI AVIATION,Thailand,N
@@ -5376,7 +5376,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 5391,Walsten Air Services,\N,,WAS,WALSTEN,Canada,N
 5392,Walter I Linkoping,\N,,GOT,GOTHIC,Sweden,N
 5393,Wapiti Aviation,\N,,WPT,WAPITI,Canada,N
-5394,Warbelow's Air Ventures,\N,,WAV,WARBELOW,United States,N
+5394,Warbelow s Air Ventures,\N,,WAV,WARBELOW,United States,N
 5395,Warwickshire Aerocentre Ltd.,\N,,ATX,AIRTAX,United Kingdom,N
 5396,Wasaya Airways,\N,,WSG,WASAYA,Canada,N
 5397,Wayraper,\N,7W,,WAYRAPER,Peru,Y
@@ -5400,7 +5400,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 5415,West Wind Aviation,\N,,WEW,WESTWIND,Canada,N
 5416,WestJet,\N,WS,WJA,WESTJET,Canada,Y
 5417,Westair Aviation,\N,,WAA,WESTAIR WINGS,Namibia,N
-5418,Westair Cargo Airlines,\N,,WSC,WESTCAR,Cote d'Ivoire,N
+5418,Westair Cargo Airlines,\N,,WSC,WESTCAR,Cote d Ivoire,N
 5419,Westair Industries,\N,,PCM,PAC VALLEY,United States,N
 5420,Westcoast Energy,\N,,BLK,BLUE FLAME,Canada,N
 5421,Western Air,\N,,WST,WESTERN BAHAMAS,Bahamas,N
@@ -5424,7 +5424,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 5439,Widerøe,\N,WF,WIF,WIDEROE,Norway,Y
 5440,Wiggins Airways,\N,,WIG,WIGGINS AIRWAYS,United States,N
 5441,Wiking Helikopter Service,\N,,WHS,WEEKING,Germany,N
-5442,Wilbur's Flight Operations,\N,,WFO,WILBURS,United States,N
+5442,Wilbur s Flight Operations,\N,,WFO,WILBURS,United States,N
 5443,Williams Air,\N,,WLS,WILLIAMS AIR,United States,N
 5444,Williams Grand Prix Engineering,\N,,WGP,GRAND PRIX,United Kingdom,N
 5445,Wimbi Dira Airways,\N,,WDA,WIMBI DIRA,Democratic Republic of Congo,N
@@ -5638,7 +5638,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 11802,CEIBA Intercontinental,,,CEL,CEIBA LINE,Equatorial Guinea,Y
 11804,Halcyonair,,7Z,\N,CREOLE,Cape Verde,Y
 11805,Business Aviation,,4P,\N,AFRICAN BUSINESS,Congo (Kinshasa),Y
-11806,Compagnie Africaine d\\'Aviation,,E9,\N,AFRICOMPANY,Congo (Kinshasa),Y
+11806,Compagnie Africaine d\\ Aviation,,E9,\N,AFRICOMPANY,Congo (Kinshasa),Y
 11808,Zambia Skyways,,K8,\N,ZAMBIA SKIES,Zambia,Y
 11811,AlMasria Universal Airlines,,UJ,LMU,ALMASRIA,Egypt,Y
 11813,EgyptAir Express,,,MSE,EGYPTAIR EXPRESS,Egypt,Y
@@ -5707,7 +5707,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 13390,Lombards Air,,++,---,,South Africa,N
 13391,U.S. Air,,-+,--+,,United States,Y
 13392,Flitestar,,GM,Err:510,,South Africa,N
-13394,Jayrow,,\\',\\'\\,,Australia,Y
+13394,Jayrow,,\\ ,\\ \\,,Australia,Y
 13395,Llloyd Helicopters,,::,:::,,Australia,N
 13397,Wilderness Air,,;;,\N,,Australia,Y
 13398,Whitaker Air,,^^,\N,,Australia,Y
@@ -5724,7 +5724,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 13905,Skyline nepc,,D5,\N,,India,N
 13923,THREE,,H3,T33,,China,N
 13936,Royal European Airlines,,69,\N,,United Kingdom,Y
-13947,Tom\\'s & co airliners,Tom\\'s air,&T,T&O,T&,France,Y
+13947,Tom\\ s & co airliners,Tom\\ s air,&T,T&O,T&,France,Y
 13983,Azul,Azul Linhas Aéreas Brasileiras,AD,AZU,,Brazil,Y
 14061,LSM Airlines,slowbird,PQ,LOO,slowbird,Russia,Y
 14069,Zapolyarie Airlines,Zapolyarye Airlines,,PZY,,Russia,Y
@@ -5844,7 +5844,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 16837,VickJet,,KT,VKJ,Vickjet,France,Y
 16844,BVI Airways,,XV,\N,,British Virgin Islands,Y
 16858,Hamburg Airways,,,HAY,,Germany,Y
-16860,Salsa d\\'Haiti,,SO,SLC,SALSA,Haiti,Y
+16860,Salsa d\\ Haiti,,SO,SLC,SALSA,Haiti,Y
 16867,Zambezi Airlines (ZMA),,ZJ,\N,,Zambia,Y
 16868,Kan Air,,,KND,Kan Air,Thailand,Y
 16881,Air Cudlua,Air Cudlua,,CUD,Cudlua,United Kingdom,Y
@@ -6014,7 +6014,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 19538,Vintage Props and Jets,,,VPP,VINTAGE,United States,N
 19541,Malawian Airlines,,3W,\N,,Malawi,Y
 19548,Yeti Airlines ,,,NYT,,Nepal,Y
-19567,Avilu,Avilu' SA,..,...,,Switzerland,Y
+19567,Avilu,Avilu  SA,..,...,,Switzerland,Y
 19582,Air Serbia,\N,JU,ASL,AIR SERBIA,Serbia,Y
 19599,Skyline Ulasim Ticaret A.S.,Skyline Ulasim Ticaret A.S.,,KCU,Kocoglu,Turkey,Y
 19610,Air Lituanica,Air Lituanica,LT,LTU,LITUANICA,Lithuania,Y

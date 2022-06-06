@@ -46,7 +46,7 @@ Gouverneur Health,"227 Madison St, New York, NY 10002","OCT Opthalmology System
 Replacement",1.0,3.0,40000.0,10002.0,MANHATTAN,40.712784,-73.988417,6.0,1003224.0,1002700032.0,Lower East Side                                                            
 Gouverneur Health,"540 E 13th St, New York, NY 10009","Roberto Celemente Center
 Renovation",2.0,3.0,350000.0,10009.0,MANHATTAN,40.729188,-73.979607,34.0,1005213.0,1004060024.0,East Village                                                               
-Governor's Island Alliance,Pier 101 Governors Island,Floating Dock,1.0,1.0,42000.0,,MANHATTAN,40.691369,-74.012477,5.0,1000000.0,1000010010.0,park-cemetery-etc-Manhattan                                                
+Governor s Island Alliance,Pier 101 Governors Island,Floating Dock,1.0,1.0,42000.0,,MANHATTAN,40.691369,-74.012477,5.0,1000000.0,1000010010.0,park-cemetery-etc-Manhattan                                                
 GrowNYC,134 Fourth Ave,Initial Outfitting of Education Center,2.0,2.0,150000.0,,MANHATTAN,40.733293,-73.989926,61.0,1009211.0,1005640045.0,West Village                                                               
 Harlem Hospital Center,"506 Malcolm X Blvd, New York, NY 10037",Medical Equipment Purchases,9.0,10.0,65000.0,10037.0,MANHATTAN,40.814358,-73.940659,212.0,1053899.0,1017330001.0,Central Harlem North-Polo Grounds                                          
 Harlem Hospital Center,"506 Malcolm X Blvd, New York, NY 10037",Bariatric Surgical table,9.0,10.0,35000.0,10037.0,MANHATTAN,40.814358,-73.940659,212.0,1053899.0,1017330001.0,Central Harlem North-Polo Grounds                                          
@@ -95,7 +95,7 @@ Oasis Garden,370-388 East 8th Street,City Water Access,2.0,3.0,59000.0,,MANHATTA
 Enterprises Inc. (D.B.A. Lower East Side Ecology Center)","East River Park, East River Promenade, New York, NY, United States",East River Fire Boat House Renovation,2.0,3.0,250000.0,,MANHATTAN,40.713811,-73.976174,1001.0,1000000.0,1003160200.0,Lower East Side                                                            
 Performance Space 122 Inc,150 First Avenue,Outfitting of Theatre,2.0,3.0,75000.0,,MANHATTAN,40.728261,-73.984785,34.0,1005894.0,1004370001.0,East Village                                                               
 Playwrights Horizons,440 Lafayette Street,440 Lafayette Renovations,2.0,2.0,75000.0,,MANHATTAN,40.729327,-73.991907,57.0,1088676.0,1005450026.0,West Village                                                               
-Poor Richard's Park,"E 109th St, New York, NY 10029",Renovations,8.0,11.0,150000.0,10029.0,MANHATTAN,,,,,,
+Poor Richard s Park,"E 109th St, New York, NY 10029",Renovations,8.0,11.0,150000.0,10029.0,MANHATTAN,,,,,,
 Project Renewal,"8 E 3rd St New York, NY 10003",Renovation of 3rd Street Shelter Yard,2.0,3.0,221000.0,10003.0,MANHATTAN,40.726148,-73.991236,3602.0,1006546.0,1004580011.0,East Village                                                               
 "The Promesa Housing
 Development Fund Coporation",413 East 120th Street,413 East 120th Street Project,8.0,11.0,500000.0,,MANHATTAN,40.798371,-73.932987,192.0,1054888.0,1018080008.0,East Harlem North                                                          
@@ -129,19 +129,19 @@ The City College of New York,"160 Convent Ave, New York, NY 10031",Computer Lab 
 The DOE Fund,2960 Frederick Douglass Blvd,Fresh Food Distribution,9.0,10.0,57000.0,,MANHATTAN,40.830039,-73.936623,24302.0,1076737.0,1021050001.0,Central Harlem North-Polo Grounds                                          
 "The General Society of
 Mechanics and Tradesmen",20 West 44th Street,Library Skylight & Roof Replacement,4.0,5.0,400000.0,,MANHATTAN,40.755156,-73.980848,96.0,1034214.0,1012590048.0,Midtown-Midtown South                                                      
-"The Young Men's and Young
-Women's Hebrew Association",1395 Lexington Avenue,92Y Integrated Security Project,5.0,8.0,150000.0,,MANHATTAN,40.783051,-73.952978,15801.0,1048310.0,1015200050.0,Upper East Side-Carnegie Hill                                              
+"The Young Men s and Young
+Women s Hebrew Association",1395 Lexington Avenue,92Y Integrated Security Project,5.0,8.0,150000.0,,MANHATTAN,40.783051,-73.952978,15801.0,1048310.0,1015200050.0,Upper East Side-Carnegie Hill                                              
 Theater for the New City,155 First Avenue,Lighting Equipment,2.0,3.0,40000.0,,MANHATTAN,40.728505,-73.984634,40.0,1006416.0,1004517502.0,East Village                                                               
 "Trinity West Harlem Phase Two
 Limited Partnership","251 - 277 West 114th Street New York, NY
 10026",Randolph Houses Renovation,9.0,10.0,250000.0,10026.0,MANHATTAN,40.802641,-73.955175,218.0,1055203.0,1018300011.0,Central Harlem South                                                       
-Trust for Governor's Island,Governor's Island,Bathrooms Renovations,1.0,1.0,50000.0,,MANHATTAN,,,,,,
+Trust for Governor s Island,Governor s Island,Bathrooms Renovations,1.0,1.0,50000.0,,MANHATTAN,,,,,,
 University Settlement,184 Eldridge Street,Boiler Replacement,1.0,3.0,150000.0,,MANHATTAN,40.720653,-73.990674,18.0,1005483.0,1004150018.0,Chinatown                                                                  
 Vivian Beaumont Theater,150 West 65th Street,"FIRE-ALARM SYSTEM UPGRADE/ADA
 RENOVATION",6.0,7.0,300000.0,,MANHATTAN,40.773621,-73.983619,149.0,1028832.0,1011340025.0,Lincoln Square                                                             
 WNET,825 Eighth Avenue,Audio/Visual Upgrade,3.0,4.0,75000.0,,MANHATTAN,40.762074,-73.986275,127.0,1076203.0,1010400029.0,Clinton                                                                    
 Women In Need,325 East 104th Street,Initial Outfitting,8.0,11.0,47000.0,,MANHATTAN,40.788997,-73.942628,170.0,1052712.0,1016760011.0,East Harlem South                                                          
-Young People's Chorus,"37 West 65th Street, Second Floor",Pianos for YPC,6.0,7.0,58000.0,,MANHATTAN,40.772281,-73.980363,149.0,1028160.0,1011180005.0,Lincoln Square                                                             
+Young People s Chorus,"37 West 65th Street, Second Floor",Pianos for YPC,6.0,7.0,58000.0,,MANHATTAN,40.772281,-73.980363,149.0,1028160.0,1011180005.0,Lincoln Square                                                             
 2016 - SCHOOLS,,,,,,,MANHATTAN,,,,,,
 47 ASL and English Secondary,"225 E 23rd St, New York, NY 10010",Technology Upgrades,2.0,6.0,100000.0,10010.0,MANHATTAN,40.738534,-73.982423,64.0,1019775.0,1009040024.0,Gramercy                                                                   
 347 ASL and Lower School,"225 E 23rd St, New York, NY 10010",Chicken Coop Build-out,2.0,6.0,44000.0,10010.0,MANHATTAN,40.738534,-73.982423,64.0,1019775.0,1009040024.0,Gramercy                                                                   
@@ -231,7 +231,7 @@ Spruce Street School,"12 Spruce St, New York, NY 10038",Techology Upgrades,1.0,1
 Stuyvesant High School,"345 Chambers St, New York, NY 10282",Auditorium Systems Upgrades,1.0,1.0,150000.0,10282.0,MANHATTAN,40.71759,-74.013748,31703.0,1084587.0,1000160215.0,Battery Park City-Lower Manhattan                                          
 Talent Unlimited HS,"300 E 68th St #540, New York, NY 10065",Auditorium  Upgrades,5.0,8.0,90000.0,10065.0,MANHATTAN,40.766083,-73.959882,118.0,1044751.0,1014420001.0,Lenox Hill-Roosevelt Island                                                
 The Beacon School,"227 W 61st St, New York, NY 10023",Technology Upgrades,6.0,7.0,100000.0,10023.0,MANHATTAN,40.772007,-73.987479,151.0,1030328.0,1011540108.0,Lincoln Square                                                             
-The Children's Workshop,"610 E 12th St, New York, NY 10009",Playground/Gym,2.0,3.0,67000.0,10009.0,MANHATTAN,40.727892,-73.978525,28.0,1079053.0,1003940012.0,Lower East Side                                                            
+The Children s Workshop,"610 E 12th St, New York, NY 10009",Playground/Gym,2.0,3.0,67000.0,10009.0,MANHATTAN,40.727892,-73.978525,28.0,1079053.0,1003940012.0,Lower East Side                                                            
 The Computer School,"100 W 77th St, New York, NY 10023",Technology Upgrades,6.0,7.0,80000.0,10023.0,MANHATTAN,40.780822,-73.976855,161.0,1030178.0,1011480014.0,Upper West Side                                                            
 "The Eagle Academy for Young
 Men of Harlem","6 Edgecombe Ave, New York, NY 10030",Auditorium Upgrade,9.0,10.0,200000.0,10030.0,MANHATTAN,40.817372,-73.947712,22102.0,1059460.0,1019600001.0,Central Harlem North-Polo Grounds                                          
@@ -245,7 +245,7 @@ The Rooselvelt Island School,"645 Main St, New York, NY 10044",Greenroof,5.0,8.0
 "The Talented and Gifted School
 for Young Scholars","240 East 109th Street New York, NY 10029",Technology Upgrades,8.0,11.0,100000.0,10029.0,MANHATTAN,40.79307,-73.942303,170.0,1052433.0,1016560100.0,East Harlem South                                                          
 The Urban Assembly School for Global Commerce,"2005 Madison Ave, New York, NY 10035",Technology Upgrades,9.0,11.0,100000.0,10035.0,MANHATTAN,40.807383,-73.939433,206.0,1054156.0,1017520022.0,Central Harlem North-Polo Grounds                                          
-The Young Women's Leadership,"105 E 106th St, New York, NY 10029",Technology Upgrades,8.0,11.0,100000.0,10029.0,MANHATTAN,40.792741,-73.947428,172.0,1052015.0,1016340003.0,East Harlem South                                                          
+The Young Women s Leadership,"105 E 106th St, New York, NY 10029",Technology Upgrades,8.0,11.0,100000.0,10029.0,MANHATTAN,40.792741,-73.947428,172.0,1052015.0,1016340003.0,East Harlem South                                                          
 "Urban Assembly - The Harbor
 School","10 South Street, New York, NY 10004",Boat Basin Phase 1,1.0,1.0,100000.0,10004.0,MANHATTAN,40.701695,-74.011631,9.0,1000003.0,1000020002.0,Battery Park City-Lower Manhattan                                          
 "Urban Assembly Gateway School

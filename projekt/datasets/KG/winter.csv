@@ -131,7 +131,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Bobsleigh,Bobsleigh,"GRANGER, David",USA,Men,Five-Man,Silver
 1928,St.Moritz,Bobsleigh,Bobsleigh,"HEATON, Jennison",USA,Men,Five-Man,Silver
 1928,St.Moritz,Bobsleigh,Bobsleigh,"HINE, Lyman",USA,Men,Five-Man,Silver
-1928,St.Moritz,Bobsleigh,Bobsleigh,"O'BRIEN, Jay James",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,Bobsleigh,"O BRIEN, Jay James",USA,Men,Five-Man,Silver
 1928,St.Moritz,Bobsleigh,Skeleton,"NORTHESK, David, Earl of",GBR,Men,Individual,Bronze
 1928,St.Moritz,Bobsleigh,Skeleton,"HEATON, Jennison",USA,Men,Individual,Gold
 1928,St.Moritz,Bobsleigh,Skeleton,"HEATON, John",USA,Men,Individual,Silver
@@ -220,7 +220,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Lake Placid,Bobsleigh,Bobsleigh,"EAGAN, Edward",USA,Men,Four-Man,Gold
 1932,Lake Placid,Bobsleigh,Bobsleigh,"FISKE, William",USA,Men,Four-Man,Gold
 1932,Lake Placid,Bobsleigh,Bobsleigh,"GRAY, Clifford Barton",USA,Men,Four-Man,Gold
-1932,Lake Placid,Bobsleigh,Bobsleigh,"O'BRIEN, Jay James",USA,Men,Four-Man,Gold
+1932,Lake Placid,Bobsleigh,Bobsleigh,"O BRIEN, Jay James",USA,Men,Four-Man,Gold
 1932,Lake Placid,Bobsleigh,Bobsleigh,"STEVENS, J. Hubert",USA,Men,Four-Man,Gold
 1932,Lake Placid,Bobsleigh,Bobsleigh,"ASHFORTH, Albert",USA,Men,Four-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"BRYANT, Precy D.",USA,Men,Four-Man,Silver
@@ -434,7 +434,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Bobsleigh,Bobsleigh,"DUPREE, Donald",USA,Men,Four-Man,Bronze
 1948,St.Moritz,Bobsleigh,Bobsleigh,"DUPREE, William",USA,Men,Four-Man,Bronze
 1948,St.Moritz,Bobsleigh,Bobsleigh,"HICKS, Thomas",USA,Men,Four-Man,Bronze
-1948,St.Moritz,Bobsleigh,Bobsleigh,"D'AMICO, William",USA,Men,Four-Man,Gold
+1948,St.Moritz,Bobsleigh,Bobsleigh,"D AMICO, William",USA,Men,Four-Man,Gold
 1948,St.Moritz,Bobsleigh,Bobsleigh,"MARTIN, Patrick Henry",USA,Men,Four-Man,Gold
 1948,St.Moritz,Bobsleigh,Bobsleigh,"RIMKUS, Edward",USA,Men,Four-Man,Gold
 1948,St.Moritz,Bobsleigh,Bobsleigh,"TYLER, Francis William",USA,Men,Four-Man,Gold
@@ -706,156 +706,156 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Oslo,Skiing,Ski Jumping,"HOLMSTRÖM, Karl",SWE,Men,K90 Individual (70M),Bronze
 1952,Oslo,Skiing,Ski Jumping,"BERGMANN, Arnfinn",NOR,Men,K90 Individual (70M),Gold
 1952,Oslo,Skiing,Ski Jumping,"FALKANGER, Torbjorn",NOR,Men,K90 Individual (70M),Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"BUTLER, Charles",USA,Men,Four-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"DODGE, William L.",USA,Men,Four-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"LAMY, James Ernest",USA,Men,Four-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"TYLER, Arthur W.",USA,Men,Four-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"ALT, Robert",SUI,Men,Four-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"ANGST, Heinrich",SUI,Men,Four-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"DIENER, Gottfried",SUI,Men,Four-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"KAPUS, Franz",SUI,Men,Four-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"ALVERA, Renzo",ITA,Men,Four-Man,Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"GIRARDI, Ulrico",ITA,Men,Four-Man,Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"MOCELLINI, Renato",ITA,Men,Four-Man,Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"MONTI, Eugenio",ITA,Men,Four-Man,Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"ANGST, Max",SUI,Men,Two-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"WARBURTON, Harry",SUI,Men,Two-Man,Bronze
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"CONTI, Giacomo",ITA,Men,Two-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"DALLA COSTA, Lamberto",ITA,Men,Two-Man,Gold
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"ALVERA, Renzo",ITA,Men,Two-Man,Silver
-1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"MONTI, Eugenio",ITA,Men,Two-Man,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BRODEUR, Denis",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BROOKER, Charles",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"COLVIN, William",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"HORNE, Alfred James",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"HURST, Arthur",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KLINCK, Byrle",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KNOX, Paul",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"LAUFMAN, Kenneth",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"LEE, Howard Stewart",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"LOGAN, James",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MARTIN, Floyd",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MCKENZIE, John A.",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"ROPE, Donald",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SCHOLES, George",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"THEBERGE, Gerry",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"WHITE, Robert",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"WOODALL, Keith Eugene",CAN,Men,Ice Hockey,Bronze
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BABICH, Evgeniy",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BOBROV, Vsevolod",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"GURYSHEV, Aleksey",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KHLYSTOV, Nikolaï",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KOUZINE, Valentin",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KRYLOV, Yuri",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KUCHEVSKIY, Alfred",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MKRTCHAN, Grigori",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"NIKIFOROV, Viktor",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PANTJUKHOV, Yuri",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PUCHKOV, Nikolaï",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SHUVALOV, Viktor",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SIDORENKOV, Genrikh",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikolaï",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"TREGUBOV, Ivan",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"UKOLOV, Dimitri",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"UVAROV, Aleksandr",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"ANDERSON, Wendell Richard",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BURTNETT, Wellington Parker",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"CAMPBELL, Eugene Edward",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"CHRISTIAN, Gordon Eugene",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"CLEARY, William John",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"DOUGHERTY, Richard Leo",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"IKOLA, Willard John",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MATCHEFTS, John Peter",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MAYASICH, John Edward",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MCKINNON, Daniel Duncan",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MEREDITH, Richard Otis",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"OLSON, Weldon Howard",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PETTROSKE, John Edward",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PURPUR, Kenneth Richard",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"RIGAZIO, Donald Edmund",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"RODENHEISER, Richard Peter",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SAMPSON, Edward Horace",USA,Men,Ice Hockey,Silver
-1956,Cortina d'Ampezzo,Skating,Figure skating,"JENKINS, David",USA,Men,Individual,Bronze
-1956,Cortina d'Ampezzo,Skating,Figure skating,"JENKINS, Hayes",USA,Men,Individual,Gold
-1956,Cortina d'Ampezzo,Skating,Figure skating,"ROBERTSON, Ronald",USA,Men,Individual,Silver
-1956,Cortina d'Ampezzo,Skating,Figure skating,"WENDL, Ingrid",AUT,Women,Individual,Bronze
-1956,Cortina d'Ampezzo,Skating,Figure skating,"ALBRIGHT, Tenley",USA,Women,Individual,Gold
-1956,Cortina d'Ampezzo,Skating,Figure skating,"HEISS, Carol",USA,Women,Individual,Silver
-1956,Cortina d'Ampezzo,Skating,Figure skating,"NAGY, Laszlo",HUN,Men,Pairs,Bronze
-1956,Cortina d'Ampezzo,Skating,Figure skating,"NAGY, Marianna",HUN,Women,Pairs,Bronze
-1956,Cortina d'Ampezzo,Skating,Figure skating,"OPPELT, Kurt",AUT,Men,Pairs,Gold
-1956,Cortina d'Ampezzo,Skating,Figure skating,"SCHWARZ, Elisabeth",AUT,Women,Pairs,Gold
-1956,Cortina d'Ampezzo,Skating,Figure skating,"BOWDEN, Norris",CAN,Men,Pairs,Silver
-1956,Cortina d'Ampezzo,Skating,Figure skating,"DAFOE, Frances",CAN,Women,Pairs,Silver
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GONCHARENKO, Oleg",URS,Men,10000M,Bronze
-1956,Cortina d'Ampezzo,Skating,Speed skating,"ERICSSON, Sigvard",SWE,Men,10000M,Gold
-1956,Cortina d'Ampezzo,Skating,Speed skating,"JOHANNESEN, Knut",NOR,Men,10000M,Silver
-1956,Cortina d'Ampezzo,Skating,Speed skating,"SALONEN, Toivo",FIN,Men,1500M,Bronze
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GRISHIN, Yevgeny",URS,Men,1500M,Gold
-1956,Cortina d'Ampezzo,Skating,Speed skating,"MIKHAILOV, Yury",URS,Men,1500M,Gold
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GONCHARENKO, Oleg",URS,Men,5000M,Bronze
-1956,Cortina d'Ampezzo,Skating,Speed skating,"SHILKOV, Boris",URS,Men,5000M,Gold
-1956,Cortina d'Ampezzo,Skating,Speed skating,"ERICSSON, Sigvard",SWE,Men,5000M,Silver
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GJESTVANG, Alv",NOR,Men,500M,Bronze
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GRISHIN, Yevgeny",URS,Men,500M,Gold
-1956,Cortina d'Ampezzo,Skating,Speed skating,"GRACH, Rafael",URS,Men,500M,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"MOLTERER, Andreas",AUT,Men,Downhill,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Downhill,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"FELLAY, Raymond",SUI,Men,Downhill,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"WHEELER, Lucile",CAN,Women,Downhill,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"BERTHOD, Madeleine",SUI,Women,Downhill,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"DÄNZER, Frieda",SUI,Women,Downhill,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SCHUSTER, Walter",AUT,Men,Giant Slalom,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Giant Slalom,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"MOLTERER, Andreas",AUT,Men,Giant Slalom,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"HOCHLEITNER, Dorothea",AUT,Women,Giant Slalom,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"REICHERT, Ossi",EUA,Women,Giant Slalom,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"FRANDL, Josefine",AUT,Women,Giant Slalom,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SOLLANDER, Stig",SWE,Men,Slalom,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Slalom,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"IGAYA, Chiharu",JPN,Men,Slalom,Silver
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SIDOROVA, Yevgeniya",URS,Women,Slalom,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"COLLIARD, Renée",SUI,Women,Slalom,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SCHÖPF, Regina",AUT,Women,Slalom,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTRÖM, Sonja",SWE,Women,10KM,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,10KM,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"YEROSHINA, Radya",URS,Women,10KM,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,15KM,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"BRENDEN, Hallgeir",NOR,Men,15KM,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,15KM,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,30KM Mass Start,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,30KM Mass Start,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,30KM Mass Start,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTRÖM, Sonja",SWE,Women,3X5KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"ERIKSSON, Anna Lisa",SWE,Women,3X5KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HIETAMIES, Mirja",FIN,Women,3X5KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"POLKUNEN, Sirkka",FIN,Women,3X5KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"RANTANEN, Siiri",FIN,Women,3X5KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,3X5KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"YEROSHINA, Radya",URS,Women,3X5KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,4X10KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"LARSSON, Lennart",SWE,Men,4X10KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"LARSSON, Per-Erik",SWE,Men,4X10KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"SAMUELSSON, Gunnar",SWE,Men,4X10KM Relay,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"ANIKIN, Nikolay",URS,Men,4X10KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,4X10KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOUZINE, Vladimir",URS,Men,4X10KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"TERENTYEV, Fyodor",URS,Men,4X10KM Relay,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,4X10KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KIURU, August",FIN,Men,4X10KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KORTELAINEN, Jorma",FIN,Men,4X10KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"VIITANEN, Arvo",FIN,Men,4X10KM Relay,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"TERENTYEV, Fyodor",URS,Men,50KM,Bronze
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,50KM,Gold
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,50KM,Silver
-1956,Cortina d'Ampezzo,Skiing,Nordic Combined,"GASIENICA-GRON, Franciszek",POL,Men,Individual,Bronze
-1956,Cortina d'Ampezzo,Skiing,Nordic Combined,"STENERSEN, Sverre",NOR,Men,Individual,Gold
-1956,Cortina d'Ampezzo,Skiing,Nordic Combined,"ERIKSSON, Bengt",SWE,Men,Individual,Silver
-1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"GLASS, Harry",EUA,Men,K90 Individual (70M),Bronze
-1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"HYVÄRINEN, Antti",FIN,Men,K90 Individual (70M),Gold
-1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"KALLAKORPI, Aulis",FIN,Men,K90 Individual (70M),Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"BUTLER, Charles",USA,Men,Four-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"DODGE, William L.",USA,Men,Four-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"LAMY, James Ernest",USA,Men,Four-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"TYLER, Arthur W.",USA,Men,Four-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"ALT, Robert",SUI,Men,Four-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"ANGST, Heinrich",SUI,Men,Four-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"DIENER, Gottfried",SUI,Men,Four-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"KAPUS, Franz",SUI,Men,Four-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"ALVERA, Renzo",ITA,Men,Four-Man,Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"GIRARDI, Ulrico",ITA,Men,Four-Man,Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"MOCELLINI, Renato",ITA,Men,Four-Man,Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"MONTI, Eugenio",ITA,Men,Four-Man,Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"ANGST, Max",SUI,Men,Two-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"WARBURTON, Harry",SUI,Men,Two-Man,Bronze
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"CONTI, Giacomo",ITA,Men,Two-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"DALLA COSTA, Lamberto",ITA,Men,Two-Man,Gold
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"ALVERA, Renzo",ITA,Men,Two-Man,Silver
+1956,Cortina d Ampezzo,Bobsleigh,Bobsleigh,"MONTI, Eugenio",ITA,Men,Two-Man,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"BRODEUR, Denis",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"BROOKER, Charles",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"COLVIN, William",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"HORNE, Alfred James",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"HURST, Arthur",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KLINCK, Byrle",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KNOX, Paul",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"LAUFMAN, Kenneth",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"LEE, Howard Stewart",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"LOGAN, James",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MARTIN, Floyd",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MCKENZIE, John A.",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"ROPE, Donald",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"SCHOLES, George",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"THEBERGE, Gerry",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"WHITE, Robert",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"WOODALL, Keith Eugene",CAN,Men,Ice Hockey,Bronze
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"BABICH, Evgeniy",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"BOBROV, Vsevolod",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"GURYSHEV, Aleksey",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KHLYSTOV, Nikolaï",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KOUZINE, Valentin",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KRYLOV, Yuri",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"KUCHEVSKIY, Alfred",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MKRTCHAN, Grigori",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"NIKIFOROV, Viktor",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"PANTJUKHOV, Yuri",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"PUCHKOV, Nikolaï",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"SHUVALOV, Viktor",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"SIDORENKOV, Genrikh",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikolaï",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"TREGUBOV, Ivan",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"UKOLOV, Dimitri",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"UVAROV, Aleksandr",URS,Men,Ice Hockey,Gold
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"ANDERSON, Wendell Richard",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"BURTNETT, Wellington Parker",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"CAMPBELL, Eugene Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"CHRISTIAN, Gordon Eugene",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"CLEARY, William John",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"DOUGHERTY, Richard Leo",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"IKOLA, Willard John",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MATCHEFTS, John Peter",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MAYASICH, John Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MCKINNON, Daniel Duncan",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"MEREDITH, Richard Otis",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"OLSON, Weldon Howard",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"PETTROSKE, John Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"PURPUR, Kenneth Richard",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"RIGAZIO, Donald Edmund",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"RODENHEISER, Richard Peter",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Ice Hockey,Ice Hockey,"SAMPSON, Edward Horace",USA,Men,Ice Hockey,Silver
+1956,Cortina d Ampezzo,Skating,Figure skating,"JENKINS, David",USA,Men,Individual,Bronze
+1956,Cortina d Ampezzo,Skating,Figure skating,"JENKINS, Hayes",USA,Men,Individual,Gold
+1956,Cortina d Ampezzo,Skating,Figure skating,"ROBERTSON, Ronald",USA,Men,Individual,Silver
+1956,Cortina d Ampezzo,Skating,Figure skating,"WENDL, Ingrid",AUT,Women,Individual,Bronze
+1956,Cortina d Ampezzo,Skating,Figure skating,"ALBRIGHT, Tenley",USA,Women,Individual,Gold
+1956,Cortina d Ampezzo,Skating,Figure skating,"HEISS, Carol",USA,Women,Individual,Silver
+1956,Cortina d Ampezzo,Skating,Figure skating,"NAGY, Laszlo",HUN,Men,Pairs,Bronze
+1956,Cortina d Ampezzo,Skating,Figure skating,"NAGY, Marianna",HUN,Women,Pairs,Bronze
+1956,Cortina d Ampezzo,Skating,Figure skating,"OPPELT, Kurt",AUT,Men,Pairs,Gold
+1956,Cortina d Ampezzo,Skating,Figure skating,"SCHWARZ, Elisabeth",AUT,Women,Pairs,Gold
+1956,Cortina d Ampezzo,Skating,Figure skating,"BOWDEN, Norris",CAN,Men,Pairs,Silver
+1956,Cortina d Ampezzo,Skating,Figure skating,"DAFOE, Frances",CAN,Women,Pairs,Silver
+1956,Cortina d Ampezzo,Skating,Speed skating,"GONCHARENKO, Oleg",URS,Men,10000M,Bronze
+1956,Cortina d Ampezzo,Skating,Speed skating,"ERICSSON, Sigvard",SWE,Men,10000M,Gold
+1956,Cortina d Ampezzo,Skating,Speed skating,"JOHANNESEN, Knut",NOR,Men,10000M,Silver
+1956,Cortina d Ampezzo,Skating,Speed skating,"SALONEN, Toivo",FIN,Men,1500M,Bronze
+1956,Cortina d Ampezzo,Skating,Speed skating,"GRISHIN, Yevgeny",URS,Men,1500M,Gold
+1956,Cortina d Ampezzo,Skating,Speed skating,"MIKHAILOV, Yury",URS,Men,1500M,Gold
+1956,Cortina d Ampezzo,Skating,Speed skating,"GONCHARENKO, Oleg",URS,Men,5000M,Bronze
+1956,Cortina d Ampezzo,Skating,Speed skating,"SHILKOV, Boris",URS,Men,5000M,Gold
+1956,Cortina d Ampezzo,Skating,Speed skating,"ERICSSON, Sigvard",SWE,Men,5000M,Silver
+1956,Cortina d Ampezzo,Skating,Speed skating,"GJESTVANG, Alv",NOR,Men,500M,Bronze
+1956,Cortina d Ampezzo,Skating,Speed skating,"GRISHIN, Yevgeny",URS,Men,500M,Gold
+1956,Cortina d Ampezzo,Skating,Speed skating,"GRACH, Rafael",URS,Men,500M,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"MOLTERER, Andreas",AUT,Men,Downhill,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Downhill,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"FELLAY, Raymond",SUI,Men,Downhill,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"WHEELER, Lucile",CAN,Women,Downhill,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"BERTHOD, Madeleine",SUI,Women,Downhill,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"DÄNZER, Frieda",SUI,Women,Downhill,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SCHUSTER, Walter",AUT,Men,Giant Slalom,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Giant Slalom,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"MOLTERER, Andreas",AUT,Men,Giant Slalom,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"HOCHLEITNER, Dorothea",AUT,Women,Giant Slalom,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"REICHERT, Ossi",EUA,Women,Giant Slalom,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"FRANDL, Josefine",AUT,Women,Giant Slalom,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SOLLANDER, Stig",SWE,Men,Slalom,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Slalom,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"IGAYA, Chiharu",JPN,Men,Slalom,Silver
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SIDOROVA, Yevgeniya",URS,Women,Slalom,Bronze
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"COLLIARD, Renée",SUI,Women,Slalom,Gold
+1956,Cortina d Ampezzo,Skiing,Alpine Skiing,"SCHÖPF, Regina",AUT,Women,Slalom,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"EDSTRÖM, Sonja",SWE,Women,10KM,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,10KM,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"YEROSHINA, Radya",URS,Women,10KM,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,15KM,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"BRENDEN, Hallgeir",NOR,Men,15KM,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,15KM,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,30KM Mass Start,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,30KM Mass Start,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,30KM Mass Start,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"EDSTRÖM, Sonja",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"ERIKSSON, Anna Lisa",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"HIETAMIES, Mirja",FIN,Women,3X5KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"POLKUNEN, Sirkka",FIN,Women,3X5KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"RANTANEN, Siiri",FIN,Women,3X5KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,3X5KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"YEROSHINA, Radya",URS,Women,3X5KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,4X10KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"LARSSON, Lennart",SWE,Men,4X10KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"LARSSON, Per-Erik",SWE,Men,4X10KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"SAMUELSSON, Gunnar",SWE,Men,4X10KM Relay,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"ANIKIN, Nikolay",URS,Men,4X10KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,4X10KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KOUZINE, Vladimir",URS,Men,4X10KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"TERENTYEV, Fyodor",URS,Men,4X10KM Relay,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,4X10KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KIURU, August",FIN,Men,4X10KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"KORTELAINEN, Jorma",FIN,Men,4X10KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"VIITANEN, Arvo",FIN,Men,4X10KM Relay,Silver
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"TERENTYEV, Fyodor",URS,Men,50KM,Bronze
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,50KM,Gold
+1956,Cortina d Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,50KM,Silver
+1956,Cortina d Ampezzo,Skiing,Nordic Combined,"GASIENICA-GRON, Franciszek",POL,Men,Individual,Bronze
+1956,Cortina d Ampezzo,Skiing,Nordic Combined,"STENERSEN, Sverre",NOR,Men,Individual,Gold
+1956,Cortina d Ampezzo,Skiing,Nordic Combined,"ERIKSSON, Bengt",SWE,Men,Individual,Silver
+1956,Cortina d Ampezzo,Skiing,Ski Jumping,"GLASS, Harry",EUA,Men,K90 Individual (70M),Bronze
+1956,Cortina d Ampezzo,Skiing,Ski Jumping,"HYVÄRINEN, Antti",FIN,Men,K90 Individual (70M),Gold
+1956,Cortina d Ampezzo,Skiing,Ski Jumping,"KALLAKORPI, Aulis",FIN,Men,K90 Individual (70M),Silver
 1960,Squaw Valley,Biathlon,Biathlon,"PRIVALOV, Aleksandr",URS,Men,20KM,Bronze
 1960,Squaw Valley,Biathlon,Biathlon,"LESTANDER, Klas",SWE,Men,20KM,Gold
 1960,Squaw Valley,Biathlon,Biathlon,"TYRVÄINEN, Antti",FIN,Men,20KM,Silver
@@ -1234,8 +1234,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Ice Hockey,Ice Hockey,"MCMILLAN, William",CAN,Men,Ice Hockey,Bronze
 1968,Grenoble,Ice Hockey,Ice Hockey,"MONTEITH, Stephen",CAN,Men,Ice Hockey,Bronze
 1968,Grenoble,Ice Hockey,Ice Hockey,"MOTT, Morris",CAN,Men,Ice Hockey,Bronze
-1968,Grenoble,Ice Hockey,Ice Hockey,"O'MALLEY, Terrence",CAN,Men,Ice Hockey,Bronze
-1968,Grenoble,Ice Hockey,Ice Hockey,"O'SHEA, Danny",CAN,Men,Ice Hockey,Bronze
+1968,Grenoble,Ice Hockey,Ice Hockey,"O MALLEY, Terrence",CAN,Men,Ice Hockey,Bronze
+1968,Grenoble,Ice Hockey,Ice Hockey,"O SHEA, Danny",CAN,Men,Ice Hockey,Bronze
 1968,Grenoble,Ice Hockey,Ice Hockey,"PINDER, Gerry",CAN,Men,Ice Hockey,Bronze
 1968,Grenoble,Ice Hockey,Ice Hockey,"PINDER, Herbert",CAN,Men,Ice Hockey,Bronze
 1968,Grenoble,Ice Hockey,Ice Hockey,"STEPHENSON, Wayne",CAN,Men,Ice Hockey,Bronze
@@ -1687,7 +1687,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Luge,Luge,"SCHUMANN, Margit",GDR,Women,Singles,Gold
 1976,Innsbruck,Luge,Luge,"RÜHROLD, Ute",GDR,Women,Singles,Silver
 1976,Innsbruck,Skating,Figure skating,"MILLNS, James",USA,Men,Ice Dancing,Bronze
-1976,Innsbruck,Skating,Figure skating,"O'CONNOR, Colleen",USA,Women,Ice Dancing,Bronze
+1976,Innsbruck,Skating,Figure skating,"O CONNOR, Colleen",USA,Women,Ice Dancing,Bronze
 1976,Innsbruck,Skating,Figure skating,"GORSHKOV, Aleksandr",URS,Men,Ice Dancing,Gold
 1976,Innsbruck,Skating,Figure skating,"PAKHOMOVA, Lyudmila",URS,Women,Ice Dancing,Gold
 1976,Innsbruck,Skating,Figure skating,"MINENKOV, Andrey",URS,Men,Ice Dancing,Silver
@@ -1862,7 +1862,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Ice Hockey,Ice Hockey,"JOHNSON, Mark",USA,Men,Ice Hockey,Gold
 1980,Lake Placid,Ice Hockey,Ice Hockey,"MCCLANAHAN, Robert",USA,Men,Ice Hockey,Gold
 1980,Lake Placid,Ice Hockey,Ice Hockey,"MORROW, Kenneth",USA,Men,Ice Hockey,Gold
-1980,Lake Placid,Ice Hockey,Ice Hockey,"O'CALLAHAN, John",USA,Men,Ice Hockey,Gold
+1980,Lake Placid,Ice Hockey,Ice Hockey,"O CALLAHAN, John",USA,Men,Ice Hockey,Gold
 1980,Lake Placid,Ice Hockey,Ice Hockey,"PAVELICH, Mark",USA,Men,Ice Hockey,Gold
 1980,Lake Placid,Ice Hockey,Ice Hockey,"RAMSEY, Michael",USA,Men,Ice Hockey,Gold
 1980,Lake Placid,Ice Hockey,Ice Hockey,"SCHNEIDER, William",USA,Men,Ice Hockey,Gold

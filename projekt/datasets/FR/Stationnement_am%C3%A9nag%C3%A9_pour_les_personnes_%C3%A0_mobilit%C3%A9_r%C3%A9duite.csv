@@ -1,7 +1,7 @@
 X,Y,OBJECTID,TYPE_PLACE,COMMUNE,IDENTIFIANT,ADRESSE,TYPE_POSITION,NB_PLACES,MEMO,DATE_CREATION,DATE_MAJ
 799322.011399999,6874263.4464,1,PMR,Châlons-en-Champagne,PMR_1,Rue du Docteur Auger N°04,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 15:15:52+00
 800935.972000003,6871863.241,2,PMR,Châlons-en-Champagne,PMR_2,Rue Jacques Duclos - Parking Stade Saché,Parking,1,,2016/06/28 09:30:51+00,2019/11/22 13:20:53+00
-800382.096699998,6873711.2568,3,PMR,Châlons-en-Champagne,PMR_3,Rue de l'Arsenal N°05 - Conservatoire J.P Rameau,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 15:16:23+00
+800382.096699998,6873711.2568,3,PMR,Châlons-en-Champagne,PMR_3,Rue de l Arsenal N°05 - Conservatoire J.P Rameau,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 15:16:23+00
 800348.0713,6872451.7053,4,PMR,Châlons-en-Champagne,PMR_4,Rue Georges Barbier - Parking Supermarché Match,Sur trottoir,1,,2016/06/28 09:30:51+00,2019/07/26 13:19:29+00
 799256.296800002,6873077.8595,5,PMR,Châlons-en-Champagne,PMR_5,Chemin du Barrage - entrée Jard Anglais,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:55+00
 799866.065800004,6874345.7146,6,PMR,Châlons-en-Champagne,PMR_6,Rue Pierre Bayen N°41,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 15:16:35+00
@@ -20,7 +20,7 @@ X,Y,OBJECTID,TYPE_PLACE,COMMUNE,IDENTIFIANT,ADRESSE,TYPE_POSITION,NB_PLACES,MEMO
 799608.489399999,6873651.0158,22,PMR,Châlons-en-Champagne,PMR_23,Rue des Cordeliers N°12,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 15:18:54+00
 800515.527199998,6872918.0213,23,PMR,Châlons-en-Champagne,PMR_25,Avenue du Général de Gaulle N°45B- Espace Rigot,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 15:19:26+00
 800418.160400003,6873012.2132,24,PMR,Châlons-en-Champagne,PMR_26,Avenue du Général de Gaulle N°27,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 15:19:44+00
-799615.767800003,6874101.7405,26,PMR,Châlons-en-Champagne,PMR_28,Quai des Gadz'Arts - côté école du Mau,Rue,1,,2016/06/28 09:30:51+00,2019/07/26 14:17:16+00
+799615.767800003,6874101.7405,26,PMR,Châlons-en-Champagne,PMR_28,Quai des Gadz Arts - côté école du Mau,Rue,1,,2016/06/28 09:30:51+00,2019/07/26 14:17:16+00
 798386.984300002,6873034.9041,27,PMR,Châlons-en-Champagne,PMR_29,Rue Henri Dunant N°24 - Parking Mairie Annexe,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 15:20:02+00
 799671.024099998,6874289.7035,28,PMR,Châlons-en-Champagne,PMR_30,Rue Flandres Dunkerque - Parking Police,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:55+00
 798160.034199998,6873059.0644,29,PMR,Châlons-en-Champagne,PMR_31,Rue Robert Espagne - face au n°4,Rue,1,modifié en nov 2016(securité des écoles),2016/06/28 09:30:51+00,2016/11/29 11:15:26+00
@@ -54,8 +54,8 @@ X,Y,OBJECTID,TYPE_PLACE,COMMUNE,IDENTIFIANT,ADRESSE,TYPE_POSITION,NB_PLACES,MEMO
 800396.245099999,6874108.9985,59,PMR,Châlons-en-Champagne,PMR_62,Rue Kellerman - Grande Etape,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 13:12:23+00
 799685.537299998,6873324.0782,60,PMR,Châlons-en-Champagne,PMR_63,Avenue du Maréchal Leclerc - Petit & Grand Jard,Parking,1,,2016/06/28 09:30:51+00,2019/07/26 15:05:55+00
 799735.364299998,6873215.8886,61,PMR,Châlons-en-Champagne,PMR_64,Avenue du Maréchal Leclerc - Parking face Cirque,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
-799226.2337,6873608.9947,62,PMR,Châlons-en-Champagne,PMR_65,Chemin de l'Ecluse - Parking Ville/VNF/CAC,Parking,1,,2016/06/28 09:30:51+00,2019/07/26 15:09:38+00
-799479.236500002,6876151.2153,63,PMR,Châlons-en-Champagne,PMR_66,Rue de l'Egalité - après le n°11,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
+799226.2337,6873608.9947,62,PMR,Châlons-en-Champagne,PMR_65,Chemin de l Ecluse - Parking Ville/VNF/CAC,Parking,1,,2016/06/28 09:30:51+00,2019/07/26 15:09:38+00
+799479.236500002,6876151.2153,63,PMR,Châlons-en-Champagne,PMR_66,Rue de l Egalité - après le n°11,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
 800664.316500001,6872957.7835,64,PMR,Châlons-en-Champagne,PMR_67,Rue René Lemoine - Parking Stade Lauvaux,Parking,1,,2016/06/28 09:30:51+00,2019/07/26 15:08:14+00
 799879.396600001,6873667.936,65,PMR,Châlons-en-Champagne,PMR_68,Rue Emile Leroy - face au n°2,Rue,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
 800958.915100001,6871498.8321,66,PMR,Châlons-en-Champagne,PMR_70,Rue Pierre Maître - face au n°10,Rue,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
@@ -90,11 +90,11 @@ X,Y,OBJECTID,TYPE_PLACE,COMMUNE,IDENTIFIANT,ADRESSE,TYPE_POSITION,NB_PLACES,MEMO
 799925.906400003,6873769.6921,98,PMR,Châlons-en-Champagne,PMR_103,Rue Thiers N°9 bis,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 14:00:12+00
 799920.155599996,6873869.2404,99,PMR,Châlons-en-Champagne,PMR_104,Place Mgr Tissier N°30 - Parking public payant,Parking,1,,2016/06/28 09:30:51+00,2019/11/22 13:28:47+00
 798185.495700002,6873725.0474,100,PMR,Châlons-en-Champagne,PMR_105,Rue de la Tonnellerie N°13,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:18:09+00
-800125.021799996,6873999.8508,101,PMR,Châlons-en-Champagne,PMR_106,Rue Traversiere N°2 - côté mur d'ecole et passage piéton,Rue,1,"modifié en juin 2016
+800125.021799996,6873999.8508,101,PMR,Châlons-en-Champagne,PMR_106,Rue Traversiere N°2 - côté mur d ecole et passage piéton,Rue,1,"modifié en juin 2016
 modifié en nov 2016 (securité des écoles)",2016/06/28 09:30:51+00,2019/11/22 13:29:07+00
 799848.227499999,6874436.95,102,PMR,Châlons-en-Champagne,PMR_107,Avenue de Valmy - Piscine Olympique,Rue,1,,2016/06/28 09:30:51+00,2019/07/26 14:48:02+00
 799829.681199998,6873280.921,103,PMR,Châlons-en-Champagne,PMR_108,Boulevard Vaubécourt N°2 - Parking public gratuit,Parking,1,,2016/06/28 09:30:51+00,2019/11/22 13:28:00+00
-800141.369499996,6873498.7986,104,PMR,Châlons-en-Champagne,PMR_109,Rue de Vinetz - entrée Place de l'Europe,Rue,1,,2016/06/28 09:30:51+00,2019/07/26 15:11:41+00
+800141.369499996,6873498.7986,104,PMR,Châlons-en-Champagne,PMR_109,Rue de Vinetz - entrée Place de l Europe,Rue,1,,2016/06/28 09:30:51+00,2019/07/26 15:11:41+00
 799661.285599999,6873971.0204,105,PMR,Châlons-en-Champagne,PMR_110,Rue des Viviers - Parking public payant,Parking,1,,2016/06/28 09:30:51+00,2019/07/26 15:12:44+00
 800756.178900003,6873993.6604,106,PMR,Châlons-en-Champagne,PMR_111,Boulevard Emile Zola N°63,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:38:45+00
 800813.725900002,6873772.0714,107,PMR,Châlons-en-Champagne,PMR_112,Boulevard Emile Zola N°103,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:17:24+00
@@ -103,10 +103,10 @@ modifié en nov 2016 (securité des écoles)",2016/06/28 09:30:51+00,2019/11/22 
 798583.749799997,6873388.7169,110,PMR,Châlons-en-Champagne,PMR_115,Rue Pierre Songy N°3,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:25:52+00
 800481.8235,6874018.7861,111,PMR,Châlons-en-Champagne,PMR_117,Rue de la Charrière N°4,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:35:48+00
 800513.468199998,6873628.5828,112,PMR,Châlons-en-Champagne,PMR_118,Bd Hippolyte Faure N°37 - Clinique vétérinaire,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:34:47+00
-800499.652000003,6874777.8385,113,PMR,Châlons-en-Champagne,PMR_119,Rue du Camp d'Attila N°74,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 14:10:51+00
+800499.652000003,6874777.8385,113,PMR,Châlons-en-Champagne,PMR_119,Rue du Camp d Attila N°74,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 14:10:51+00
 800356.901699997,6872996.4691,114,PMR,Châlons-en-Champagne,PMR_120,Allées Alphonse Karr N°7,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:39:49+00
 799712.544200003,6874243.3881,115,PMR,Châlons-en-Champagne,PMR_121,Rue du Lycée N°32,Rue,1,,2016/06/28 09:30:51+00,2019/10/23 14:13:30+00
-799756.690399997,6874153.2835,116,PMR,Châlons-en-Champagne,PMR_122,En face de l'entrée du lycée Bayen,Non renseigné,1,A vérifier ,2016/06/28 09:30:51+00,2018/07/23 09:12:07+00
+799756.690399997,6874153.2835,116,PMR,Châlons-en-Champagne,PMR_122,En face de l entrée du lycée Bayen,Non renseigné,1,A vérifier ,2016/06/28 09:30:51+00,2018/07/23 09:12:07+00
 800474.995399997,6874693.6884,118,PMR,Châlons-en-Champagne,PMR_124,Rue Anaïs Ségalas N°32,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:21:28+00
 801100.212499999,6874718.885,120,PMR,Châlons-en-Champagne,PMR_126,avenue Beethoven N°2,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 14:17:42+00
 799163.522799999,6873423.0004,121,PMR,Châlons-en-Champagne,PMR_127,Rue Clamart coté résidence Clamart,Rue,1,                                                                          place créée en juillet 2015,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
@@ -118,11 +118,11 @@ modifié en nov 2016 (securité des écoles)",2016/06/28 09:30:51+00,2019/11/22 
 799100.3147,6873596.9948,127,PMR,Châlons-en-Champagne,PMR_138,rue Jean-Jaurès N°35,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:34:22+00
 800398.919100001,6873757.1006,128,PMR,Châlons-en-Champagne,PMR_137,rue Sainte Marguerite N°50 - conservatoire musique,Parking,1,,2016/06/28 09:30:51+00,2019/10/23 13:44:54+00
 800394.197300002,6872498.4197,129,PMR,Châlons-en-Champagne,PMR_136,Rue Georges Barbier - Parking Supermarché Match,Parking,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
-799504.3574,6874140.3612,131,PMR,Châlons-en-Champagne,PMR_134,Boulevard léon Blum devant l'entrée du Cimetière de l'Ouest,Rue,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
+799504.3574,6874140.3612,131,PMR,Châlons-en-Champagne,PMR_134,Boulevard léon Blum devant l entrée du Cimetière de l Ouest,Rue,1,,2016/06/28 09:30:51+00,2016/06/28 10:10:56+00
 800301.560000002,6873170.5271,132,PMR,Châlons-en-Champagne,PMR_133,avenue du Gal de Gaulle 5bis,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:11:32+00
-799641.090300001,6875174.0472,133,PMR,Châlons-en-Champagne,PMR_132,rue Edouard Branly,Rue,1,Rue Edouard Branly a l'angle avec la rue Philippe Lebon cote Gymnase,2016/06/28 09:30:51+00,2019/07/26 13:28:29+00
+799641.090300001,6875174.0472,133,PMR,Châlons-en-Champagne,PMR_132,rue Edouard Branly,Rue,1,Rue Edouard Branly a l angle avec la rue Philippe Lebon cote Gymnase,2016/06/28 09:30:51+00,2019/07/26 13:28:29+00
 798860.1774,6873332.5344,134,PMR,Châlons-en-Champagne,PMR_131,Rue du Lieutenant Loyer N°15,Rue,1,,2016/06/28 09:30:51+00,2019/11/22 13:19:21+00
-799942.7786,6873665.8078,135,PMR,Châlons-en-Champagne,PMR_93,Rue Thiers N°25,Rue,1,place PMR rue Thiers a l'angle avec rue Croix des Teinturiers,2016/06/28 09:30:51+00,2019/11/22 13:31:21+00
+799942.7786,6873665.8078,135,PMR,Châlons-en-Champagne,PMR_93,Rue Thiers N°25,Rue,1,place PMR rue Thiers a l angle avec rue Croix des Teinturiers,2016/06/28 09:30:51+00,2019/11/22 13:31:21+00
 798662.224200003,6873241.5682,136,PMR,Châlons-en-Champagne,PMR_69,Avenue de Paris N°43,Rue,1,"GRC 5309
 FAIT EN AVRIL 2016",2016/06/28 09:30:51+00,2019/11/22 13:25:07+00
 800485.940800004,6874025.6004,137,PMR,Châlons-en-Champagne,PMR_50,Rue de la Charriere - en face du N°4,Rue,1,GRC 9147 JUIN 2016,2016/06/28 09:30:51+00,2019/11/22 13:36:05+00
@@ -159,12 +159,12 @@ FAIT EN AVRIL 2016",2016/06/28 09:30:51+00,2019/11/22 13:25:07+00
 800726.412600003,6873916.8304,8555,PMR,Châlons-en-Champagne,,Rue de la Charrière - Cité Administrative Tirlet,Parking,1,,2019/07/26 13:55:49+00,2019/07/26 13:55:57+00
 800673.787699997,6874004.8825,8556,PMR,Châlons-en-Champagne,,Rue de la Charrière - Cité Administrative Tirlet,Parking,1,,2019/07/26 13:56:14+00,2019/07/26 13:56:21+00
 800578.1686,6873945.3786,8557,PMR,Châlons-en-Champagne,,Rue de la Charrière - Cité Administrative Tirlet,Parking,1,,2019/07/26 13:57:10+00,2019/07/26 13:57:16+00
-799942.991599999,6873346.7523,8558,PMR,Châlons-en-Champagne,,Cours d'Ormeson,Rue,1,,2019/07/26 13:58:30+00,2019/07/26 13:58:43+00
-799854.610100001,6873362.2277,8559,PMR,Châlons-en-Champagne,,cours d'Ormesson,Rue,1,,2019/07/26 13:58:48+00,2019/07/26 13:59:00+00
+799942.991599999,6873346.7523,8558,PMR,Châlons-en-Champagne,,Cours d Ormeson,Rue,1,,2019/07/26 13:58:30+00,2019/07/26 13:58:43+00
+799854.610100001,6873362.2277,8559,PMR,Châlons-en-Champagne,,cours d Ormesson,Rue,1,,2019/07/26 13:58:48+00,2019/07/26 13:59:00+00
 800448.176200002,6874209.5898,8560,PMR,Châlons-en-Champagne,,rue Chevalier - N°12,Rue,1,,2019/07/26 14:00:18+00,2019/07/26 14:00:30+00
 800522.2513,6872914.9898,8561,PMR,Châlons-en-Champagne,,Avenue du Général de Gaulle N°45B - Espace Rigot,Parking,1,,2019/07/26 14:03:38+00,2019/11/22 13:36:46+00
 800532.0528,6872858.4161,8562,PMR,Châlons-en-Champagne,,Avenue de Gaulle,Sur trottoir,1,,2019/07/26 14:04:34+00,2019/07/26 14:04:48+00
-799621.9811,6874076.2738,8563,PMR,Châlons-en-Champagne,,Quai des Gadz'Arts - côté école du Mau,Rue,1,,2019/07/26 14:17:03+00,2019/07/26 14:17:10+00
+799621.9811,6874076.2738,8563,PMR,Châlons-en-Champagne,,Quai des Gadz Arts - côté école du Mau,Rue,1,,2019/07/26 14:17:03+00,2019/07/26 14:17:10+00
 799184.112800002,6874524.2382,8564,PMR,Châlons-en-Champagne,,rue Docteur Maillot - N°14,Rue,1,,2019/07/26 14:18:06+00,2019/07/26 14:18:20+00
 797983.8728,6873689.3677,8565,PMR,Châlons-en-Champagne,,rue du Quai dembarquement - N°31,Rue,1,,2019/07/26 14:19:47+00,2019/07/26 14:20:01+00
 798570.586199999,6872839.8239,8566,PMR,Châlons-en-Champagne,,Rue André Dusigné,Parking,1,,2019/07/26 14:23:36+00,2019/07/26 14:23:57+00
@@ -216,16 +216,16 @@ FAIT EN AVRIL 2016",2016/06/28 09:30:51+00,2019/11/22 13:25:07+00
 800655.182300001,6872951.0134,8613,PMR,Châlons-en-Champagne,,Rue René Lemoine - Parking Stade Lauvaux,Parking,1,,2019/07/26 15:08:19+00,2019/07/26 15:08:24+00
 799831.806000002,6873272.6492,8614,PMR,Châlons-en-Champagne,,Boulevard Vaubécourt N°2 - Parking public gratuit,Parking,1,,2019/07/26 15:08:48+00,2019/11/22 13:28:08+00
 799830.591399997,6873276.7665,8615,PMR,Châlons-en-Champagne,,Boulevard Vaubécourt N°2 - Parking public gratuit,Parking,1,,2019/07/26 15:08:50+00,2019/11/22 13:28:04+00
-799221.800899997,6873616.92,8616,PMR,Châlons-en-Champagne,,Chemin de l'Ecluse - Parking Ville/VNF/CAC,Parking,1,,2019/07/26 15:09:29+00,2019/07/26 15:09:52+00
+799221.800899997,6873616.92,8616,PMR,Châlons-en-Champagne,,Chemin de l Ecluse - Parking Ville/VNF/CAC,Parking,1,,2019/07/26 15:09:29+00,2019/07/26 15:09:52+00
 800402.635700002,6874112.3715,8617,PMR,Châlons-en-Champagne,,Rue Kellerman - Grande Etape,Parking,1,,2019/07/26 15:10:22+00,2019/10/23 13:12:18+00
 799272.235699996,6873625.8614,8618,PMR,Châlons-en-Champagne,,Boulevard Victor Hugo - Hemicycle,Rue,1,,2019/07/26 15:10:49+00,2019/10/23 13:03:30+00
 799705.254100002,6874234.5958,8619,PMR,Châlons-en-Champagne,,Rue du Lycée N°45,Rue,1,,2019/07/26 15:11:21+00,2019/10/23 14:13:37+00
-800144.089599997,6873499.974,8620,PMR,Châlons-en-Champagne,,Rue de Vinetz - entrée Place de l'Europe,Rue,1,,2019/07/26 15:11:44+00,2019/07/26 15:11:49+00
+800144.089599997,6873499.974,8620,PMR,Châlons-en-Champagne,,Rue de Vinetz - entrée Place de l Europe,Rue,1,,2019/07/26 15:11:44+00,2019/07/26 15:11:49+00
 800757.690099999,6873990.8731,8622,PMR,Châlons-en-Champagne,,Boulevard Emile Zola N°63,Rue,1,,2019/07/26 15:13:58+00,2019/11/22 13:38:37+00
 800415.586999997,6873477.5849,8623,PMR,Châlons-en-Champagne,,Rue du Maréchal des Logis de Terline N°3,Parking,1,,2019/07/26 15:14:34+00,2019/11/22 13:33:24+00
 799780.472599998,6873666.8478,8624,PMR,Châlons-en-Champagne,,Place de la République - Galerie Haute Mère Dieu,Parking,1,,2019/07/26 15:15:12+00,2019/07/26 15:15:32+00
 799834.3376,6873655.2957,8625,PMR,Châlons-en-Champagne,,Place de la République N°35,Rue,1,,2019/07/26 15:15:42+00,2019/10/23 13:39:34+00
-798630.448899999,6872742.2088,8940,PMR,Châlons-en-Champagne,,Avenue jeanne d'arc N°100,Sur trottoir,1,,2019/10/14 08:19:04+00,2019/11/22 13:17:03+00
+798630.448899999,6872742.2088,8940,PMR,Châlons-en-Champagne,,Avenue jeanne d arc N°100,Sur trottoir,1,,2019/10/14 08:19:04+00,2019/11/22 13:17:03+00
 801102.715000004,6873966.9427,8941,PMR,Châlons-en-Champagne,,Avenue  de Metz N°63,Sur trottoir,1,,2019/10/14 08:24:06+00,2019/11/22 13:38:14+00
 798489.597199999,6873049.0012,9340,PMR,Châlons-en-Champagne,,Parking Médiathèque gulliver,Parking,1,,2019/10/23 12:45:39+00,2019/10/23 12:46:13+00
 798478.1818,6873034.2283,9341,PMR,Châlons-en-Champagne,,Parking Médiathèque gulliver,Parking,1,,2019/10/23 12:45:43+00,2019/10/23 12:46:23+00
@@ -277,15 +277,15 @@ FAIT EN AVRIL 2016",2016/06/28 09:30:51+00,2019/11/22 13:25:07+00
 800226.5603,6873344.8008,12540,PMR,Châlons-en-Champagne,,Rue Hypolite Faure N°1,Rue,1,,2020/06/26 06:52:35+00,2020/06/26 06:53:01+00
 798018.575199999,6872576.5058,12940,PMR,Châlons-en-Champagne,,rue de Normandie N°65,Sur trottoir,1,,2020/07/30 11:41:00+00,2020/07/30 11:41:17+00
 798025.168300003,6872497.0417,12943,PMR,Châlons-en-Champagne,,rue de Normandie N°51,Sur trottoir,1,,2020/07/30 11:42:25+00,2020/07/30 11:42:42+00
-801660.6536,6871692.2947,13340,PMR,Châlons-en-Champagne,,Rue Lecont de l'Isle,Parking,1,,2020/09/17 09:36:57+00,2020/09/17 09:37:16+00
+801660.6536,6871692.2947,13340,PMR,Châlons-en-Champagne,,Rue Lecont de l Isle,Parking,1,,2020/09/17 09:36:57+00,2020/09/17 09:37:16+00
 800608.063299999,6873504.4459,14140,PMR,Châlons-en-Champagne,,rue du Faubourg Saint Jean N°4bis,Rue,1,,2020/11/10 15:35:57+00,2020/11/10 15:36:19+00
 798628.667400002,6875232.3613,15340,PMR,Châlons-en-Champagne,,Rue Joseph Marie Jacquard n°26,Rue,1,,2021/01/05 13:46:15+00,2021/01/05 16:07:11+00
 798629.7773,6875232.7274,15341,PMR,Châlons-en-Champagne,,Rue Joseph Marie Jacquard n°26,Rue,1,,2021/01/05 13:46:49+00,2021/01/05 16:07:13+00
 800382.965599999,6873797.8649,15343,PMR,Châlons-en-Champagne,,rue jean jacques rousseau n°25,Rue,1,,2021/01/05 14:25:07+00,2021/01/18 14:16:24+00
 800659.6325,6875045.1992,15344,PMR,Châlons-en-Champagne,,chemin du mont bernard n°24,Rue,1,,2021/01/05 14:26:01+00,2021/01/05 16:07:26+00
 800829.335699998,6873888.9068,16541,PMR,Châlons-en-Champagne,,Boulevard emile Zola n°83,Sur trottoir,1,,2021/01/21 16:28:03+00,2021/01/21 16:28:25+00
-798810.850199997,6873130.1217,17340,PMR,Châlons-en-Champagne,,Avenue Jeanne d'Arc n°03,Sur trottoir,1,,2021/02/02 13:30:53+00,2021/02/02 13:31:16+00
-798665.462099999,6872800.2468,18140,PMR,Châlons-en-Champagne,,avenue Jeanne d'Arc n°47,Sur trottoir,1,,2021/03/18 13:25:48+00,2021/03/18 13:26:12+00
+798810.850199997,6873130.1217,17340,PMR,Châlons-en-Champagne,,Avenue Jeanne d Arc n°03,Sur trottoir,1,,2021/02/02 13:30:53+00,2021/02/02 13:31:16+00
+798665.462099999,6872800.2468,18140,PMR,Châlons-en-Champagne,,avenue Jeanne d Arc n°47,Sur trottoir,1,,2021/03/18 13:25:48+00,2021/03/18 13:26:12+00
 799580.297499999,6873769.8181,18540,PMR,Châlons-en-Champagne,,Rue des 7 moulins,Rue,1,,2021/06/23 06:44:42+00,2021/06/23 06:45:03+00
 799451.399899997,6873719.7049,18541,PMR,Châlons-en-Champagne,,81 rue de la Marne,Rue,2,,2021/06/23 06:47:08+00,2021/06/23 06:47:26+00
 800641.685999997,6872296.971,19340,PMR,Châlons-en-Champagne,,rue du 8 mai 1945 n°33,Rue,1,,2021/08/05 06:51:12+00,2021/08/05 06:51:36+00

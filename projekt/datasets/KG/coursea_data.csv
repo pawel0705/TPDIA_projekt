@@ -2,7 +2,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 134,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,SPECIALIZATION,4.7,Beginner,5.3k
 743,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,COURSE,4.7,Intermediate,17k
 874,A Crash Course in Data Science,Johns Hopkins University,COURSE,4.5,Mixed,130k
-413,A Law Student's Toolkit,Yale University,COURSE,4.7,Mixed,91k
+413,A Law Student s Toolkit,Yale University,COURSE,4.7,Mixed,91k
 635,A Life of Happiness and Fulfillment,Indian School of Business,COURSE,4.8,Mixed,320k
 661,ADHD: Everyday Strategies for Elementary Students,University at Buffalo,COURSE,4.7,Beginner,39k
 54,AI For Everyone,deeplearning.ai,COURSE,4.8,Beginner,350k
@@ -89,7 +89,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 269,Behavioral Finance,Duke University,COURSE,4.4,Mixed,55k
 456,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,COURSE,4.6,Mixed,2.3k
 498,Big Data – Introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,SPECIALIZATION,4.5,Beginner,8.8k
-687,Biohacking Your Brain's Health,Emory University,COURSE,4.6,Beginner,35k
+687,Biohacking Your Brain s Health,Emory University,COURSE,4.6,Beginner,35k
 565,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,COURSE,4.4,Beginner,88k
 131,Biostatistics in Public Health,Johns Hopkins University,SPECIALIZATION,4.8,Beginner,14k
 751,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,COURSE,4.8,Intermediate,1.9k
@@ -219,7 +219,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 139,Design and Interpretation of Clinical Trials,Johns Hopkins University,COURSE,4.7,Mixed,67k
 522,Design and Make Infographics (Project-Centered Course),Michigan State University,COURSE,4.7,Mixed,97k
 430,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,The University of Sydney,COURSE,4.6,Intermediate,19k
-338,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,SPECIALIZATION,4.6,Intermediate,16k
+338,Developing APIs with Google Cloud s Apigee API Platform,Google Cloud,SPECIALIZATION,4.6,Intermediate,16k
 18,Developing Applications with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k
 644,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.8,Intermediate,4k
 720,Developing Industrial Internet of Things,University of Colorado Boulder,SPECIALIZATION,4.6,Intermediate,8k
@@ -459,7 +459,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 615,International Marketing & Cross Industry Growth,Yonsei University,SPECIALIZATION,4.6,Beginner,26k
 346,International Organizations Management,University of Geneva,COURSE,4.8,Beginner,20k
 447,International Security Management,Erasmus University Rotterdam,COURSE,4.5,Beginner,2.2k
-193,International Women's Health and Human Rights,Stanford University,COURSE,4.9,Beginner,35k
+193,International Women s Health and Human Rights,Stanford University,COURSE,4.9,Beginner,35k
 593,International migrations: a global issue,Sciences Po,COURSE,4.6,Beginner,11k
 667,Internet Connection: How to Get Online?,Cisco,COURSE,4.7,Beginner,36k
 834,Internet Giants: The Law and Economics of Media Platforms,The University of Chicago,COURSE,4.8,Mixed,38k
@@ -538,8 +538,8 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 518,Java Programming: Solving Problems with Software,Duke University,COURSE,4.6,Beginner,160k
 586,Julia Scientific Programming,University of Cape Town,COURSE,4.5,Beginner,22k
 546,Kotlin for Java Developers,JetBrains,COURSE,4.7,Intermediate,37k
-516,L'excellence opérationnelle en pratique,ESSEC Business School,COURSE,4.7,Beginner,8k
-750,"L'impact investing, la finance qui change le monde",ESSEC Business School,SPECIALIZATION,4.6,Beginner,6.3k
+516,L excellence opérationnelle en pratique,ESSEC Business School,COURSE,4.7,Beginner,8k
+750,"L impact investing, la finance qui change le monde",ESSEC Business School,SPECIALIZATION,4.6,Beginner,6.3k
 654,Leadership Development for Engineers,Rice University,SPECIALIZATION,4.7,Beginner,17k
 577,Leadership in 21st Century Organizations,Copenhagen Business School,COURSE,4.7,Mixed,34k
 656,Leading Healthcare Quality and Safety,The George Washington University,COURSE,4.8,Beginner,16k
@@ -642,7 +642,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 472,Optical Engineering,University of Colorado Boulder,SPECIALIZATION,4.2,Advanced,6.2k
 116,Organizational Leadership,Northwestern University,SPECIALIZATION,4.7,Intermediate,92k
 867,Osteoarchaeology: The Truth in Our Bones,Universiteit Leiden,COURSE,4.7,Beginner,22k
-765,Palliative Care: It's Not Just Hospice Anymore,University of Colorado System,SPECIALIZATION,4.8,Beginner,3.2k
+765,Palliative Care: It s Not Just Hospice Anymore,University of Colorado System,SPECIALIZATION,4.8,Beginner,3.2k
 526,Palo Alto Networks Cybersecurity,Palo Alto Networks,SPECIALIZATION,4.6,Beginner,9.1k
 445,"Parallel, Concurrent, and Distributed Programming in Java",Rice University,SPECIALIZATION,4.5,Intermediate,30k
 872,Particle Physics: an Introduction,University of Geneva,COURSE,4.5,Mixed,42k
@@ -749,7 +749,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 200,Sports Marketing,Northwestern University,COURSE,4.7,Intermediate,12k
 580,Sports and Society,Duke University,COURSE,4.8,Mixed,16k
 68,Stanford Introduction to Food and Health,Stanford University,COURSE,4.7,Beginner,370k
-680,Stanford's Short Course on Breastfeeding,Stanford University,COURSE,4.7,Beginner,17k
+680,Stanford s Short Course on Breastfeeding,Stanford University,COURSE,4.7,Beginner,17k
 170,Statistical Analysis with R for Public Health,Imperial College London,SPECIALIZATION,4.7,Beginner,16k
 127,Statistics with Python,University of Michigan,SPECIALIZATION,4.6,Beginner,34k
 84,Statistics with R,Duke University,SPECIALIZATION,4.7,Beginner,220k
@@ -803,7 +803,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 864,The Economics of Health Care Delivery,University of Pennsylvania,COURSE,4.8,Mixed,7.2k
 274,The Global Financial Crisis,Yale University,COURSE,4.8,Mixed,84k
 587,The Horse Course: Introduction to Basic Care and Management,University of Florida,COURSE,4.9,Mixed,29k
-282,The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",COURSE,4.6,Mixed,47k
+282,The Manager s Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",COURSE,4.6,Mixed,47k
 357,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,COURSE,4.8,Beginner,130k
 671,"The Modern World, Part Two: Global History since 1910",University of Virginia,COURSE,4.8,Beginner,47k
 576,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,COURSE,4.9,Intermediate,9.4k
@@ -828,7 +828,7 @@ Unnamed: 0,course_title,course_organization,course_Certificate_type,course_ratin
 220,Trading Strategies in Emerging Markets,Indian School of Business,SPECIALIZATION,4.3,Beginner,68k
 529,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",UNSW Sydney (The University of New South Wales),COURSE,4.8,Mixed,45k
 530,Tricky American English Pronunciation,"University of California, Irvine",COURSE,4.7,Beginner,110k
-438,Troubles du spectre de l'autisme : diagnostic,University of Geneva,COURSE,4.9,Intermediate,5.4k
+438,Troubles du spectre de l autisme : diagnostic,University of Geneva,COURSE,4.9,Intermediate,5.4k
 245,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.8,Intermediate,12k
 153,UCI Project Management,"University of California, Irvine",PROFESSIONAL CERTIFICATE,4.6,Beginner,44k
 46,UI / UX Design,California Institute of the Arts,SPECIALIZATION,4.7,Beginner,68k

@@ -1,7 +1,7 @@
 Unnamed: 0,name,city,state
 0,NorthGate Brewing ,Minneapolis, MN
 1,Against the Grain Brewery,Louisville, KY
-2,Jack's Abby Craft Lagers,Framingham, MA
+2,Jack s Abby Craft Lagers,Framingham, MA
 3,Mike Hess Brewing Company,San Diego, CA
 4,Fort Point Beer Company,San Francisco, CA
 5,COAST Brewing Company,Charleston, SC
@@ -13,7 +13,7 @@ Unnamed: 0,name,city,state
 11,Petoskey Brewing,Petoskey, MI
 12,Blackrocks Brewery,Marquette, MI
 13,Perrin Brewing Company,Comstock Park, MI
-14,Witch's Hat Brewing Company,South Lyon, MI
+14,Witch s Hat Brewing Company,South Lyon, MI
 15,Founders Brewing Company,Grand Rapids, MI
 16,Flat 12 Bierwerks,Indianapolis, IN
 17,Tin Man Brewing Company,Evansville, IN
@@ -23,7 +23,7 @@ Unnamed: 0,name,city,state
 21,Three Pints Brewing,Martinsville, IN
 22,Four Fathers Brewing ,Valparaiso, IN
 23,Indiana City Brewing,Indianapolis, IN
-24,Burn 'Em Brewing,Michigan City, IN
+24,Burn  Em Brewing,Michigan City, IN
 25,Sun King Brewing Company,Indianapolis, IN
 26,Evil Czech Brewery,Mishawaka, IN
 27,450 North Brewing Company,Columbus, IN
@@ -32,13 +32,13 @@ Unnamed: 0,name,city,state
 30,SanTan Brewing Company,Chandler, AZ
 31,Boulevard Brewing Company,Kansas City, MO
 32,James Page Brewing Company,Stevens Point, WI
-33,The Dudes' Brewing Company,Torrance, CA
+33,The Dudes  Brewing Company,Torrance, CA
 34,Ballast Point Brewing Company,San Diego, CA
 35,Anchor Brewing Company,San Francisco, CA
 36,Figueroa Mountain Brewing Company,Buellton, CA
 37,Avery Brewing Company,Boulder, CO
 38,Twisted X Brewing Company,Dripping Springs, TX
-39,Gonzo's BiggDogg Brewing,Kalamazoo, MI
+39,Gonzo s BiggDogg Brewing,Kalamazoo, MI
 40,Big Muddy Brewing,Murphysboro, IL
 41,Lost Nation Brewing,East Fairfield, VT
 42,Rising Tide Brewing Company,Portland, ME
@@ -75,7 +75,7 @@ Unnamed: 0,name,city,state
 73,Ale Asylum,Madison, WI
 74,Two Brothers Brewing Company,Warrenville, IL
 75,Bent Paddle Brewing Company,Duluth, MN
-76,Bell's Brewery,Kalamazoo, MI
+76,Bell s Brewery,Kalamazoo, MI
 77,Blue Owl Brewing,Austin, TX
 78,Speakasy Ales & Lagers,San Francisco, CA
 79,Black Tooth Brewing Company,Sheridan, WY
@@ -91,7 +91,7 @@ Unnamed: 0,name,city,state
 89,Broad Brook Brewing LLC,East Windsor, CT
 90,The Lion Brewery,Wilkes-Barre, PA
 91,Madtree Brewing Company,Cincinnati, OH
-92,Jackie O's Pub & Brewery,Athens, OH
+92,Jackie O s Pub & Brewery,Athens, OH
 93,Rhinegeist Brewery,Cincinnati, OH
 94,Warped Wing Brewing Company,Dayton, OH
 95,Blackrocks Brewery,Marquette, MA
@@ -125,16 +125,16 @@ Unnamed: 0,name,city,state
 123,Ipswich Ale Brewery,Ipswich, MA
 124,Griffin Claw Brewing Company,Birmingham, MI
 125,Karbach Brewing Company,Houston, TX
-126,Uncle Billy's Brewery and Smokeh...,Austin, TX
+126,Uncle Billy s Brewery and Smokeh...,Austin, TX
 127,Deep Ellum Brewing Company,Dallas, TX
 128,Real Ale Brewing Company,Blanco, TX
-129,Straub Brewery,St Mary's, PA
+129,Straub Brewery,St Mary s, PA
 130,Shebeen Brewing Company,Wolcott, CT
 131,Stevens Point Brewery,Stevens Point, WI
 132,Weston Brewing Company,Weston, MO
 133,Southern Prohibition Brewing Com...,Hattiesburg, MS
 134,Minhas Craft Brewery,Monroe, WI
-135,Pug Ryan's Brewery,Dillon, CO
+135,Pug Ryan s Brewery,Dillon, CO
 136,Hops & Grains Brewing Company,Austin, TX
 137,Sietsema Orchards and Cider Mill,Ada, MI
 138,Summit Brewing Company,St Paul, MN
@@ -169,7 +169,7 @@ Unnamed: 0,name,city,state
 167,Boxcar Brewing Company,West Chester, PA
 168,High Hops Brewery,Windsor, CO
 169,Crooked Fence Brewing Company,Garden City, ID
-170,Everybody's Brewing,White Salmon, WA
+170,Everybody s Brewing,White Salmon, WA
 171,Anderson Valley Brewing Company,Boonville, CA
 172,Fiddlehead Brewing Company,Shelburne, VT
 173,Evil Twin Brewing,Brooklyn, NY
@@ -187,7 +187,7 @@ Unnamed: 0,name,city,state
 185,Vander Mill Ciders,Spring Lake, MI
 186,St. Julian Winery,Paw Paw, MI
 187,Pedernales Brewing Company,Fredericksburg, TX
-188,Mother's Brewing,Springfield, MO
+188,Mother s Brewing,Springfield, MO
 189,Modern Monks Brewery,Lincoln, NE
 190,Two Beers Brewing Company,Seattle, WA
 191,Snake River Brewing Company,Jackson, WY
@@ -203,8 +203,8 @@ Unnamed: 0,name,city,state
 201,Fearless Brewing Company,Estacada, OR
 202,Upland Brewing Company,Bloomington, IN
 203,Mehana Brewing Co.,Hilo, HI
-204,Hawai'i Nui Brewing Co.,Hilo, HI
-205,People's Brewing Company,Lafayette, IN
+204,Hawai i Nui Brewing Co.,Hilo, HI
+205,People s Brewing Company,Lafayette, IN
 206,Fort George Brewery,Astoria, OR
 207,Branchline Brewing Company,San Antonio, TX
 208,Kalona Brewing Company,Kalona, IA
@@ -223,7 +223,7 @@ Unnamed: 0,name,city,state
 221,Big Storm Brewing Company,Odessa, FL
 222,Carton Brewing Company,Atlantic Highlands, NJ
 223,Midnight Sun Brewing Company,Anchorage, AK
-224,Fat Head's Brewery,Middleburg Heights, OH
+224,Fat Head s Brewery,Middleburg Heights, OH
 225,Refuge Brewery,Temecula, CA
 226,Chatham Brewing,Chatham, NY
 227,DC Brau Brewing Company,Washington, DC
@@ -236,7 +236,7 @@ Unnamed: 0,name,city,state
 234,Harpoon Brewery,Boston, MA
 235,Back East Brewing Company,Bloomfield, CT
 236,Champion Brewing Company,Charlottesville, VA
-237,Devil's Backbone Brewing Company,Lexington, VA
+237,Devil s Backbone Brewing Company,Lexington, VA
 238,Newburgh Brewing Company,Newburgh, NY
 239,Wiseacre Brewing Company,Memphis, TN
 240,Golden Road Brewing,Los Angeles, CA
@@ -249,19 +249,19 @@ Unnamed: 0,name,city,state
 247,Creature Comforts,Athens, GA
 248,Half Full Brewery,Stamford, CT
 249,Southampton Publick House,Southampton, NY
-250,Chapman's Brewing,Angola, IN
+250,Chapman s Brewing,Angola, IN
 251,Barrio Brewing Company,Tucson, AZ
 252,Santa Cruz Mountain Brewing,Santa Cruz, CA
 253,Frankenmuth Brewery,Frankenmuth, MI
-254,Meckley's Cidery,Somerset Center, MI
+254,Meckley s Cidery,Somerset Center, MI
 255,Stillwater Artisanal Ales,Baltimore, MD
-256,Finch's Beer Company,Chicago, IL
+256,Finch s Beer Company,Chicago, IL
 257,South Austin Brewery,South Austin, TX
 258,Bauhaus Brew Labs,Minneapolis, MN
 259,Ozark Beer Company,Rogers, AR
 260,Mountain Town Brewing Company ,Mount Pleasant, MI
 261,Otter Creek Brewing,Waterbury, VT
-262,The Brewer's Art,Baltimore, MD
+262,The Brewer s Art,Baltimore, MD
 263,Denver Beer Company,Denver, CO
 264,Ska Brewing Company,Durango, CO
 265,Tractor Brewing Company,Albuquerque, NM
@@ -272,7 +272,7 @@ Unnamed: 0,name,city,state
 270,Alaskan Brewing Company,Juneau, AK
 271,Notch Brewing Company,Ipswich, MA
 272,The Alchemist,Waterbury, VT
-273,Three Notch'd Brewing Company,Charlottesville, VA
+273,Three Notch d Brewing Company,Charlottesville, VA
 274,Portside Brewery,Cleveland, OH
 275,Otter Creek Brewing,Middlebury, VT
 276,Montauk Brewing Company,Montauk, NY
@@ -289,7 +289,7 @@ Unnamed: 0,name,city,state
 287,Four Corners Brewing Company,Dallas, TX
 288,Saint Archer Brewery,San Diego, CA
 289,Rogue Ales,Newport, OR
-290,Hale's Ales,Seattle, WA
+290,Hale s Ales,Seattle, WA
 291,Tommyknocker Brewery,Idaho Springs, CO
 292,Baxter Brewing Company,Lewiston, ME
 293,Northampton Brewery,Northamtpon, MA
@@ -318,7 +318,7 @@ Unnamed: 0,name,city,state
 316,Iron Hill Brewery & Restaurant,Wilmington, DE
 317,Marshall Wharf Brewing Company,Belfast, ME
 318,Banner Beer Company,Williamsburg, MA
-319,Dick's Brewing Company,Centralia, WA
+319,Dick s Brewing Company,Centralia, WA
 320,Claremont Craft Ales,Claremont, CA
 321,Rivertown Brewing Company,Lockland, OH
 322,Voodoo Brewery,Meadville, PA
@@ -332,12 +332,12 @@ Unnamed: 0,name,city,state
 330,Dead Armadillo Craft Brewing,Tulsa, OK
 331,Catawba Brewing Company,Morganton, NC
 332,La Cumbre Brewing Company,Albuquerque, NM
-333,David's Ale Works,Diamond Springs, CA
+333,David s Ale Works,Diamond Springs, CA
 334,The Traveler Beer Company,Burlington, VT
 335,Fargo Brewing Company,Fargo, ND
 336,Big Sky Brewing Company,Missoula, MT
 337,Nebraska Brewing Company,Papillion, NE
-338,Uncle John's Fruit House Winery,St. John's, MI
+338,Uncle John s Fruit House Winery,St. John s, MI
 339,Wormtown Brewery,Worcester, MA
 340,Due South Brewing Company,Boynton Beach, FL
 341,Palisade Brewing Company,Palisade, CO
@@ -361,7 +361,7 @@ Unnamed: 0,name,city,state
 359,NoDa Brewing Company,Charlotte, NC
 360,Aviator Brewing Company,Fuquay-Varina, NC
 361,Wild Onion Brewing Company,Lake Barrington, IL
-362,Hilliard's Beer,Seattle, WA
+362,Hilliard s Beer,Seattle, WA
 363,Mikkeller,Pottstown, PA
 364,Bohemian Brewery,Midvale, UT
 365,Great River Brewery,Davenport, IA
@@ -387,7 +387,7 @@ Unnamed: 0,name,city,state
 385,Shipyard Brewing Company,Portland, ME
 386,Revolution Brewing,Paonia, CO
 387,Natian Brewery,Portland, OR
-388,Alltech's Lexington Brewing Company,Lexington, KY
+388,Alltech s Lexington Brewing Company,Lexington, KY
 389,Oskar Blues Brewery (North Carol...,Brevard, NC
 390,Orlison Brewing Company,Airway Heights, WA
 391,Breckenridge Brewery,Denver, CO
@@ -415,7 +415,7 @@ Unnamed: 0,name,city,state
 413,Austin Beerworks,Austin, TX
 414,Blue Mountain Brewery,Arrington, VA
 415,Coastal Empire Beer Company,Savannah, GA
-416,Jack's Hard Cider (Hauser Estate...,Biglerville, PA
+416,Jack s Hard Cider (Hauser Estate...,Biglerville, PA
 417,Boulder Beer Company,Boulder, CO
 418,Coalition Brewing Company,Portland, OR
 419,Sanitas Brewing Company,Boulder, CO
@@ -441,7 +441,7 @@ Unnamed: 0,name,city,state
 439,Kona Brewing Company,Kona, HI
 440,MillKing It Productions,Royal Oak, MI
 441,Pateros Creek Brewing Company,Fort Collins, CO
-442,O'Fallon Brewery,O'Fallon, MO
+442,O Fallon Brewery,O Fallon, MO
 443,Marble Brewery,Albuquerque, NM
 444,Big Wood Brewery,Vadnais Heights, MN
 445,Howard Brewing Company,Lenoir, NC
@@ -450,7 +450,7 @@ Unnamed: 0,name,city,state
 448,Mavericks Beer Company,Half Moon Bay, CA
 449,TailGate Beer,San Diego, CA
 450,Northwest Brewing Company,Pacific, WA
-451,Dad & Dude's Breweria,Aurora, CO
+451,Dad & Dude s Breweria,Aurora, CO
 452,Centennial Beer Company,Edwards, CO
 453,Denali Brewing Company,Talkeetna, AK
 454,Deschutes Brewery,Bend, OR
@@ -469,7 +469,7 @@ Unnamed: 0,name,city,state
 467,Brindle Dog Brewing Company,Tampa Bay, FL
 468,Peace Tree Brewing Company,Knoxville, IA
 469,Terrapin Brewing Company,Athens, GA
-470,Pete's Brewing Company,San Antonio, TX
+470,Pete s Brewing Company,San Antonio, TX
 471,Okoboji Brewing Company,Spirit Lake, IA
 472,Crystal Springs Brewing Company,Boulder, CO
 473,Engine House 9,Tacoma, WA
@@ -490,7 +490,7 @@ Unnamed: 0,name,city,state
 488,Dock Street Brewery,Philadelphia, PA
 489,Blue Point Brewing Company,Patchogue, NY
 490,Tampa Bay Brewing Company,Tampa, FL
-491,Devil's Canyon Brewery,Belmont, CA
+491,Devil s Canyon Brewery,Belmont, CA
 492,Stone Coast Brewing Company,Portland, ME
 493,Broken Tooth Brewing Company,Anchorage, AK
 494,Seven Brides Brewery,Silverton, OR
@@ -504,7 +504,7 @@ Unnamed: 0,name,city,state
 502,Sea Dog Brewing Company,Portland, ME
 503,Oskar Blues Brewery,Lyons, CO
 504,Carolina Beer & Beverage,Mooresville, NC
-505,Krebs Brewing Company (Pete's Pl...,Krebs, OK
+505,Krebs Brewing Company (Pete s Pl...,Krebs, OK
 506,Warbird Brewing Company,Fort Wayne, IN
 507,Mudshark Brewing Company,Lake Havasu City, AZ
 508,Spilker Ales,Cortland, NE
@@ -516,7 +516,7 @@ Unnamed: 0,name,city,state
 514,Monkey Paw Pub & Brewery,San Diego, CA
 515,Crabtree Brewing Company,Greeley, CO
 516,Emerald City Beer Company,Seattle, WA
-517,Butcher's Brewing,Carlsbad, CA
+517,Butcher s Brewing,Carlsbad, CA
 518,New South Brewing Company,Myrtle Beach, SC
 519,Big River Brewing Company,Chattanooga, TN
 520,Twisted Pine Brewing Company,Boulder, CO
@@ -551,9 +551,9 @@ Unnamed: 0,name,city,state
 549,Mogollon Brewing Company,Flagstaff, AZ
 550,Wind River Brewing Company,Pinedale, WY
 551,Silverton Brewery,Silverton, CO
-552,Mickey Finn's Brewery,Libertyville, IL
+552,Mickey Finn s Brewery,Libertyville, IL
 553,Covington Brewhouse,Covington, LA
-554,Dave's Brewfarm,Wilson, WI
+554,Dave s Brewfarm,Wilson, WI
 555,Ukiah Brewing Company,Ukiah, CA
 556,Butternuts Beer and Ale,Garrattsville, NY
 557,Sleeping Lady Brewing Company,Anchorage, AK

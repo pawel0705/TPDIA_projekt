@@ -914,7 +914,7 @@ Brugge,Belgium,Flanders,2800931
 Brecht,Belgium,Flanders,2801106
 Brasschaat,Belgium,Flanders,2801117
 Braine-le-Comte,Belgium,Wallonia,2801150
-Braine-l'Alleud,Belgium,Wallonia,2801154
+Braine-l Alleud,Belgium,Wallonia,2801154
 Boussu,Belgium,Wallonia,2801226
 Bornem,Belgium,Flanders,2801447
 Boom,Belgium,Flanders,2801494
@@ -956,7 +956,7 @@ Kaya,Burkina Faso,Centre-Nord,2359608
 Houndé,Burkina Faso,High-Basins,2360073
 Gourcy,Burkina Faso,Nord,2360238
 Garango,Burkina Faso,Centre-Est,2360615
-Fada N'gourma,Burkina Faso,Est,2360886
+Fada N gourma,Burkina Faso,Est,2360886
 Dori,Burkina Faso,Sahel,2361082
 Djibo,Burkina Faso,Sahel,2361177
 Diapaga,Burkina Faso,Est,2361373
@@ -1581,7 +1581,7 @@ Santa Cruz do Rio Pardo,Brazil,São Paulo,3450272
 Santa Cruz das Palmeiras,Brazil,São Paulo,3450283
 Santa Cruz Cabrália,Brazil,Bahia,3450288
 Santa Cecília,Brazil,Santa Catarina,3450376
-Santa Bárbara d'Oeste,Brazil,São Paulo,3450404
+Santa Bárbara d Oeste,Brazil,São Paulo,3450404
 Salvador,Brazil,Bahia,3450554
 Salto de Pirapora,Brazil,São Paulo,3450563
 Salto,Brazil,São Paulo,3450594
@@ -2459,7 +2459,7 @@ Langford,Canada,British Columbia,6049388
 Langley,Canada,British Columbia,6049429
 Langley,Canada,British Columbia,6049430
 La Prairie,Canada,Quebec,6049863
-L'Assomption,Canada,Quebec,6050263
+L Assomption,Canada,Quebec,6050263
 Laval,Canada,Quebec,6050610
 Leduc,Canada,Alberta,6051562
 Lethbridge,Canada,Alberta,6053154
@@ -2561,7 +2561,7 @@ Timmins,Canada,Ontario,6166739
 Toronto,Canada,Ontario,6167865
 Trois-Rivières,Canada,Quebec,6169141
 Truro,Canada,Nova Scotia,6169587
-Val-d'Or,Canada,Quebec,6173017
+Val-d Or,Canada,Quebec,6173017
 Vancouver,Canada,British Columbia,6173331
 Varennes,Canada,Quebec,6173508
 Vaudreuil-Dorion,Canada,Quebec,6173570
@@ -2581,13 +2581,13 @@ Woodstock,Canada,Ontario,6184365
 Yellowknife,Canada,Northwest Territories,6185377
 Yorkton,Canada,Saskatchewan,6185607
 Halifax,Canada,Nova Scotia,6324729
-St. John's,Canada,Newfoundland and Labrador,6324733
+St. John s,Canada,Newfoundland and Labrador,6324733
 Québec,Canada,Quebec,6325494
 Lévis,Canada,Quebec,6325521
 Rimouski,Canada,Quebec,6354895
 Rivière-du-Loup,Canada,Quebec,6354897
 Sydney,Canada,Nova Scotia,6354908
-L'Ancienne-Lorette,Canada,Quebec,6534203
+L Ancienne-Lorette,Canada,Quebec,6534203
 Edmundston,Canada,New Brunswick,6545023
 Thetford-Mines,Canada,Quebec,6943827
 Scarborough,Canada,Ontario,6948711
@@ -2856,18 +2856,18 @@ Temuco,Chile,Araucanía,3870011
 Talcahuano,Chile,Biobío,3870282
 Talca,Chile,Maule,3870294
 Talagante,Chile,Santiago Metropolitan,3870306
-San Vicente de Tagua Tagua,Chile,O'Higgins,3871276
-San Vicente,Chile,O'Higgins,3871286
+San Vicente de Tagua Tagua,Chile,O Higgins,3871276
+San Vicente,Chile,O Higgins,3871286
 Santiago,Chile,Santiago Metropolitan,3871336
-Santa Cruz,Chile,O'Higgins,3871616
+Santa Cruz,Chile,O Higgins,3871616
 San Javier,Chile,Maule,3872154
 San Felipe,Chile,Valparaíso,3872255
 San Carlos,Chile,Biobío,3872326
 San Bernardo,Chile,Santiago Metropolitan,3872348
 San Antonio,Chile,Valparaíso,3872395
 Río Bueno,Chile,Los Ríos,3873145
-Rengo,Chile,O'Higgins,3873441
-Rancagua,Chile,O'Higgins,3873775
+Rengo,Chile,O Higgins,3873441
+Rancagua,Chile,O Higgins,3873775
 Quilpué,Chile,Valparaíso,3874096
 Quillota,Chile,Valparaíso,3874119
 Punta Arenas,Chile,Magallanes,3874787
@@ -2890,7 +2890,7 @@ Nacimiento,Chile,Biobío,3879123
 Mulchén,Chile,Biobío,3879200
 Molina,Chile,Maule,3879627
 Melipilla,Chile,Santiago Metropolitan,3880107
-Machalí,Chile,O'Higgins,3881102
+Machalí,Chile,O Higgins,3881102
 Lota,Chile,Biobío,3881276
 Los Ángeles,Chile,Biobío,3882428
 Los Andes,Chile,Valparaíso,3882434
@@ -2908,7 +2908,7 @@ La Laja,Chile,Biobío,3885509
 Iquique,Chile,Tarapacá,3887127
 Illapel,Chile,Coquimbo,3887344
 Hacienda La Calera,Chile,Valparaíso,3888214
-Graneros,Chile,O'Higgins,3888749
+Graneros,Chile,O Higgins,3888749
 Frutillar,Chile,Los Lagos,3889263
 El Monte,Chile,Santiago Metropolitan,3890949
 Diego de Almagro,Chile,Atacama,3892454
@@ -2921,7 +2921,7 @@ Constitución,Chile,Maule,3893726
 Concepción,Chile,Biobío,3893894
 Collipulli,Chile,Araucanía,3894177
 Coihaique,Chile,Aisén,3894426
-Chimbarongo,Chile,O'Higgins,3895061
+Chimbarongo,Chile,O Higgins,3895061
 Chillán,Chile,Biobío,3895088
 Chiguayante,Chile,Biobío,3895138
 Chicureo Abajo,Chile,Santiago Metropolitan,3895165
@@ -3266,7 +3266,7 @@ Qinnan,China,Jiangsu,1797575
 Qinhuangdao,China,Hebei,1797595
 Jinjiang,China,Fujian,1797658
 Qingquan,China,Hubei,1797793
-Huai'an,China,Jiangsu,1797873
+Huai an,China,Jiangsu,1797873
 Qingdao,China,Shandong Sheng,1797929
 Qingyuan,China,Guangdong,1797945
 Hongqiao,China,Hunan,1798082
@@ -5361,7 +5361,7 @@ Tadjoura,Djibouti,Tadjourah,220782
 Obock,Djibouti,Obock,221527
 Djibouti,Djibouti,Djibouti,223817
 Ḏânan,Djibouti,Ali Sabieh,224152
-'Ali Sabieh,Djibouti,Ali Sabieh,225284
+ Ali Sabieh,Djibouti,Ali Sabieh,225284
 Viborg,Denmark,Central Jutland,2610319
 Vejle,Denmark,South Denmark,2610613
 Vanløse,Denmark,Capital Region,2610734
@@ -6056,7 +6056,7 @@ La Orotava,Spain,Canary Islands,2515692
 La Oliva,Spain,Canary Islands,2515698
 la Nucia,Spain,Valencia,2515701
 La Línea de la Concepción,Spain,Andalusia,2515812
-L'Eliana,Spain,Valencia,2516004
+L Eliana,Spain,Valencia,2516004
 La Carolina,Spain,Andalusia,2516088
 Jumilla,Spain,Murcia,2516255
 Jerez de la Frontera,Spain,Andalusia,2516326
@@ -6349,7 +6349,7 @@ Illescas,Spain,Castille-La Mancha,3120410
 Igualada,Spain,Catalonia,3120431
 Humanes de Madrid,Spain,Madrid,3120501
 Huesca,Spain,Aragon,3120514
-L'Hospitalet de Llobregat,Spain,Catalonia,3120619
+L Hospitalet de Llobregat,Spain,Catalonia,3120619
 Hortaleza,Spain,Madrid,3120635
 Hernani,Spain,Basque Country,3120811
 Gernika-Lumo,Spain,Basque Country,3120989
@@ -6459,7 +6459,7 @@ Chamberí,Spain,Madrid,6544492
 Carabanchel,Spain,Madrid,6544493
 City Center,Spain,Madrid,6544494
 Retiro,Spain,Madrid,6544495
-l'Alfàs del Pi,Spain,Valencia,6559503
+l Alfàs del Pi,Spain,Valencia,6559503
 Las Gabias,Spain,Andalusia,6559641
 Delicias,Spain,Aragon,6615440
 Almozara,Spain,Aragon,6615442
@@ -6480,11 +6480,11 @@ Fuencarral-El Pardo,Spain,Madrid,8285534
 Villa de Vallecas,Spain,Madrid,8285535
 Natahoyo,Spain,Asturias,8629192
 Ziway,Ethiopia,Oromiya,325579
-Yirga ‘Alem,Ethiopia,"Southern Nations, Nationalities, and People's Region",325780
+Yirga ‘Alem,Ethiopia,"Southern Nations, Nationalities, and People s Region",325780
 Yabēlo,Ethiopia,Oromiya,326036
 Werota,Ethiopia,Amhara,326206
 Wenjī,Ethiopia,Oromiya,326308
-Tippi,Ethiopia,"Southern Nations, Nationalities, and People's Region",327694
+Tippi,Ethiopia,"Southern Nations, Nationalities, and People s Region",327694
 Shashemenē,Ethiopia,Oromiya,328689
 Shambu,Ethiopia,Oromiya,328709
 Shakīso,Ethiopia,Oromiya,328716
@@ -6499,11 +6499,11 @@ Mendī,Ethiopia,Oromiya,331038
 Mekele,Ethiopia,Tigray,331180
 Maych’ew,Ethiopia,Tigray,331416
 Korem,Ethiopia,Tigray,332746
-K’olīto,Ethiopia,"Southern Nations, Nationalities, and People's Region",332880
+K’olīto,Ethiopia,"Southern Nations, Nationalities, and People s Region",332880
 Kibre Mengist,Ethiopia,Oromiya,333103
 Kemisē,Ethiopia,Amhara,333356
 Kombolcha,Ethiopia,Amhara,333373
-Jinka,Ethiopia,"Southern Nations, Nationalities, and People's Region",333750
+Jinka,Ethiopia,"Southern Nations, Nationalities, and People s Region",333750
 Jīma,Ethiopia,Oromiya,333772
 Jijiga,Ethiopia,Somali,333795
 Inda Silasē,Ethiopia,Tigray,334227
@@ -6520,11 +6520,11 @@ Gebre Guracha,Ethiopia,Oromiya,337152
 Gambēla,Ethiopia,Gambela,337405
 Finote Selam,Ethiopia,Amhara,337712
 Fichē,Ethiopia,Oromiya,337771
-Felege Neway,Ethiopia,"Southern Nations, Nationalities, and People's Region",337853
+Felege Neway,Ethiopia,"Southern Nations, Nationalities, and People s Region",337853
 Dubti,Ethiopia,Āfar,338554
 Dodola,Ethiopia,Oromiya,338726
 Dire Dawa,Ethiopia,Dire Dawa,338832
-Dīla,Ethiopia,"Southern Nations, Nationalities, and People's Region",338998
+Dīla,Ethiopia,"Southern Nations, Nationalities, and People s Region",338998
 Desē,Ethiopia,Amhara,339219
 Dembī Dolo,Ethiopia,Oromiya,339448
 Bishoftu,Ethiopia,Oromiya,339666
@@ -6532,23 +6532,23 @@ Debre Tabor,Ethiopia,Amhara,339686
 Debre Mark’os,Ethiopia,Amhara,339708
 Debre Birhan,Ethiopia,Amhara,339734
 Debark’,Ethiopia,Amhara,339823
-Butajīra,Ethiopia,"Southern Nations, Nationalities, and People's Region",341297
+Butajīra,Ethiopia,"Southern Nations, Nationalities, and People s Region",341297
 Burē,Ethiopia,Amhara,341397
-Bonga,Ethiopia,"Southern Nations, Nationalities, and People's Region",341742
-Bodītī,Ethiopia,"Southern Nations, Nationalities, and People's Region",341877
+Bonga,Ethiopia,"Southern Nations, Nationalities, and People s Region",341742
+Bodītī,Ethiopia,"Southern Nations, Nationalities, and People s Region",341877
 Bichena,Ethiopia,Amhara,342190
 Bedēsa,Ethiopia,Oromiya,342559
 Bedelē,Ethiopia,Oromiya,342567
 Batī,Ethiopia,Amhara,342641
-Bako,Ethiopia,"Southern Nations, Nationalities, and People's Region",342856
+Bako,Ethiopia,"Southern Nations, Nationalities, and People s Region",342856
 Bahir Dar,Ethiopia,Amhara,342884
-Hawassa,Ethiopia,"Southern Nations, Nationalities, and People's Region",343137
+Hawassa,Ethiopia,"Southern Nations, Nationalities, and People s Region",343137
 Āsosa,Ethiopia,Bīnshangul Gumuz,343292
 Āsbe Teferī,Ethiopia,Oromiya,343402
 Asaita,Ethiopia,Āfar,343409
 Āsasa,Ethiopia,Oromiya,343413
-Āreka,Ethiopia,"Southern Nations, Nationalities, and People's Region",343593
-Ārba Minch’,Ethiopia,"Southern Nations, Nationalities, and People's Region",343663
+Āreka,Ethiopia,"Southern Nations, Nationalities, and People s Region",343593
+Ārba Minch’,Ethiopia,"Southern Nations, Nationalities, and People s Region",343663
 Axum,Ethiopia,Tigray,344420
 Hagere Maryam,Ethiopia,Oromiya,344620
 Āgaro,Ethiopia,Oromiya,344661
@@ -6639,7 +6639,7 @@ Wasquehal,France,Nord-Pas-de-Calais-Picardie,2967438
 Voiron,France,Auvergne-Rhône-Alpes,2967758
 Vitry-sur-Seine,France,Île-de-France,2967849
 Vitry-le-François,France,Alsace-Champagne-Ardenne-Lorraine,2967856
-Vitrolles,France,Provence-Alpes-Côte d'Azur,2967870
+Vitrolles,France,Provence-Alpes-Côte d Azur,2967870
 Vitré,France,Brittany,2967879
 Viry-Châtillon,France,Île-de-France,2967917
 Viroflay,France,Île-de-France,2967934
@@ -6672,14 +6672,14 @@ Verneuil-sur-Seine,France,Île-de-France,2969796
 Verdun,France,Alsace-Champagne-Ardenne-Lorraine,2969958
 Vénissieux,France,Auvergne-Rhône-Alpes,2970072
 Vendôme,France,Centre,2970110
-Vence,France,Provence-Alpes-Côte d'Azur,2970148
+Vence,France,Provence-Alpes-Côte d Azur,2970148
 Vélizy-Villacoublay,France,Île-de-France,2970203
 Vauréal,France,Île-de-France,2970432
 Vaulx-en-Velin,France,Auvergne-Rhône-Alpes,2970456
 Vanves,France,Île-de-France,2970761
 Vannes,France,Brittany,2970777
 Vandœuvre-lès-Nancy,France,Alsace-Champagne-Ardenne-Lorraine,2970797
-Vallauris,France,Provence-Alpes-Côte d'Azur,2970962
+Vallauris,France,Provence-Alpes-Côte d Azur,2970962
 Valenciennes,France,Nord-Pas-de-Calais-Picardie,2971041
 Valence,France,Auvergne-Rhône-Alpes,2971053
 Tulle,France,Aquitaine-Limousin-Poitou-Charentes,2971482
@@ -6691,7 +6691,7 @@ Tournefeuille,France,Languedoc-Roussillon-Midi-Pyrénées,2972237
 Tourlaville,France,Normandy,2972270
 Tourcoing,France,Nord-Pas-de-Calais-Picardie,2972284
 Toulouse,France,Languedoc-Roussillon-Midi-Pyrénées,2972315
-Toulon,France,Provence-Alpes-Côte d'Azur,2972328
+Toulon,France,Provence-Alpes-Côte d Azur,2972328
 Toul,France,Alsace-Champagne-Ardenne-Lorraine,2972350
 Torcy,France,Île-de-France,2972444
 Thonon-les-Bains,France,Auvergne-Rhône-Alpes,2972742
@@ -6707,10 +6707,10 @@ Sucy-en-Brie,France,Île-de-France,2973745
 Strasbourg,France,Alsace-Champagne-Ardenne-Lorraine,2973783
 Stains,France,Île-de-France,2973841
 Sotteville-lès-Rouen,France,Normandy,2974153
-Sorgues,France,Provence-Alpes-Côte d'Azur,2974188
+Sorgues,France,Provence-Alpes-Côte d Azur,2974188
 Soisy-sous-Montmorency,France,Île-de-France,2974385
 Soissons,France,Nord-Pas-de-Calais-Picardie,2974389
-Six-Fours-les-Plages,France,Provence-Alpes-Côte d'Azur,2974427
+Six-Fours-les-Plages,France,Provence-Alpes-Côte d Azur,2974427
 Sin-le-Noble,France,Nord-Pas-de-Calais-Picardie,2974494
 Seynod,France,Auvergne-Rhône-Alpes,2974655
 Sèvres,France,Île-de-France,2974678
@@ -6730,11 +6730,11 @@ Sarreguemines,France,Alsace-Champagne-Ardenne-Lorraine,2975964
 Sarcelles,France,Île-de-France,2976043
 Saran,France,Centre,2976050
 Sannois,France,Île-de-France,2976179
-Sanary-sur-Mer,France,Provence-Alpes-Côte d'Azur,2976258
-Salon-de-Provence,France,Provence-Alpes-Côte d'Azur,2976341
+Sanary-sur-Mer,France,Provence-Alpes-Côte d Azur,2976258
+Salon-de-Provence,France,Provence-Alpes-Côte d Azur,2976341
 Sallanches,France,Auvergne-Rhône-Alpes,2976406
 Saint-Sébastien-sur-Loire,France,Pays de la Loire,2976984
-Saint-Raphaël,France,Provence-Alpes-Côte d'Azur,2977246
+Saint-Raphaël,France,Provence-Alpes-Côte d Azur,2977246
 Saint-Quentin,France,Nord-Pas-de-Calais-Picardie,2977295
 Saint-Priest,France,Auvergne-Rhône-Alpes,2977356
 Saint-Pol-sur-Mer,France,Nord-Pas-de-Calais-Picardie,2977388
@@ -6745,7 +6745,7 @@ Saint-Omer,France,Nord-Pas-de-Calais-Picardie,2977845
 Saint-Nazaire,France,Pays de la Loire,2977921
 Saint-Michel-sur-Orge,France,Île-de-France,2977952
 Saint-Médard-en-Jalles,France,Aquitaine-Limousin-Poitou-Charentes,2978072
-Saint-Maximin-la-Sainte-Baume,France,Provence-Alpes-Côte d'Azur,2978100
+Saint-Maximin-la-Sainte-Baume,France,Provence-Alpes-Côte d Azur,2978100
 Saint-Maur-des-Fossés,France,Île-de-France,2978179
 Saint-Martin-d’Hères,France,Auvergne-Rhône-Alpes,2978317
 Saint-Mandé,France,Île-de-France,2978621
@@ -6754,7 +6754,7 @@ Saint-Louis,France,Alsace-Champagne-Ardenne-Lorraine,2978742
 Saint-Lô,France,Normandy,2978758
 Saint-Leu-la-Forêt,France,Île-de-France,2978768
 Saint-Leu,France,Bourgogne-Franche-Comté,2978771
-Saint-Laurent-du-Var,France,Provence-Alpes-Côte d'Azur,2978891
+Saint-Laurent-du-Var,France,Provence-Alpes-Côte d Azur,2978891
 Saint-Jean-de-la-Ruelle,France,Centre,2979316
 Saint-Jean-de-Braye,France,Centre,2979341
 Saint-Herblain,France,Pays de la Loire,2979590
@@ -6801,7 +6801,7 @@ Reims,France,Alsace-Champagne-Ardenne-Lorraine,2984114
 Rambouillet,France,Île-de-France,2984513
 Quimper,France,Brittany,2984701
 Puteaux,France,Île-de-France,2985034
-Port-de-Bouc,France,Provence-Alpes-Côte d'Azur,2986025
+Port-de-Bouc,France,Provence-Alpes-Côte d Azur,2986025
 Pontoise,France,Île-de-France,2986140
 Pontivy,France,Brittany,2986160
 Pontarlier,France,Bourgogne-Franche-Comté,2986302
@@ -6813,7 +6813,7 @@ Plaisir,France,Île-de-France,2986930
 Plaisance-du-Touch,France,Languedoc-Roussillon-Midi-Pyrénées,2986933
 Pierrefitte-sur-Seine,France,Île-de-France,2987271
 Pessac,France,Aquitaine-Limousin-Poitou-Charentes,2987805
-Pertuis,France,Provence-Alpes-Côte d'Azur,2987825
+Pertuis,France,Provence-Alpes-Côte d Azur,2987825
 Perpignan,France,Languedoc-Roussillon-Midi-Pyrénées,2987914
 Périgueux,France,Aquitaine-Limousin-Poitou-Charentes,2987967
 Pau,France,Aquitaine-Limousin-Poitou-Charentes,2988358
@@ -6830,7 +6830,7 @@ Orvault,France,Pays de la Loire,2989170
 Orsay,France,Île-de-France,2989204
 Orly,France,Île-de-France,2989297
 Orléans,France,Centre,2989317
-Orange,France,Provence-Alpes-Côte d'Azur,2989460
+Orange,France,Provence-Alpes-Côte d Azur,2989460
 Olivet,France,Centre,2989611
 Octeville,France,Normandy,2989755
 Noyon,France,Nord-Pas-de-Calais-Picardie,2989877
@@ -6841,7 +6841,7 @@ Nogent-sur-Oise,France,Nord-Pas-de-Calais-Picardie,2990264
 Nogent-sur-Marne,France,Île-de-France,2990265
 Niort,France,Aquitaine-Limousin-Poitou-Charentes,2990355
 Nîmes,France,Languedoc-Roussillon-Midi-Pyrénées,2990363
-Nice,France,Provence-Alpes-Côte d'Azur,2990440
+Nice,France,Provence-Alpes-Côte d Azur,2990440
 Nevers,France,Bourgogne-Franche-Comté,2990474
 Neuilly-sur-Seine,France,Île-de-France,2990611
 Neuilly-sur-Marne,France,Île-de-France,2990612
@@ -6853,7 +6853,7 @@ Nancy,France,Alsace-Champagne-Ardenne-Lorraine,2990999
 Muret,France,Languedoc-Roussillon-Midi-Pyrénées,2991153
 Mulhouse,France,Alsace-Champagne-Ardenne-Lorraine,2991214
 Moulins,France,Auvergne-Rhône-Alpes,2991481
-Mougins,France,Provence-Alpes-Côte d'Azur,2991551
+Mougins,France,Provence-Alpes-Côte d Azur,2991551
 Morsang-sur-Orge,France,Île-de-France,2991719
 Morlaix,France,Brittany,2991772
 Mont-Saint-Aignan,France,Normandy,2992003
@@ -6880,14 +6880,14 @@ Montargis,France,Centre,2993024
 Mons-en-Barœul,France,Nord-Pas-de-Calais-Picardie,2993207
 Moissy-Cramayel,France,Île-de-France,2993572
 Mitry-Mory,France,Île-de-France,2993679
-Miramas,France,Provence-Alpes-Côte d'Azur,2993760
+Miramas,France,Provence-Alpes-Côte d Azur,2993760
 Millau,France,Languedoc-Roussillon-Midi-Pyrénées,2993875
 Meyzieu,France,Auvergne-Rhône-Alpes,2994048
 Meylan,France,Auvergne-Rhône-Alpes,2994087
 Meudon,France,Île-de-France,2994144
 Metz,France,Alsace-Champagne-Ardenne-Lorraine,2994160
 Mérignac,France,Aquitaine-Limousin-Poitou-Charentes,2994393
-Menton,France,Provence-Alpes-Côte d'Azur,2994497
+Menton,France,Provence-Alpes-Côte d Azur,2994497
 Melun,France,Île-de-France,2994651
 Meaux,France,Île-de-France,2994798
 Mayenne,France,Pays de la Loire,2994935
@@ -6895,16 +6895,16 @@ Maurepas,France,Île-de-France,2995041
 Mauguio,France,Languedoc-Roussillon-Midi-Pyrénées,2995121
 Maubeuge,France,Nord-Pas-de-Calais-Picardie,2995150
 Massy,France,Île-de-France,2995206
-Martigues,France,Provence-Alpes-Côte d'Azur,2995387
-Marseille,France,Provence-Alpes-Côte d'Azur,2995469
+Martigues,France,Provence-Alpes-Côte d Azur,2995387
+Marseille,France,Provence-Alpes-Côte d Azur,2995469
 Marmande,France,Aquitaine-Limousin-Poitou-Charentes,2995642
 Marly-le-Roi,France,Île-de-France,2995652
-Marignane,France,Provence-Alpes-Côte d'Azur,2995750
+Marignane,France,Provence-Alpes-Côte d Azur,2995750
 Marcq-en-Barœul,France,Nord-Pas-de-Calais-Picardie,2995908
 Mantes-la-Ville,France,Île-de-France,2996146
 Mantes-la-Jolie,France,Île-de-France,2996148
-Manosque,France,Provence-Alpes-Côte d'Azur,2996180
-Mandelieu-la-Napoule,France,Provence-Alpes-Côte d'Azur,2996255
+Manosque,France,Provence-Alpes-Côte d Azur,2996180
+Mandelieu-la-Napoule,France,Provence-Alpes-Côte d Azur,2996255
 Malakoff,France,Île-de-France,2996514
 Maisons-Laffitte,France,Île-de-France,2996564
 Maisons-Alfort,France,Île-de-France,2996568
@@ -6923,7 +6923,7 @@ Longjumeau,France,Île-de-France,2997712
 Lomme,France,Nord-Pas-de-Calais-Picardie,2997803
 Lognes,France,Île-de-France,2997904
 Livry-Gargan,France,Île-de-France,2998056
-L’Isle-sur-la-Sorgue,France,Provence-Alpes-Côte d'Azur,2998127
+L’Isle-sur-la-Sorgue,France,Provence-Alpes-Côte d Azur,2998127
 Lisieux,France,Normandy,2998150
 Lingolsheim,France,Alsace-Champagne-Ardenne-Lorraine,2998224
 Limoges,France,Aquitaine-Limousin-Poitou-Charentes,2998286
@@ -6932,11 +6932,11 @@ Limay,France,Île-de-France,2998311
 Lille,France,Nord-Pas-de-Calais-Picardie,2998324
 Liévin,France,Nord-Pas-de-Calais-Picardie,2998431
 Libourne,France,Aquitaine-Limousin-Poitou-Charentes,2998517
-L'Haÿ-les-Roses,France,Île-de-France,2998632
+L Haÿ-les-Roses,France,Île-de-France,2998632
 Le Vésinet,France,Île-de-France,2998854
 Levallois-Perret,France,Île-de-France,2998975
-Les Sables-d'Olonne,France,Pays de la Loire,2999683
-Les Pennes-Mirabeau,France,Provence-Alpes-Côte d'Azur,3000047
+Les Sables-d Olonne,France,Pays de la Loire,2999683
+Les Pennes-Mirabeau,France,Provence-Alpes-Côte d Azur,3000047
 Les Pavillons-sous-Bois,France,Île-de-France,3000060
 Les Mureaux,France,Île-de-France,3000192
 Les Lilas,France,Île-de-France,3000491
@@ -6944,7 +6944,7 @@ Les Herbiers,France,Pays de la Loire,3000648
 Les Clayes-sous-Bois,France,Île-de-France,3001402
 Le Puy-en-Velay,France,Auvergne-Rhône-Alpes,3002465
 Le Pré-Saint-Gervais,France,Île-de-France,3002499
-Le Pontet,France,Provence-Alpes-Côte d'Azur,3002570
+Le Pontet,France,Provence-Alpes-Côte d Azur,3002570
 Le Plessis-Trévise,France,Île-de-France,3002647
 Le Plessis-Robinson,France,Île-de-France,3002650
 Le Petit-Quevilly,France,Normandy,3002880
@@ -6958,15 +6958,15 @@ Le Havre,France,Normandy,3003796
 Le Grand-Quevilly,France,Normandy,3003952
 Le Creusot,France,Bourgogne-Franche-Comté,3004427
 Le Chesnay,France,Île-de-France,3004630
-Le Cannet,France,Provence-Alpes-Côte d'Azur,3004871
+Le Cannet,France,Provence-Alpes-Côte d Azur,3004871
 Le Bouscat,France,Aquitaine-Limousin-Poitou-Charentes,3005066
 Le Blanc-Mesnil,France,Île-de-France,3005269
 Laxou,France,Alsace-Champagne-Ardenne-Lorraine,3005417
-La Valette-du-Var,France,Provence-Alpes-Côte d'Azur,3005825
+La Valette-du-Var,France,Provence-Alpes-Côte d Azur,3005825
 Laval,France,Pays de la Loire,3005866
 Lattes,France,Languedoc-Roussillon-Midi-Pyrénées,3006121
 La Teste-de-Buch,France,Aquitaine-Limousin-Poitou-Charentes,3006283
-La Seyne-sur-Mer,France,Provence-Alpes-Côte d'Azur,3006414
+La Seyne-sur-Mer,France,Provence-Alpes-Côte d Azur,3006414
 La Roche-sur-Yon,France,Pays de la Loire,3006767
 La Rochelle,France,Aquitaine-Limousin-Poitou-Charentes,3006787
 Laon,France,Nord-Pas-de-Calais-Picardie,3007477
@@ -6977,23 +6977,23 @@ Lambersart,France,Nord-Pas-de-Calais-Picardie,3008218
 La Madeleine,France,Nord-Pas-de-Calais-Picardie,3008379
 Lagny-sur-Marne,France,Île-de-France,3009071
 La Garenne-Colombes,France,Île-de-France,3009169
-La Garde,France,Provence-Alpes-Côte d'Azur,3009223
+La Garde,France,Provence-Alpes-Côte d Azur,3009223
 La Flèche,France,Pays de la Loire,3009443
-La Crau,France,Provence-Alpes-Côte d'Azur,3009791
+La Crau,France,Provence-Alpes-Côte d Azur,3009791
 La Courneuve,France,Île-de-France,3009824
-La Ciotat,France,Provence-Alpes-Côte d'Azur,3010025
+La Ciotat,France,Provence-Alpes-Côte d Azur,3010025
 La Chapelle-sur-Erdre,France,Pays de la Loire,3010237
 La Celle-Saint-Cloud,France,Île-de-France,3010529
 Jouy-le-Moutier,France,Île-de-France,3012162
 Joué-lés-Tours,France,Centre,3012219
 Joinville-le-Pont,France,Île-de-France,3012313
 Ivry-sur-Seine,France,Île-de-France,3012621
-Istres,France,Provence-Alpes-Côte d'Azur,3012647
+Istres,France,Provence-Alpes-Côte d Azur,3012647
 Issy-les-Moulineaux,France,Île-de-France,3012649
 Issoire,France,Auvergne-Rhône-Alpes,3012664
 Illzach,France,Alsace-Champagne-Ardenne-Lorraine,3012829
 Illkirch-Graffenstaden,France,Alsace-Champagne-Ardenne-Lorraine,3012834
-Hyères,France,Provence-Alpes-Côte d'Azur,3012937
+Hyères,France,Provence-Alpes-Côte d Azur,3012937
 Houilles,France,Île-de-France,3013097
 Hérouville-Saint-Clair,France,Normandy,3013403
 Herblay,France,Île-de-France,3013477
@@ -7012,7 +7012,7 @@ Guéret,France,Aquitaine-Limousin-Poitou-Charentes,3014383
 Guérande,France,Pays de la Loire,3014392
 Grigny,France,Île-de-France,3014646
 Grenoble,France,Auvergne-Rhône-Alpes,3014728
-Grasse,France,Provence-Alpes-Côte d'Azur,3014856
+Grasse,France,Provence-Alpes-Côte d Azur,3014856
 Grande-Synthe,France,Nord-Pas-de-Calais-Picardie,3015160
 Gradignan,France,Aquitaine-Limousin-Poitou-Charentes,3015419
 Goussainville,France,Île-de-France,3015490
@@ -7023,16 +7023,16 @@ Gien,France,Centre,3016097
 Gentilly,France,Île-de-France,3016292
 Gennevilliers,France,Île-de-France,3016321
 Garges-lès-Gonesse,France,Île-de-France,3016621
-Gardanne,France,Provence-Alpes-Côte d'Azur,3016667
+Gardanne,France,Provence-Alpes-Côte d Azur,3016667
 Garches,France,Île-de-France,3016675
-Gap,France,Provence-Alpes-Côte d'Azur,3016702
+Gap,France,Provence-Alpes-Côte d Azur,3016702
 Gagny,France,Île-de-France,3016830
 Frontignan,France,Languedoc-Roussillon-Midi-Pyrénées,3016956
 Fresnes,France,Île-de-France,3017178
-Fréjus,France,Provence-Alpes-Côte d'Azur,3017253
+Fréjus,France,Provence-Alpes-Côte d Azur,3017253
 Franconville,France,Île-de-France,3017341
 Fougères,France,Brittany,3017609
-Fos-sur-Mer,France,Provence-Alpes-Côte d'Azur,3017651
+Fos-sur-Mer,France,Provence-Alpes-Côte d Azur,3017651
 Forbach,France,Alsace-Champagne-Ardenne-Lorraine,3017805
 Fontenay-sous-Bois,France,Île-de-France,3017910
 Fontenay-le-Comte,France,Pays de la Loire,3017921
@@ -7065,13 +7065,13 @@ Dunkerque,France,Nord-Pas-de-Calais-Picardie,3020686
 Dreux,France,Centre,3020810
 Draveil,France,Île-de-France,3020832
 Drancy,France,Île-de-France,3020839
-Draguignan,France,Provence-Alpes-Côte d'Azur,3020850
+Draguignan,France,Provence-Alpes-Côte d Azur,3020850
 Douarnenez,France,Brittany,3020996
 Douai,France,Nord-Pas-de-Calais-Picardie,3021000
 Domont,France,Île-de-France,3021150
 Dole,France,Bourgogne-Franche-Comté,3021263
 Dijon,France,Bourgogne-Franche-Comté,3021372
-Digne-les-Bains,France,Provence-Alpes-Côte d'Azur,3021382
+Digne-les-Bains,France,Provence-Alpes-Côte d Azur,3021382
 Dieppe,France,Normandy,3021411
 Deuil-la-Barre,France,Île-de-France,3021516
 Denain,France,Nord-Pas-de-Calais-Picardie,3021605
@@ -7136,21 +7136,21 @@ Cestas,France,Aquitaine-Limousin-Poitou-Charentes,3027763
 Cesson-Sévigné,France,Brittany,3027767
 Cergy,France,Île-de-France,3027883
 Cenon,France,Aquitaine-Limousin-Poitou-Charentes,3027950
-Cavaillon,France,Provence-Alpes-Côte d'Azur,3028134
+Cavaillon,France,Provence-Alpes-Côte d Azur,3028134
 Castres,France,Languedoc-Roussillon-Midi-Pyrénées,3028263
 Castelnau-le-Lez,France,Languedoc-Roussillon-Midi-Pyrénées,3028337
 Carvin,France,Nord-Pas-de-Calais-Picardie,3028486
 Carrières-sous-Poissy,France,Île-de-France,3028521
 Carquefou,France,Pays de la Loire,3028535
-Carpentras,France,Provence-Alpes-Côte d'Azur,3028542
+Carpentras,France,Provence-Alpes-Côte d Azur,3028542
 Carcassonne,France,Languedoc-Roussillon-Midi-Pyrénées,3028641
 Canteleu,France,Normandy,3028779
-Cannes,France,Provence-Alpes-Côte d'Azur,3028808
+Cannes,France,Provence-Alpes-Côte d Azur,3028808
 Cambrai,France,Nord-Pas-de-Calais-Picardie,3029030
 Caluire-et-Cuire,France,Auvergne-Rhône-Alpes,3029096
 Calais,France,Nord-Pas-de-Calais-Picardie,3029162
 Cahors,France,Languedoc-Roussillon-Midi-Pyrénées,3029213
-Cagnes-sur-Mer,France,Provence-Alpes-Côte d'Azur,3029227
+Cagnes-sur-Mer,France,Provence-Alpes-Côte d Azur,3029227
 Caen,France,Normandy,3029241
 Cachan,France,Île-de-France,3029276
 Bry-sur-Marne,France,Île-de-France,3029706
@@ -7158,7 +7158,7 @@ Brunoy,France,Île-de-France,3029748
 Bruay-la-Buissière,France,Nord-Pas-de-Calais-Picardie,3029825
 Bron,France,Auvergne-Rhône-Alpes,3029931
 Brive-la-Gaillarde,France,Aquitaine-Limousin-Poitou-Charentes,3029974
-Brignoles,France,Provence-Alpes-Côte d'Azur,3030057
+Brignoles,France,Provence-Alpes-Côte d Azur,3030057
 Brie-Comte-Robert,France,Île-de-France,3030101
 Brétigny-sur-Orge,France,Île-de-France,3030257
 Brest,France,Brittany,3030300
@@ -7203,7 +7203,7 @@ Bagnolet,France,Île-de-France,3035403
 Bagneux,France,Île-de-France,3035409
 Avon,France,Île-de-France,3035654
 Avion,France,Nord-Pas-de-Calais-Picardie,3035667
-Avignon,France,Provence-Alpes-Côte d'Azur,3035681
+Avignon,France,Provence-Alpes-Côte d Azur,3035681
 Auxerre,France,Bourgogne-Franche-Comté,3035843
 Autun,France,Bourgogne-Franche-Comté,3035883
 Aurillac,France,Auvergne-Rhône-Alpes,3036016
@@ -7211,17 +7211,17 @@ Aulnay-sous-Bois,France,Île-de-France,3036145
 Audincourt,France,Bourgogne-Franche-Comté,3036240
 Auch,France,Languedoc-Roussillon-Midi-Pyrénées,3036281
 Aubervilliers,France,Île-de-France,3036386
-Aubagne,France,Provence-Alpes-Côte d'Azur,3036433
+Aubagne,France,Provence-Alpes-Côte d Azur,3036433
 Athis-Mons,France,Île-de-France,3036460
 Asnières-sur-Seine,France,Île-de-France,3036572
 Arras,France,Nord-Pas-de-Calais-Picardie,3036784
 Armentières,France,Nord-Pas-de-Calais-Picardie,3036903
-Arles,France,Provence-Alpes-Côte d'Azur,3036938
+Arles,France,Provence-Alpes-Côte d Azur,3036938
 Argenteuil,France,Île-de-France,3037044
 Argentan,France,Normandy,3037051
 Arcueil,France,Île-de-France,3037157
 Antony,France,Île-de-France,3037423
-Antibes,France,Provence-Alpes-Côte d'Azur,3037456
+Antibes,France,Provence-Alpes-Côte d Azur,3037456
 Annonay,France,Auvergne-Rhône-Alpes,3037514
 Annemasse,France,Auvergne-Rhône-Alpes,3037538
 Annecy-le-Vieux,France,Auvergne-Rhône-Alpes,3037540
@@ -7230,7 +7230,7 @@ Angoulême,France,Aquitaine-Limousin-Poitou-Charentes,3037598
 Anglet,France,Aquitaine-Limousin-Poitou-Charentes,3037612
 Angers,France,Pays de la Loire,3037656
 Amiens,France,Nord-Pas-de-Calais-Picardie,3037854
-Allauch,France,Provence-Alpes-Côte d'Azur,3038159
+Allauch,France,Provence-Alpes-Côte d Azur,3038159
 Alfortville,France,Île-de-France,3038213
 Alès,France,Languedoc-Roussillon-Midi-Pyrénées,3038224
 Alençon,France,Normandy,3038230
@@ -7238,30 +7238,30 @@ Albi,France,Languedoc-Roussillon-Midi-Pyrénées,3038261
 Albertville,France,Auvergne-Rhône-Alpes,3038266
 Ajaccio,France,Corsica,3038334
 Aix-les-Bains,France,Auvergne-Rhône-Alpes,3038350
-Aix-en-Provence,France,Provence-Alpes-Côte d'Azur,3038354
+Aix-en-Provence,France,Provence-Alpes-Côte d Azur,3038354
 Agen,France,Aquitaine-Limousin-Poitou-Charentes,3038634
 Agde,France,Languedoc-Roussillon-Midi-Pyrénées,3038638
 Achères,France,Île-de-France,3038712
 Abbeville,France,Nord-Pas-de-Calais-Picardie,3038789
-Villeneuve-d'Ascq,France,Nord-Pas-de-Calais-Picardie,6543862
+Villeneuve-d Ascq,France,Nord-Pas-de-Calais-Picardie,6543862
 Les Ulis,France,Île-de-France,6615536
 Bourgoin-Jallieu,France,Auvergne-Rhône-Alpes,6615539
-Marseille 01,France,Provence-Alpes-Côte d'Azur,7284882
-Marseille 02,France,Provence-Alpes-Côte d'Azur,7284883
-Marseille 03,France,Provence-Alpes-Côte d'Azur,7284884
-Marseille 04,France,Provence-Alpes-Côte d'Azur,7284885
-Marseille 05,France,Provence-Alpes-Côte d'Azur,7284886
-Marseille 06,France,Provence-Alpes-Côte d'Azur,7284887
-Marseille 07,France,Provence-Alpes-Côte d'Azur,7284888
-Marseille 08,France,Provence-Alpes-Côte d'Azur,7284889
-Marseille 10,France,Provence-Alpes-Côte d'Azur,7284890
-Marseille 09,France,Provence-Alpes-Côte d'Azur,7284891
-Marseille 11,France,Provence-Alpes-Côte d'Azur,7284892
-Marseille 12,France,Provence-Alpes-Côte d'Azur,7284893
-Marseille 13,France,Provence-Alpes-Côte d'Azur,7284894
-Marseille 14,France,Provence-Alpes-Côte d'Azur,7284895
-Marseille 15,France,Provence-Alpes-Côte d'Azur,7284896
-Marseille 16,France,Provence-Alpes-Côte d'Azur,7284897
+Marseille 01,France,Provence-Alpes-Côte d Azur,7284882
+Marseille 02,France,Provence-Alpes-Côte d Azur,7284883
+Marseille 03,France,Provence-Alpes-Côte d Azur,7284884
+Marseille 04,France,Provence-Alpes-Côte d Azur,7284885
+Marseille 05,France,Provence-Alpes-Côte d Azur,7284886
+Marseille 06,France,Provence-Alpes-Côte d Azur,7284887
+Marseille 07,France,Provence-Alpes-Côte d Azur,7284888
+Marseille 08,France,Provence-Alpes-Côte d Azur,7284889
+Marseille 10,France,Provence-Alpes-Côte d Azur,7284890
+Marseille 09,France,Provence-Alpes-Côte d Azur,7284891
+Marseille 11,France,Provence-Alpes-Côte d Azur,7284892
+Marseille 12,France,Provence-Alpes-Côte d Azur,7284893
+Marseille 13,France,Provence-Alpes-Côte d Azur,7284894
+Marseille 14,France,Provence-Alpes-Côte d Azur,7284895
+Marseille 15,France,Provence-Alpes-Côte d Azur,7284896
+Marseille 16,France,Provence-Alpes-Côte d Azur,7284897
 La Defense,France,Île-de-France,8504417
 Saint-Quentin-en-Yvelines,France,Île-de-France,8533870
 Cergy-Pontoise,France,Île-de-France,8555643
@@ -7560,7 +7560,7 @@ Kirkby,United Kingdom,England,2645313
 Kingswood,United Kingdom,England,2645418
 Kingswinford,United Kingdom,England,2645420
 Hull,United Kingdom,England,2645425
-King's Lynn,United Kingdom,England,2645456
+King s Lynn,United Kingdom,England,2645456
 Kilwinning,United Kingdom,Scotland,2645541
 Kilmarnock,United Kingdom,Scotland,2645605
 Kidsgrove,United Kingdom,England,2645721
@@ -7787,13 +7787,13 @@ Shetland,United Kingdom,Scotland,8299621
 Orkney,United Kingdom,Scotland,8299623
 Holloway,United Kingdom,England,8315400
 Harringay,United Kingdom,England,8581595
-Saint George's,Grenada,Saint George,3579925
+Saint George s,Grenada,Saint George,3579925
 Zugdidi,Georgia,Samegrelo and Zemo Svaneti,610824
 Zestap’oni,Georgia,Imereti,610864
 Ts’khinvali,Georgia,Shida Kartli,611403
-Tqvarch'eli,Georgia,Abkhazia,611583
+Tqvarch eli,Georgia,Abkhazia,611583
 Telavi,Georgia,Kakheti,611694
-Tbilisi,Georgia,T'bilisi,611717
+Tbilisi,Georgia,T bilisi,611717
 Sokhumi,Georgia,Abkhazia,611847
 Senak’i,Georgia,Samegrelo and Zemo Svaneti,612053
 Samtredia,Georgia,Imereti,612126
@@ -8734,7 +8734,7 @@ Rishon LeẔiyyon,Israel,Central District,293703
 Ramla,Israel,Central District,293768
 Ramat HaSharon,Israel,Tel Aviv,293783
 Ramat Gan,Israel,Tel Aviv,293788
-Ra'anana,Israel,Central District,293807
+Ra anana,Israel,Central District,293807
 Qiryat Yam,Israel,Haifa,293822
 Qiryat Shemona,Israel,Northern District,293825
 Qiryat Moẕqin,Israel,Haifa,293831
@@ -11521,7 +11521,7 @@ Ribera,Italy,Sicily,2523619
 Reggio Calabria,Italy,Calabria,2523630
 Ragusa,Italy,Sicily,2523650
 Quattromiglia,Italy,Calabria,2523664
-Quartu Sant'Elena,Italy,Sardinia,2523665
+Quartu Sant Elena,Italy,Sardinia,2523665
 Pozzallo,Italy,Sicily,2523693
 Porto Empedocle,Italy,Sicily,2523705
 Piazza Armerina,Italy,Sicily,2523796
@@ -11665,9 +11665,9 @@ Saronno,Italy,Lombardy,3167113
 Sarno,Italy,Campania,3167116
 San Vito dei Normanni,Italy,Apulia,3167184
 Santeramo in Colle,Italy,Apulia,3167327
-Sant'Antonio Abate,Italy,Campania,3167393
-Sant'Antimo,Italy,Campania,3167419
-Sant'Anastasia,Italy,Campania,3167509
+Sant Antonio Abate,Italy,Campania,3167393
+Sant Antimo,Italy,Campania,3167419
+Sant Anastasia,Italy,Campania,3167509
 Santa Maria Capua Vetere,Italy,Campania,3167561
 San Severo,Italy,Apulia,3167731
 San Sebastiano,Italy,Lombardy,3167744
@@ -11707,7 +11707,7 @@ Rimini,Italy,Emilia-Romagna,3169361
 Rieti,Italy,Latium,3169412
 Riccione,Italy,Emilia-Romagna,3169424
 Rho,Italy,Lombardy,3169447
-Reggio nell'Emilia,Italy,Emilia-Romagna,3169522
+Reggio nell Emilia,Italy,Emilia-Romagna,3169522
 Ravenna,Italy,Emilia-Romagna,3169561
 Rapallo,Italy,Liguria,3169602
 Qualiano,Italy,Campania,3169724
@@ -11716,7 +11716,7 @@ Prato,Italy,Tuscany,3169921
 Pozzuoli,Italy,Campania,3169984
 Potenza,Italy,Basilicate,3170027
 Porto Torres,Italy,Sardinia,3170069
-Porto Sant'Elpidio,Italy,The Marches,3170072
+Porto Sant Elpidio,Italy,The Marches,3170072
 Porto San Giorgio,Italy,The Marches,3170073
 Portogruaro,Italy,Veneto,3170086
 Civitanova Marche,Italy,The Marches,3170102
@@ -11724,7 +11724,7 @@ Portici,Italy,Campania,3170116
 Pordenone,Italy,Friuli Venezia Giulia,3170147
 Pontedera,Italy,Tuscany,3170272
 Pompei,Italy,Campania,3170335
-Pomigliano d'Arco,Italy,Campania,3170341
+Pomigliano d Arco,Italy,Campania,3170341
 Pomezia,Italy,Latium,3170342
 Poggiomarino,Italy,Campania,3170457
 Poggibonsi,Italy,Tuscany,3170504
@@ -11743,7 +11743,7 @@ Pavia,Italy,Lombardy,3171366
 Parma,Italy,Emilia-Romagna,3171457
 Parabiago,Italy,Lombardy,3171484
 Palo del Colle,Italy,Apulia,3171562
-Palazzolo sull'Oglio,Italy,Lombardy,3171586
+Palazzolo sull Oglio,Italy,Lombardy,3171586
 Palagiano,Italy,Apulia,3171664
 Pagani,Italy,Campania,3171703
 Padova,Italy,Veneto,3171728
@@ -11836,7 +11836,7 @@ Lecco,Italy,Lombardy,3174945
 Lecce,Italy,Apulia,3174953
 Latina,Italy,Latium,3175058
 La Spezia,Italy,Liguria,3175081
-L'Aquila,Italy,Abruzzo,3175121
+L Aquila,Italy,Abruzzo,3175121
 Lanciano,Italy,Abruzzo,3175173
 Lainate,Italy,Lombardy,3175238
 Ladispoli,Italy,Latium,3175298
@@ -11924,7 +11924,7 @@ Como,Italy,Lombardy,3178229
 Cologno Monzese,Italy,Lombardy,3178283
 Collegno,Italy,Piedmont,3178388
 Colleferro,Italy,Latium,3178398
-Colle di Val d'Elsa,Italy,Tuscany,3178402
+Colle di Val d Elsa,Italy,Tuscany,3178402
 Civitavecchia,Italy,Latium,3178587
 Città di Castello,Italy,Umbria,3178619
 Cisterna di Latina,Italy,Latium,3178631
@@ -11957,7 +11957,7 @@ Castellammare di Stabia,Italy,Campania,3179661
 Castelfranco Veneto,Italy,Veneto,3179684
 Castelfranco Emilia,Italy,Emilia-Romagna,3179686
 Cassino,Italy,Latium,3179781
-Cassano d'Adda,Italy,Lombardy,3179795
+Cassano d Adda,Italy,Lombardy,3179795
 Casoria,Italy,Campania,3179806
 Caserta,Italy,Campania,3179866
 Cascina,Italy,Tuscany,3179977
@@ -12086,7 +12086,7 @@ Wādī as Sīr,Jordan,Amman,246013
 Umm as Summāq,Jordan,Amman,246314
 Saḩāb,Jordan,Amman,247105
 Mādabā,Jordan,Madaba,248370
-Ma'an,Jordan,Ma’an,248382
+Ma an,Jordan,Ma’an,248382
 Kurayyimah,Jordan,Irbid,248414
 Judita,Jordan,Irbid,248803
 Jarash,Jordan,Jerash,248875
@@ -12882,7 +12882,7 @@ Kilifi,Kenya,Kilifi,192067
 Kiambu,Kenya,Kiambu,192710
 Keruguya,Kenya,Kirinyaga,192859
 Kericho,Kenya,Kericho,192900
-Karuri,Kenya,Murang'A,193627
+Karuri,Kenya,Murang A,193627
 Kapenguria,Kenya,West Pokot,194160
 Kakamega,Kenya,Kakamega,195272
 Kabarnet,Kenya,Baringo,195821
@@ -12955,17 +12955,17 @@ T’ongch’ŏn-ŭp,North Korea,Kangwŏn-do,1867927
 Sŭngho 1-tong,North Korea,Pyongyang,1868998
 Sunan,North Korea,Pyongyang,1869021
 Songnim,North Korea,Hwanghae-bukto,1869446
-Sil-li,North Korea,P'yŏngan-namdo,1870413
+Sil-li,North Korea,P yŏngan-namdo,1870413
 Sinmak,North Korea,Hwanghae-bukto,1870434
-Sinanju,North Korea,P'yŏngan-namdo,1870742
+Sinanju,North Korea,P yŏngan-namdo,1870742
 Sariwŏn,North Korea,Hwanghae-bukto,1870883
 Samho-rodongjagu,North Korea,Hamgyŏng-namdo,1871484
 Pyongyang,North Korea,Pyongyang,1871859
-P’yŏngsŏng,North Korea,P'yŏngan-namdo,1871871
+P’yŏngsŏng,North Korea,P yŏngan-namdo,1871871
 Ongjin,North Korea,Hwanghae-namdo,1873172
-Namp’o,North Korea,P'yŏngan-namdo,1873757
-Kusŏng,North Korea,P'yŏngan-bukto,1875107
-Kujang-ŭp,North Korea,P'yŏngan-bukto,1875506
+Namp’o,North Korea,P yŏngan-namdo,1873757
+Kusŏng,North Korea,P yŏngan-bukto,1875107
+Kujang-ŭp,North Korea,P yŏngan-bukto,1875506
 Kowŏn-ŭp,North Korea,Hamgyŏng-namdo,1875588
 Kosan,North Korea,Kangwŏn-do,1875632
 Kangdong-ŭp,North Korea,Pyongyang,1876153
@@ -12977,18 +12977,18 @@ Hoeyang,North Korea,Kangwŏn-do,1877148
 Hamhŭng,North Korea,Hamgyŏng-namdo,1877449
 Haeju,North Korea,Hwanghae-namdo,1877615
 Chunghwa,North Korea,Pyongyang,1877872
-Chŏngju,North Korea,P'yŏngan-bukto,1878389
+Chŏngju,North Korea,P yŏngan-bukto,1878389
 Changyŏn,North Korea,Hwanghae-namdo,1879029
 Chaeryŏng-ŭp,North Korea,Hwanghae-namdo,1879487
 Ayang-ni,North Korea,Hwanghae-namdo,1879544
-Anju,North Korea,P'yŏngan-namdo,1879613
+Anju,North Korea,P yŏngan-namdo,1879613
 Anbyŏn-ŭp,North Korea,Kangwŏn-do,1879672
 Anak,North Korea,Hwanghae-bukto,1879682
 Yuktae-dong,North Korea,Hamgyŏng-namdo,2038854
-Ŭiju,North Korea,P'yŏngan-bukto,2039623
+Ŭiju,North Korea,P yŏngan-bukto,2039623
 Sŏnbong,North Korea,Rason,2040674
-Sinŭiju,North Korea,P'yŏngan-bukto,2040893
-Sakchu-ŭp,North Korea,P'yŏngan-bukto,2041533
+Sinŭiju,North Korea,P yŏngan-bukto,2040893
+Sakchu-ŭp,North Korea,P yŏngan-bukto,2041533
 Yŏnggwang-ŭp,North Korea,Hamgyŏng-namdo,2042249
 Onsŏng,North Korea,Hamgyŏng-bukto,2042267
 Nanam,North Korea,Hamgyŏng-bukto,2042498
@@ -13016,7 +13016,7 @@ Eisen,South Korea,Gyeongsangbuk-do,1832617
 Yeoju,South Korea,Gyeonggi-do,1832743
 Yesan,South Korea,Chungcheongnam-do,1832771
 Yangsan,South Korea,Gyeongsangnam-do,1832828
-Yangp'yŏng,South Korea,Gyeonggi-do,1832830
+Yangp yŏng,South Korea,Gyeonggi-do,1832830
 Yangju,South Korea,Gyeonggi-do,1832847
 Yanggu,South Korea,Gangwon-do,1832909
 Wŏnju,South Korea,Gangwon-do,1833105
@@ -13073,7 +13073,7 @@ Goseong,South Korea,Gyeongsangnam-do,1842518
 Gongju,South Korea,Chungcheongnam-do,1842616
 Kyosai,South Korea,Gyeongsangnam-do,1842754
 Koesan,South Korea,Chungcheongbuk-do,1842800
-Koch'ang,South Korea,Jeollabuk-do,1842859
+Koch ang,South Korea,Jeollabuk-do,1842859
 Kimje,South Korea,Jeollabuk-do,1842939
 Kimhae,South Korea,Gyeongsangnam-do,1842943
 Gimcheon,South Korea,Gyeongsangbuk-do,1842944
@@ -13098,7 +13098,7 @@ Cheongsong gun,South Korea,Gyeongsangbuk-do,1845519
 Cheongju-si,South Korea,Chungcheongbuk-do,1845604
 Cheonan,South Korea,Chungcheongnam-do,1845759
 Chinju,South Korea,Gyeongsangnam-do,1846052
-Chinch'ŏn,South Korea,Chungcheongbuk-do,1846095
+Chinch ŏn,South Korea,Chungcheongbuk-do,1846095
 Jinan-gun,South Korea,Jeollabuk-do,1846114
 Jeju City,South Korea,Jeju-do,1846266
 Changwon,South Korea,Gyeongsangnam-do,1846326
@@ -13559,7 +13559,7 @@ Fenoarivo Be,Madagascar,Bongolava,1064978
 Fenoarivo Atsinanana,Madagascar,Analanjirofo,1064980
 Faratsiho,Madagascar,Vakinankaratra,1065140
 Farafangana,Madagascar,Atsimo-Atsinanana,1065158
-Fandriana,Madagascar,Amoron'i Mania,1065222
+Fandriana,Madagascar,Amoron i Mania,1065222
 Betioky,Madagascar,Atsimo-Andrefana,1066310
 Betafo,Madagascar,Vakinankaratra,1066514
 Beroroha,Madagascar,Atsimo-Andrefana,1066831
@@ -13586,14 +13586,14 @@ Amparafaravola,Madagascar,Alaotra Mangoro,1078446
 Ampanihy,Madagascar,Atsimo-Andrefana,1078553
 Ampahana,Madagascar,Sava,1078966
 Ambovombe,Madagascar,Androy,1079048
-Ambositra,Madagascar,Amoron'i Mania,1079088
+Ambositra,Madagascar,Amoron i Mania,1079088
 Ambohitrolomahitsy,Madagascar,Analamanga,1079777
 Amboasary,Madagascar,Anosy,1081790
 Amboanjo,Madagascar,Vatovavy Fitovinany,1081863
 Ambilobe,Madagascar,Diana,1082243
 Ambatondrazaka,Madagascar,Alaotra Mangoro,1082639
 Ambatolampy,Madagascar,Vakinankaratra,1082992
-Ambatofinandrahana,Madagascar,Amoron'i Mania,1083239
+Ambatofinandrahana,Madagascar,Amoron i Mania,1083239
 Ambato Boeny,Madagascar,Boeny,1083257
 Ambarakaraka,Madagascar,Diana,1083676
 Ambanja,Madagascar,Diana,1083724
@@ -14916,8 +14916,8 @@ Sneek,Netherlands,Friesland,2747063
 Sliedrecht,Netherlands,South Holland,2747169
 Sittard,Netherlands,Limburg,2747203
 Sint-Oedenrode,Netherlands,North Brabant,2747227
-'s-Hertogenbosch,Netherlands,North Brabant,2747351
-'s-Gravenzande,Netherlands,South Holland,2747364
+ s-Hertogenbosch,Netherlands,North Brabant,2747351
+ s-Gravenzande,Netherlands,South Holland,2747364
 The Hague,Netherlands,South Holland,2747373
 Schijndel,Netherlands,North Brabant,2747584
 Schiedam,Netherlands,South Holland,2747596
@@ -15188,12 +15188,12 @@ Palmerston North,New Zealand,Manawatu-Wanganui,2185018
 North Shore,New Zealand,Auckland,2185964
 New Plymouth,New Zealand,Taranaki,2186239
 Nelson,New Zealand,Nelson,2186280
-Napier,New Zealand,Hawke's Bay,2186313
+Napier,New Zealand,Hawke s Bay,2186313
 Manukau City,New Zealand,Auckland,2187404
 Mangere,New Zealand,Auckland,2187454
 Lower Hutt,New Zealand,Wellington,2188164
 Invercargill,New Zealand,Southland,2189529
-Hastings,New Zealand,Hawke's Bay,2190224
+Hastings,New Zealand,Hawke s Bay,2190224
 Hamilton,New Zealand,Waikato,2190324
 Dunedin,New Zealand,Otago,2191562
 Christchurch,New Zealand,Canterbury,2192362
@@ -15210,7 +15210,7 @@ Cambridge,New Zealand,Waikato,6240770
 Rotorua,New Zealand,Bay of Plenty,6241325
 Blenheim,New Zealand,Marlborough,6243926
 Upper Hutt,New Zealand,Wellington,6244895
-Taradale,New Zealand,Hawke's Bay,6246634
+Taradale,New Zealand,Hawke s Bay,6246634
 Waitakere,New Zealand,Auckland,7302484
 Sur,Oman,Ash Sharqiyah South Governorate,286245
 Sohar,Oman,Al Batinah North Governorate,286282
@@ -16880,11 +16880,11 @@ Zhukovka,Russia,Brjansk,462822
 Zhirnovsk,Russia,Volgograd,462984
 Zhigulevsk,Russia,Samara,463082
 Zherdevka,Russia,Tambov,463217
-Zheleznovodsk,Russia,Stavropol'skiy,463340
+Zheleznovodsk,Russia,Stavropol skiy,463340
 Zheleznogorsk,Russia,Kursk,463343
 Zheleznodorozhnyy,Russia,MO,463355
 Zernograd,Russia,Rostov,463637
-Zelenokumsk,Russia,Stavropol'skiy,463824
+Zelenokumsk,Russia,Stavropol skiy,463824
 Zelenograd,Russia,Moscow,463829
 Zelenodolsk,Russia,Tatarstan,463835
 Zelenchukskaya,Russia,Karachayevo-Cherkesiya,463885
@@ -16897,8 +16897,8 @@ Zainsk,Russia,Tatarstan,465543
 Yur’yev-Pol’skiy,Russia,Vladimir,466215
 Yoshkar-Ola,Russia,Mariy-El,466806
 Yeysk,Russia,Krasnodarskiy,466885
-Yessentukskaya,Russia,Stavropol'skiy,466989
-Yessentuki,Russia,Stavropol'skiy,466990
+Yessentukskaya,Russia,Stavropol skiy,466989
+Yessentuki,Russia,Stavropol skiy,466990
 Yershov,Russia,Saratov,467120
 Yemva,Russia,Komi Republic,467525
 Yelizavetinskaya,Russia,Krasnodarskiy,467854
@@ -17008,12 +17008,12 @@ Taganrog,Russia,Rostov,484907
 Taganskiy,Russia,Moscow,484912
 Syzran’,Russia,Samara,484972
 Syktyvkar,Russia,Komi Republic,485239
-Svobody,Russia,Stavropol'skiy,485432
+Svobody,Russia,Stavropol skiy,485432
 Sviblovo,Russia,Moscow,485630
 Svetogorsk,Russia,Leningrad,485639
 Svetlyy,Russia,Kaliningrad,485660
-Svetlograd,Russia,Stavropol'skiy,485698
-Suvorovskaya,Russia,Stavropol'skiy,485871
+Svetlograd,Russia,Stavropol skiy,485698
+Suvorovskaya,Russia,Stavropol skiy,485871
 Suvorov,Russia,Tula,485888
 Surovikino,Russia,Volgograd,486071
 Surkhakhi,Russia,Ingushetiya,486110
@@ -17023,7 +17023,7 @@ Strunino,Russia,Vladimir,487095
 Stroitel’,Russia,Belgorod,487147
 Strogino,Russia,Moscow,487150
 Sterlitamak,Russia,Bashkortostan,487495
-Stavropol’,Russia,Stavropol'skiy,487846
+Stavropol’,Russia,Stavropol skiy,487846
 Staryy Oskol,Russia,Belgorod,487928
 Staroshcherbinovskaya,Russia,Krasnodarskiy,488635
 Starominskaya,Russia,Krasnodarskiy,488742
@@ -17060,7 +17060,7 @@ Sibay,Russia,Bashkortostan,493160
 Shuya,Russia,Ivanovo,493231
 Shushary,Russia,St.-Petersburg,493316
 Shumerlya,Russia,Chuvashia,493463
-Mikhaylovsk,Russia,Stavropol'skiy,493702
+Mikhaylovsk,Russia,Stavropol skiy,493702
 Shilovo,Russia,Rjazan,494427
 Sheksna,Russia,Vologda,495062
 Shebekino,Russia,Belgorod,495112
@@ -17127,7 +17127,7 @@ Razumnoye,Russia,Belgorod,502400
 Rayevskiy,Russia,Bashkortostan,502540
 Rasskazovo,Russia,Tambov,502793
 Ramenki,Russia,Moscow,502971
-Pyatigorsk,Russia,Stavropol'skiy,503550
+Pyatigorsk,Russia,Stavropol skiy,503550
 Pushkino,Russia,MO,503977
 Pushkin,Russia,St.-Petersburg,504003
 Pushchino,Russia,MO,504042
@@ -17218,7 +17218,7 @@ Novotitarovskaya,Russia,Krasnodarskiy,517842
 Novoshakhtinsk,Russia,Rostov,517963
 Novorossiysk,Russia,Krasnodarskiy,518255
 Novopokrovskaya,Russia,Krasnodarskiy,518325
-Novopavlovsk,Russia,Stavropol'skiy,518383
+Novopavlovsk,Russia,Stavropol skiy,518383
 Novomoskovsk,Russia,Tula,518557
 Novomichurinsk,Russia,Rjazan,518602
 Novokuz’minki,Russia,Moscow,518657
@@ -17230,7 +17230,7 @@ Novodvinsk,Russia,Arkhangelskaya,518909
 Novocherkassk,Russia,Rostov,518970
 Novocheboksarsk,Russia,Chuvashia,518976
 Novoanninskiy,Russia,Volgograd,519062
-Novoaleksandrovsk,Russia,Stavropol'skiy,519106
+Novoaleksandrovsk,Russia,Stavropol skiy,519106
 Velikiy Novgorod,Russia,Novgorod,519336
 Novaya Usman’,Russia,Voronezj,519447
 Novaya Derevnya,Russia,St.-Petersburg,519711
@@ -17246,8 +17246,8 @@ Nikol’skoye,Russia,Leningrad,521509
 Nikol’sk,Russia,Penza,521776
 Nikolayevsk,Russia,Volgograd,521874
 Nikel’,Russia,Murmansk,522260
-Nezlobnaya,Russia,Stavropol'skiy,522301
-Nevinnomyssk,Russia,Stavropol'skiy,522377
+Nezlobnaya,Russia,Stavropol skiy,522301
+Nevinnomyssk,Russia,Stavropol skiy,522377
 Nevel’,Russia,Pskov,522410
 Nesterovskaya,Russia,Ingushetiya,522470
 Nerekhta,Russia,Kostroma,522594
@@ -17256,7 +17256,7 @@ Neftekamsk,Russia,Bashkortostan,522942
 Neftegorsk,Russia,Samara,522945
 Nazran’,Russia,Ingushetiya,523064
 Navashino,Russia,Nizjnij Novgorod,523198
-Nar'yan-Mar,Russia,Nenetskiy Avtonomnyy Okrug,523392
+Nar yan-Mar,Russia,Nenetskiy Avtonomnyy Okrug,523392
 Nartkala,Russia,Kabardino-Balkariya,523405
 Naro-Fominsk,Russia,MO,523426
 Nal’chik,Russia,Kabardino-Balkariya,523523
@@ -17276,7 +17276,7 @@ Morozovsk,Russia,Rostov,525162
 Monino,Russia,MO,525396
 Monchegorsk,Russia,Murmansk,525404
 Mirnyy,Russia,Arkhangelskaya,526346
-Mineralnye Vody,Russia,Stavropol'skiy,526480
+Mineralnye Vody,Russia,Stavropol skiy,526480
 Millerovo,Russia,Rostov,526558
 Mikhaylovka,Russia,Volgograd,527012
 Mikhalkovo,Russia,Moscow,527057
@@ -17324,7 +17324,7 @@ Lianozovo,Russia,Moscow,535330
 L’govskiy,Russia,Kursk,535334
 Levoberezhnaya,Russia,MO,535451
 Komendantsky aerodrom,Russia,St.-Petersburg,535729
-Lermontov,Russia,Stavropol'skiy,535886
+Lermontov,Russia,Stavropol skiy,535886
 Leonovo,Russia,Moscow,535966
 Leninskiye Gory,Russia,MO,536098
 Leninsk,Russia,Volgograd,536156
@@ -17369,7 +17369,7 @@ Krasnoye Selo,Russia,St.-Petersburg,542000
 Krasnovishersk,Russia,Perm,542184
 Krasnoufimsk,Russia,Sverdlovsk,542199
 Krasnokamsk,Russia,Perm,542327
-Krasnogvardeyskoye,Russia,Stavropol'skiy,542334
+Krasnogvardeyskoye,Russia,Stavropol skiy,542334
 Krasnogorsk,Russia,MO,542374
 Krasnodar,Russia,Krasnodarskiy,542420
 Krasnoarmeyskaya,Russia,Krasnodarskiy,542461
@@ -17411,7 +17411,7 @@ Klimovsk,Russia,MO,547560
 Kizlyar,Russia,Dagestan,547840
 Kizilyurt,Russia,Dagestan,547849
 Kizel,Russia,Perm,547875
-Kislovodsk,Russia,Stavropol'skiy,548114
+Kislovodsk,Russia,Stavropol skiy,548114
 Kirzhach,Russia,Vladimir,548278
 Kirsanov,Russia,Tambov,548330
 Kirovsk,Russia,Murmansk,548391
@@ -17427,7 +17427,7 @@ Kinel’-Cherkassy,Russia,Samara,548622
 Kinel’,Russia,Samara,548625
 Kimry,Russia,Tverskaya,548652
 Kimovsk,Russia,Tula,548658
-Khot'kovo,Russia,MO,549373
+Khot kovo,Russia,MO,549373
 Khosta,Russia,Krasnodarskiy,549424
 Khoroshëvo-Mnevniki,Russia,MO,549479
 Kholmskiy,Russia,Krasnodarskiy,549741
@@ -17462,7 +17462,7 @@ Kalach-na-Donu,Russia,Volgograd,554397
 Kalach,Russia,Voronezj,554410
 Kachkanar,Russia,Sverdlovsk,554599
 Kabanovo,Russia,MO,554679
-Izobil’nyy,Russia,Stavropol'skiy,554770
+Izobil’nyy,Russia,Stavropol skiy,554770
 Izmaylovo,Russia,MO,554787
 Izhevsk,Russia,Udmurtiya,554840
 Izberbash,Russia,Dagestan,554894
@@ -17471,9 +17471,9 @@ Ivanovskoye,Russia,Moscow,555129
 Ivanovo,Russia,Ivanovo,555312
 Istra,Russia,MO,555746
 Ishimbay,Russia,Bashkortostan,555980
-Ipatovo,Russia,Stavropol'skiy,556230
+Ipatovo,Russia,Stavropol skiy,556230
 Inza,Russia,Ulyanovsk,556283
-Inozemtsevo,Russia,Stavropol'skiy,556320
+Inozemtsevo,Russia,Stavropol skiy,556320
 Il’skiy,Russia,Krasnodarskiy,556951
 Igra,Russia,Udmurtiya,557469
 Gus’-Khrustal’nyy,Russia,Vladimir,557775
@@ -17489,7 +17489,7 @@ Groznyy,Russia,Chechnya,558418
 Gribanovskiy,Russia,Voronezj,558799
 Grazhdanka,Russia,St.-Petersburg,559029
 Goryachiy Klyuch,Russia,Krasnodarskiy,559317
-Goryachevodskiy,Russia,Stavropol'skiy,559320
+Goryachevodskiy,Russia,Stavropol skiy,559320
 Gorodishche,Russia,Volgograd,559654
 Gorodets,Russia,Nizjnij Novgorod,559678
 Gorelovo,Russia,St.-Petersburg,560142
@@ -17497,7 +17497,7 @@ Gol’yanovo,Russia,Moscow,560465
 Golitsyno,Russia,MO,560756
 Glazov,Russia,Udmurtiya,561347
 Giaginskaya,Russia,Adygeya,561515
-Georgiyevsk,Russia,Stavropol'skiy,561627
+Georgiyevsk,Russia,Stavropol skiy,561627
 Gelendzhik,Russia,Krasnodarskiy,561667
 Gay,Russia,Orenburg,561731
 Gavrilov-Yam,Russia,Jaroslavl,561762
@@ -17524,14 +17524,14 @@ Dyat’kovo,Russia,Brjansk,563822
 Dubovka,Russia,Volgograd,564654
 Dubna,Russia,MO,564719
 Dorogomilovo,Russia,MO,565197
-Donskoye,Russia,Stavropol'skiy,565289
+Donskoye,Russia,Stavropol skiy,565289
 Donskoy,Russia,Tula,565290
 Donetsk,Russia,Rostov,565348
 Domodedovo,Russia,MO,565381
 Dolgoprudnyy,Russia,MO,565614
 Dobryanka,Russia,Perm,565778
 Dmitrov,Russia,MO,565955
-Divnoye,Russia,Stavropol'skiy,566155
+Divnoye,Russia,Stavropol skiy,566155
 Dinskaya,Russia,Krasnodarskiy,566181
 Dimitrovgrad,Russia,Ulyanovsk,566199
 Desnogorsk,Russia,Smolensk,566384
@@ -17568,7 +17568,7 @@ Businovo,Russia,Moscow,570636
 Buinsk,Russia,Tatarstan,571155
 Buguruslan,Russia,Orenburg,571159
 Bugul’ma,Russia,Tatarstan,571170
-Budënnovsk,Russia,Stavropol'skiy,571306
+Budënnovsk,Russia,Stavropol skiy,571306
 Bryukhovetskaya,Russia,Krasnodarskiy,571420
 Bryansk,Russia,Brjansk,571476
 Bronnitsy,Russia,MO,571557
@@ -17585,7 +17585,7 @@ Bogorodsk,Russia,Nizjnij Novgorod,575560
 Bogoroditsk,Russia,Tula,575591
 Bobrov,Russia,Voronezj,575948
 Blagoveshchensk,Russia,Bashkortostan,576116
-Blagodarnyy,Russia,Stavropol'skiy,576172
+Blagodarnyy,Russia,Stavropol skiy,576172
 Biryulëvo,Russia,Moscow,576279
 Birsk,Russia,Bashkortostan,576317
 Bibirevo,Russia,Moscow,576432
@@ -17621,7 +17621,7 @@ Avtovo,Russia,St.-Petersburg,580222
 Atkarsk,Russia,Saratov,580420
 Astrakhan,Russia,Astrakhan,580497
 Asha,Russia,Chelyabinsk,580660
-Arzgir,Russia,Stavropol'skiy,580716
+Arzgir,Russia,Stavropol skiy,580716
 Arzamas,Russia,Nizjnij Novgorod,580724
 Arsk,Russia,Tatarstan,580850
 Armavir,Russia,Krasnodarskiy,580922
@@ -17639,7 +17639,7 @@ Al’met’yevsk,Russia,Tatarstan,582432
 Aleksin,Russia,Tula,582750
 Alekseyevka,Russia,MO,582846
 Alekseyevka,Russia,Belgorod,582956
-Aleksandrovskoye,Russia,Stavropol'skiy,582993
+Aleksandrovskoye,Russia,Stavropol skiy,582993
 Aleksandrovsk,Russia,Perm,583041
 Aleksandrov,Russia,Vladimir,583350
 Alatyr’,Russia,Chuvashia,583437
@@ -17655,7 +17655,7 @@ Abinsk,Russia,Krasnodarskiy,584441
 Abdulino,Russia,Orenburg,584471
 Vasil’yevo,Russia,Tatarstan,611182
 Ryl’sk,Russia,Kursk,695019
-Neftekumsk,Russia,Stavropol'skiy,797781
+Neftekumsk,Russia,Stavropol skiy,797781
 Alagir,Russia,North Ossetia,802078
 Persianovka,Russia,Rostov,802714
 Annino,Russia,MO,819552
@@ -17667,7 +17667,7 @@ Trëkhgornyy,Russia,Chelyabinsk,830844
 Mirnyy,Russia,Arkhangelskaya,831129
 Znamensk,Russia,Astrakhan,831130
 Zarechnyy,Russia,Penza,831165
-Kochubeyevskoye,Russia,Stavropol'skiy,841006
+Kochubeyevskoye,Russia,Stavropol skiy,841006
 Vnukovo,Russia,MO,857689
 Moskovskiy,Russia,Moscow,857690
 Usinsk,Russia,Komi Republic,863061
@@ -17908,7 +17908,7 @@ Arsen’yev,Russia,Primorskiy,2027468
 Angarsk,Russia,Irkutsk,2027667
 Amursk,Russia,Khabarovsk Krai,2027749
 Aldan,Russia,Sakha,2027968
-Dal'negorsk,Russia,Primorskiy,2051471
+Dal negorsk,Russia,Primorskiy,2051471
 Bratsk,Russia,Irkutsk,2051523
 Sayansk,Russia,Irkutsk,2055166
 Khabarovsk Vtoroy,Russia,Khabarovsk Krai,2056752
@@ -17946,7 +17946,7 @@ Kurortnyy,Russia,Leningrad,8436165
 Chernaya Rechka,Russia,Leningrad,8504946
 Untolovo,Russia,Leningrad,8504947
 Petrogradka,Russia,St.-Petersburg,8504948
-Vasyl'evsky Ostrov,Russia,St.-Petersburg,8504949
+Vasyl evsky Ostrov,Russia,St.-Petersburg,8504949
 Parnas,Russia,Leningrad,8504950
 Kalininskiy,Russia,Leningrad,8504951
 Krasnogvargeisky,Russia,St.-Petersburg,8504952
@@ -17990,7 +17990,7 @@ Mecca,Saudi Arabia,Makkah,104515
 Khamis Mushait,Saudi Arabia,Minţaqat ‘Asīr,105072
 Jizan,Saudi Arabia,Jizan,105299
 Jeddah,Saudi Arabia,Makkah,105343
-Ha'il,Saudi Arabia,Ḩāʼil,106281
+Ha il,Saudi Arabia,Ḩāʼil,106281
 Duba,Saudi Arabia,Minţaqat Tabūk,106909
 Buraydah,Saudi Arabia,Al-Qassim,107304
 Abqaiq,Saudi Arabia,Eastern Province,107312
@@ -18435,7 +18435,7 @@ Abéché,Chad,Ouaddaï,245785
 Sagh,Chad,Moyen-Chari,2425791
 Pala,Chad,Mayo-Kebbi Ouest,2426240
 Oum Hadjer,Chad,Batha,2426370
-N'Djamena,Chad,Chari-Baguirmi,2427123
+N Djamena,Chad,Chari-Baguirmi,2427123
 Moussoro,Chad,Barh el Gazel,2427336
 Moundou,Chad,Logone Occidental,2427455
 Mongo,Chad,Guéra,2427637
@@ -19436,7 +19436,7 @@ Zolochiv,Ukraine,Lviv,686896
 Znomenka,Ukraine,Kirovohrad,686919
 Zmiyiv,Ukraine,Kharkiv,686928
 Zhytomyr,Ukraine,Zhytomyr,686967
-Zhmerynka,Ukraine,Vinnyts'ka,687116
+Zhmerynka,Ukraine,Vinnyts ka,687116
 Zhovti Vody,Ukraine,Dnipropetrovsk,687196
 Zhashkiv,Ukraine,Cherkasy,687245
 Zdolbuniv,Ukraine,Rivne,687432
@@ -19454,12 +19454,12 @@ Volnovakha,Ukraine,Donetsk,689198
 Vovchans’k,Ukraine,Kharkiv,689304
 Volodymyr-Volyns’kyy,Ukraine,Volyn,689378
 Vyshneve,Ukraine,Kiev,689487
-Vinnytsya,Ukraine,Vinnyts'ka,689558
+Vinnytsya,Ukraine,Vinnyts ka,689558
 Vatutine,Ukraine,Cherkasy,690312
 Vasylkiv,Ukraine,Kiev,690412
 Uzhhorod,Ukraine,Zakarpattia,690548
 Uman’,Ukraine,Cherkasy,690688
-Tul’chyn,Ukraine,Vinnyts'ka,691016
+Tul’chyn,Ukraine,Vinnyts ka,691016
 Tsyurupyns’k,Ukraine,Kherson,691037
 Truskavets,Ukraine,Lviv,691179
 Torez,Ukraine,Donetsk,691374
@@ -19537,7 +19537,7 @@ Nadvirna,Ukraine,Ivano-Frankivsk,700507
 Mykolayiv,Ukraine,Mykolaiv,700569
 Mukacheve,Ukraine,Zakarpattia,700646
 Molodohvardiys’k,Ukraine,Luhansk,700829
-Mohyliv-Podil’s’kyy,Ukraine,Vinnyts'ka,700918
+Mohyliv-Podil’s’kyy,Ukraine,Vinnyts ka,700918
 Miskhor,Ukraine,Crimea,700997
 Myrhorod,Ukraine,Poltava,701075
 Merefa,Ukraine,Kharkiv,701347
@@ -19554,7 +19554,7 @@ Luhansk,Ukraine,Luhansk,702658
 Lubny,Ukraine,Poltava,702723
 Lozova,Ukraine,Kharkiv,702760
 Lysychans’k,Ukraine,Luhansk,702972
-Ladyzhyn,Ukraine,Vinnyts'ka,703428
+Ladyzhyn,Ukraine,Vinnyts ka,703428
 Kiev,Ukraine,Kyiv City,703448
 Kuznetsovs’k,Ukraine,Rivne,703464
 Kurakhovo,Ukraine,Donetsk,703646
@@ -19589,17 +19589,17 @@ Kirovohrad,Ukraine,Kirovohrad,705812
 Kiliya,Ukraine,Odessa,705883
 Khust,Ukraine,Zakarpattia,706165
 Khmel’nyts’kyy,Ukraine,Khmelnytskyi,706369
-Khmil’nyk,Ukraine,Vinnyts'ka,706380
+Khmil’nyk,Ukraine,Vinnyts ka,706380
 Kherson,Ukraine,Kherson,706448
 Khartsyz’k,Ukraine,Donetsk,706466
 Kharkiv,Ukraine,Kharkiv,706483
 Kerch,Ukraine,Crimea,706524
-Kozyatyn,Ukraine,Vinnyts'ka,706571
+Kozyatyn,Ukraine,Vinnyts ka,706571
 Karlivka,Ukraine,Poltava,706749
 Kaniv,Ukraine,Cherkasy,706900
 Kamieniec Podolski,Ukraine,Khmelnytskyi,706950
 Kalush,Ukraine,Ivano-Frankivsk,707099
-Kalynivka,Ukraine,Vinnyts'ka,707155
+Kalynivka,Ukraine,Vinnyts ka,707155
 Kakhovka,Ukraine,Kherson,707244
 Izyum,Ukraine,Kharkiv,707292
 Izyaslav,Ukraine,Khmelnytskyi,707296
@@ -19617,7 +19617,7 @@ Horodyshche,Ukraine,Cherkasy,708366
 Hola Prystan’,Ukraine,Kherson,708632
 Heniches’k,Ukraine,Kherson,708878
 Hayvoron,Ukraine,Kirovohrad,708898
-Haysyn,Ukraine,Vinnyts'ka,708901
+Haysyn,Ukraine,Vinnyts ka,708901
 Hadyach,Ukraine,Poltava,709054
 Feodosiya,Ukraine,Crimea,709161
 Fastiv,Ukraine,Kiev,709248
@@ -19629,7 +19629,7 @@ Dubno,Ukraine,Rivne,709540
 Drohobych,Ukraine,Lviv,709611
 Donetsk,Ukraine,Donetsk,709717
 Dolyna,Ukraine,Ivano-Frankivsk,709755
-Dolyns'ka,Ukraine,Kirovohrad,709782
+Dolyns ka,Ukraine,Kirovohrad,709782
 Dokuchayevs’k,Ukraine,Donetsk,709835
 Dobropillya,Ukraine,Donetsk,709900
 Dnipropetrovsk,Ukraine,Dnipropetrovsk,709930
@@ -19663,7 +19663,7 @@ Berdychiv,Ukraine,Zhytomyr,712441
 Berdyans’k,Ukraine,Zaporizhia,712451
 Bilopillya,Ukraine,Sumy,712559
 Bilohirs’k,Ukraine,Crimea,712587
-Bar,Ukraine,Vinnyts'ka,712861
+Bar,Ukraine,Vinnyts ka,712861
 Balta,Ukraine,Odessa,712886
 Balakliya,Ukraine,Kharkiv,712926
 Balaklava,Ukraine,Misto Sevastopol’,712930
@@ -19681,8 +19681,8 @@ Alchevs’k,Ukraine,Luhansk,713716
 Okhtyrka,Ukraine,Sumy,713749
 Komsomolsk,Ukraine,Poltava,6559559
 Славутич,Ukraine,Kiev,6930327
-Yuzhnoukrains'k,Ukraine,Mykolaiv,7525990
-Novoyavorivs'k,Ukraine,Lviv,8468760
+Yuzhnoukrains k,Ukraine,Mykolaiv,7525990
+Novoyavorivs k,Ukraine,Lviv,8468760
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -19895,7 +19895,7 @@ Lake Worth,United States,Florida,4161422
 Lake Worth Corridor,United States,Florida,4161424
 Lakeland,United States,Florida,4161438
 Lakeside,United States,Florida,4161461
-Land O' Lakes,United States,Florida,4161534
+Land O  Lakes,United States,Florida,4161534
 Largo,United States,Florida,4161580
 Lauderdale Lakes,United States,Florida,4161616
 Lauderhill,United States,Florida,4161625
@@ -19996,7 +19996,7 @@ The Hammocks,United States,Florida,4175117
 The Villages,United States,Florida,4175179
 Three Lakes,United States,Florida,4175296
 Titusville,United States,Florida,4175437
-Town 'n' Country,United States,Florida,4175538
+Town  n  Country,United States,Florida,4175538
 University Park,United States,Florida,4176217
 Valrico,United States,Florida,4176318
 Venice,United States,Florida,4176380
@@ -20099,7 +20099,7 @@ Jacksonville,United States,Illinois,4241704
 Marion,United States,Illinois,4243899
 Mattoon,United States,Illinois,4244099
 Mount Vernon,United States,Illinois,4245152
-O'Fallon,United States,Illinois,4245926
+O Fallon,United States,Illinois,4245926
 Quincy,United States,Illinois,4247703
 Springfield,United States,Illinois,4250542
 Upper Alton,United States,Illinois,4251841
@@ -20331,14 +20331,14 @@ Jefferson City,United States,Missouri,4392388
 Joplin,United States,Missouri,4392768
 Kansas City,United States,Missouri,4393217
 Kirkwood,United States,Missouri,4393739
-Lee's Summit,United States,Missouri,4394870
+Lee s Summit,United States,Missouri,4394870
 Lemay,United States,Missouri,4394905
 Liberty,United States,Missouri,4395052
 Manchester,United States,Missouri,4396915
 Maryland Heights,United States,Missouri,4397340
 Mehlville,United States,Missouri,4397962
 Nixa,United States,Missouri,4400648
-O'Fallon,United States,Missouri,4401242
+O Fallon,United States,Missouri,4401242
 Oakville,United States,Missouri,4401618
 Overland,United States,Missouri,4402178
 Ozark,United States,Missouri,4402245
@@ -22156,7 +22156,7 @@ Loveland,United States,Colorado,5579368
 Windsor,United States,Colorado,5583509
 Boise,United States,Idaho,5586437
 Caldwell,United States,Idaho,5587698
-Coeur d'Alene,United States,Idaho,5589173
+Coeur d Alene,United States,Idaho,5589173
 Eagle,United States,Idaho,5591778
 Idaho Falls,United States,Idaho,5596475
 Kuna,United States,Idaho,5597955
@@ -22753,7 +22753,7 @@ Bắc Giang,Vietnam,Bắc Giang,1591527
 Bắc Kạn,Vietnam,Bắc Kạn,1591538
 Đinh Văn,Vietnam,Lâm Đồng,8991407
 Port-Vila,Vanuatu,Shefa,2135171
-Mata-Utu,Wallis and Futuna,Circonscription d'Uvéa,4034821
+Mata-Utu,Wallis and Futuna,Circonscription d Uvéa,4034821
 Apia,Samoa,Tuamasaga,4035413
 Zvečan,Kosovo,Mitrovica,783770
 Vushtrri,Kosovo,Mitrovica,784097
@@ -22783,8 +22783,8 @@ Ta‘izz,Yemen,Ta‘izz,70225
 Sayyān,Yemen,Sanaa,70979
 Sanaa,Yemen,Sanaa,71137
 Saḩar,Yemen,Sanaa,71273
-Sa'dah,Yemen,Şa‘dah,71334
-Ma'rib,Yemen,Ma’rib,72968
+Sa dah,Yemen,Şa‘dah,71334
+Ma rib,Yemen,Ma’rib,72968
 Laḩij,Yemen,Laḩij,73560
 Ibb,Yemen,Ibb,74477
 Ḩajjah,Yemen,Ḩajjah,75337

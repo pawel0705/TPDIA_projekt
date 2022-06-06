@@ -874,7 +874,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1904,St Louis,Fencing,Fencing,"GREBE, William",USA,Men,Sabre Individual,Silver
 1904,St Louis,Fencing,Fencing,"GREBE, William",USA,Men,"Stick, Single",Bronze
 1904,St Louis,Fencing,Fencing,"VAN ZO POST, Albertson",CUB,Men,"Stick, Single",Gold
-1904,St Louis,Fencing,Fencing,"O'CONNOR, William Scott",USA,Men,"Stick, Single",Silver
+1904,St Louis,Fencing,Fencing,"O CONNOR, William Scott",USA,Men,"Stick, Single",Silver
 1904,St Louis,Football,Football,"BRADY, Joseph J.",USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"COOKE, George Edwin",USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"COOKE, Thomas J.",USA,Men,Football,Bronze
@@ -885,7 +885,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1904,St Louis,Football,Football,"JAMESON, Claude Stanley",USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"JAMESON, Henry Wood",USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"JOHNSON, -",USA,Men,Football,Bronze
-1904,St Louis,Football,Football,O'CONNELL,USA,Men,Football,Bronze
+1904,St Louis,Football,Football,O CONNELL,USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"TATE, Harry",USA,Men,Football,Bronze
 1904,St Louis,Football,Football,"BARTLIFF, Charles Albert",USA,Men,Football,Gold
 1904,St Louis,Football,Football,"BRADY, Joseph J.",USA,Men,Football,Gold
@@ -915,7 +915,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1904,St Louis,Football,Football,"LYDON, Joseph",USA,Men,Football,Gold
 1904,St Louis,Football,Football,"MACDONALD, Gordon",CAN,Men,Football,Gold
 1904,St Louis,Football,Football,"MENGES, Louis John",USA,Men,Football,Gold
-1904,St Louis,Football,Football,O'CONNELL,USA,Men,Football,Gold
+1904,St Louis,Football,Football,O CONNELL,USA,Men,Football,Gold
 1904,St Louis,Football,Football,"RATICAN, Peter Joseph",USA,Men,Football,Gold
 1904,St Louis,Football,Football,"STEEP, Frederick",CAN,Men,Football,Gold
 1904,St Louis,Football,Football,"TATE, Harry",USA,Men,Football,Gold
@@ -1578,7 +1578,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1908,London,Polo,Polo,"HARDRESS, Lloyd",GBR,Men,Polo,Silver
 1908,London,Polo,Polo,"JONES, Walter John Henry",GBR,Men,Polo,Silver
 1908,London,Polo,Polo,"MCCANN, John Paul",GBR,Men,Polo,Silver
-1908,London,Polo,Polo,"O'REILLY, Percy Philip",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"O REILLY, Percy Philip",GBR,Men,Polo,Silver
 1908,London,Polo,Polo,"ROTHERHAM, Anthony Morgan",GBR,Men,Polo,Silver
 1908,London,Polo,Polo,"WODEHOUSE, John",GBR,Men,Polo,Silver
 1908,London,Rackets,Rackets,"LEAF, Henry Meredith",GBR,Men,Double,Bronze
@@ -1913,7 +1913,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1908,London,Wrestling,Wrestling Free.,"MEHNERT, George Nicholas",USA,Men,- 54KG (Bantamweight),Gold
 1908,London,Wrestling,Wrestling Free.,"PRESS, William J.",GBR,Men,- 54KG (Bantamweight),Silver
 1908,London,Wrestling,Wrestling Free.,"BARRETT, Edward Edmond",GBR,Men,+ 73KG (Heavyweight),Bronze
-1908,London,Wrestling,Wrestling Free.,"O'KELLY, George Cornelius",GBR,Men,+ 73KG (Heavyweight),Gold
+1908,London,Wrestling,Wrestling Free.,"O KELLY, George Cornelius",GBR,Men,+ 73KG (Heavyweight),Gold
 1908,London,Wrestling,Wrestling Free.,"GUNDERSON, Jacob",NOR,Men,+ 73KG (Heavyweight),Silver
 1908,London,Wrestling,Wrestling Free.,"MCKIE, William",GBR,Men,54 - 60.3KG (Featherweight),Bronze
 1908,London,Wrestling,Wrestling Free.,"DOLE, George Stuart",USA,Men,54 - 60.3KG (Featherweight),Gold
@@ -2051,7 +2051,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1912,Stockholm,Athletics,Athletics,"REIDPATH, Charles Decker",USA,Men,400M,Gold
 1912,Stockholm,Athletics,Athletics,"BRAUN, Hans",GER,Men,400M,Silver
 1912,Stockholm,Athletics,Athletics,"APPLEGARTH, William",GBR,Men,4X100M Relay,Gold
-1912,Stockholm,Athletics,Athletics,"D'ARCY, Victor Henry Augustus",GBR,Men,4X100M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"D ARCY, Victor Henry Augustus",GBR,Men,4X100M Relay,Gold
 1912,Stockholm,Athletics,Athletics,"JACOBS, David Henry",GBR,Men,4X100M Relay,Gold
 1912,Stockholm,Athletics,Athletics,"MACKINTOSH, Henry Maitland",GBR,Men,4X100M Relay,Gold
 1912,Stockholm,Athletics,Athletics,"LINDBERG, Knut",SWE,Men,4X100M Relay,Silver
@@ -2186,7 +2186,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1912,Stockholm,Equestrian,Jumping,"ROSENCRANTZ, Frederik",SWE,Men,Team,Gold
 1912,Stockholm,Equestrian,Jumping,"VON ROSEN, Hans",SWE,Men,Team,Gold
 1912,Stockholm,Equestrian,Jumping,"CARIOU, J",FRA,Men,Team,Silver
-1912,Stockholm,Equestrian,Jumping,"DUFOURT D'ASTAFORT, Michel",FRA,Men,Team,Silver
+1912,Stockholm,Equestrian,Jumping,"DUFOURT D ASTAFORT, Michel",FRA,Men,Team,Silver
 1912,Stockholm,Equestrian,Jumping,"MEYER, Bernard",FRA,Men,Team,Silver
 1912,Stockholm,Equestrian,Jumping,"SEIGNER, Albert",FRA,Men,Team,Silver
 1912,Stockholm,Fencing,Fencing,"LE HARDY DE BEAULIEU, Philippe",BEL,Men,Épée Individual,Bronze
@@ -3022,7 +3022,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Athletics,Athletics,"FRIGERIO, Ugo",ITA,Men,3000M Walk,Gold
 1920,Antwerp,Athletics,Athletics,"PARKER, George",AUS,Men,3000M Walk,Silver
 1920,Antwerp,Athletics,Athletics,"ENGDAHL, Nils",SWE,Men,400M,Bronze
-1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,400M,Gold
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D Urban",RSA,Men,400M,Gold
 1920,Antwerp,Athletics,Athletics,"BUTLER, Guy Montagu",GBR,Men,400M,Silver
 1920,Antwerp,Athletics,Athletics,"DESCH, August George",USA,Men,400M Hurdles,Bronze
 1920,Antwerp,Athletics,Athletics,"LOOMIS, Frank",USA,Men,400M Hurdles,Gold
@@ -3050,14 +3050,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Athletics,Athletics,"DAVEL, Harry",RSA,Men,4X400M Relay,Silver
 1920,Antwerp,Athletics,Athletics,"OLDFIELD, Clarence Winston",RSA,Men,4X400M Relay,Silver
 1920,Antwerp,Athletics,Athletics,"OOSTERLAAK, Jack",RSA,Men,4X400M Relay,Silver
-1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,4X400M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D Urban",RSA,Men,4X400M Relay,Silver
 1920,Antwerp,Athletics,Athletics,"BACKMAN, Erik",SWE,Men,5000M,Bronze
 1920,Antwerp,Athletics,Athletics,"GUILLEMOT, Joseph",FRA,Men,5000M,Gold
 1920,Antwerp,Athletics,Athletics,"NURMI, Paavo",FIN,Men,5000M,Silver
 1920,Antwerp,Athletics,Athletics,"LIND, Carl Johan",SWE,Men,56LB Weight Throw (25.4KG),Bronze
 1920,Antwerp,Athletics,Athletics,"MCDONALD, Patrick",USA,Men,56LB Weight Throw (25.4KG),Gold
 1920,Antwerp,Athletics,Athletics,"RYAN, Patrick",USA,Men,56LB Weight Throw (25.4KG),Silver
-1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,800M,Bronze
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D Urban",RSA,Men,800M,Bronze
 1920,Antwerp,Athletics,Athletics,"HILL, Albert",GBR,Men,800M,Gold
 1920,Antwerp,Athletics,Athletics,"EBY, Earl",USA,Men,800M,Silver
 1920,Antwerp,Athletics,Athletics,"LIIMATAINEN, Heikki",FIN,Men,Cross Country Individual,Bronze
@@ -3125,7 +3125,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Boxing,Boxing,"IRELAND, Alexander",GBR,Men,61.24 - 66.68KG (Welterweight),Silver
 1920,Antwerp,Boxing,Boxing,"HERSCOVITCH, Montgomery Hart",CAN,Men,66.68 - 72.57KG (Middleweight),Bronze
 1920,Antwerp,Boxing,Boxing,"MALLIN, Harry William",GBR,Men,66.68 - 72.57KG (Middleweight),Gold
-1920,Antwerp,Boxing,Boxing,"PRUD'HOMME, George Arthur",CAN,Men,66.68 - 72.57KG (Middleweight),Silver
+1920,Antwerp,Boxing,Boxing,"PRUD HOMME, George Arthur",CAN,Men,66.68 - 72.57KG (Middleweight),Silver
 1920,Antwerp,Boxing,Boxing,"FRANKS, Harold",GBR,Men,72.57 - 79.38KG (Light-Heavyweight),Bronze
 1920,Antwerp,Boxing,Boxing,"EAGAN, Edward",USA,Men,72.57 - 79.38KG (Light-Heavyweight),Gold
 1920,Antwerp,Boxing,Boxing,"SÖRSDAL, Sverre",NOR,Men,72.57 - 79.38KG (Light-Heavyweight),Silver
@@ -3172,7 +3172,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Equestrian,Eventing,"BONVALET, Jules",BEL,Men,Team,Bronze
 1920,Antwerp,Equestrian,Eventing,"LINTS, Oswald G. H.",BEL,Men,Team,Bronze
 1920,Antwerp,Equestrian,Eventing,"MISONNE, Jacques",BEL,Men,Team,Bronze
-1920,Antwerp,Equestrian,Eventing,"MOEREMANS D'EMAUS, Roger",BEL,Men,Team,Bronze
+1920,Antwerp,Equestrian,Eventing,"MOEREMANS D EMAUS, Roger",BEL,Men,Team,Bronze
 1920,Antwerp,Equestrian,Eventing,"DYRSCH, Gustaf",SWE,Men,Team,Gold
 1920,Antwerp,Equestrian,Eventing,"LUNDSTRÖM, Age",SWE,Men,Team,Gold
 1920,Antwerp,Equestrian,Eventing,"MÖRNER, Helmer",SWE,Men,Team,Gold
@@ -3194,8 +3194,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Equestrian,Jumping,"VON ROSEN, Hans",SWE,Men,Team,Gold
 1920,Antwerp,Equestrian,Jumping,"COUMANS, André",BEL,Men,Team,Silver
 1920,Antwerp,Equestrian,Jumping,"DE BRIE, Thierry",BEL,Men,Team,Silver
-1920,Antwerp,Equestrian,Jumping,"DE GAIFFIER D'HESTROY, Hermann",BEL,Men,Team,Silver
-1920,Antwerp,Equestrian,Jumping,"D'OULTROMENT, Herman",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"DE GAIFFIER D HESTROY, Hermann",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"D OULTROMENT, Herman",BEL,Men,Team,Silver
 1920,Antwerp,Equestrian,Vaulting,"FINET, T.",BEL,Men,Figure Riding Individual,Bronze
 1920,Antwerp,Equestrian,Vaulting,"BOUCKAERT, T.",BEL,Men,Figure Riding Individual,Gold
 1920,Antwerp,Equestrian,Vaulting,FIELD,FRA,Men,Figure Riding Individual,Silver
@@ -3236,7 +3236,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,Épée Team,Silver
 1920,Antwerp,Fencing,Fencing,"DE WEE, Maurice",BEL,Men,Épée Team,Silver
 1920,Antwerp,Fencing,Fencing,"GEVERS, Ernest",BEL,Men,Épée Team,Silver
-1920,Antwerp,Fencing,Fencing,"GOBLET D'AVIELLA, Félix",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"GOBLET D AVIELLA, Félix",BEL,Men,Épée Team,Silver
 1920,Antwerp,Fencing,Fencing,"LE HARDY DE BEAULIEU, Philippe",BEL,Men,Épée Team,Silver
 1920,Antwerp,Fencing,Fencing,"TOM, Léon",BEL,Men,Épée Team,Silver
 1920,Antwerp,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,Foil Individual,Bronze
@@ -3677,7 +3677,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Rowing,Rowing,"BARBEROLLE, Ernest",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
 1920,Antwerp,Rowing,Rowing,"BOUTON, Maurice",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
 1920,Antwerp,Rowing,Rowing,"POIX, Gabriel",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
-1920,Antwerp,Rowing,Rowing,"HADFIELD D'ARCY, D. Clarence",NZL,Men,Single Sculls (1X),Bronze
+1920,Antwerp,Rowing,Rowing,"HADFIELD D ARCY, D. Clarence",NZL,Men,Single Sculls (1X),Bronze
 1920,Antwerp,Rowing,Rowing,"KELLY, John Brendan",USA,Men,Single Sculls (1X),Gold
 1920,Antwerp,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,Single Sculls (1X),Silver
 1920,Antwerp,Rugby,Rugby,"CARROLL, Daniel Brendan",USA,Men,Rugby,Gold
@@ -3688,7 +3688,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Rugby,Rugby,"MEHAN, Charles Thomas",USA,Men,Rugby,Gold
 1920,Antwerp,Rugby,Rugby,"MULDOON, John",USA,Men,Rugby,Gold
 1920,Antwerp,Rugby,Rugby,"MULDOON, William",USA,Men,Rugby,Gold
-1920,Antwerp,Rugby,Rugby,"O'NEIL, John T.",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"O NEIL, John T.",USA,Men,Rugby,Gold
 1920,Antwerp,Rugby,Rugby,"PATRICK, John Clarence",USA,Men,Rugby,Gold
 1920,Antwerp,Rugby,Rugby,"RIGHTER, Cornelius Erwin",USA,Men,Rugby,Gold
 1920,Antwerp,Rugby,Rugby,"SCHOLZ, Rudolph John",USA,Men,Rugby,Gold
@@ -3801,7 +3801,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Sailing,Sailing,"DICK, Christian",NOR,Men,8M (Rating 1907),Silver
 1920,Antwerp,Sailing,Sailing,"FAYE, Johann",NOR,Men,8M (Rating 1907),Silver
 1920,Antwerp,Sailing,Sailing,"NIELSEN, Niels",NOR,Men,8M (Rating 1907),Silver
-1920,Antwerp,Sailing,Sailing,"DE L'ARBRE, Willy",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"DE L ARBRE, Willy",BEL,Men,8M (Rating 1919),Bronze
 1920,Antwerp,Sailing,Sailing,"GRISAR, Albert",BEL,Men,8M (Rating 1919),Bronze
 1920,Antwerp,Sailing,Sailing,"HELLEBUYCK, Georges",BEL,Men,8M (Rating 1919),Bronze
 1920,Antwerp,Sailing,Sailing,"STANDAERT, Léopold",BEL,Men,8M (Rating 1919),Bronze
@@ -4031,7 +4031,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1920,Antwerp,Tennis,Tennis,"WOOSNAM, Maxwell",GBR,Men,Doubles,Gold
 1920,Antwerp,Tennis,Tennis,"KASHIO, Seiichiro",JPN,Men,Doubles,Silver
 1920,Antwerp,Tennis,Tennis,"KUMAGAE, Ichiya",JPN,Men,Doubles,Silver
-1920,Antwerp,Tennis,Tennis,"D'AYEN, Elisabeth",FRA,Women,Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"D AYEN, Elisabeth",FRA,Women,Doubles,Bronze
 1920,Antwerp,Tennis,Tennis,"LENGLEN, Suzanne",FRA,Women,Doubles,Bronze
 1920,Antwerp,Tennis,Tennis,"MCKANE, Kathleen",GBR,Women,Doubles,Gold
 1920,Antwerp,Tennis,Tennis,"MCNAIR, Winifred Margaret",GBR,Women,Doubles,Gold
@@ -4187,7 +4187,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Paris,Aquatics,Swimming,"BREYER, Ralph",USA,Men,4X200M Freestyle Relay,Gold
 1924,Paris,Aquatics,Swimming,"GLANCY, Harrison Smith",USA,Men,4X200M Freestyle Relay,Gold
 1924,Paris,Aquatics,Swimming,"HOWELL, Richard",USA,Men,4X200M Freestyle Relay,Gold
-1924,Paris,Aquatics,Swimming,"O'CONNOR, James Wallace",USA,Men,4X200M Freestyle Relay,Gold
+1924,Paris,Aquatics,Swimming,"O CONNOR, James Wallace",USA,Men,4X200M Freestyle Relay,Gold
 1924,Paris,Aquatics,Swimming,"SMITH, Lester",USA,Men,4X200M Freestyle Relay,Gold
 1924,Paris,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,4X200M Freestyle Relay,Gold
 1924,Paris,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,4X200M Freestyle Relay,Silver
@@ -4202,7 +4202,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Paris,Aquatics,Water polo,"LAUER, Frederick",USA,Men,Water Polo,Bronze
 1924,Paris,Aquatics,Water polo,"MITCHELL, George F.",USA,Men,Water Polo,Bronze
 1924,Paris,Aquatics,Water polo,"NORTON, John",USA,Men,Water Polo,Bronze
-1924,Paris,Aquatics,Water polo,"O'CONNOR, James Wallace",USA,Men,Water Polo,Bronze
+1924,Paris,Aquatics,Water polo,"O CONNOR, James Wallace",USA,Men,Water Polo,Bronze
 1924,Paris,Aquatics,Water polo,"SCHROTH, George E.",USA,Men,Water Polo,Bronze
 1924,Paris,Aquatics,Water polo,"VOLLMER, Herbert Eberhard",USA,Men,Water Polo,Bronze
 1924,Paris,Aquatics,Water polo,"WEISSMULLER, Johnny",USA,Men,Water Polo,Bronze
@@ -4438,9 +4438,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Paris,Equestrian,Jumping,"KROLIKIEWICZ, Adam",POL,Men,Individual,Bronze
 1924,Paris,Equestrian,Jumping,"GEMUSEUS, Alphonse",SUI,Men,Individual,Gold
 1924,Paris,Equestrian,Jumping,"LEQUIO DI ASSABA, Tommaso",ITA,Men,Individual,Silver
-1924,Paris,Equestrian,Jumping,"BORGES D'ALMEIDA, Antonio",POR,Men,Team,Bronze
+1924,Paris,Equestrian,Jumping,"BORGES D ALMEIDA, Antonio",POR,Men,Team,Bronze
 1924,Paris,Equestrian,Jumping,"DE SOUZA MARTINS, Helder",POR,Men,Team,Bronze
-1924,Paris,Equestrian,Jumping,"MOUZINHO D'ALBUQUERQUE, José",POR,Men,Team,Bronze
+1924,Paris,Equestrian,Jumping,"MOUZINHO D ALBUQUERQUE, José",POR,Men,Team,Bronze
 1924,Paris,Equestrian,Jumping,"LUNDSTRÖM, Age",SWE,Men,Team,Gold
 1924,Paris,Equestrian,Jumping,"STAHLE, Axel",SWE,Men,Team,Gold
 1924,Paris,Equestrian,Jumping,"THELNING, Ake",SWE,Men,Team,Gold
@@ -4770,7 +4770,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Paris,Rugby,Rugby,"MANELLI, Caesar",USA,Men,Rugby,Gold
 1924,Paris,Rugby,Rugby,"MEHAN, Charles Thomas",USA,Men,Rugby,Gold
 1924,Paris,Rugby,Rugby,"MULDOON, William",USA,Men,Rugby,Gold
-1924,Paris,Rugby,Rugby,"O'NEIL, John T.",USA,Men,Rugby,Gold
+1924,Paris,Rugby,Rugby,"O NEIL, John T.",USA,Men,Rugby,Gold
 1924,Paris,Rugby,Rugby,"PATRICK, John Clarence",USA,Men,Rugby,Gold
 1924,Paris,Rugby,Rugby,"ROGERS, William Lister",USA,Men,Rugby,Gold
 1924,Paris,Rugby,Rugby,"SCHOLZ, Rudolph John",USA,Men,Rugby,Gold
@@ -4849,7 +4849,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Paris,Shooting,Shooting,"FAUNTHORPE, John Champion",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
 1924,Paris,Shooting,Shooting,"MACKWORTH-PRAED, Cyril Winthrop",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
 1924,Paris,Shooting,Shooting,"NEAME, Philip",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
-1924,Paris,Shooting,Shooting,"O'LEARY, John J.",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
+1924,Paris,Shooting,Shooting,"O LEARY, John J.",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
 1924,Paris,Shooting,Shooting,"PERRY, Herbert Spencer",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
 1924,Paris,Shooting,Shooting,"WHITTY, Allen",GBR,Men,"100M Running Deer, Double Shots, Team",Gold
 1924,Paris,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100M Running Deer, Double Shots, Team",Silver
@@ -5172,7 +5172,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,Amsterdam,Athletics,Athletics,"KONOPACKA, Halina",POL,Women,Discus Throw,Gold
 1928,Amsterdam,Athletics,Athletics,"COPELAND, Lillian",USA,Women,Discus Throw,Silver
 1928,Amsterdam,Athletics,Athletics,"BLACK, Edmund Franklin",USA,Men,Hammer Throw,Bronze
-1928,Amsterdam,Athletics,Athletics,"O'CALLAGHAN, Patrick",IRL,Men,Hammer Throw,Gold
+1928,Amsterdam,Athletics,Athletics,"O CALLAGHAN, Patrick",IRL,Men,Hammer Throw,Gold
 1928,Amsterdam,Athletics,Athletics,"SKIÖLD, Ossian E.",SWE,Men,Hammer Throw,Silver
 1928,Amsterdam,Athletics,Athletics,"MENARD, Claude Charles",FRA,Men,High Jump,Bronze
 1928,Amsterdam,Athletics,Athletics,"KING, Robert Wade",USA,Men,High Jump,Gold
@@ -5546,7 +5546,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,Amsterdam,Hockey,Hockey,"VAN LIEROP, Antoine Robert",NED,Men,Hockey,Silver
 1928,Amsterdam,Hockey,Hockey,"VAN TIENHOVEN VAN DEN BOGAARD, J. J.",NED,Men,Hockey,Silver
 1928,Amsterdam,Hockey,Hockey,"VAN VOORST VAN BEEST, J. M.",NED,Men,Hockey,Silver
-1928,Amsterdam,Hockey,Hockey,"VISSER 'T HOOFT, Hendrik Philip",NED,Men,Hockey,Silver
+1928,Amsterdam,Hockey,Hockey,"VISSER  T HOOFT, Hendrik Philip",NED,Men,Hockey,Silver
 1928,Amsterdam,Hockey,Hockey,"WENTHOLT, N.",NED,Men,Hockey,Silver
 1928,Amsterdam,Modern Pentathlon,Modern Pentath.,"KAHL, Helmut",GER,Men,Individual Competition,Bronze
 1928,Amsterdam,Modern Pentathlon,Modern Pentath.,"THOFELT, Sven",SWE,Men,Individual Competition,Gold
@@ -5556,7 +5556,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,Amsterdam,Rowing,Rowing,"MÖSCHTER, Kurt",GER,Men,Coxless Pair (2-),Gold
 1928,Amsterdam,Rowing,Rowing,"MÜLLER, Bruno",GER,Men,Coxless Pair (2-),Gold
 1928,Amsterdam,Rowing,Rowing,"NISBET, Robert Archibald",GBR,Men,Coxless Pair (2-),Silver
-1928,Amsterdam,Rowing,Rowing,"O'BRIEN, Terence Noel",GBR,Men,Coxless Pair (2-),Silver
+1928,Amsterdam,Rowing,Rowing,"O BRIEN, Terence Noel",GBR,Men,Coxless Pair (2-),Silver
 1928,Amsterdam,Rowing,Rowing,"FLESSL, Viktor",AUT,Men,Double Sculls (2X),Bronze
 1928,Amsterdam,Rowing,Rowing,"LOSERT, Leo",AUT,Men,Double Sculls (2X),Bronze
 1928,Amsterdam,Rowing,Rowing,"COSTELLO, Paul Vincent",USA,Men,Double Sculls (2X),Gold
@@ -5780,7 +5780,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Los Angeles,Aquatics,Water polo,"DAUBENSPECK, Philip Burton",USA,Men,Water Polo,Bronze
 1932,Los Angeles,Aquatics,Water polo,"FINN, Charles Thornton",USA,Men,Water Polo,Bronze
 1932,Los Angeles,Aquatics,Water polo,"MCCALLISTER, Charles Harold",USA,Men,Water Polo,Bronze
-1932,Los Angeles,Aquatics,Water polo,"O'CONNOR, James Wallace",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"O CONNOR, James Wallace",USA,Men,Water Polo,Bronze
 1932,Los Angeles,Aquatics,Water polo,"STRONG, F.Calvert",USA,Men,Water Polo,Bronze
 1932,Los Angeles,Aquatics,Water polo,"WILDMAN, Herbert Henry",USA,Men,Water Polo,Bronze
 1932,Los Angeles,Aquatics,Water polo,"BARTA, István",HUN,Men,Water Polo,Gold
@@ -5886,7 +5886,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Los Angeles,Athletics,Athletics,"COPELAND, Lillian",USA,Women,Discus Throw,Gold
 1932,Los Angeles,Athletics,Athletics,"OSBURN, Ruth",USA,Women,Discus Throw,Silver
 1932,Los Angeles,Athletics,Athletics,"ZAREMBA, Peter Timothy",USA,Men,Hammer Throw,Bronze
-1932,Los Angeles,Athletics,Athletics,"O'CALLAGHAN, Patrick",IRL,Men,Hammer Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"O CALLAGHAN, Patrick",IRL,Men,Hammer Throw,Gold
 1932,Los Angeles,Athletics,Athletics,"PÖRHÖLÄ, Frans Wilhelmi",FIN,Men,Hammer Throw,Silver
 1932,Los Angeles,Athletics,Athletics,"TORIBIO, Simeon Galvez",PHI,Men,High Jump,Bronze
 1932,Los Angeles,Athletics,Athletics,"MCNAUGHTON, Duncan",CAN,Men,High Jump,Gold
@@ -6118,7 +6118,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Los Angeles,Hockey,Hockey,"GREER, Henry Kirk",USA,Men,Hockey,Bronze
 1932,Los Angeles,Hockey,Hockey,"KNAPP, Lawrence A.",USA,Men,Hockey,Bronze
 1932,Los Angeles,Hockey,Hockey,"MCMULLIN, David III.",USA,Men,Hockey,Bronze
-1932,Los Angeles,Hockey,Hockey,"O'BRIEN, Leonard Francis",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"O BRIEN, Leonard Francis",USA,Men,Hockey,Bronze
 1932,Los Angeles,Hockey,Hockey,"SHEAFFER, Charles Miller",USA,Men,Hockey,Bronze
 1932,Los Angeles,Hockey,Hockey,"WOLTERS, Frederick Stanley",USA,Men,Hockey,Bronze
 1932,Los Angeles,Hockey,Hockey,"BAIS, Dhyan Chand",IND,Men,Hockey,Gold
@@ -6483,7 +6483,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1936,Berlin,Athletics,Athletics,"WOLFF, Frederick Ferdinand",GBR,Men,4X400M Relay,Gold
 1936,Berlin,Athletics,Athletics,"CAGLE, Harold D.",USA,Men,4X400M Relay,Silver
 1936,Berlin,Athletics,Athletics,"FITCH, Alfred Lord",USA,Men,4X400M Relay,Silver
-1936,Berlin,Athletics,Athletics,"O'BRIEN, Edward T.",USA,Men,4X400M Relay,Silver
+1936,Berlin,Athletics,Athletics,"O BRIEN, Edward T.",USA,Men,4X400M Relay,Silver
 1936,Berlin,Athletics,Athletics,"YOUNG, Robert Clark",USA,Men,4X400M Relay,Silver
 1936,Berlin,Athletics,Athletics,"JONSSON-KÄLARNE, Henry",SWE,Men,5000M,Bronze
 1936,Berlin,Athletics,Athletics,"HÖCKERT, Gunnar",FIN,Men,5000M,Gold
@@ -7359,7 +7359,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Athletics,Athletics,"COCHRAN, Roy Braxton",USA,Men,4X400M Relay,Gold
 1948,London,Athletics,Athletics,"HARNDEN, Arthur Harold",USA,Men,4X400M Relay,Gold
 1948,London,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,4X400M Relay,Gold
-1948,London,Athletics,Athletics,"CHEF D'HOTEL, Robert",FRA,Men,4X400M Relay,Silver
+1948,London,Athletics,Athletics,"CHEF D HOTEL, Robert",FRA,Men,4X400M Relay,Silver
 1948,London,Athletics,Athletics,"KEREBEL, Jean",FRA,Men,4X400M Relay,Silver
 1948,London,Athletics,Athletics,"LUNIS, Jacques",FRA,Men,4X400M Relay,Silver
 1948,London,Athletics,Athletics,"SCHEWETTA, Francois",FRA,Men,4X400M Relay,Silver
@@ -7475,7 +7475,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Boxing,Boxing,"WAD, Svend",DEN,Men,58 - 62KG (Lightweight),Bronze
 1948,London,Boxing,Boxing,"DREYER, Gerald",RSA,Men,58 - 62KG (Lightweight),Gold
 1948,London,Boxing,Boxing,"VISSERS, Joseph",BEL,Men,58 - 62KG (Lightweight),Silver
-1948,London,Boxing,Boxing,"D'OTTAVIO, Alessandro",ITA,Men,62 - 67KG (Welterweight),Bronze
+1948,London,Boxing,Boxing,"D OTTAVIO, Alessandro",ITA,Men,62 - 67KG (Welterweight),Bronze
 1948,London,Boxing,Boxing,"TORMA, Julius",TCH,Men,62 - 67KG (Welterweight),Gold
 1948,London,Boxing,Boxing,"HERRING, Horace",USA,Men,62 - 67KG (Welterweight),Silver
 1948,London,Boxing,Boxing,"FONTANA, Ivano",ITA,Men,67 - 73KG (Middleweight),Bronze
@@ -7583,7 +7583,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Equestrian,Eventing,"SELFELT, Robert",SWE,Men,Team,Silver
 1948,London,Equestrian,Eventing,"STAHRE, Olof",SWE,Men,Team,Silver
 1948,London,Equestrian,Eventing,"SVENSSON, Sigurd",SWE,Men,Team,Silver
-1948,London,Equestrian,Jumping,"D'ORGEIX, Jean Francois",FRA,Men,Individual,Bronze
+1948,London,Equestrian,Jumping,"D ORGEIX, Jean Francois",FRA,Men,Individual,Bronze
 1948,London,Equestrian,Jumping,"MARILES CORTES, Humberto",MEX,Men,Individual,Gold
 1948,London,Equestrian,Jumping,"URIZA CASTRO, Ruben",MEX,Men,Individual,Silver
 1948,London,Equestrian,Jumping,"CARR, Arthur",GBR,Men,Team,Bronze
@@ -7618,7 +7618,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Fencing,Fencing,"MARINI, Fiorenzo",ITA,Men,Épée Team,Silver
 1948,London,Fencing,Fencing,"MASZLAY, Lajos",HUN,Men,Foil Individual,Bronze
 1948,London,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,Foil Individual,Gold
-1948,London,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Individual,Silver
+1948,London,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Individual,Silver
 1948,London,Fencing,Fencing,"PREIS-MÜLLER, Ellen S.",AUT,Women,Foil Individual,Bronze
 1948,London,Fencing,Fencing,"ELEK, Ilona",HUN,Women,Foil Individual,Gold
 1948,London,Fencing,Fencing,"LACHMANN, Karen Vilhelmine",DEN,Women,Foil Individual,Silver
@@ -7631,7 +7631,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Fencing,Fencing,"BONIN, Andre",FRA,Men,Foil Team,Gold
 1948,London,Fencing,Fencing,"BOUGNOL, René",FRA,Men,Foil Team,Gold
 1948,London,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,Foil Team,Gold
-1948,London,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Team,Gold
+1948,London,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Team,Gold
 1948,London,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,Foil Team,Gold
 1948,London,Fencing,Fencing,"ROMMEL, Adrien",FRA,Men,Foil Team,Gold
 1948,London,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,Foil Team,Silver
@@ -7789,7 +7789,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Hockey,Hockey,"AHKTAR, Hussain",IND,Men,Hockey,Gold
 1948,London,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,Hockey,Gold
 1948,London,Hockey,Hockey,"DATT, Keshava",IND,Men,Hockey,Gold
-1948,London,Hockey,Hockey,"D'SOUZA, Walter",IND,Men,Hockey,Gold
+1948,London,Hockey,Hockey,"D SOUZA, Walter",IND,Men,Hockey,Gold
 1948,London,Hockey,Hockey,"FERNANDES, Lawrence",IND,Men,Hockey,Gold
 1948,London,Hockey,Hockey,"FRANCIS, Ranganandhan",IND,Men,Hockey,Gold
 1948,London,Hockey,Hockey,"GLACKEN, Gerald",IND,Men,Hockey,Gold
@@ -7931,7 +7931,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,London,Sailing,Sailing,"TORREY, Owen Cates Jr.",USA,Men,Swallow (Golondrina),Bronze
 1948,London,Sailing,Sailing,"BOND, David John Were",GBR,Men,Swallow (Golondrina),Gold
 1948,London,Sailing,Sailing,"MORRIS, Stewart Harold",GBR,Men,Swallow (Golondrina),Gold
-1948,London,Sailing,Sailing,"BELLO, Duarte M.D'Almeida",POR,Men,Swallow (Golondrina),Silver
+1948,London,Sailing,Sailing,"BELLO, Duarte M.D Almeida",POR,Men,Swallow (Golondrina),Silver
 1948,London,Sailing,Sailing,"BELLO, Fernando Pinto Coelho",POR,Men,Swallow (Golondrina),Silver
 1948,London,Sailing,Sailing,"MAAS, Adriaan Lambertus Joseph",NED,Men,Two-Person Keelboat Open (Star),Bronze
 1948,London,Sailing,Sailing,"STUTTERHEIM, Edward",NED,Men,Two-Person Keelboat Open (Star),Bronze
@@ -8419,7 +8419,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Helsinki,Equestrian,Eventing,"ROTHE, Otto",GER,Men,Team,Silver
 1952,Helsinki,Equestrian,Eventing,"WAGNER, Klaus",GER,Men,Team,Silver
 1952,Helsinki,Equestrian,Jumping,"THIEDEMANN, Fritz",GER,Men,Individual,Bronze
-1952,Helsinki,Equestrian,Jumping,"JONQUERES D'ORIOLA, Pierre",FRA,Men,Individual,Gold
+1952,Helsinki,Equestrian,Jumping,"JONQUERES D ORIOLA, Pierre",FRA,Men,Individual,Gold
 1952,Helsinki,Equestrian,Jumping,"CRISTI-GALLO, Oscar",CHI,Men,Individual,Silver
 1952,Helsinki,Equestrian,Jumping,"MCCASHIN, Arthur Johan",USA,Men,Team,Bronze
 1952,Helsinki,Equestrian,Jumping,"RUSSELL, John William",USA,Men,Team,Bronze
@@ -8452,7 +8452,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Helsinki,Fencing,Fencing,"MAGNUSSON, Lennart",SWE,Men,Épée Team,Silver
 1952,Helsinki,Fencing,Fencing,"REHBINDER, Berndt-Otto",SWE,Men,Épée Team,Silver
 1952,Helsinki,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,Foil Individual,Bronze
-1952,Helsinki,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Individual,Gold
+1952,Helsinki,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Individual,Gold
 1952,Helsinki,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Foil Individual,Silver
 1952,Helsinki,Fencing,Fencing,"LACHMANN, Karen Vilhelmine",DEN,Women,Foil Individual,Bronze
 1952,Helsinki,Fencing,Fencing,"CAMBER, Irene",ITA,Women,Foil Individual,Gold
@@ -8464,7 +8464,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Helsinki,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,Foil Team,Bronze
 1952,Helsinki,Fencing,Fencing,"TILLI, Endre",HUN,Men,Foil Team,Bronze
 1952,Helsinki,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,Foil Team,Gold
-1952,Helsinki,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Team,Gold
+1952,Helsinki,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Team,Gold
 1952,Helsinki,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,Foil Team,Gold
 1952,Helsinki,Fencing,Fencing,"NETTER, Claude",FRA,Men,Foil Team,Gold
 1952,Helsinki,Fencing,Fencing,"NOËL, Jacques",FRA,Men,Foil Team,Gold
@@ -8969,7 +8969,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Aquatics,Swimming,"STRUZHANOV, Vladimir",URS,Men,4X200M Freestyle Relay,Bronze
 1956,Melbourne / Stockholm,Aquatics,Swimming,"DEVITT, John",AUS,Men,4X200M Freestyle Relay,Gold
 1956,Melbourne / Stockholm,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,4X200M Freestyle Relay,Gold
-1956,Melbourne / Stockholm,Aquatics,Swimming,"O'HALLORAN, Kevin",AUS,Men,4X200M Freestyle Relay,Gold
+1956,Melbourne / Stockholm,Aquatics,Swimming,"O HALLORAN, Kevin",AUS,Men,4X200M Freestyle Relay,Gold
 1956,Melbourne / Stockholm,Aquatics,Swimming,"ROSE, Murray",AUS,Men,4X200M Freestyle Relay,Gold
 1956,Melbourne / Stockholm,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,4X200M Freestyle Relay,Silver
 1956,Melbourne / Stockholm,Aquatics,Swimming,"HANLEY, Richard Dennis",USA,Men,4X200M Freestyle Relay,Silver
@@ -9010,7 +9010,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Athletics,Athletics,"HOGAN, Hector",AUS,Men,100M,Bronze
 1956,Melbourne / Stockholm,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,100M,Gold
 1956,Melbourne / Stockholm,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,100M,Silver
-1956,Melbourne / Stockholm,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,100M,Bronze
+1956,Melbourne / Stockholm,Athletics,Athletics,"MATHEWS-O SHEA, Marlene Judith",AUS,Women,100M,Bronze
 1956,Melbourne / Stockholm,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,100M,Gold
 1956,Melbourne / Stockholm,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,100M,Silver
 1956,Melbourne / Stockholm,Athletics,Athletics,"SHANKLE, Joel",USA,Men,110M Hurdles,Bronze
@@ -9022,7 +9022,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,200M,Bronze
 1956,Melbourne / Stockholm,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,200M,Gold
 1956,Melbourne / Stockholm,Athletics,Athletics,"STANFIELD, Andrew William",USA,Men,200M,Silver
-1956,Melbourne / Stockholm,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,200M,Bronze
+1956,Melbourne / Stockholm,Athletics,Athletics,"MATHEWS-O SHEA, Marlene Judith",AUS,Women,200M,Bronze
 1956,Melbourne / Stockholm,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,200M,Gold
 1956,Melbourne / Stockholm,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,200M,Silver
 1956,Melbourne / Stockholm,Athletics,Athletics,"JUNK, Bruno",URS,Men,20KM Walk,Bronze
@@ -9310,17 +9310,17 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Equestrian,Eventing,"WAGNER, Klaus",EUA,Men,Team,Silver
 1956,Melbourne / Stockholm,Equestrian,Eventing,PRINZESS,EUA,Women,Team,Silver
 1956,Melbourne / Stockholm,Equestrian,Eventing,SISSI,EUA,Women,Team,Silver
-1956,Melbourne / Stockholm,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Individual,Bronze
+1956,Melbourne / Stockholm,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Individual,Bronze
 1956,Melbourne / Stockholm,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,Individual,Gold
-1956,Melbourne / Stockholm,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Individual,Silver
+1956,Melbourne / Stockholm,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Individual,Silver
 1956,Melbourne / Stockholm,Equestrian,Jumping,HALLA,EUA,Women,Individual,Gold
 1956,Melbourne / Stockholm,Equestrian,Jumping,"ROBESON, Peter David",GBR,Men,Team,Bronze
 1956,Melbourne / Stockholm,Equestrian,Jumping,"WHITE, Wilfred Harry",GBR,Men,Team,Bronze
 1956,Melbourne / Stockholm,Equestrian,Jumping,"LUTKE WESTHUES, Alfons",EUA,Men,Team,Gold
 1956,Melbourne / Stockholm,Equestrian,Jumping,"THIEDEMANN, Fritz",EUA,Men,Team,Gold
 1956,Melbourne / Stockholm,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,Team,Gold
-1956,Melbourne / Stockholm,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Team,Silver
-1956,Melbourne / Stockholm,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Team,Silver
+1956,Melbourne / Stockholm,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Team,Silver
+1956,Melbourne / Stockholm,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Team,Silver
 1956,Melbourne / Stockholm,Equestrian,Jumping,"OPPES, Salvatore",ITA,Men,Team,Silver
 1956,Melbourne / Stockholm,Equestrian,Jumping,"SMYTHE, Patricia Rosemary",GBR,Women,Team,Bronze
 1956,Melbourne / Stockholm,Equestrian,Jumping,ALA,EUA,Women,Team,Gold
@@ -9346,7 +9346,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Fencing,Fencing,"RERRICH, Bela",HUN,Men,Épée Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,Épée Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,Foil Individual,Bronze
-1956,Melbourne / Stockholm,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Individual,Gold
+1956,Melbourne / Stockholm,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Individual,Gold
 1956,Melbourne / Stockholm,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,Foil Individual,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"GARILHE, Renee",FRA,Women,Foil Individual,Bronze
 1956,Melbourne / Stockholm,Fencing,Fencing,"SHEEN, Gillian Mary",GBR,Women,Foil Individual,Gold
@@ -9366,7 +9366,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Fencing,Fencing,"BAUDOUX, Bernard",FRA,Men,Foil Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"CLOSSET, Roger",FRA,Men,Foil Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"COICAUD, Rene",FRA,Men,Foil Team,Silver
-1956,Melbourne / Stockholm,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,Foil Team,Silver
+1956,Melbourne / Stockholm,Fencing,Fencing,"D ORIOLA, Christian",FRA,Men,Foil Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,Foil Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"NETTER, Claude",FRA,Men,Foil Team,Silver
 1956,Melbourne / Stockholm,Fencing,Fencing,"KUZNETSOV, Lev",URS,Men,Sabre Individual,Bronze
@@ -9633,7 +9633,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Melbourne / Stockholm,Rowing,Rowing,"GUISSART, Rene Jacques",FRA,Men,Four Without Coxswain (4-),Bronze
 1956,Melbourne / Stockholm,Rowing,Rowing,"MERCIER, Gaston Antoine",FRA,Men,Four Without Coxswain (4-),Bronze
 1956,Melbourne / Stockholm,Rowing,Rowing,"ARNOLD, Donald John",CAN,Men,Four Without Coxswain (4-),Gold
-1956,Melbourne / Stockholm,Rowing,Rowing,"D'HONDT, Ignace Walter",CAN,Men,Four Without Coxswain (4-),Gold
+1956,Melbourne / Stockholm,Rowing,Rowing,"D HONDT, Ignace Walter",CAN,Men,Four Without Coxswain (4-),Gold
 1956,Melbourne / Stockholm,Rowing,Rowing,"LOOMER, Lorne Kenneth",CAN,Men,Four Without Coxswain (4-),Gold
 1956,Melbourne / Stockholm,Rowing,Rowing,"MCKINNON, Archibald",CAN,Men,Four Without Coxswain (4-),Gold
 1956,Melbourne / Stockholm,Rowing,Rowing,"MCINTOSH, James Stewart",USA,Men,Four Without Coxswain (4-),Silver
@@ -9898,7 +9898,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Rome,Aquatics,Water polo,"RUSORAN, Peter",HUN,Men,Water Polo,Bronze
 1960,Rome,Aquatics,Water polo,"AMBRON, Amedeo",ITA,Men,Water Polo,Gold
 1960,Rome,Aquatics,Water polo,"BARDI, Danilo",ITA,Men,Water Polo,Gold
-1960,Rome,Aquatics,Water polo,"D'ALTRUI, Giuseppe",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"D ALTRUI, Giuseppe",ITA,Men,Water Polo,Gold
 1960,Rome,Aquatics,Water polo,"GIONTA, Salvatore",ITA,Men,Water Polo,Gold
 1960,Rome,Aquatics,Water polo,"GUERRINI, Giancarlo",ITA,Men,Water Polo,Gold
 1960,Rome,Aquatics,Water polo,"LAVORATORI, Franco",ITA,Men,Water Polo,Gold
@@ -10218,10 +10218,10 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Rome,Equestrian,Eventing,"GUNTHARDT, Rudolf",SUI,Men,Team,Silver
 1960,Rome,Equestrian,Eventing,"SCHWARZENBACH, Hans Herbert",SUI,Men,Team,Silver
 1960,Rome,Equestrian,Jumping,"BROOME, David Mcpherson",GBR,Men,Individual,Bronze
-1960,Rome,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Individual,Gold
-1960,Rome,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Individual,Silver
-1960,Rome,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Team,Bronze
-1960,Rome,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Team,Bronze
+1960,Rome,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Individual,Gold
+1960,Rome,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Individual,Silver
+1960,Rome,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Team,Bronze
+1960,Rome,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Team,Bronze
 1960,Rome,Equestrian,Jumping,"OPPES, Antonio",ITA,Men,Team,Bronze
 1960,Rome,Equestrian,Jumping,"SCHOCKEMÖHLE, Alwin",EUA,Men,Team,Gold
 1960,Rome,Equestrian,Jumping,"THIEDEMANN, Fritz",EUA,Men,Team,Gold
@@ -10243,7 +10243,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Rome,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,Épée Team,Gold
 1960,Rome,Fencing,Fencing,"PELLEGRINO, Alberto",ITA,Men,Épée Team,Gold
 1960,Rome,Fencing,Fencing,"SACCARO, Gianluigi",ITA,Men,Épée Team,Gold
-1960,Rome,Fencing,Fencing,"ALEXANDER, Michael O'Donel",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"ALEXANDER, Michael O Donel",GBR,Men,Épée Team,Silver
 1960,Rome,Fencing,Fencing,"HARRISON, Raymond Alan",GBR,Men,Épée Team,Silver
 1960,Rome,Fencing,Fencing,"HOSKYNS, Henry William Furse",GBR,Men,Épée Team,Silver
 1960,Rome,Fencing,Fencing,"HOWARD, Michael John Peter",GBR,Men,Épée Team,Silver
@@ -10507,7 +10507,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Rome,Rowing,Rowing,"VON GRODDECK, Karl-Heinrich",EUA,Men,Eight With Coxswain (8+),Gold
 1960,Rome,Rowing,Rowing,"ARNOLD, Donald John",CAN,Men,Eight With Coxswain (8+),Silver
 1960,Rome,Rowing,Rowing,"BILN, Sohen",CAN,Men,Eight With Coxswain (8+),Silver
-1960,Rome,Rowing,Rowing,"D'HONDT, Ignace Walter",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"D HONDT, Ignace Walter",CAN,Men,Eight With Coxswain (8+),Silver
 1960,Rome,Rowing,Rowing,"KUHN, Nelson",CAN,Men,Eight With Coxswain (8+),Silver
 1960,Rome,Rowing,Rowing,"LECKY, John",CAN,Men,Eight With Coxswain (8+),Silver
 1960,Rome,Rowing,Rowing,"LOOMER, Lorne Kenneth",CAN,Men,Eight With Coxswain (8+),Silver
@@ -10557,7 +10557,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Rome,Sailing,Sailing,"GIRARD, Pierre",SUI,Men,5.5M,Bronze
 1960,Rome,Sailing,Sailing,"METZGER, Manfred F.",SUI,Men,5.5M,Bronze
 1960,Rome,Sailing,Sailing,"HUNT, James Hawley",USA,Men,5.5M,Gold
-1960,Rome,Sailing,Sailing,"O'DAY, George Dwyer",USA,Men,5.5M,Gold
+1960,Rome,Sailing,Sailing,"O DAY, George Dwyer",USA,Men,5.5M,Gold
 1960,Rome,Sailing,Sailing,"SMITH, David James",USA,Men,5.5M,Gold
 1960,Rome,Sailing,Sailing,"BERNTSEN, William Eldred",DEN,Men,5.5M,Silver
 1960,Rome,Sailing,Sailing,"CHRISTENSEN, Steen Bach",DEN,Men,5.5M,Silver
@@ -10704,7 +10704,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Tokyo,Aquatics,Swimming,"GRAEF, Jedward Richard",USA,Men,200M Backstroke,Gold
 1964,Tokyo,Aquatics,Swimming,"DILLEY, Gary J.",USA,Men,200M Backstroke,Silver
 1964,Tokyo,Aquatics,Swimming,"JASTREMSKI, Chester Andrew",USA,Men,200M Breaststroke,Bronze
-1964,Tokyo,Aquatics,Swimming,"O'BRIEN, Lawrence Ian",AUS,Men,200M Breaststroke,Gold
+1964,Tokyo,Aquatics,Swimming,"O BRIEN, Lawrence Ian",AUS,Men,200M Breaststroke,Gold
 1964,Tokyo,Aquatics,Swimming,"PROKOPENKO, Georgi",URS,Men,200M Breaststroke,Silver
 1964,Tokyo,Aquatics,Swimming,"BABANINA, Svetlana",URS,Women,200M Breaststroke,Bronze
 1964,Tokyo,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,200M Breaststroke,Gold
@@ -10750,7 +10750,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Tokyo,Aquatics,Swimming,"THORN-RISSON, Robyn",AUS,Women,4X100M Freestyle Relay,Silver
 1964,Tokyo,Aquatics,Swimming,"BERRY, Kevin John",AUS,Men,4X100M Medley Relay,Bronze
 1964,Tokyo,Aquatics,Swimming,"DICKSON, David Gavin",AUS,Men,4X100M Medley Relay,Bronze
-1964,Tokyo,Aquatics,Swimming,"O'BRIEN, Lawrence Ian",AUS,Men,4X100M Medley Relay,Bronze
+1964,Tokyo,Aquatics,Swimming,"O BRIEN, Lawrence Ian",AUS,Men,4X100M Medley Relay,Bronze
 1964,Tokyo,Aquatics,Swimming,"REYNOLDS, Peter Askin",AUS,Men,4X100M Medley Relay,Bronze
 1964,Tokyo,Aquatics,Swimming,"CLARK, Stephen Edward",USA,Men,4X100M Medley Relay,Gold
 1964,Tokyo,Aquatics,Swimming,"CRAIG, William Norval",USA,Men,4X100M Medley Relay,Gold
@@ -11135,15 +11135,15 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Tokyo,Equestrian,Eventing,"PAGE, Michael Owen",USA,Men,Team,Silver
 1964,Tokyo,Equestrian,Eventing,"PLUMB, John Michael",USA,Men,Team,Silver
 1964,Tokyo,Equestrian,Jumping,"ROBESON, Peter David",GBR,Men,Individual,Bronze
-1964,Tokyo,Equestrian,Jumping,"JONQUERES D'ORIOLA, Pierre",FRA,Men,Individual,Gold
+1964,Tokyo,Equestrian,Jumping,"JONQUERES D ORIOLA, Pierre",FRA,Men,Individual,Gold
 1964,Tokyo,Equestrian,Jumping,"SCHRIDDE, Hermann",EUA,Men,Individual,Silver
-1964,Tokyo,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Team,Bronze
-1964,Tokyo,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Team,Bronze
+1964,Tokyo,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Team,Bronze
+1964,Tokyo,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Team,Bronze
 1964,Tokyo,Equestrian,Jumping,"MANCINELLI, Graziano",ITA,Men,Team,Bronze
 1964,Tokyo,Equestrian,Jumping,"JARASINSKI, Kurt",EUA,Men,Team,Gold
 1964,Tokyo,Equestrian,Jumping,"SCHRIDDE, Hermann",EUA,Men,Team,Gold
 1964,Tokyo,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,Team,Gold
-1964,Tokyo,Equestrian,Jumping,"JONQUERES D'ORIOLA, Pierre",FRA,Men,Team,Silver
+1964,Tokyo,Equestrian,Jumping,"JONQUERES D ORIOLA, Pierre",FRA,Men,Team,Silver
 1964,Tokyo,Equestrian,Jumping,"LEFRANT, Guy Robert Marie",FRA,Men,Team,Silver
 1964,Tokyo,Equestrian,Jumping,"LEFEVRE, Janou",FRA,Women,Team,Silver
 1964,Tokyo,Fencing,Fencing,"KOSTAVA, Guram",URS,Men,Épée Individual,Bronze
@@ -11495,7 +11495,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Tokyo,Sailing,Sailing,"MCNAMARA, John Joseph Jr.",USA,Men,5.5M,Bronze
 1964,Tokyo,Sailing,Sailing,"SCULLY, Francis Paul Jr.",USA,Men,5.5M,Bronze
 1964,Tokyo,Sailing,Sailing,"NORTHAM, William Herbert",AUS,Men,5.5M,Gold
-1964,Tokyo,Sailing,Sailing,"O'DONNELL, Peter Joseph",AUS,Men,5.5M,Gold
+1964,Tokyo,Sailing,Sailing,"O DONNELL, Peter Joseph",AUS,Men,5.5M,Gold
 1964,Tokyo,Sailing,Sailing,"SARGEANT, James Fred Robert",AUS,Men,5.5M,Gold
 1964,Tokyo,Sailing,Sailing,"KARLSSON, Arne",SWE,Men,5.5M,Silver
 1964,Tokyo,Sailing,Sailing,"STORK, Sture",SWE,Men,5.5M,Silver
@@ -11692,7 +11692,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Mexico,Aquatics,Diving,"HENRY, James Edward",USA,Men,3M Springboard,Bronze
 1968,Mexico,Aquatics,Diving,"WRIGHTSON, Bernard Charles",USA,Men,3M Springboard,Gold
 1968,Mexico,Aquatics,Diving,"DIBIASI, Klaus",ITA,Men,3M Springboard,Silver
-1968,Mexico,Aquatics,Diving,"O'SULLIVAN, Keala",USA,Women,3M Springboard,Bronze
+1968,Mexico,Aquatics,Diving,"O SULLIVAN, Keala",USA,Women,3M Springboard,Bronze
 1968,Mexico,Aquatics,Diving,"GOSSICK, Susanne",USA,Women,3M Springboard,Gold
 1968,Mexico,Aquatics,Diving,"FEDOSOVA-POGOZHEVA, Tamara",URS,Women,3M Springboard,Silver
 1968,Mexico,Aquatics,Swimming,"MILLS, Ronald P.",USA,Men,100M Backstroke,Bronze
@@ -12189,7 +12189,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Mexico,Equestrian,Jumping,"DAY, James E.",CAN,Men,Team,Gold
 1968,Mexico,Equestrian,Jumping,"ELDER, Henry James",CAN,Men,Team,Gold
 1968,Mexico,Equestrian,Jumping,"GAYFORD, Thomas Franklin",CAN,Men,Team,Gold
-1968,Mexico,Equestrian,Jumping,"JONQUERES D'ORIOLA, Pierre",FRA,Men,Team,Silver
+1968,Mexico,Equestrian,Jumping,"JONQUERES D ORIOLA, Pierre",FRA,Men,Team,Silver
 1968,Mexico,Equestrian,Jumping,"ROZIER, Jean Marcel",FRA,Men,Team,Silver
 1968,Mexico,Equestrian,Jumping,"LEFEVRE, Janou",FRA,Women,Team,Silver
 1968,Mexico,Fencing,Fencing,"SACCARO, Gianluigi",ITA,Men,Épée Individual,Bronze
@@ -13248,8 +13248,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Munich,Equestrian,Jumping,"SHAPIRO, Neal",USA,Men,Individual,Bronze
 1972,Munich,Equestrian,Jumping,"MANCINELLI, Graziano",ITA,Men,Individual,Gold
 1972,Munich,Equestrian,Jumping,"MOORE, Ann Elizabeth",GBR,Women,Individual,Silver
-1972,Munich,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Team,Bronze
-1972,Munich,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Team,Bronze
+1972,Munich,Equestrian,Jumping,"D INZEO, Piero",ITA,Men,Team,Bronze
+1972,Munich,Equestrian,Jumping,"D INZEO, Raimondo",ITA,Men,Team,Bronze
 1972,Munich,Equestrian,Jumping,"MANCINELLI, Graziano",ITA,Men,Team,Bronze
 1972,Munich,Equestrian,Jumping,"ORLANDI, Vittorio",ITA,Men,Team,Bronze
 1972,Munich,Equestrian,Jumping,"LIGGES, Fritz",FRG,Men,Team,Gold
@@ -14279,7 +14279,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Montreal,Basketball,Basketball,"LIEBERMAN, Nancy Lizabeth",USA,Women,Basketball,Silver
 1976,Montreal,Basketball,Basketball,"MARQUIS, Gail Annette",USA,Women,Basketball,Silver
 1976,Montreal,Basketball,Basketball,"MEYERS, Ann Elizabeth",USA,Women,Basketball,Silver
-1976,Montreal,Basketball,Basketball,"O'CONNOR, Mary Anne",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"O CONNOR, Mary Anne",USA,Women,Basketball,Silver
 1976,Montreal,Basketball,Basketball,"ROBERTS, Patricia Ann",USA,Women,Basketball,Silver
 1976,Montreal,Basketball,Basketball,"ROJCEWICZ, Susan Marie",USA,Women,Basketball,Silver
 1976,Montreal,Basketball,Basketball,"SIMPSON, Julienne Brazinski",USA,Women,Basketball,Silver
@@ -16628,7 +16628,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Aquatics,Swimming,"HOGSHEAD, Nancy Lynn",USA,Women,100M Freestyle,Gold
 1984,Los Angeles,Aquatics,Swimming,"STEINSEIFER, Carolyn",USA,Women,100M Freestyle,Gold
 1984,Los Angeles,Aquatics,Swimming,"PFEIFFER, Stefan",FRG,Men,1500M Freestyle,Bronze
-1984,Los Angeles,Aquatics,Swimming,"O'BRIEN, Michael Jon",USA,Men,1500M Freestyle,Gold
+1984,Los Angeles,Aquatics,Swimming,"O BRIEN, Michael Jon",USA,Men,1500M Freestyle,Gold
 1984,Los Angeles,Aquatics,Swimming,"DICARLO, George Thomas",USA,Men,1500M Freestyle,Silver
 1984,Los Angeles,Aquatics,Swimming,"HENNING, Cameron",CAN,Men,200M Backstroke,Bronze
 1984,Los Angeles,Aquatics,Swimming,"CAREY, Richard John",USA,Men,200M Backstroke,Gold
@@ -16779,7 +16779,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Aquatics,Water polo,"ROBERTSON, Kevin George",USA,Men,Water Polo,Silver
 1984,Los Angeles,Aquatics,Water polo,"SCHROEDER, Terence Alan",USA,Men,Water Polo,Silver
 1984,Los Angeles,Aquatics,Water polo,"SHAW, Timothy Andrew",USA,Men,Water Polo,Silver
-1984,Los Angeles,Aquatics,Water polo,"SIMAN, John O'Connell",USA,Men,Water Polo,Silver
+1984,Los Angeles,Aquatics,Water polo,"SIMAN, John O Connell",USA,Men,Water Polo,Silver
 1984,Los Angeles,Aquatics,Water polo,"SVENDSEN, Jon Howard",USA,Men,Water Polo,Silver
 1984,Los Angeles,Aquatics,Water polo,"VARGAS, Joseph Michael",USA,Men,Water Polo,Silver
 1984,Los Angeles,Aquatics,Water polo,"WILSON, Craig Martin",USA,Men,Water Polo,Silver
@@ -16943,7 +16943,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Athletics,Athletics,"TULLY, Michael Scott",USA,Men,Pole Vault,Silver
 1984,Los Angeles,Athletics,Athletics,"LAUT, David Lester",USA,Men,Shot Put,Bronze
 1984,Los Angeles,Athletics,Athletics,"ANDREI, Alessandro",ITA,Men,Shot Put,Gold
-1984,Los Angeles,Athletics,Athletics,"CARTER, Michael D'Andrea",USA,Men,Shot Put,Silver
+1984,Los Angeles,Athletics,Athletics,"CARTER, Michael D Andrea",USA,Men,Shot Put,Silver
 1984,Los Angeles,Athletics,Athletics,"MULHALL-MARTIN, Gael",AUS,Women,Shot Put,Bronze
 1984,Los Angeles,Athletics,Athletics,"LOSCH, Claudia",FRG,Women,Shot Put,Gold
 1984,Los Angeles,Athletics,Athletics,"LOGHIN, Mihaela",ROU,Women,Shot Put,Silver
@@ -17057,7 +17057,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Boxing,Boxing,"TIOZZO, Christophe",FRA,Men,67 - 71KG (Light-Middleweight),Bronze
 1984,Los Angeles,Boxing,Boxing,"ZIELONKA, Manfred",FRG,Men,67 - 71KG (Light-Middleweight),Bronze
 1984,Los Angeles,Boxing,Boxing,"TATE, Frank",USA,Men,67 - 71KG (Light-Middleweight),Gold
-1984,Los Angeles,Boxing,Boxing,"O'SULLIVAN, Shawn",CAN,Men,67 - 71KG (Light-Middleweight),Silver
+1984,Los Angeles,Boxing,Boxing,"O SULLIVAN, Shawn",CAN,Men,67 - 71KG (Light-Middleweight),Silver
 1984,Los Angeles,Boxing,Boxing,"GONZALEZ, Aristides",PUR,Men,71-75KG,Bronze
 1984,Los Angeles,Boxing,Boxing,"ZAOUI, Mohamed",ALG,Men,71-75KG,Bronze
 1984,Los Angeles,Boxing,Boxing,"SHIN, Joon-Sup",KOR,Men,71-75KG,Gold
@@ -17715,7 +17715,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Rowing,Rowing,"KEELER, Kathryn Elliott",USA,Women,Eight With Coxswain (8+),Gold
 1984,Los Angeles,Rowing,Rowing,"METCALF, Harriet Morris",USA,Women,Eight With Coxswain (8+),Gold
 1984,Los Angeles,Rowing,Rowing,"NORELIUS, Kristine Lee",USA,Women,Eight With Coxswain (8+),Gold
-1984,Los Angeles,Rowing,Rowing,"O'STEEN, Shyril",USA,Women,Eight With Coxswain (8+),Gold
+1984,Los Angeles,Rowing,Rowing,"O STEEN, Shyril",USA,Women,Eight With Coxswain (8+),Gold
 1984,Los Angeles,Rowing,Rowing,"THORSSNESS, Kristen Joy",USA,Women,Eight With Coxswain (8+),Gold
 1984,Los Angeles,Rowing,Rowing,"ARMASESCU, Mihaela",ROU,Women,Eight With Coxswain (8+),Silver
 1984,Los Angeles,Rowing,Rowing,"BALAN-SNEP, Doina Lilian",ROU,Women,Eight With Coxswain (8+),Silver
@@ -17730,8 +17730,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Rowing,Rowing,"JESSEN, Michael",DEN,Men,Four Without Coxswain (4-),Bronze
 1984,Los Angeles,Rowing,Rowing,"NIELSEN, Lars",DEN,Men,Four Without Coxswain (4-),Bronze
 1984,Los Angeles,Rowing,Rowing,"RASMUSSEN, Per",DEN,Men,Four Without Coxswain (4-),Bronze
-1984,Los Angeles,Rowing,Rowing,"O'Brien, Shane",NZL,Men,Four Without Coxswain (4-),Gold
-1984,Los Angeles,Rowing,Rowing,"O'CONNELL, Leslie",NZL,Men,Four Without Coxswain (4-),Gold
+1984,Los Angeles,Rowing,Rowing,"O Brien, Shane",NZL,Men,Four Without Coxswain (4-),Gold
+1984,Los Angeles,Rowing,Rowing,"O CONNELL, Leslie",NZL,Men,Four Without Coxswain (4-),Gold
 1984,Los Angeles,Rowing,Rowing,"ROBERTSON, Conrad",NZL,Men,Four Without Coxswain (4-),Gold
 1984,Los Angeles,Rowing,Rowing,"TRASK, Keith",NZL,Men,Four Without Coxswain (4-),Gold
 1984,Los Angeles,Rowing,Rowing,"CLARK, David Robert",USA,Men,Four Without Coxswain (4-),Silver
@@ -17889,7 +17889,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Los Angeles,Shooting,Shooting,"GIOVANNETTI, Luciano",ITA,Men,Trap (125 Targets),Gold
 1984,Los Angeles,Shooting,Shooting,"BOZA, Francisco",PER,Men,Trap (125 Targets),Silver
 1984,Los Angeles,Volleyball,Volleyball,"BERTOLI, Franco",ITA,Men,Volleyball,Bronze
-1984,Los Angeles,Volleyball,Volleyball,"DALL'OLIO, Grancesco",ITA,Men,Volleyball,Bronze
+1984,Los Angeles,Volleyball,Volleyball,"DALL OLIO, Grancesco",ITA,Men,Volleyball,Bronze
 1984,Los Angeles,Volleyball,Volleyball,"DAMETTO, Giancarlo",ITA,Men,Volleyball,Bronze
 1984,Los Angeles,Volleyball,Volleyball,"DE LUIGI, Guido",ITA,Men,Volleyball,Bronze
 1984,Los Angeles,Volleyball,Volleyball,"ERRICHIELLO, Giovanni",ITA,Men,Volleyball,Bronze
@@ -18426,7 +18426,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Seoul,Athletics,Athletics,"WAKIIHURI, Douglas",KEN,Men,Marathon,Silver
 1988,Seoul,Athletics,Athletics,"DÖRRE, Katrin",GDR,Women,Marathon,Bronze
 1988,Seoul,Athletics,Athletics,"MOTA, Rosa",POR,Women,Marathon,Gold
-1988,Seoul,Athletics,Athletics,"MARTIN-ONDIEKI-O'DEA, Lisa",AUS,Women,Marathon,Silver
+1988,Seoul,Athletics,Athletics,"MARTIN-ONDIEKI-O DEA, Lisa",AUS,Women,Marathon,Silver
 1988,Seoul,Athletics,Athletics,"EGOROV, Grigori",URS,Men,Pole Vault,Bronze
 1988,Seoul,Athletics,Athletics,"BUBKA, Sergey",URS,Men,Pole Vault,Gold
 1988,Seoul,Athletics,Athletics,"GATAULLIN, Rodion",URS,Men,Pole Vault,Silver
@@ -19650,7 +19650,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Barcelona,Aquatics,Swimming,"ESPOSITO, Franck",FRA,Men,200M Butterfly,Bronze
 1992,Barcelona,Aquatics,Swimming,"STEWART, Melvin",USA,Men,200M Butterfly,Gold
 1992,Barcelona,Aquatics,Swimming,"LOADER, Danyon Joseph",NZL,Men,200M Butterfly,Silver
-1992,Barcelona,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Butterfly,Bronze
+1992,Barcelona,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,200M Butterfly,Bronze
 1992,Barcelona,Aquatics,Swimming,"SANDERS, Summer",USA,Women,200M Butterfly,Gold
 1992,Barcelona,Aquatics,Swimming,"WANG, Xiaohong",CHN,Women,200M Butterfly,Silver
 1992,Barcelona,Aquatics,Swimming,"KASVIO, Antti Alexander",FIN,Men,200M Freestyle,Bronze
@@ -19803,7 +19803,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Barcelona,Aquatics,Water polo,"BOVO, Alessandro",ITA,Men,Water Polo,Gold
 1992,Barcelona,Aquatics,Water polo,"CALDARELLA, Paolo",ITA,Men,Water Polo,Gold
 1992,Barcelona,Aquatics,Water polo,"CAMPAGNA, Alessandro",ITA,Men,Water Polo,Gold
-1992,Barcelona,Aquatics,Water polo,"D'ALTRUI, Marco",ITA,Men,Water Polo,Gold
+1992,Barcelona,Aquatics,Water polo,"D ALTRUI, Marco",ITA,Men,Water Polo,Gold
 1992,Barcelona,Aquatics,Water polo,"FERRETTI, Massimiliano",ITA,Men,Water Polo,Gold
 1992,Barcelona,Aquatics,Water polo,"FIORILLO, Mario",ITA,Men,Water Polo,Gold
 1992,Barcelona,Aquatics,Water polo,"GANDOLFI, Ferdinando",ITA,Men,Water Polo,Gold
@@ -20362,8 +20362,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Barcelona,Cycling,Cycling Track,"WALZER, Andreas",GER,Men,Team Pursuit (4000M),Gold
 1992,Barcelona,Cycling,Cycling Track,"AITKEN, Brett",AUS,Men,Team Pursuit (4000M),Silver
 1992,Barcelona,Cycling,Cycling Track,"MCGLEDE, Stephen John",AUS,Men,Team Pursuit (4000M),Silver
-1992,Barcelona,Cycling,Cycling Track,"O'BRIEN, Shaun William",AUS,Men,Team Pursuit (4000M),Silver
-1992,Barcelona,Cycling,Cycling Track,"O'GRADY, Stuart",AUS,Men,Team Pursuit (4000M),Silver
+1992,Barcelona,Cycling,Cycling Track,"O BRIEN, Shaun William",AUS,Men,Team Pursuit (4000M),Silver
+1992,Barcelona,Cycling,Cycling Track,"O GRADY, Stuart",AUS,Men,Team Pursuit (4000M),Silver
 1992,Barcelona,Equestrian,Dressage,"BALKENHOL, Klaus",GER,Men,Individual,Bronze
 1992,Barcelona,Equestrian,Dressage,"UPHOFF-BECKER, Nicole",GER,Women,Individual,Gold
 1992,Barcelona,Equestrian,Dressage,"WERTH, Isabell",GER,Women,Individual,Silver
@@ -21197,7 +21197,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Barcelona,Volleyball,Volleyball,"IZQUIERDO, Lilia",CUB,Women,Volleyball,Gold
 1992,Barcelona,Volleyball,Volleyball,"LATAMBLET DAUDINOT, Norka",CUB,Women,Volleyball,Gold
 1992,Barcelona,Volleyball,Volleyball,"LUIS, Alejandrina",CUB,Women,Volleyball,Gold
-1992,Barcelona,Volleyball,Volleyball,"O'FARRILL, Raisa",CUB,Women,Volleyball,Gold
+1992,Barcelona,Volleyball,Volleyball,"O FARRILL, Raisa",CUB,Women,Volleyball,Gold
 1992,Barcelona,Volleyball,Volleyball,"ORTIZ CALVO, Tania",CUB,Women,Volleyball,Gold
 1992,Barcelona,Volleyball,Volleyball,"TORRES, Regla",CUB,Women,Volleyball,Gold
 1992,Barcelona,Volleyball,Volleyball,"ARTAMONOVA, Evgenya",EUN,Women,Volleyball,Silver
@@ -21356,7 +21356,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Aquatics,Swimming,"PANKRATOV, Denis",RUS,Men,200M Butterfly,Gold
 1996,Atlanta,Aquatics,Swimming,"MALCHOW, Tom",USA,Men,200M Butterfly,Silver
 1996,Atlanta,Aquatics,Swimming,"SMITH, Michelle Marie",IRL,Women,200M Butterfly,Bronze
-1996,Atlanta,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Butterfly,Gold
+1996,Atlanta,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,200M Butterfly,Gold
 1996,Atlanta,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200M Butterfly,Silver
 1996,Atlanta,Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,200M Freestyle,Bronze
 1996,Atlanta,Aquatics,Swimming,"LOADER, Danyon Joseph",NZL,Men,200M Freestyle,Gold
@@ -21448,7 +21448,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4X100M Medley Relay,Gold
 1996,Atlanta,Aquatics,Swimming,"DENMAN, Helen",AUS,Women,4X100M Medley Relay,Silver
 1996,Atlanta,Aquatics,Swimming,"KENNEDY, Angela",AUS,Women,4X100M Medley Relay,Silver
-1996,Atlanta,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X100M Medley Relay,Silver
+1996,Atlanta,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,4X100M Medley Relay,Silver
 1996,Atlanta,Aquatics,Swimming,"RILEY, Samantha Linette",AUS,Women,4X100M Medley Relay,Silver
 1996,Atlanta,Aquatics,Swimming,"RYAN, Sarah",AUS,Women,4X100M Medley Relay,Silver
 1996,Atlanta,Aquatics,Swimming,"STEVENSON, Nicole Dawn",AUS,Women,4X100M Medley Relay,Silver
@@ -21470,7 +21470,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Aquatics,Swimming,"GREVILLE, Julia",AUS,Women,4X200M Freestyle Relay,Bronze
 1996,Atlanta,Aquatics,Swimming,"JOHNSON, Emma",AUS,Women,4X200M Freestyle Relay,Bronze
 1996,Atlanta,Aquatics,Swimming,"MACKIE, Lise Maree",AUS,Women,4X200M Freestyle Relay,Bronze
-1996,Atlanta,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X200M Freestyle Relay,Bronze
+1996,Atlanta,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,4X200M Freestyle Relay,Bronze
 1996,Atlanta,Aquatics,Swimming,"STEVENSON, Nicole Dawn",AUS,Women,4X200M Freestyle Relay,Bronze
 1996,Atlanta,Aquatics,Swimming,"JACKSON, Trina",USA,Women,4X200M Freestyle Relay,Gold
 1996,Atlanta,Aquatics,Swimming,"JACOB, Lisa",USA,Women,4X200M Freestyle Relay,Gold
@@ -21714,7 +21714,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Athletics,Athletics,"MASTERKOVA, Svetlana",RUS,Women,800M,Gold
 1996,Atlanta,Athletics,Athletics,"QUIROT, Ana Fidelia",CUB,Women,800M,Silver
 1996,Atlanta,Athletics,Athletics,"DVORAK, Tomas",CZE,Men,Decathlon,Bronze
-1996,Atlanta,Athletics,Athletics,"O'BRIEN, Dan",USA,Men,Decathlon,Gold
+1996,Atlanta,Athletics,Athletics,"O BRIEN, Dan",USA,Men,Decathlon,Gold
 1996,Atlanta,Athletics,Athletics,"BUSEMANN, Frank",GER,Men,Decathlon,Silver
 1996,Atlanta,Athletics,Athletics,"KAPTYUKH, Vasiliy",BLR,Men,Discus Throw,Bronze
 1996,Atlanta,Athletics,Athletics,"RIEDEL, Lars",GER,Men,Discus Throw,Gold
@@ -21869,7 +21869,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Basketball,Basketball,"MALONE, Karl",USA,Men,Basketball,Gold
 1996,Atlanta,Basketball,Basketball,"MILLER, Reggie",USA,Men,Basketball,Gold
 1996,Atlanta,Basketball,Basketball,"OLAJUWON, Hakeem",USA,Men,Basketball,Gold
-1996,Atlanta,Basketball,Basketball,"O'NEAL, Shaquille",USA,Men,Basketball,Gold
+1996,Atlanta,Basketball,Basketball,"O NEAL, Shaquille",USA,Men,Basketball,Gold
 1996,Atlanta,Basketball,Basketball,"PAYTON, Gary",USA,Men,Basketball,Gold
 1996,Atlanta,Basketball,Basketball,"PIPPEN, Scottie",USA,Men,Basketball,Gold
 1996,Atlanta,Basketball,Basketball,"RICHMOND, Mitchell J.",USA,Men,Basketball,Gold
@@ -22076,7 +22076,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Cycling,Cycling Track,"ARNDT, Judith",GER,Women,Individual Pursuit,Bronze
 1996,Atlanta,Cycling,Cycling Track,"BELLUTTI, Antonella",ITA,Women,Individual Pursuit,Gold
 1996,Atlanta,Cycling,Cycling Track,"CLIGNET, Marion",FRA,Women,Individual Pursuit,Silver
-1996,Atlanta,Cycling,Cycling Track,"O'GRADY, Stuart",AUS,Men,Points Race,Bronze
+1996,Atlanta,Cycling,Cycling Track,"O GRADY, Stuart",AUS,Men,Points Race,Bronze
 1996,Atlanta,Cycling,Cycling Track,"MARTINELLO, Silvio",ITA,Men,Points Race,Gold
 1996,Atlanta,Cycling,Cycling Track,"WALTON, Brian",CAN,Men,Points Race,Silver
 1996,Atlanta,Cycling,Cycling Track,"TYLER SHARMAN, Lucy",AUS,Women,Points Race,Bronze
@@ -22090,8 +22090,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Cycling,Cycling Track,"NOTHSTEIN, Marty",USA,Men,Sprint Indivual,Silver
 1996,Atlanta,Cycling,Cycling Track,"AITKEN, Brett",AUS,Men,Team Pursuit (4000M),Bronze
 1996,Atlanta,Cycling,Cycling Track,"MCGEE, Bradley",AUS,Men,Team Pursuit (4000M),Bronze
-1996,Atlanta,Cycling,Cycling Track,"O'GRADY, Stuart",AUS,Men,Team Pursuit (4000M),Bronze
-1996,Atlanta,Cycling,Cycling Track,"O'SHANNESSEY, Timothy",AUS,Men,Team Pursuit (4000M),Bronze
+1996,Atlanta,Cycling,Cycling Track,"O GRADY, Stuart",AUS,Men,Team Pursuit (4000M),Bronze
+1996,Atlanta,Cycling,Cycling Track,"O SHANNESSEY, Timothy",AUS,Men,Team Pursuit (4000M),Bronze
 1996,Atlanta,Cycling,Cycling Track,"WOODS, Dean",AUS,Men,Team Pursuit (4000M),Bronze
 1996,Atlanta,Cycling,Cycling Track,"CAPELLE, Christophe",FRA,Men,Team Pursuit (4000M),Gold
 1996,Atlanta,Cycling,Cycling Track,"ERMENAULT, Philippe",FRA,Men,Team Pursuit (4000M),Gold
@@ -22131,12 +22131,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Equestrian,Eventing,"DUTTON, Phillip",AUS,Men,Team,Gold
 1996,Atlanta,Equestrian,Eventing,"HOY, Andrew",AUS,Men,Team,Gold
 1996,Atlanta,Equestrian,Eventing,"DAVIDSON, Bruce Oram",USA,Men,Team,Silver
-1996,Atlanta,Equestrian,Eventing,"O'CONNOR, David",USA,Men,Team,Silver
+1996,Atlanta,Equestrian,Eventing,"O CONNOR, David",USA,Men,Team,Silver
 1996,Atlanta,Equestrian,Eventing,"LATTA, Victoria Jean",NZL,Women,Team,Bronze
 1996,Atlanta,Equestrian,Eventing,"ROLTON, Gillian",AUS,Women,Team,Gold
 1996,Atlanta,Equestrian,Eventing,"SCHAEFFER, Wendy",AUS,Women,Team,Gold
 1996,Atlanta,Equestrian,Eventing,"HENNEBERG, Jill",USA,Women,Team,Silver
-1996,Atlanta,Equestrian,Eventing,"O'CONNOR, Karen",USA,Women,Team,Silver
+1996,Atlanta,Equestrian,Eventing,"O CONNOR, Karen",USA,Women,Team,Silver
 1996,Atlanta,Equestrian,Jumping,"KIRCHHOFF, Ulrich",GER,Men,Individual,Gold
 1996,Atlanta,Equestrian,Jumping,"MELLIGER, Wilhelm",SUI,Men,Individual,Silver
 1996,Atlanta,Equestrian,Jumping,"LEDERMANN, Alexandra",FRA,Women,Individual,Bronze
@@ -22797,7 +22797,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Rowing,Rowing,"BIESENTHAL, Laryssa",CAN,Women,Quadruple Sculls Without Coxswain (4X),Bronze
 1996,Atlanta,Rowing,Rowing,"HEDDLE, Kathleen",CAN,Women,Quadruple Sculls Without Coxswain (4X),Bronze
 1996,Atlanta,Rowing,Rowing,"MCBEAN, Marnie Elizabeth",CAN,Women,Quadruple Sculls Without Coxswain (4X),Bronze
-1996,Atlanta,Rowing,Rowing,"O'GRADY, Diane",CAN,Women,Quadruple Sculls Without Coxswain (4X),Bronze
+1996,Atlanta,Rowing,Rowing,"O GRADY, Diane",CAN,Women,Quadruple Sculls Without Coxswain (4X),Bronze
 1996,Atlanta,Rowing,Rowing,"BORON, Kathrin",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
 1996,Atlanta,Rowing,Rowing,"KÖPPEN, Kerstin",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
 1996,Atlanta,Rowing,Rowing,"RUTSCHOW, Katrin",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
@@ -22928,7 +22928,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Softball,Softball,"HARRIGAN, Lori",USA,Women,Softball,Gold
 1996,Atlanta,Softball,Softball,"HARRIS, Dionna",USA,Women,Softball,Gold
 1996,Atlanta,Softball,Softball,"MAHER, Kim",USA,Women,Softball,Gold
-1996,Atlanta,Softball,Softball,"O'BRIEN, Leah",USA,Women,Softball,Gold
+1996,Atlanta,Softball,Softball,"O BRIEN, Leah",USA,Women,Softball,Gold
 1996,Atlanta,Softball,Softball,"RICHARDSON, Dorothy",USA,Women,Softball,Gold
 1996,Atlanta,Softball,Softball,"SMITH, Julie",USA,Women,Softball,Gold
 1996,Atlanta,Softball,Softball,"SMITH, Michele",USA,Women,Softball,Gold
@@ -23055,7 +23055,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1996,Atlanta,Volleyball,Volleyball,"GATO, Idalmis",CUB,Women,Volleyball,Gold
 1996,Atlanta,Volleyball,Volleyball,"IZQUIERDO, Lilia",CUB,Women,Volleyball,Gold
 1996,Atlanta,Volleyball,Volleyball,"LUIS, Alejandrina",CUB,Women,Volleyball,Gold
-1996,Atlanta,Volleyball,Volleyball,"O'FARRILL, Raisa",CUB,Women,Volleyball,Gold
+1996,Atlanta,Volleyball,Volleyball,"O FARRILL, Raisa",CUB,Women,Volleyball,Gold
 1996,Atlanta,Volleyball,Volleyball,"RUIZ, Yumilka",CUB,Women,Volleyball,Gold
 1996,Atlanta,Volleyball,Volleyball,"TORRES, Regla",CUB,Women,Volleyball,Gold
 1996,Atlanta,Volleyball,Volleyball,"CUI, Yong-Mei",CHN,Women,Volleyball,Silver
@@ -23241,12 +23241,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Aquatics,Swimming,"SYLANTYEV, Denys",UKR,Men,200M Butterfly,Silver
 2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200M Butterfly,Bronze
 2000,Sydney,Aquatics,Swimming,"HYMAN, Misty",USA,Women,200M Butterfly,Gold
-2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Butterfly,Silver
+2000,Sydney,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,200M Butterfly,Silver
 2000,Sydney,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200M Freestyle,Bronze
 2000,Sydney,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,200M Freestyle,Gold
 2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,200M Freestyle,Silver
 2000,Sydney,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,200M Freestyle,Bronze
-2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,200M Freestyle,Gold
 2000,Sydney,Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,200M Freestyle,Silver
 2000,Sydney,Aquatics,Swimming,"WILKENS, Tom",USA,Men,200M Individual Medley,Bronze
 2000,Sydney,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200M Individual Medley,Gold
@@ -23332,7 +23332,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4X100M Medley Relay,Gold
 2000,Sydney,Aquatics,Swimming,"CALUB, Dyana",AUS,Women,4X100M Medley Relay,Silver
 2000,Sydney,Aquatics,Swimming,"JONES, Leisel",AUS,Women,4X100M Medley Relay,Silver
-2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,4X100M Medley Relay,Silver
 2000,Sydney,Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4X100M Medley Relay,Silver
 2000,Sydney,Aquatics,Swimming,"RYAN, Sarah",AUS,Women,4X100M Medley Relay,Silver
 2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4X100M Medley Relay,Silver
@@ -23367,7 +23367,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Aquatics,Swimming,"STOWERS, Julia",USA,Women,4X200M Freestyle Relay,Gold
 2000,Sydney,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4X200M Freestyle Relay,Gold
 2000,Sydney,Aquatics,Swimming,"GRAHAM, Elka",AUS,Women,4X200M Freestyle Relay,Silver
-2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"O NEILL, Susan",AUS,Women,4X200M Freestyle Relay,Silver
 2000,Sydney,Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4X200M Freestyle Relay,Silver
 2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4X200M Freestyle Relay,Silver
 2000,Sydney,Aquatics,Swimming,"THOMSON, Kirsten",AUS,Women,4X200M Freestyle Relay,Silver
@@ -23482,7 +23482,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Aquatics,Water polo,"LORENZ, Ericka",USA,Women,Water Polo,Silver
 2000,Sydney,Aquatics,Water polo,"MOODY, Heather",USA,Women,Water Polo,Silver
 2000,Sydney,Aquatics,Water polo,"ORWIG, Bernice",USA,Women,Water Polo,Silver
-2000,Sydney,Aquatics,Water polo,"O'TOOLE, Maureen",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"O TOOLE, Maureen",USA,Women,Water Polo,Silver
 2000,Sydney,Aquatics,Water polo,"PAYNE, Nicolle",USA,Women,Water Polo,Silver
 2000,Sydney,Aquatics,Water polo,"PETRI, Heather",USA,Women,Water Polo,Silver
 2000,Sydney,Aquatics,Water polo,"SHEEHY, Kathy",USA,Women,Water Polo,Silver
@@ -23626,7 +23626,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Athletics,Athletics,"SAIDI-SIEF, Ali",ALG,Men,5000M,Silver
 2000,Sydney,Athletics,Athletics,"WAMI, Gete",ETH,Women,5000M,Bronze
 2000,Sydney,Athletics,Athletics,"SZABO, Gabriela",ROU,Women,5000M,Gold
-2000,Sydney,Athletics,Athletics,"O'SULLIVAN, Sonia",IRL,Women,5000M,Silver
+2000,Sydney,Athletics,Athletics,"O SULLIVAN, Sonia",IRL,Women,5000M,Silver
 2000,Sydney,Athletics,Athletics,"SANCHEZ GUERRERO, Joel",MEX,Men,50KM Walk,Bronze
 2000,Sydney,Athletics,Athletics,"KORZENIOWSKI, Robert",POL,Men,50KM Walk,Gold
 2000,Sydney,Athletics,Athletics,"FADEJEVS, Aigars",LAT,Men,50KM Walk,Silver
@@ -24088,9 +24088,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Equestrian,Dressage,"VAN BAALEN, Coby",NED,Women,Team,Silver
 2000,Sydney,Equestrian,Dressage,"VAN GRUNSVEN, Anky",NED,Women,Team,Silver
 2000,Sydney,Equestrian,Eventing,"TODD, Mark",NZL,Men,Individual,Bronze
-2000,Sydney,Equestrian,Eventing,"O'CONNOR, David",USA,Men,Individual,Gold
+2000,Sydney,Equestrian,Eventing,"O CONNOR, David",USA,Men,Individual,Gold
 2000,Sydney,Equestrian,Eventing,"HOY, Andrew",AUS,Men,Individual,Silver
-2000,Sydney,Equestrian,Eventing,"O'CONNOR, David",USA,Men,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"O CONNOR, David",USA,Men,Team,Bronze
 2000,Sydney,Equestrian,Eventing,"DUTTON, Phillip",AUS,Men,Team,Gold
 2000,Sydney,Equestrian,Eventing,"HOY, Andrew",AUS,Men,Team,Gold
 2000,Sydney,Equestrian,Eventing,"RYAN, Matthew Morgan",AUS,Men,Team,Gold
@@ -24098,7 +24098,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Equestrian,Eventing,"LAW, Leslie",GBR,Men,Team,Silver
 2000,Sydney,Equestrian,Eventing,"STARK, Ian",GBR,Men,Team,Silver
 2000,Sydney,Equestrian,Eventing,"FOUT, Nina",USA,Women,Team,Bronze
-2000,Sydney,Equestrian,Eventing,"O'CONNOR, Karen",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"O CONNOR, Karen",USA,Women,Team,Bronze
 2000,Sydney,Equestrian,Eventing,"WIESMAN, Linden",USA,Women,Team,Bronze
 2000,Sydney,Equestrian,Eventing,"BRAKEWELL, Jeanette",GBR,Women,Team,Silver
 2000,Sydney,Equestrian,Eventing,"FUNNELL, Pippa",GBR,Women,Team,Silver
@@ -24208,7 +24208,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Football,Football,"BRANCO, Serge",CMR,Men,Football,Gold
 2000,Sydney,Football,Football,"EPALLE, Joel",CMR,Men,Football,Gold
 2000,Sydney,Football,Football,"ETAME MAYER, Lawren",CMR,Men,Football,Gold
-2000,Sydney,Football,Football,"ETO'O FILS, Samuel",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"ETO O FILS, Samuel",CMR,Men,Football,Gold
 2000,Sydney,Football,Football,"KAMENI, Idriss C",CMR,Men,Football,Gold
 2000,Sydney,Football,Football,"MBAMI, Modeste",CMR,Men,Football,Gold
 2000,Sydney,Football,Football,"MBOMA DEM, Patrick",CMR,Men,Football,Gold
@@ -24397,7 +24397,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Handball,Handball,"LOZANO, Demetrio",ESP,Men,Handball,Bronze
 2000,Sydney,Handball,Handball,"MASIP BORRAS, Enric",ESP,Men,Handball,Bronze
 2000,Sydney,Handball,Handball,"NUNEZ, Jordi",ESP,Men,Handball,Bronze
-2000,Sydney,Handball,Handball,"O'CALLAGHAN, Xavier",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"O CALLAGHAN, Xavier",ESP,Men,Handball,Bronze
 2000,Sydney,Handball,Handball,"OLALLA, Jesus",ESP,Men,Handball,Bronze
 2000,Sydney,Handball,Handball,"ORTEGA, Antonio",ESP,Men,Handball,Bronze
 2000,Sydney,Handball,Handball,"PEREZ, Juan",ESP,Men,Handball,Bronze
@@ -24912,7 +24912,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2000,Sydney,Softball,Softball,"HENDERSON, Danielle",USA,Women,Softball,Gold
 2000,Sydney,Softball,Softball,"MCFALLS, Jennifer",USA,Women,Softball,Gold
 2000,Sydney,Softball,Softball,"NUVEMAN, Stacey",USA,Women,Softball,Gold
-2000,Sydney,Softball,Softball,"O'BRIEN, Leah",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"O BRIEN, Leah",USA,Women,Softball,Gold
 2000,Sydney,Softball,Softball,"RICHARDSON, Dorothy",USA,Women,Softball,Gold
 2000,Sydney,Softball,Softball,"SMITH, Michele",USA,Women,Softball,Gold
 2000,Sydney,Softball,Softball,"VENTURELLA, Michelle",USA,Women,Softball,Gold
@@ -26037,7 +26037,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2004,Athens,Cycling,Cycling Track,"HAYLES, Rob",GBR,Men,Madison,Bronze
 2004,Athens,Cycling,Cycling Track,"WIGGINS, Bradley",GBR,Men,Madison,Bronze
 2004,Athens,Cycling,Cycling Track,"BROWN, Graeme",AUS,Men,Madison,Gold
-2004,Athens,Cycling,Cycling Track,"O'GRADY, Stuart",AUS,Men,Madison,Gold
+2004,Athens,Cycling,Cycling Track,"O GRADY, Stuart",AUS,Men,Madison,Gold
 2004,Athens,Cycling,Cycling Track,"MARVULLI, Franco",SUI,Men,Madison,Silver
 2004,Athens,Cycling,Cycling Track,"RISI, Bruno",SUI,Men,Madison,Silver
 2004,Athens,Cycling,Cycling Track,"FULST, Guido",GER,Men,Points Race,Bronze
@@ -26374,7 +26374,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2004,Athens,Gymnastics,Rhythmic G.,"MURZINA, Elena",RUS,Women,Group Competition,Gold
 2004,Athens,Gymnastics,Rhythmic G.,"POSEVINA, Elena",RUS,Women,Group Competition,Gold
 2004,Athens,Gymnastics,Rhythmic G.,"BLANCHI, Elisa",ITA,Women,Group Competition,Silver
-2004,Athens,Gymnastics,Rhythmic G.,"D'OTTAVIO, Fabrizia",ITA,Women,Group Competition,Silver
+2004,Athens,Gymnastics,Rhythmic G.,"D OTTAVIO, Fabrizia",ITA,Women,Group Competition,Silver
 2004,Athens,Gymnastics,Rhythmic G.,"FALCA, Marinella",ITA,Women,Group Competition,Silver
 2004,Athens,Gymnastics,Rhythmic G.,"MASSERONI, Daniela",ITA,Women,Group Competition,Silver
 2004,Athens,Gymnastics,Rhythmic G.,"SANTONI, Elisa",ITA,Women,Group Competition,Silver
@@ -27532,7 +27532,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2008,Beijing,Archery,Archery,"IM, Dong-Hyun",KOR,Men,Team (Fita Olympic Round - 70M),Gold
 2008,Beijing,Archery,Archery,"LEE, Chang-Hwan",KOR,Men,Team (Fita Olympic Round - 70M),Gold
 2008,Beijing,Archery,Archery,"PARK, Kyung-Mo",KOR,Men,Team (Fita Olympic Round - 70M),Gold
-2008,Beijing,Archery,Archery,"DI BUO', Ilario",ITA,Men,Team (Fita Olympic Round - 70M),Silver
+2008,Beijing,Archery,Archery,"DI BUO , Ilario",ITA,Men,Team (Fita Olympic Round - 70M),Silver
 2008,Beijing,Archery,Archery,"GALIAZZO, Marco",ITA,Men,Team (Fita Olympic Round - 70M),Silver
 2008,Beijing,Archery,Archery,"NESPOLI, Mauro",ITA,Men,Team (Fita Olympic Round - 70M),Silver
 2008,Beijing,Archery,Archery,"ARNOLD, Virginie",FRA,Women,Team (Fita Olympic Round - 70M),Bronze
@@ -28877,7 +28877,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2008,Beijing,Shooting,Shooting,"EMMONS, Matthew",USA,Men,50M Rifle Prone (60 Shots),Silver
 2008,Beijing,Shooting,Shooting,"HU, Binyuan",CHN,Men,Double Trap (150 Targets),Bronze
 2008,Beijing,Shooting,Shooting,"ELLER, Glenn",USA,Men,Double Trap (150 Targets),Gold
-2008,Beijing,Shooting,Shooting,"D'ANIELLO, Francesco",ITA,Men,Double Trap (150 Targets),Silver
+2008,Beijing,Shooting,Shooting,"D ANIELLO, Francesco",ITA,Men,Double Trap (150 Targets),Silver
 2008,Beijing,Shooting,Shooting,"TERRAS, Anthony",FRA,Men,Skeet (125 Targets),Bronze
 2008,Beijing,Shooting,Shooting,"HANCOCK, Vincent",USA,Men,Skeet (125 Targets),Gold
 2008,Beijing,Shooting,Shooting,"BROVOLD, Tore",NOR,Men,Skeet (125 Targets),Silver
@@ -30550,7 +30550,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2012,London,Hockey,Hockey,"BARRIONUEVO, Noel",ARG,Women,Hockey,Silver
 2012,London,Hockey,Hockey,"CAVALLERO, Martina",ARG,Women,Hockey,Silver
 2012,London,Hockey,Hockey,"DEL COLLE, Laura",ARG,Women,Hockey,Silver
-2012,London,Hockey,Hockey,"D'ELIA, Maria Silvina",ARG,Women,Hockey,Silver
+2012,London,Hockey,Hockey,"D ELIA, Maria Silvina",ARG,Women,Hockey,Silver
 2012,London,Hockey,Hockey,"HABIF, Florencia",ARG,Women,Hockey,Silver
 2012,London,Hockey,Hockey,"LUCHETTI, Rosario",ARG,Women,Hockey,Silver
 2012,London,Hockey,Hockey,"MACCARI, Sofia",ARG,Women,Hockey,Silver

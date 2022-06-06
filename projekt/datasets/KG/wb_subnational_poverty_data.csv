@@ -25,7 +25,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Aysen Del Gen.d.c.",CHL_Aysen_Del_Gen.d.c_CL.AY_886_CHL004,14.3,2000-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Bio Bio",CHL_Bio_Bio_CL.BO_887_CHL005,27.1,2000-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Coquimbo",CHL_Coquimbo_CL.CO_888_CHL006,24.8,2000-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O'Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,20.9,2000-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,20.9,2000-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Lagos",CHL_Los_Lagos_CL.LL_890_CHL008,25.6,2000-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Magallanes",CHL_Magallanes_CL.MA_891_CHL009,11.1,2000-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Maule",CHL_Maule_CL.MU_892_CHL010,25.3,2000-01-01
@@ -817,8 +817,8 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Ibb",YEM_Ibb_YE.IB_3419_YEM012,30.07,2005-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Lahj",YEM_Lahj_YE.LA_3420_YEM013,47.2,2005-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Marib",YEM_Marib_YE.MR_3421_YEM015,45.88,2005-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., S'adah",YEM_S-adah_YE.SA_3422_YEM017,16.55,2005-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Sana'a",YEM_Sana-a_YE.SN_3423_YEM016,28.13,2005-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., S adah",YEM_S-adah_YE.SA_3422_YEM017,16.55,2005-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Sana a",YEM_Sana-a_YE.SN_3423_YEM016,28.13,2005-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Shabwah",YEM_Shabwah_YE.SH_3424_YEM018,54.13,2005-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Yemen, Rep., Taizz",YEM_Taizz_YE.TA_3425_YEM019,37.8,2005-01-01
 Poverty headcount ratio at rural poverty line (% of population),SI.POV.RUHC,"Egypt, Arab Rep., Lower",EGY_Lower_AGG088,16.7,2005-01-01
@@ -907,7 +907,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Aysen Del Gen.d.c.",CHL_Aysen_Del_Gen.d.c_CL.AY_886_CHL004,9.2,2006-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Bio Bio",CHL_Bio_Bio_CL.BO_887_CHL005,20.7,2006-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Coquimbo",CHL_Coquimbo_CL.CO_888_CHL006,15.9,2006-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O'Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,11.4,2006-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,11.4,2006-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Lagos",CHL_Los_Lagos_CL.LL_890_CHL008,11.8,2006-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Rios",CHL_Los_Rios_CL.LR_896_5_CHL015,18.8,2006-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Magallanes",CHL_Magallanes_CL.MA_891_CHL009,6.3,2006-01-01
@@ -1186,7 +1186,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Kindia",GIN_Kindia_GN.KI_40704_GIN005,64.1,2007-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Labe",GIN_Labe_GN.LA_40705_GIN006,59.8,2007-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Mamou",GIN_Mamou_GN.MA_40706_GIN007,50.1,2007-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, N'Zerekore",GIN_N_Zerekore_GN.ZE_40707_GIN008,64.3,2007-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, N Zerekore",GIN_N_Zerekore_GN.ZE_40707_GIN008,64.3,2007-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Indonesia, Bali, Prop.",IDN_Bali_ID.BA_1513_IDN002,6.63,2007-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Indonesia, Banten, Prop.",IDN_Banten_ID.BT_73610_IDN031,9.07,2007-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Indonesia, Bengkulu, Prop.",IDN_Bengkulu_ID.BE_1514_IDN003,22.13,2007-01-01
@@ -1705,7 +1705,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Aysen Del Gen.d.c.",CHL_Aysen_Del_Gen.d.c_CL.AY_886_CHL004,15.1,2009-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Bio Bio",CHL_Bio_Bio_CL.BO_887_CHL005,21.0,2009-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Coquimbo",CHL_Coquimbo_CL.CO_888_CHL006,16.6,2009-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O'Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,12.8,2009-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,12.8,2009-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Lagos",CHL_Los_Lagos_CL.LL_890_CHL008,14.2,2009-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Rios",CHL_Los_Rios_CL.LR_896_5_CHL015,20.4,2009-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Magallanes",CHL_Magallanes_CL.MA_891_CHL009,9.1,2009-01-01
@@ -2171,7 +2171,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Az Zarqa",JOR_Az_Zarqa_JO.AZ_1712_JOR007,14.1,2010-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Irbid",JOR_Irbid_JO.IR_1707_JOR009,15.0,2010-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Jarash",JOR_Jarash_JO.JA_1708_JOR010,20.3,2010-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Ma'an",JOR_Ma-an_JO.MN_1709_JOR011,26.6,2010-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Ma an",JOR_Ma-an_JO.MN_1709_JOR011,26.6,2010-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Jordan, Madaba",JOR_Madaba_JO.MD_1710_JOR012,15.1,2010-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Mexico,MEX,46.1,2010-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Mexico, Aguascalientes",MEX_Aguascalientes_MX.AG_2028_MEX001,38.1,2010-01-01
@@ -2463,7 +2463,7 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Aysen Del Gen.d.c.",CHL_Aysen_Del_Gen.d.c_CL.AY_886_CHL004,9.8,2011-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Bio Bio",CHL_Bio_Bio_CL.BO_887_CHL005,21.5,2011-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Coquimbo",CHL_Coquimbo_CL.CO_888_CHL006,15.3,2011-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O'Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,10.1,2011-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Libertador General Bernardo O Higgins",CHL_Libertador_Bernardo_O_Higgins_CL.CL_889_CHL007,10.1,2011-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Los Lagos",CHL_Los_Lagos_CL.LL_890_CHL008,15.8,2011-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Magallanes",CHL_Magallanes_CL.MA_891_CHL009,5.8,2011-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Chile, Maule",CHL_Maule_CL.MU_892_CHL010,16.2,2011-01-01
@@ -3055,11 +3055,11 @@ Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Kindia",GIN_Kindia_GN.KI_40704_GIN005,62.5,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Labe",GIN_Labe_GN.LA_40705_GIN006,65.0,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, Mamou",GIN_Mamou_GN.MA_40706_GIN007,60.8,2012-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, N'Zerekore",GIN_N_Zerekore_GN.ZE_40707_GIN008,66.9,2012-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Guinea, N Zerekore",GIN_N_Zerekore_GN.ZE_40707_GIN008,66.9,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,Haiti,HTI,58.7,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Centre",HTI_Centre_HT.CE_1410_HTI001,75.0,2012-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Grand'Anse",HTI_Grand_Anse_HT.GA_72911_HTI002,80.0,2012-01-01
-Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, L'Artibonite",HTI_L_Artibonite_HT.AR_1409_HTI003,60.8,2012-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Grand Anse",HTI_Grand_Anse_HT.GA_72911_HTI002,80.0,2012-01-01
+Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, L Artibonite",HTI_L_Artibonite_HT.AR_1409_HTI003,60.8,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Nippes",HTI_Nippes_HT.NI_72912_HTI004,66.6,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Nord",HTI_Nord_HT.NO_1412_HTI005,68.9,2012-01-01
 Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC,"Haiti, Nord-Est",HTI_Nord-Est_HT.NE_1413_HTI006,79.3,2012-01-01
