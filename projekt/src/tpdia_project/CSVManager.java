@@ -89,4 +89,12 @@ public class CSVManager {
 
 		return dataset;
 	}
+	
+	public Instances DeleteAllCoumnsExceptNumeric(Instances dataset) {
+		dataset.deleteAttributeType(Attribute.DATE);
+		dataset.deleteAttributeType(Attribute.STRING);
+		dataset.deleteAttributeType(Attribute.NOMINAL);
+
+		return dataset;
+	}
 }

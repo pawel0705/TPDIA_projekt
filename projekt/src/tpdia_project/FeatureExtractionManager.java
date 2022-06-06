@@ -126,6 +126,18 @@ public class FeatureExtractionManager {
 			valueRatio.PositiveValueRatio = positiveValue / (double) instancesNumber;
 			valueRatio.ZeroValueRatio = zeroValue / (double) instancesNumber;
 
+			if (Double.isNaN(valueRatio.NegativeValueRatio)) {
+				valueRatio.NegativeValueRatio = 0;
+			}
+
+			if (Double.isNaN(valueRatio.PositiveValueRatio)) {
+				valueRatio.PositiveValueRatio = 0;
+			}
+
+			if (Double.isNaN(valueRatio.ZeroValueRatio)) {
+				valueRatio.ZeroValueRatio = 0;
+			}
+
 			return valueRatio;
 		}
 
@@ -164,6 +176,18 @@ public class FeatureExtractionManager {
 			valueRatio.PositiveValueRatio = positiveValue / (double) fixedInstancesNumber;
 			valueRatio.ZeroValueRatio = zeroValue / (double) fixedInstancesNumber;
 
+			if (Double.isNaN(valueRatio.NegativeValueRatio)) {
+				valueRatio.NegativeValueRatio = 0;
+			}
+
+			if (Double.isNaN(valueRatio.PositiveValueRatio)) {
+				valueRatio.PositiveValueRatio = 0;
+			}
+
+			if (Double.isNaN(valueRatio.ZeroValueRatio)) {
+				valueRatio.ZeroValueRatio = 0;
+			}
+
 			return valueRatio;
 		}
 
@@ -201,6 +225,10 @@ public class FeatureExtractionManager {
 		}
 
 		double uniqueRatio = (double) uniqueValues.size() / (double) instancesNumber;
+
+		if (Double.isNaN(uniqueRatio)) {
+			uniqueRatio = 0;
+		}
 
 		return uniqueRatio;
 	}
@@ -337,6 +365,31 @@ public class FeatureExtractionManager {
 
 				statisticValues.LowerQuartile = quartilies[0];
 				statisticValues.UpperQuartile = quartilies[2];
+
+				if (Double.isNaN(statisticValues.Average)) {
+					statisticValues.Average = 0;
+				}
+
+				if (Double.isNaN(statisticValues.Minimum)) {
+					statisticValues.Minimum = 0;
+				}
+
+				if (Double.isNaN(statisticValues.Maximum)) {
+					statisticValues.Maximum = 0;
+				}
+
+				if (Double.isNaN(statisticValues.Median)) {
+					statisticValues.Median = 0;
+				}
+
+				if (Double.isNaN(statisticValues.LowerQuartile)) {
+					statisticValues.LowerQuartile = 0;
+				}
+
+				if (Double.isNaN(statisticValues.UpperQuartile)) {
+					statisticValues.UpperQuartile = 0;
+				}
+
 			}
 		} catch (Exception e) {
 			return new StatisticValuesModel();
@@ -404,6 +457,10 @@ public class FeatureExtractionManager {
 			stdev = stdev / average;
 		}
 
+		if (Double.isNaN(stdev)) {
+			stdev = 0;
+		}
+
 		return stdev;
 	}
 
@@ -451,6 +508,10 @@ public class FeatureExtractionManager {
 			rangeRatio = (maximum - minimum) / uniqueValues.size();
 		}
 
+		if (Double.isNaN(rangeRatio)) {
+			rangeRatio = 0;
+		}
+
 		return rangeRatio;
 	}
 
@@ -459,6 +520,10 @@ public class FeatureExtractionManager {
 	// Location ratio
 	public double GetLocationRatio(int maxColumns, int columnNumber) {
 		double locationRatio = ((double) columnNumber) / ((double) maxColumns - 1.0);
+
+		if (Double.isNaN(locationRatio)) {
+			locationRatio = 0;
+		}
 
 		return locationRatio;
 	}
@@ -475,6 +540,10 @@ public class FeatureExtractionManager {
 		}
 
 		double numericalColumnRatio = (double) columnsWithNumbers / (double) attributesNumber;
+
+		if (Double.isNaN(numericalColumnRatio)) {
+			numericalColumnRatio = 0;
+		}
 
 		return numericalColumnRatio;
 	}
