@@ -300,41 +300,46 @@ public class FeatureExtractionManager {
 			}
 		}
 
-		if (readedValues.size() > 0) {
-			statisticValues.Average = readedValues.stream().mapToDouble(a -> a).average().getAsDouble();
-			statisticValues.Minimum = readedValues.stream().mapToDouble(a -> a).min().getAsDouble();
-			statisticValues.Maximum = readedValues.stream().mapToDouble(a -> a).max().getAsDouble();
+		try {
 
-			Collections.sort(readedValues);
+			if (readedValues.size() > 0) {
+				statisticValues.Average = readedValues.stream().mapToDouble(a -> a).average().getAsDouble();
+				statisticValues.Minimum = readedValues.stream().mapToDouble(a -> a).min().getAsDouble();
+				statisticValues.Maximum = readedValues.stream().mapToDouble(a -> a).max().getAsDouble();
 
-			double middle = readedValues.size() / 2;
-			if (readedValues.size() % 2 == 0) {
-				middle = (readedValues.get(readedValues.size() / 2) + readedValues.get(readedValues.size() / 2 - 1))
-						/ 2;
-			} else {
-				middle = readedValues.get(readedValues.size() / 2);
-			}
+				Collections.sort(readedValues);
 
-			statisticValues.Median = middle;
-
-			double quartilies[] = new double[3];
-
-			for (int quartileType = 1; quartileType < 4; quartileType++) {
-				float length = readedValues.size() - 1;
-				double quartile;
-				float newArraySize = (length * ((float) (quartileType) * 25 / 100)) - 1;
-
-				if (newArraySize % 1 == 0) {
-					quartile = readedValues.get((int) (newArraySize));
+				double middle = readedValues.size() / 2;
+				if (readedValues.size() % 2 == 0) {
+					middle = (readedValues.get(readedValues.size() / 2) + readedValues.get(readedValues.size() / 2 - 1))
+							/ 2;
 				} else {
-					int newArraySize1 = (int) (newArraySize);
-					quartile = (readedValues.get(newArraySize1) + readedValues.get(newArraySize1 + 1)) / 2;
+					middle = readedValues.get(readedValues.size() / 2);
 				}
-				quartilies[quartileType - 1] = quartile;
-			}
 
-			statisticValues.LowerQuartile = quartilies[0];
-			statisticValues.UpperQuartile = quartilies[2];
+				statisticValues.Median = middle;
+
+				double quartilies[] = new double[3];
+
+				for (int quartileType = 1; quartileType < 4; quartileType++) {
+					float length = readedValues.size() - 1;
+					double quartile;
+					float newArraySize = (length * ((float) (quartileType) * 25 / 100)) - 1;
+
+					if (newArraySize % 1 == 0) {
+						quartile = readedValues.get((int) (newArraySize));
+					} else {
+						int newArraySize1 = (int) (newArraySize);
+						quartile = (readedValues.get(newArraySize1) + readedValues.get(newArraySize1 + 1)) / 2;
+					}
+					quartilies[quartileType - 1] = quartile;
+				}
+
+				statisticValues.LowerQuartile = quartilies[0];
+				statisticValues.UpperQuartile = quartilies[2];
+			}
+		} catch (Exception e) {
+			return new StatisticValuesModel();
 		}
 
 		return statisticValues;
