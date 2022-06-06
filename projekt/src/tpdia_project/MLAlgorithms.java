@@ -5,6 +5,7 @@ import java.nio.file.DirectoryStream.Filter;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.functions.SMO;
+import weka.classifiers.functions.supportVector.RBFKernel;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.trees.J48;
 import weka.classifiers.trees.RandomForest;
@@ -87,6 +88,43 @@ public class MLAlgorithms {
 		eval.crossValidateModel(forest, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	
+	}
+	
+	public void SVM(Instances trainingDataSet, Instances testingDataSet) throws Exception
+	{
+		SMO svm = new SMO();
+		svm.setKernel(new RBFKernel());
+		
+		//String[] opt = new String[2];
+		//opt[0] = "-E";
+		//opt[1] = "2.0";
+		//svm.setOptions(opt);
+		
+		//SVM requires nominal class so it has to be converted, because it is currently numeric
+		
+		NumericToNominal numericToNominal = new NumericToNominal();
+
+		numericToNominal.setInputFormat(trainingDataSet);
+		testingDataSet = weka.filters.Filter.useFilter(trainingDataSet, numericToNominal);
+
+		numericToNominal = new NumericToNominal();
+		numericToNominal.setInputFormat(testingDataSet);
+		trainingDataSet = weka.filters.Filter.useFilter(testingDataSet, numericToNominal);
+		
+		svm.buildClassifier(trainingDataSet);
+		
+		Evaluation eval = new Evaluation(trainingDataSet);
+		eval.evaluateModel(svm, testingDataSet);
+		
+		System.out.println("** SVM Evaluation with Datasets **");
+		System.out.println(eval.toSummaryString());
+		//System.out.print(" the expression for the input data as per alogorithm is ");
+		//System.out.println(svm);
+		
+		ClassificationPrecision("SVM", svm, testingDataSet);
+		
+		eval.crossValidateModel(svm, trainingDataSet, 10, new Random(1));
+		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	}
 	
 	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet)
