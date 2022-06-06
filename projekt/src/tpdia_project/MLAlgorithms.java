@@ -11,47 +11,79 @@ import weka.core.Instances;
 public class MLAlgorithms {
 
 	public void KNN(Instances trainingDataSet, Instances testingDataSet) throws Exception {
-		Classifier ibk = new IBk(1);		
+		Classifier ibk = new IBk(1);
 		ibk.buildClassifier(trainingDataSet);
-		
+
 		Evaluation eval = new Evaluation(trainingDataSet);
-        eval.evaluateModel(ibk, testingDataSet);
-		
+		eval.evaluateModel(ibk, testingDataSet);
+
 		System.out.println("** KNN Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
 		System.out.print(" the expression for the input data as per alogorithm is ");
 		System.out.println(ibk);
-		
+
 		ClassificationPrecision("k-Nearest Neighbor", ibk, testingDataSet);
 	}
-	
+
 	public void DecisionTree(Instances trainingDataSet, Instances testingDataSet) throws Exception {
 		Classifier j48 = new J48();
 		j48.buildClassifier(trainingDataSet);
-		
+
 		Evaluation eval = new Evaluation(trainingDataSet);
-        eval.evaluateModel(j48, testingDataSet);
-		
+		eval.evaluateModel(j48, testingDataSet);
+
 		System.out.println("** Decision Tree Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
 		System.out.print(" the expression for the input data as per alogorithm is ");
 		System.out.println(j48);
-		
+
 		ClassificationPrecision("Decision Tree", j48, testingDataSet);
 	}
-	
-	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet) throws Exception {
 
-		double sum = testingDataSet.numInstances(); 
-		double right = 0.0f;  
-		
-		 for(int i = 0; i<sum; i++)
-	     {  
-	            if(classifier.classifyInstance(testingDataSet.instance(i))==testingDataSet.instance(i).classValue())
-	            {  
-	                right++;
-	            }  
-	      } 
-		 System.out.println(algoName + " classification precision:" + (right/sum));  
+	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet)
+			throws Exception {
+
+		double sum = testingDataSet.numInstances();
+		double right = 0.0f;
+
+		int Nmm = 0;
+		int Nmn = 0;
+		int Nnm = 0;
+		int Nnn = 0; // not used in article
+
+		for (int i = 0; i < sum; i++) {
+
+			boolean predictedAsMeasure = false;
+			if (classifier.classifyInstance(testingDataSet.instance(i)) == testingDataSet.instance(i).classValue()) {
+				right++;
+				predictedAsMeasure = true;
+			}
+
+			if ((testingDataSet.instance(i).classValue() < 1.001)
+					&& (testingDataSet.instance(i).classValue() > 0.999)) {
+				if (predictedAsMeasure == true) {
+					Nmm++;
+				} else {
+					Nmn++;
+				}
+			} else {
+				if (predictedAsMeasure == false) {
+					Nnm++;
+				} else {
+					Nnn++;
+				}
+			}
+		}
+
+		System.out.println("-------------------------------------");
+		System.out.println(algoName + " classification precision: " + (right / sum));
+
+		double R = Nmm / (Nmm + Nmn);
+		double P = Nmm / (Nmm + Nnm);
+		double F = (2 * P * R) / (P + R);
+
+		System.out.println("Recall: " + R + "%");
+		System.out.println("Precision: " + P + "%");
+		System.out.println("F-Measure: " + F + "%");
 	}
 }
