@@ -4,6 +4,7 @@ import java.nio.file.DirectoryStream.Filter;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
+import weka.classifiers.functions.SMO;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.trees.J48;
 import weka.classifiers.trees.RandomForest;
@@ -68,9 +69,9 @@ public class MLAlgorithms {
 	public void RandomForest(Instances trainingDataSet, Instances testingDataSet) throws Exception
 	{
 		RandomForest forest = new RandomForest();
-		forest.setNumFeatures(10);
-		forest.setNumIterations(10);
 		
+		forest.setNumFeatures(10);
+		forest.setNumIterations(1);
 		forest.buildClassifier(trainingDataSet);
 
 		Evaluation eval = new Evaluation(trainingDataSet);
@@ -85,6 +86,7 @@ public class MLAlgorithms {
 		
 		eval.crossValidateModel(forest, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
+	
 	}
 	
 	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet)
@@ -102,6 +104,7 @@ public class MLAlgorithms {
 
 			boolean predictedAsMeasure = false;
 			if (classifier.classifyInstance(testingDataSet.instance(i)) == testingDataSet.instance(i).classValue()) {
+				//System.out.println(classifier.classifyInstance(testingDataSet.instance(i)));
 				right++;
 				predictedAsMeasure = true;
 			}

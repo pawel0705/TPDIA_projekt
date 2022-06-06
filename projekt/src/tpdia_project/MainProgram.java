@@ -65,7 +65,7 @@ public class MainProgram {
 	}
 
 	private static void DetectFeatures() throws Exception {
-		Instances data = csvManager.GetDataSet("features.csv", ";");
+		Instances data = csvManager.GetDataSet("featuresOriginal.csv", ";");
 
 		int seed = 2;
 
@@ -75,7 +75,7 @@ public class MainProgram {
 		Instances randData = new Instances(data);
 		randData.randomize(rand);
 
-		int trainSize = (int) Math.round(data.numInstances() * 0.9); // split 90% / 10% train-test
+		int trainSize = (int) Math.round(data.numInstances() * 0.7); // split 90% / 10% train-test
 		int testSize = data.numInstances() - trainSize;
 		Instances train = new Instances(data, 0, trainSize);
 		Instances test = new Instances(data, trainSize, testSize);
