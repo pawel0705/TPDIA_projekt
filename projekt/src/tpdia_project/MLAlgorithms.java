@@ -108,10 +108,12 @@ public class MLAlgorithms {
 
 		if ((Nmm + Nmn) != 0) {
 			R = Nmm / (double) (Nmm + Nmn);
+			R *= 100;
 		}
 
 		if ((Nmm + Nnm) != 0) {
 			P = Nmm / (double) (Nmm + Nnm);
+			P *= 100;
 		}
 
 		if ((P + R) != 0) {
