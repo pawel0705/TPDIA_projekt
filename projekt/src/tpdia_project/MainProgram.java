@@ -91,6 +91,7 @@ public class MainProgram {
 		MLAlgorithms algorithmManager = new MLAlgorithms();
 		algorithmManager.DecisionTree(train, test);
 		algorithmManager.KNN(train, test);
+		algorithmManager.RandomForest(train, test);
 	}
 
 	private static void PrepareFeaturesCSV() {

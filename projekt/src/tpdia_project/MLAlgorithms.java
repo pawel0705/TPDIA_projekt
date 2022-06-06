@@ -65,6 +65,28 @@ public class MLAlgorithms {
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	}
 
+	public void RandomForest(Instances trainingDataSet, Instances testingDataSet) throws Exception
+	{
+		RandomForest forest = new RandomForest();
+		forest.setNumFeatures(10);
+		forest.setNumIterations(10);
+		
+		forest.buildClassifier(trainingDataSet);
+
+		Evaluation eval = new Evaluation(trainingDataSet);
+		eval.evaluateModel(forest, testingDataSet);
+		
+		System.out.println("** Random Forest Evaluation with Datasets **");
+		System.out.println(eval.toSummaryString());
+		System.out.print(" the expression for the input data as per alogorithm is ");
+		System.out.println(forest);
+		
+		ClassificationPrecision("Random Forest", forest, testingDataSet);
+		
+		eval.crossValidateModel(forest, trainingDataSet, 10, new Random(1));
+		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
+	}
+	
 	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet)
 			throws Exception {
 
