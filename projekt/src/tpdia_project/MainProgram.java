@@ -65,7 +65,7 @@ public class MainProgram {
 	}
 
 	private static void DetectFeatures() throws Exception {
-		Instances data = csvManager.GetDataSet("features.csv", ",");
+		Instances data = csvManager.GetDataSet("features.csv", ";");
 
 		int seed = 2;
 
@@ -117,7 +117,7 @@ public class MainProgram {
 
 		}
 
-		SaveMainCSV(main, "features.csv");
+		SaveMainCSV(main, "features.csv", ";");
 		System.out.println("---- Done creating features csv file ----");
 	}
 
