@@ -28,7 +28,7 @@ public class MLAlgorithms {
 		System.out.println(ibk);
 
 		ClassificationPrecision("k-Nearest Neighbor", ibk, testingDataSet);
-		
+
 		eval.crossValidateModel(ibk, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	}
@@ -37,38 +37,31 @@ public class MLAlgorithms {
 
 		NumericToNominal numericToNominal = new NumericToNominal();
 
-		String[] options = new String[2];
-		options[0] = "-R";
-		options[1] = "first-last";
-
 		numericToNominal.setInputFormat(trainingDataSet);
-		numericToNominal.setOptions(options);
-		testingDataSet = weka.filters.Filter.useFilter(trainingDataSet, numericToNominal);
+		trainingDataSet = weka.filters.Filter.useFilter(trainingDataSet, numericToNominal);
 
 		numericToNominal = new NumericToNominal();
 		numericToNominal.setInputFormat(testingDataSet);
-		numericToNominal.setOptions(options);
-		trainingDataSet = weka.filters.Filter.useFilter(testingDataSet, numericToNominal);
+		testingDataSet = weka.filters.Filter.useFilter(testingDataSet, numericToNominal);
 
 		Classifier j48 = new J48();
 		j48.buildClassifier(trainingDataSet);
 
 		Evaluation eval = new Evaluation(trainingDataSet);
 		eval.evaluateModel(j48, testingDataSet);
-
+		
 		System.out.println("** Decision Tree Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
 		System.out.print(" the expression for the input data as per alogorithm is ");
 		System.out.println(j48);
 
 		ClassificationPrecision("Decision Tree", j48, testingDataSet);
-		
+
 		eval.crossValidateModel(j48, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	}
 
-	public void RandomForest(Instances trainingDataSet, Instances testingDataSet) throws Exception
-	{
+	public void RandomForest(Instances trainingDataSet, Instances testingDataSet) throws Exception {
 		RandomForest forest = new RandomForest();
 		
 		forest.setNumFeatures(10);
@@ -77,31 +70,31 @@ public class MLAlgorithms {
 
 		Evaluation eval = new Evaluation(trainingDataSet);
 		eval.evaluateModel(forest, testingDataSet);
-		
+
 		System.out.println("** Random Forest Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
 		System.out.print(" the expression for the input data as per alogorithm is ");
 		System.out.println(forest);
-		
+
 		ClassificationPrecision("Random Forest", forest, testingDataSet);
-		
+
 		eval.crossValidateModel(forest, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
-	
+
 	}
-	
-	public void SVM(Instances trainingDataSet, Instances testingDataSet) throws Exception
-	{
+
+	public void SVM(Instances trainingDataSet, Instances testingDataSet) throws Exception {
 		SMO svm = new SMO();
 		svm.setKernel(new RBFKernel());
-		
-		//String[] opt = new String[2];
-		//opt[0] = "-E";
-		//opt[1] = "2.0";
-		//svm.setOptions(opt);
-		
-		//SVM requires nominal class so it has to be converted, because it is currently numeric
-		
+
+		// String[] opt = new String[2];
+		// opt[0] = "-E";
+		// opt[1] = "2.0";
+		// svm.setOptions(opt);
+
+		// SVM requires nominal class so it has to be converted, because it is currently
+		// numeric
+
 		NumericToNominal numericToNominal = new NumericToNominal();
 
 		numericToNominal.setInputFormat(trainingDataSet);
@@ -110,28 +103,28 @@ public class MLAlgorithms {
 		numericToNominal = new NumericToNominal();
 		numericToNominal.setInputFormat(testingDataSet);
 		trainingDataSet = weka.filters.Filter.useFilter(testingDataSet, numericToNominal);
-		
+
 		svm.buildClassifier(trainingDataSet);
-		
+
 		Evaluation eval = new Evaluation(trainingDataSet);
 		eval.evaluateModel(svm, testingDataSet);
-		
+
 		System.out.println("** SVM Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
-		//System.out.print(" the expression for the input data as per alogorithm is ");
-		//System.out.println(svm);
-		
+		// System.out.print(" the expression for the input data as per alogorithm is ");
+		// System.out.println(svm);
+
 		ClassificationPrecision("SVM", svm, testingDataSet);
-		
+
 		eval.crossValidateModel(svm, trainingDataSet, 10, new Random(1));
 		System.out.println("10-fold cross validation: " + Double.toString(eval.pctCorrect()));
 	}
-	
+
 	private void ClassificationPrecision(String algoName, Classifier classifier, Instances testingDataSet)
 			throws Exception {
 
-		double sum = testingDataSet.numInstances();
-		double right = 0.0f;
+		int sum = testingDataSet.numInstances();
+		int right = 0;
 
 		int Nmm = 0;
 		int Nmn = 0;
@@ -140,35 +133,40 @@ public class MLAlgorithms {
 
 		for (int i = 0; i < sum; i++) {
 
-			boolean predictedAsMeasure = false;
-			if (classifier.classifyInstance(testingDataSet.instance(i)) == testingDataSet.instance(i).classValue()) {
-				//System.out.println(classifier.classifyInstance(testingDataSet.instance(i)));
+			int real = (int)testingDataSet.instance(i).classValue();
+			int predicted = (int)classifier.classifyInstance(testingDataSet.instance(i));
+			
+			if (real == predicted) {
+				// System.out.println(classifier.classifyInstance(testingDataSet.instance(i)));
 				right++;
-				predictedAsMeasure = true;
 			}
 
-			if (testingDataSet.instance(i).classValue() == 1.0) {
-				if (predictedAsMeasure == true) {
-					Nmm++;
-				} else {
-					Nmn++;
-				}
+			if ((real == 1)
+					&& (predicted == 1)) {
+				Nmm++;
+			} else if ((real == 1)
+					&& (predicted == 0)) {
+				Nmn++;
+			} else if ((real == 0)
+					&& (predicted == 0)) {
+				Nnm++;
 			} else {
-				if (predictedAsMeasure == false) {
-					Nnm++;
-				} else {
-					Nnn++;
-				}
+				Nnn++;
 			}
 		}
 
 		System.out.println("-------------------------------------");
-		System.out.println(algoName + " classification precision: " + (right / sum));
+		System.out.println(algoName + " classification precision: " + ((double)right / (double)sum));
 
 		double R = 0;
 		double P = 0;
 		double F = 0;
 
+		System.out.println(Nmm);
+		System.out.println(Nmn);
+		System.out.println(Nnm);
+		System.out.println(Nnn);
+		
 		if ((Nmm + Nmn) != 0) {
 			R = Nmm / (double) (Nmm + Nmn);
 			R *= 100;

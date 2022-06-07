@@ -67,7 +67,7 @@ public class MainProgram {
 	private static void DetectFeatures() throws Exception {
 		Instances data = csvManager.GetDataSet("features.csv", ";");
 
-		int seed = 5;
+		int seed = 2500000;
 
 		data = csvManager.DeleteAllCoumnsExceptNumeric(data);
 
@@ -75,15 +75,13 @@ public class MainProgram {
 		Instances randData = new Instances(data);
 		randData.randomize(rand);
 
-		int trainSize = (int) Math.round(data.numInstances() * 0.6); // split 90% / 10% train-test
-		int testSize = data.numInstances() - trainSize;
-		Instances train = new Instances(data, 0, trainSize);
-		Instances test = new Instances(data, trainSize, testSize);
+		int trainSize = (int) Math.round(randData.numInstances() * 0.7);
+		int testSize = randData.numInstances() - trainSize;
+		Instances train = new Instances(randData, 0, trainSize);
+		Instances test = new Instances(randData, trainSize, testSize);
 		
 		train.setClassIndex(0); // searching label on position 0 after removing all except numeric columns
 		test.setClassIndex(0);
-		
-		System.out.println(train.classIndex());
 		
 		System.out.println(train.toSummaryString());
 		System.out.println(test.toSummaryString());
