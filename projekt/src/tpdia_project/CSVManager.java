@@ -18,6 +18,7 @@ public class CSVManager {
 	public Instances GetDataSet(String fileName) {
 		return this.GetDataSet(fileName, ",");
 	}
+
 	public Instances GetDataSet(String fileName, String fieldSeparator) {
 
 		Instances dataSet;
@@ -27,11 +28,10 @@ public class CSVManager {
 			loader.setFile(new File(fileName));
 			dataSet = loader.getDataSet();
 		} catch (IOException e) {
-			//e.printStackTrace();
-			System.out.println( e.getMessage());
+			System.out.println(e.getMessage());
 			return null;
 		} catch (Exception e) {
-			//e.printStackTrace();
+			System.out.println(e.getMessage());
 			return null;
 		}
 
@@ -60,7 +60,6 @@ public class CSVManager {
 
 					List<Integer> measuresIndexes = new ArrayList<Integer>();
 					for (int i = 1; i < splitStr.length; i++) {
-						// System.out.println(splitStr[i]);
 						int index = Integer.parseInt(splitStr[i]);
 						measuresIndexes.add(index);
 					}
@@ -83,13 +82,6 @@ public class CSVManager {
 		return datasetInformationList;
 	}
 
-	public Instances DeleteAllCoumnsExceptNumericAndNominal(Instances dataset) {
-		dataset.deleteAttributeType(Attribute.DATE);
-		dataset.deleteAttributeType(Attribute.STRING);
-
-		return dataset;
-	}
-	
 	public Instances DeleteAllCoumnsExceptNumeric(Instances dataset) {
 		dataset.deleteAttributeType(Attribute.DATE);
 		dataset.deleteAttributeType(Attribute.STRING);

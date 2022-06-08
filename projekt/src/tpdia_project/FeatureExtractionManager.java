@@ -1,10 +1,8 @@
 package tpdia_project;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.OptionalDouble;
 
 import tpdia_project.Models.StatisticValuesModel;
 import tpdia_project.Models.ValueRatioModel;
@@ -21,8 +19,6 @@ public class FeatureExtractionManager {
 	public int GetDataType(Instances instances, int columnNumber) {
 		Attribute attribute = instances.attribute(columnNumber);
 
-		// je¿eli kolumna ma przyk³adowo 99% liczb i 1% np. NULL jest to traktowane jako
-		// Nominal (wiêc trzeba uwzglêdniaæ)
 		if (!(attribute.isNumeric() || attribute.isNominal())) {
 			return -1; // no numeric or nominal column
 		}
@@ -76,8 +72,7 @@ public class FeatureExtractionManager {
 			}
 
 			if (notNumber > (instancesNumber * 0.8)) {
-				return -1; // je¿eli ponad 80% to nie jest numer, to taka kolumna nie ma sensu byæ brana
-							// pod uwagê (80% to mój pomys³)
+				return -1;
 			}
 
 			if (realNumbers > intNumbers) {
@@ -547,8 +542,6 @@ public class FeatureExtractionManager {
 
 		return numericalColumnRatio;
 	}
-
-	// TODO ? Multiple functional dependencies
 
 	// Numerical neighbor
 	public double GetNumericalNeighbor(Instances instances, int maxColumns, int columnNumber) {

@@ -1,24 +1,13 @@
 package tpdia_project;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-import tpdia_project.Models.DatasetInformationModel;
-import tpdia_project.Models.StatisticValuesModel;
-import tpdia_project.Models.ValueRatioModel;
-import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
-import weka.core.converters.ConverterUtils.DataSink;
-import weka.filters.unsupervised.attribute.StringToNominal;
 
 public class MainProgram {
 	static CSVManager csvManager = new CSVManager();
@@ -57,17 +46,15 @@ public class MainProgram {
 	}
 
 	private static void PrintHelp() {
-		System.out
-				.println("Aby utworzy� plik z cechami tabel numerycznych kliknij klawisz \"a\" i potwierd� wyb�r.");
-		System.out.println(
-				"Aby dokona� procesu trenowania i walidacji na algorytmach uczenia maszynowego kliknij klawisz \"s\" i potwier� wyb�r.");
-		System.out.println("Aby dokona� wyj�� z programu wci�nij klawisz \"q\" i potwierd� wyb�r.");
+		System.out.println("To calculate the features of measures columns, enter the [a] key.");
+		System.out.println("To perform training and validation on machine learning algorithms, enter the [s] key.");
+		System.out.println("To close the program, enter the [q] key.");
 	}
 
 	private static void DetectFeatures() throws Exception {
 		Instances data = csvManager.GetDataSet("features.csv", ";");
 
-		int seed = 2500000;
+		int seed = 100000;
 
 		data = csvManager.DeleteAllCoumnsExceptNumeric(data);
 
@@ -79,15 +66,18 @@ public class MainProgram {
 		int testSize = randData.numInstances() - trainSize;
 		Instances train = new Instances(randData, 0, trainSize);
 		Instances test = new Instances(randData, trainSize, testSize);
-		
+
 		train.setClassIndex(0); // searching label on position 0 after removing all except numeric columns
 		test.setClassIndex(0);
-		
+
+		System.out.println("---- Train dataset information ----");
 		System.out.println(train.toSummaryString());
-		System.out.println(test.toSummaryString());
 		
+		System.out.println("---- Test dataset information ----");
+		System.out.println(test.toSummaryString());
+
 		MLAlgorithms algorithmManager = new MLAlgorithms();
-		algorithmManager.DecisionTree(train, test);
+		algorithmManager.KStar(train, test);
 		algorithmManager.KNN(train, test);
 		algorithmManager.RandomForest(train, test);
 		algorithmManager.SVM(train, test);
@@ -96,25 +86,19 @@ public class MainProgram {
 	private static void PrepareFeaturesCSV() {
 		Instances main = csvManager.GetDataSet("features.csv", ";");
 
-		int failureInterator = 0;
-		int filesOpenedIterator = 0;
-
 		String prevFileName = "";
 
-		for (Instance row : main) 
-		{
+		for (Instance row : main) {
 			String domainModelName = row.stringValue(0);
 			String fileName = row.stringValue(1);
-			
-			if (prevFileName.equals(fileName)) 
-			{
+
+			if (prevFileName.equals(fileName)) {
 				continue;
 			}
 
-			boolean result = ProcessOneDataset(domainModelName, fileName, main);
+			ProcessOneDataset(domainModelName, fileName, main);
 
 			prevFileName = fileName;
-
 		}
 
 		SaveMainCSV(main, "features.csv", ";");
@@ -187,10 +171,6 @@ public class MainProgram {
 				}
 			}
 		}
-	}
-
-	private static void SaveMainCSV(Instances main, String fileName) {
-		SaveMainCSV(main, fileName, ",");
 	}
 
 	private static void SaveMainCSV(Instances main, String fileName, String separator) {

@@ -1,6 +1,5 @@
 package tpdia_project;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -11,31 +10,30 @@ import weka.core.Instances;
 public class Features {
 	String columnName;
 	int columnNr;
-	
+
 	// ----- General Features
 	int dataType;
 	ValueRatioModel positiveNegativeZeroValueRatio;
 	double uniqueValueRatio;
 	int sameDigitalNumber;
-	
+
 	// ----- Statistical Features
 	StatisticValuesModel statisticValuesModel;
 	double coefficientOfVariation;
 	double rangeRatio;
-	
+
 	// ----- Inter-Column Features
 	double locationRatio;
 	double numericalColumnRatioTmp;
 	double numericalNeighbor;
-	
+
 	boolean isFeature = false;
-	
-	public Features(Instances dataset, String columnName, int columnNr)
-	{
+
+	public Features(Instances dataset, String columnName, int columnNr) {
 		this.columnName = columnName;
-		
+
 		FeatureExtractionManager extractionManager = new FeatureExtractionManager();
-		
+
 		int attributesNumber = dataset.numAttributes();
 
 		double numericalColumnRatio = extractionManager.GetNumericalColumnRatio(dataset);
@@ -46,37 +44,35 @@ public class Features {
 		// ----- Statistical Features
 		extractStatisticalFeatures(dataset, extractionManager, columnNr);
 
-		// ----- Inter-Column Features // Uwaga. Potrzebna wiedza o wszystkich kolumnach
-		// (wi�c poza nominalnymi i numerycznymi musz� by� pozosta�e)
+		// ----- Inter-Column Features
 		extractInterColumnFeatures(dataset, extractionManager, attributesNumber, numericalColumnRatio, columnNr);
 
 		// Results in console
 		Print();
 	}
 
-	private void extractGeneralFeatures(Instances dataset, FeatureExtractionManager extractionManager, int columnNr)
-	{
+	private void extractGeneralFeatures(Instances dataset, FeatureExtractionManager extractionManager, int columnNr) {
 		dataType = extractionManager.GetDataType(dataset, columnNr);
 		positiveNegativeZeroValueRatio = extractionManager.GetPositiveNegativeZeroValueRatio(dataset, columnNr);
 		uniqueValueRatio = extractionManager.GetUniqueValueRatio(dataset, columnNr);
 		sameDigitalNumber = extractionManager.GetSameDigitalNumber(dataset, columnNr);
 	}
 
-	private void extractStatisticalFeatures(Instances dataset, FeatureExtractionManager extractionManager, int columnNr) {
+	private void extractStatisticalFeatures(Instances dataset, FeatureExtractionManager extractionManager,
+			int columnNr) {
 		statisticValuesModel = extractionManager.GetAvgMinMaxMedianUpquarLowquar(dataset, columnNr);
 		coefficientOfVariation = extractionManager.GetCoefficientOfVariation(dataset, columnNr);
 		rangeRatio = extractionManager.GetRangeRatio(dataset, columnNr);
 	}
 
-	private void extractInterColumnFeatures(Instances dataset, FeatureExtractionManager extractionManager, int attributesNumber, double numericalColumnRatio, int columnNr) 
-	{
+	private void extractInterColumnFeatures(Instances dataset, FeatureExtractionManager extractionManager,
+			int attributesNumber, double numericalColumnRatio, int columnNr) {
 		locationRatio = extractionManager.GetLocationRatio(attributesNumber, columnNr);
 		numericalColumnRatioTmp = numericalColumnRatio;
 		numericalNeighbor = extractionManager.GetNumericalNeighbor(dataset, attributesNumber, columnNr);
 	}
-	
-	public void Print()
-	{
+
+	public void Print() {
 		System.out.println("Data Type: " + dataType);
 		System.out.println("Positive value ratio: " + positiveNegativeZeroValueRatio.PositiveValueRatio);
 		System.out.println("Negative value ratio: " + positiveNegativeZeroValueRatio.NegativeValueRatio);
@@ -95,26 +91,15 @@ public class Features {
 		System.out.println("Numerical column ratio: " + numericalColumnRatioTmp);
 		System.out.println("Numerical neighbor: " + numericalNeighbor);
 	}
-	
-	void SaveToCSV(FileWriter writer) throws IOException
-	{
-		writer.write(dataType + ","
-				+ positiveNegativeZeroValueRatio.PositiveValueRatio + ","
+
+	void SaveToCSV(FileWriter writer) throws IOException {
+		writer.write(dataType + "," + positiveNegativeZeroValueRatio.PositiveValueRatio + ","
 				+ positiveNegativeZeroValueRatio.NegativeValueRatio + ","
-				+ positiveNegativeZeroValueRatio.ZeroValueRatio + ","
-				+ uniqueValueRatio + ","
-				+ sameDigitalNumber + ","
-				+ statisticValuesModel.Average + ","
-				+ statisticValuesModel.Minimum + ","
-				+ statisticValuesModel.Maximum + ","
-				+ statisticValuesModel.Median + ","
-				+ statisticValuesModel.UpperQuartile + ","
-				+ statisticValuesModel.LowerQuartile + ","
-				+ coefficientOfVariation + ","
-				+ rangeRatio + ","
-				+ locationRatio + ","
-				+ numericalColumnRatioTmp + ","
-				+ numericalNeighbor + ","
-				+ (isFeature ? 1 : 0) + "\n");
+				+ positiveNegativeZeroValueRatio.ZeroValueRatio + "," + uniqueValueRatio + "," + sameDigitalNumber + ","
+				+ statisticValuesModel.Average + "," + statisticValuesModel.Minimum + "," + statisticValuesModel.Maximum
+				+ "," + statisticValuesModel.Median + "," + statisticValuesModel.UpperQuartile + ","
+				+ statisticValuesModel.LowerQuartile + "," + coefficientOfVariation + "," + rangeRatio + ","
+				+ locationRatio + "," + numericalColumnRatioTmp + "," + numericalNeighbor + "," + (isFeature ? 1 : 0)
+				+ "\n");
 	}
 }
