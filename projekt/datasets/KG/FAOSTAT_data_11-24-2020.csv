@@ -1,322 +1,322 @@
 Country Code,Country,M49 Code,ISO2 Code,ISO3 Code,Start Year,End Year
-2,Afghanistan,4.0,AF,AFG,,
-5100,Africa,2.0,,X06,,
-284,Åland Islands,248.0,,ALA,,
-3,Albania,8.0,AL,ALB,,
-4,Algeria,12.0,DZ,DZA,,
-5,American Samoa,16.0,AS,ASM,,
-5200,Americas,19.0,,X21,,
-6,Andorra,20.0,AD,AND,,
-7,Angola,24.0,AO,AGO,,
-258,Anguilla,660.0,AI,AIA,,
-5848,Annex I countries,,,,,
-5600,Antarctic Region,,,,,
-30,Antarctica,10.0,AQ,ATA,,
-8,Antigua and Barbuda,28.0,AG,ATG,,
-9,Argentina,32.0,AR,ARG,,
-1,Armenia,51.0,AM,ARM,1992.0,
-22,Aruba,533.0,AW,ABW,,
-5300,Asia,142.0,,,,
-10,Australia,36.0,AU,AUS,,
-5501,Australia and New Zealand,53.0,,,,
-11,Austria,40.0,AT,AUT,,
-52,Azerbaijan,31.0,AZ,AZE,1992.0,
-12,Bahamas,44.0,BS,BHS,,
-13,Bahrain,48.0,BH,BHR,,
-16,Bangladesh,50.0,BD,BGD,,
-14,Barbados,52.0,BB,BRB,,
-57,Belarus,112.0,BY,BLR,1992.0,
-255,Belgium,56.0,BE,BEL,2000.0,
-15,Belgium-Luxembourg,58.0,,,,1999.0
-23,Belize,84.0,BZ,BLZ,,
-53,Benin,204.0,BJ,BEN,,
-17,Bermuda,60.0,BM,BMU,,
-18,Bhutan,64.0,BT,BTN,,
-19,Bolivia (Plurinational State of),68.0,BO,BOL,,
-278,"Bonaire, Sint Eustatius and Saba",535.0,,BES,2011.0,
-80,Bosnia and Herzegovina,70.0,BA,BIH,1992.0,
-20,Botswana,72.0,BW,BWA,,
-31,Bouvet Island,74.0,BV,BVT,,
-21,Brazil,76.0,BR,BRA,,
-24,British Indian Ocean Territory,86.0,IO,IOT,,
-239,British Virgin Islands,92.0,VG,VGB,,
-26,Brunei Darussalam,96.0,BN,BRN,,
-27,Bulgaria,100.0,BG,BGR,,
-233,Burkina Faso,854.0,BF,BFA,,
-29,Burundi,108.0,BI,BDI,,
-35,Cabo Verde,132.0,CV,CPV,,
-115,Cambodia,116.0,KH,KHM,,
-32,Cameroon,120.0,CM,CMR,,
-33,Canada,124.0,CA,CAN,,
-5206,Caribbean,29.0,,,,
-36,Cayman Islands,136.0,KY,CYM,,
-37,Central African Republic,140.0,CF,CAF,,
-5204,Central America,13.0,,,,
-5301,Central Asia,143.0,,,,
-5306,Central Asia and Southern Asia,,,,,
-39,Chad,148.0,TD,TCD,,
-259,Channel Islands,830.0,,CHA,,
-40,Chile,152.0,CL,CHL,,
-351,China,,,CHN,,
-96,"China, Hong Kong SAR",344.0,HK,HKG,,
-128,"China, Macao SAR",446.0,MO,MAC,,
-41,"China, mainland",156.0,CN,,,
-214,"China, Taiwan Province of",158.0,TW,TWN,,
-42,Christmas Island,162.0,CX,CXR,,
-43,Cocos (Keeling) Islands,166.0,CC,CCK,,
-44,Colombia,170.0,CO,COL,,
-45,Comoros,174.0,KM,COM,,
-46,Congo,178.0,CG,COG,,
-47,Cook Islands,184.0,CK,COK,,
-48,Costa Rica,188.0,CR,CRI,,
-107,Côte d Ivoire,384.0,CI,CIV,,
-98,Croatia,191.0,HR,HRV,1992.0,
-49,Cuba,192.0,CU,CUB,,
-279,Curaçao,531.0,,CUW,2011.0,
-50,Cyprus,196.0,CY,CYP,,
-167,Czechia,203.0,CZ,CZE,1993.0,
-51,Czechoslovakia,200.0,,,,1992.0
-116,Democratic People s Republic of Korea,408.0,KP,PRK,,
-250,Democratic Republic of the Congo,180.0,CD,COD,,
-54,Denmark,208.0,DK,DNK,,
-72,Djibouti,262.0,DJ,DJI,,
-55,Dominica,212.0,DM,DMA,,
-56,Dominican Republic,214.0,DO,DOM,,
-5854,East Asia (excluding China),223.0,,,,
-5101,Eastern Africa,14.0,,,,
-5302,Eastern Asia,30.0,,,,
-5307,Eastern Asia and South-eastern Asia,753.0,,,,
-5401,Eastern Europe,151.0,,,,
-58,Ecuador,218.0,EC,ECU,,
-59,Egypt,818.0,EG,EGY,,
-60,El Salvador,222.0,SV,SLV,,
-61,Equatorial Guinea,226.0,GQ,GNQ,,
-178,Eritrea,232.0,ER,ERI,1993.0,
-63,Estonia,233.0,EE,EST,1992.0,
-209,Eswatini,748.0,SZ,SWZ,,
-238,Ethiopia,231.0,ET,ETH,1993.0,
-62,Ethiopia PDR,230.0,,,,1992.0
-5400,Europe,150.0,,,,
-5707,European Union (27),,,,,
-5706,European Union (28),97.0,,,,
-65,Falkland Islands (Malvinas),238.0,FK,FLK,,
-64,Faroe Islands,234.0,FO,FRO,,
-66,Fiji,242.0,FJ,FJI,,
-67,Finland,246.0,FI,FIN,,
-68,France,250.0,FR,FRA,,
-69,French Guyana,254.0,GF,GUF,,
-70,French Polynesia,258.0,PF,PYF,,
-71,French Southern Territories,260.0,TF,ATF,,
-74,Gabon,266.0,GA,GAB,,
-75,Gambia,270.0,GM,GMB,,
-73,Georgia,268.0,GE,GEO,1992.0,
-79,Germany,276.0,DE,DEU,,
-78,Germany Fr,280.0,,,,
-77,Germany Nl,278.0,,,,
-81,Ghana,288.0,GH,GHA,,
-82,Gibraltar,292.0,GI,GIB,,
-84,Greece,300.0,GR,GRC,,
-85,Greenland,304.0,GL,GRL,,
-86,Grenada,308.0,GD,GRD,,
-87,Guadeloupe,312.0,GP,GLP,,
-88,Guam,316.0,GU,GUM,,
-89,Guatemala,320.0,GT,GTM,,
-90,Guinea,324.0,GN,GIN,,
-175,Guinea-Bissau,624.0,GW,GNB,,
-91,Guyana,328.0,GY,GUY,,
-93,Haiti,332.0,HT,HTI,,
-92,Heard and McDonald Islands,334.0,HM,HMD,,
-9010,High-income economies,,,,,
-94,Holy See,336.0,VA,VAT,,
-95,Honduras,340.0,HN,HND,,
-97,Hungary,348.0,HU,HUN,,
-99,Iceland,352.0,IS,ISL,,
-100,India,356.0,IN,IND,,
-101,Indonesia,360.0,ID,IDN,,
-102,Iran (Islamic Republic of),364.0,IR,IRN,,
-103,Iraq,368.0,IQ,IRQ,,
-104,Ireland,372.0,IE,IRL,,
-264,Isle of Man,833.0,IM,IMN,,
-105,Israel,376.0,IL,ISR,,
-106,Italy,380.0,IT,ITA,,
-109,Jamaica,388.0,JM,JAM,,
-110,Japan,392.0,JP,JPN,,
-283,Jersey,832.0,,JEY,,
-111,Johnston Island,396.0,JT,JTN,,
-112,Jordan,400.0,JO,JOR,,
-108,Kazakhstan,398.0,KZ,KAZ,1992.0,
-114,Kenya,404.0,KE,KEN,,
-83,Kiribati,296.0,KI,KIR,,
-118,Kuwait,414.0,KW,KWT,,
-113,Kyrgyzstan,417.0,KG,KGZ,1992.0,
-5802,Land Locked Developing Countries,432.0,,,,
-120,Lao People s Democratic Republic,418.0,LA,LAO,,
-5205,Latin America and the Caribbean,419.0,,,,
-119,Latvia,428.0,LV,LVA,1992.0,
-5801,Least Developed Countries,199.0,,,,
-121,Lebanon,422.0,LB,LBN,,
-122,Lesotho,426.0,LS,LSO,,
-123,Liberia,430.0,LR,LBR,,
-124,Libya,434.0,LY,LBY,,
-125,Liechtenstein,438.0,LI,LIE,,
-126,Lithuania,440.0,LT,LTU,1992.0,
-5858,Low income economies,,,,,
-5815,Low Income Food Deficit Countries,,,,,
-5859,Lower-middle-income economies,,,,,
-256,Luxembourg,442.0,LU,LUX,2000.0,
-129,Madagascar,450.0,MG,MDG,,
-130,Malawi,454.0,MW,MWI,,
-131,Malaysia,458.0,MY,MYS,,
-132,Maldives,462.0,MV,MDV,,
-133,Mali,466.0,ML,MLI,,
-134,Malta,470.0,MT,MLT,,
-127,Marshall Islands,584.0,MH,MHL,1991.0,
-135,Martinique,474.0,MQ,MTQ,,
-136,Mauritania,478.0,MR,MRT,,
-137,Mauritius,480.0,MU,MUS,,
-270,Mayotte,175.0,YT,MYT,,
-5502,Melanesia,54.0,,,,
-138,Mexico,484.0,MX,MEX,,
-5503,Micronesia,57.0,,,,
-145,Micronesia (Federated States of),583.0,FM,FSM,1991.0,
-5102,Middle Africa,17.0,,,,
-139,Midway Island,488.0,MI,MID,,
-140,Monaco,492.0,MC,MCO,,
-141,Mongolia,496.0,MN,MNG,,
-273,Montenegro,499.0,ME,MNE,2006.0,
-142,Montserrat,500.0,MS,MSR,,
-143,Morocco,504.0,MA,MAR,,
-144,Mozambique,508.0,MZ,MOZ,,
-28,Myanmar,104.0,MM,MMR,,
-147,Namibia,516.0,,NAM,,
-148,Nauru,520.0,NR,NRU,,
-149,Nepal,524.0,NP,NPL,,
-5817,Net Food Importing Developing Countries,,,,,
-150,Netherlands,528.0,NL,NLD,,
-151,Netherlands Antilles (former),530.0,AN,ANT,,2010.0
-153,New Caledonia,540.0,NC,NCL,,
-156,New Zealand,554.0,NZ,NZL,,
-157,Nicaragua,558.0,NI,NIC,,
-158,Niger,562.0,NE,NER,,
-159,Nigeria,566.0,NG,NGA,,
-160,Niue,570.0,NU,NIU,,
-5849,Non-Annex I countries,,,,,
-161,Norfolk Island,574.0,NF,NFK,,
-429,North Africa (excluding Sudan),746.0,,,,
-154,North Macedonia,807.0,MK,MKD,1992.0,
-5103,Northern Africa,15.0,,,,
-5203,Northern America,21.0,,,,
-5208,Northern America and Europe,,,,,
-5402,Northern Europe,154.0,,,,
-163,Northern Mariana Islands,580.0,MP,MNP,1991.0,
-162,Norway,578.0,NO,NOR,,
-5500,Oceania,9.0,,,,
-5807,Oceania excluding Australia and New Zealand,,,,,
-5873,OECD,198.0,,,,
-221,Oman,512.0,OM,OMN,,
-164,Pacific Islands Trust Territory,582.0,,,,1990.0
-165,Pakistan,586.0,PK,PAK,,
-180,Palau,585.0,PW,PLW,1991.0,
-299,Palestine,275.0,,PSE,,
-166,Panama,591.0,PA,PAN,,
-168,Papua New Guinea,598.0,PG,PNG,,
-169,Paraguay,600.0,PY,PRY,,
-170,Peru,604.0,PE,PER,,
-171,Philippines,608.0,PH,PHL,,
-172,Pitcairn,612.0,PN,PCN,,
-173,Poland,616.0,PL,POL,,
-5504,Polynesia,61.0,,,,
-174,Portugal,620.0,PT,PRT,,
-177,Puerto Rico,630.0,PR,PRI,,
-179,Qatar,634.0,QA,QAT,,
-117,Republic of Korea,410.0,KR,KOR,,
-146,Republic of Moldova,498.0,MD,MDA,1992.0,
-182,Réunion,638.0,RE,REU,,
-183,Romania,642.0,RO,ROU,,
-185,Russian Federation,643.0,RU,RUS,1992.0,
-184,Rwanda,646.0,RW,RWA,,
-282,Saint Barthélemy,652.0,,BLM,2011.0,
-187,"Saint Helena, Ascension and Tristan da Cunha",654.0,SH,SHN,,
-188,Saint Kitts and Nevis,659.0,KN,KNA,,
-189,Saint Lucia,662.0,LC,LCA,,
-190,Saint Pierre and Miquelon,666.0,PM,SPM,,
-191,Saint Vincent and the Grenadines,670.0,VC,VCT,,
-281,Saint-Martin (French part),663.0,,MAF,2011.0,
-244,Samoa,882.0,WS,WSM,,
-192,San Marino,674.0,SM,SMR,,
-193,Sao Tome and Principe,678.0,ST,STP,,
-194,Saudi Arabia,682.0,SA,SAU,,
-195,Senegal,686.0,SN,SEN,,
-272,Serbia,688.0,RS,SRB,2006.0,
-286,Serbia (excluding Kosovo),,,,,
-186,Serbia and Montenegro,891.0,CS,SCG,1992.0,2005.0
-196,Seychelles,690.0,SC,SYC,,
-197,Sierra Leone,694.0,SL,SLE,,
-200,Singapore,702.0,SG,SGP,,
-280,Sint Maarten (Dutch part),534.0,,SXM,2011.0,
-199,Slovakia,703.0,SK,SVK,1993.0,
-198,Slovenia,705.0,SI,SVN,1992.0,
-5803,Small Island Developing States,722.0,,,,
-25,Solomon Islands,90.0,SB,SLB,,
-201,Somalia,706.0,SO,SOM,,
-202,South Africa,710.0,ZA,ZAF,,
-5207,South America,5.0,,,,
-5855,South Asia (excluding India),,,,,
-271,South Georgia and the South Sandwich Islands,239.0,GS,SGS,,
-277,South Sudan,728.0,SS,SSD,2012.0,
-5304,South-eastern Asia,35.0,,,,
-5104,Southern Africa,18.0,,,,
-5303,Southern Asia,34.0,,,,
-5403,Southern Europe,39.0,,,,
-203,Spain,724.0,ES,ESP,,
-38,Sri Lanka,144.0,LK,LKA,,
-420,Sub-Saharan Africa,202.0,,,,
-5810,Sub-Saharan Africa (including Sudan),738.0,,,,
-276,Sudan,729.0,SD,SDN,2012.0,
-206,Sudan (former),736.0,SD,,,2011.0
-207,Suriname,740.0,SR,SUR,,
-260,Svalbard and Jan Mayen Islands,744.0,SJ,SJM,,
-210,Sweden,752.0,SE,SWE,,
-211,Switzerland,756.0,CH,CHE,,
-212,Syrian Arab Republic,760.0,SY,SYR,,
-208,Tajikistan,762.0,TJ,TJK,1992.0,
-216,Thailand,764.0,TH,THA,,
-176,Timor-Leste,626.0,TL,TLS,,
-217,Togo,768.0,TG,TGO,,
-218,Tokelau,772.0,TK,TKL,,
-219,Tonga,776.0,TO,TON,,
-220,Trinidad and Tobago,780.0,TT,TTO,,
-222,Tunisia,788.0,TN,TUN,,
-223,Turkey,792.0,TR,TUR,,
-213,Turkmenistan,795.0,TM,TKM,1992.0,
-224,Turks and Caicos Islands,796.0,TC,TCA,,
-227,Tuvalu,798.0,TV,TUV,,
-226,Uganda,800.0,UG,UGA,,
-230,Ukraine,804.0,UA,UKR,1992.0,
-225,United Arab Emirates,784.0,AE,ARE,,
-229,United Kingdom of Great Britain and Northern Ireland,826.0,GB,GBR,,
-215,United Republic of Tanzania,834.0,TZ,TZA,,
-232,United States Minor Outlying Islands,581.0,UM,UMI,,
-231,United States of America,840.0,US,USA,,
-240,United States Virgin Islands,850.0,VI,VIR,,
-9011,Upper-middle-income economies,,,,,
-234,Uruguay,858.0,UY,URY,,
-228,USSR,810.0,,,,1991.0
-235,Uzbekistan,860.0,UZ,UZB,1992.0,
-155,Vanuatu,548.0,VU,VUT,,
-236,Venezuela (Bolivarian Republic of),862.0,VE,VEN,,
-237,Viet Nam,704.0,VN,VNM,,
-242,Wake Island,872.0,WK,WAK,,
-243,Wallis and Futuna Islands,876.0,WF,WLF,,
-5105,Western Africa,11.0,,,,
-5305,Western Asia,145.0,,,,
-5308,Western Asia and Northern Africa,,,,,
-5404,Western Europe,155.0,,,,
-205,Western Sahara,732.0,EH,ESH,,
-5000,World,1.0,,X01,,
-249,Yemen,887.0,YE,YEM,,
-246,Yemen Ar Rp,886.0,,,,
-247,Yemen Dem,720.0,,,,
-248,Yugoslav SFR,890.0,,,,1991.0
-251,Zambia,894.0,ZM,ZMB,,
-181,Zimbabwe,716.0,ZW,ZWE,,
+2.0,Afghanistan,4.0,AF,AFG,NaN,NaN
+5100.0,Africa,2.0,?,X06,NaN,NaN
+284.0,Åland Islands,248.0,?,ALA,NaN,NaN
+3.0,Albania,8.0,AL,ALB,NaN,NaN
+4.0,Algeria,12.0,DZ,DZA,NaN,NaN
+5.0,American Samoa,16.0,AS,ASM,NaN,NaN
+5200.0,Americas,19.0,?,X21,NaN,NaN
+6.0,Andorra,20.0,AD,AND,NaN,NaN
+7.0,Angola,24.0,AO,AGO,NaN,NaN
+258.0,Anguilla,660.0,AI,AIA,NaN,NaN
+5848.0,Annex I countries,NaN,?,?,NaN,NaN
+5600.0,Antarctic Region,NaN,?,?,NaN,NaN
+30.0,Antarctica,10.0,AQ,ATA,NaN,NaN
+8.0,Antigua and Barbuda,28.0,AG,ATG,NaN,NaN
+9.0,Argentina,32.0,AR,ARG,NaN,NaN
+1.0,Armenia,51.0,AM,ARM,1992.0,NaN
+22.0,Aruba,533.0,AW,ABW,NaN,NaN
+5300.0,Asia,142.0,?,?,NaN,NaN
+10.0,Australia,36.0,AU,AUS,NaN,NaN
+5501.0,Australia and New Zealand,53.0,?,?,NaN,NaN
+11.0,Austria,40.0,AT,AUT,NaN,NaN
+52.0,Azerbaijan,31.0,AZ,AZE,1992.0,NaN
+12.0,Bahamas,44.0,BS,BHS,NaN,NaN
+13.0,Bahrain,48.0,BH,BHR,NaN,NaN
+16.0,Bangladesh,50.0,BD,BGD,NaN,NaN
+14.0,Barbados,52.0,BB,BRB,NaN,NaN
+57.0,Belarus,112.0,BY,BLR,1992.0,NaN
+255.0,Belgium,56.0,BE,BEL,2000.0,NaN
+15.0,Belgium-Luxembourg,58.0,?,?,NaN,1999.0
+23.0,Belize,84.0,BZ,BLZ,NaN,NaN
+53.0,Benin,204.0,BJ,BEN,NaN,NaN
+17.0,Bermuda,60.0,BM,BMU,NaN,NaN
+18.0,Bhutan,64.0,BT,BTN,NaN,NaN
+19.0,Bolivia (Plurinational State of),68.0,BO,BOL,NaN,NaN
+278.0,Bonaire, Sint Eustatius and Saba,535.0,?,BES,2011.0,NaN
+80.0,Bosnia and Herzegovina,70.0,BA,BIH,1992.0,NaN
+20.0,Botswana,72.0,BW,BWA,NaN,NaN
+31.0,Bouvet Island,74.0,BV,BVT,NaN,NaN
+21.0,Brazil,76.0,BR,BRA,NaN,NaN
+24.0,British Indian Ocean Territory,86.0,IO,IOT,NaN,NaN
+239.0,British Virgin Islands,92.0,VG,VGB,NaN,NaN
+26.0,Brunei Darussalam,96.0,BN,BRN,NaN,NaN
+27.0,Bulgaria,100.0,BG,BGR,NaN,NaN
+233.0,Burkina Faso,854.0,BF,BFA,NaN,NaN
+29.0,Burundi,108.0,BI,BDI,NaN,NaN
+35.0,Cabo Verde,132.0,CV,CPV,NaN,NaN
+115.0,Cambodia,116.0,KH,KHM,NaN,NaN
+32.0,Cameroon,120.0,CM,CMR,NaN,NaN
+33.0,Canada,124.0,CA,CAN,NaN,NaN
+5206.0,Caribbean,29.0,?,?,NaN,NaN
+36.0,Cayman Islands,136.0,KY,CYM,NaN,NaN
+37.0,Central African Republic,140.0,CF,CAF,NaN,NaN
+5204.0,Central America,13.0,?,?,NaN,NaN
+5301.0,Central Asia,143.0,?,?,NaN,NaN
+5306.0,Central Asia and Southern Asia,NaN,?,?,NaN,NaN
+39.0,Chad,148.0,TD,TCD,NaN,NaN
+259.0,Channel Islands,830.0,?,CHA,NaN,NaN
+40.0,Chile,152.0,CL,CHL,NaN,NaN
+351.0,China,NaN,?,CHN,NaN,NaN
+96.0,China, Hong Kong SAR,344.0,HK,HKG,NaN,NaN
+128.0,China, Macao SAR,446.0,MO,MAC,NaN,NaN
+41.0,China, mainland,156.0,CN,?,NaN,NaN
+214.0,China, Taiwan Province of,158.0,TW,TWN,NaN,NaN
+42.0,Christmas Island,162.0,CX,CXR,NaN,NaN
+43.0,Cocos (Keeling) Islands,166.0,CC,CCK,NaN,NaN
+44.0,Colombia,170.0,CO,COL,NaN,NaN
+45.0,Comoros,174.0,KM,COM,NaN,NaN
+46.0,Congo,178.0,CG,COG,NaN,NaN
+47.0,Cook Islands,184.0,CK,COK,NaN,NaN
+48.0,Costa Rica,188.0,CR,CRI,NaN,NaN
+107.0,Côte d Ivoire,384.0,CI,CIV,NaN,NaN
+98.0,Croatia,191.0,HR,HRV,1992.0,NaN
+49.0,Cuba,192.0,CU,CUB,NaN,NaN
+279.0,Curaçao,531.0,?,CUW,2011.0,NaN
+50.0,Cyprus,196.0,CY,CYP,NaN,NaN
+167.0,Czechia,203.0,CZ,CZE,1993.0,NaN
+51.0,Czechoslovakia,200.0,?,?,NaN,1992.0
+116.0,Democratic People s Republic of Korea,408.0,KP,PRK,NaN,NaN
+250.0,Democratic Republic of the Congo,180.0,CD,COD,NaN,NaN
+54.0,Denmark,208.0,DK,DNK,NaN,NaN
+72.0,Djibouti,262.0,DJ,DJI,NaN,NaN
+55.0,Dominica,212.0,DM,DMA,NaN,NaN
+56.0,Dominican Republic,214.0,DO,DOM,NaN,NaN
+5854.0,East Asia (excluding China),223.0,?,?,NaN,NaN
+5101.0,Eastern Africa,14.0,?,?,NaN,NaN
+5302.0,Eastern Asia,30.0,?,?,NaN,NaN
+5307.0,Eastern Asia and South-eastern Asia,753.0,?,?,NaN,NaN
+5401.0,Eastern Europe,151.0,?,?,NaN,NaN
+58.0,Ecuador,218.0,EC,ECU,NaN,NaN
+59.0,Egypt,818.0,EG,EGY,NaN,NaN
+60.0,El Salvador,222.0,SV,SLV,NaN,NaN
+61.0,Equatorial Guinea,226.0,GQ,GNQ,NaN,NaN
+178.0,Eritrea,232.0,ER,ERI,1993.0,NaN
+63.0,Estonia,233.0,EE,EST,1992.0,NaN
+209.0,Eswatini,748.0,SZ,SWZ,NaN,NaN
+238.0,Ethiopia,231.0,ET,ETH,1993.0,NaN
+62.0,Ethiopia PDR,230.0,?,?,NaN,1992.0
+5400.0,Europe,150.0,?,?,NaN,NaN
+5707.0,European Union (27),NaN,?,?,NaN,NaN
+5706.0,European Union (28),97.0,?,?,NaN,NaN
+65.0,Falkland Islands (Malvinas),238.0,FK,FLK,NaN,NaN
+64.0,Faroe Islands,234.0,FO,FRO,NaN,NaN
+66.0,Fiji,242.0,FJ,FJI,NaN,NaN
+67.0,Finland,246.0,FI,FIN,NaN,NaN
+68.0,France,250.0,FR,FRA,NaN,NaN
+69.0,French Guyana,254.0,GF,GUF,NaN,NaN
+70.0,French Polynesia,258.0,PF,PYF,NaN,NaN
+71.0,French Southern Territories,260.0,TF,ATF,NaN,NaN
+74.0,Gabon,266.0,GA,GAB,NaN,NaN
+75.0,Gambia,270.0,GM,GMB,NaN,NaN
+73.0,Georgia,268.0,GE,GEO,1992.0,NaN
+79.0,Germany,276.0,DE,DEU,NaN,NaN
+78.0,Germany Fr,280.0,?,?,NaN,NaN
+77.0,Germany Nl,278.0,?,?,NaN,NaN
+81.0,Ghana,288.0,GH,GHA,NaN,NaN
+82.0,Gibraltar,292.0,GI,GIB,NaN,NaN
+84.0,Greece,300.0,GR,GRC,NaN,NaN
+85.0,Greenland,304.0,GL,GRL,NaN,NaN
+86.0,Grenada,308.0,GD,GRD,NaN,NaN
+87.0,Guadeloupe,312.0,GP,GLP,NaN,NaN
+88.0,Guam,316.0,GU,GUM,NaN,NaN
+89.0,Guatemala,320.0,GT,GTM,NaN,NaN
+90.0,Guinea,324.0,GN,GIN,NaN,NaN
+175.0,Guinea-Bissau,624.0,GW,GNB,NaN,NaN
+91.0,Guyana,328.0,GY,GUY,NaN,NaN
+93.0,Haiti,332.0,HT,HTI,NaN,NaN
+92.0,Heard and McDonald Islands,334.0,HM,HMD,NaN,NaN
+9010.0,High-income economies,NaN,?,?,NaN,NaN
+94.0,Holy See,336.0,VA,VAT,NaN,NaN
+95.0,Honduras,340.0,HN,HND,NaN,NaN
+97.0,Hungary,348.0,HU,HUN,NaN,NaN
+99.0,Iceland,352.0,IS,ISL,NaN,NaN
+100.0,India,356.0,IN,IND,NaN,NaN
+101.0,Indonesia,360.0,ID,IDN,NaN,NaN
+102.0,Iran (Islamic Republic of),364.0,IR,IRN,NaN,NaN
+103.0,Iraq,368.0,IQ,IRQ,NaN,NaN
+104.0,Ireland,372.0,IE,IRL,NaN,NaN
+264.0,Isle of Man,833.0,IM,IMN,NaN,NaN
+105.0,Israel,376.0,IL,ISR,NaN,NaN
+106.0,Italy,380.0,IT,ITA,NaN,NaN
+109.0,Jamaica,388.0,JM,JAM,NaN,NaN
+110.0,Japan,392.0,JP,JPN,NaN,NaN
+283.0,Jersey,832.0,?,JEY,NaN,NaN
+111.0,Johnston Island,396.0,JT,JTN,NaN,NaN
+112.0,Jordan,400.0,JO,JOR,NaN,NaN
+108.0,Kazakhstan,398.0,KZ,KAZ,1992.0,NaN
+114.0,Kenya,404.0,KE,KEN,NaN,NaN
+83.0,Kiribati,296.0,KI,KIR,NaN,NaN
+118.0,Kuwait,414.0,KW,KWT,NaN,NaN
+113.0,Kyrgyzstan,417.0,KG,KGZ,1992.0,NaN
+5802.0,Land Locked Developing Countries,432.0,?,?,NaN,NaN
+120.0,Lao People s Democratic Republic,418.0,LA,LAO,NaN,NaN
+5205.0,Latin America and the Caribbean,419.0,?,?,NaN,NaN
+119.0,Latvia,428.0,LV,LVA,1992.0,NaN
+5801.0,Least Developed Countries,199.0,?,?,NaN,NaN
+121.0,Lebanon,422.0,LB,LBN,NaN,NaN
+122.0,Lesotho,426.0,LS,LSO,NaN,NaN
+123.0,Liberia,430.0,LR,LBR,NaN,NaN
+124.0,Libya,434.0,LY,LBY,NaN,NaN
+125.0,Liechtenstein,438.0,LI,LIE,NaN,NaN
+126.0,Lithuania,440.0,LT,LTU,1992.0,NaN
+5858.0,Low income economies,NaN,?,?,NaN,NaN
+5815.0,Low Income Food Deficit Countries,NaN,?,?,NaN,NaN
+5859.0,Lower-middle-income economies,NaN,?,?,NaN,NaN
+256.0,Luxembourg,442.0,LU,LUX,2000.0,NaN
+129.0,Madagascar,450.0,MG,MDG,NaN,NaN
+130.0,Malawi,454.0,MW,MWI,NaN,NaN
+131.0,Malaysia,458.0,MY,MYS,NaN,NaN
+132.0,Maldives,462.0,MV,MDV,NaN,NaN
+133.0,Mali,466.0,ML,MLI,NaN,NaN
+134.0,Malta,470.0,MT,MLT,NaN,NaN
+127.0,Marshall Islands,584.0,MH,MHL,1991.0,NaN
+135.0,Martinique,474.0,MQ,MTQ,NaN,NaN
+136.0,Mauritania,478.0,MR,MRT,NaN,NaN
+137.0,Mauritius,480.0,MU,MUS,NaN,NaN
+270.0,Mayotte,175.0,YT,MYT,NaN,NaN
+5502.0,Melanesia,54.0,?,?,NaN,NaN
+138.0,Mexico,484.0,MX,MEX,NaN,NaN
+5503.0,Micronesia,57.0,?,?,NaN,NaN
+145.0,Micronesia (Federated States of),583.0,FM,FSM,1991.0,NaN
+5102.0,Middle Africa,17.0,?,?,NaN,NaN
+139.0,Midway Island,488.0,MI,MID,NaN,NaN
+140.0,Monaco,492.0,MC,MCO,NaN,NaN
+141.0,Mongolia,496.0,MN,MNG,NaN,NaN
+273.0,Montenegro,499.0,ME,MNE,2006.0,NaN
+142.0,Montserrat,500.0,MS,MSR,NaN,NaN
+143.0,Morocco,504.0,MA,MAR,NaN,NaN
+144.0,Mozambique,508.0,MZ,MOZ,NaN,NaN
+28.0,Myanmar,104.0,MM,MMR,NaN,NaN
+147.0,Namibia,516.0,?,NAM,NaN,NaN
+148.0,Nauru,520.0,NR,NRU,NaN,NaN
+149.0,Nepal,524.0,NP,NPL,NaN,NaN
+5817.0,Net Food Importing Developing Countries,NaN,?,?,NaN,NaN
+150.0,Netherlands,528.0,NL,NLD,NaN,NaN
+151.0,Netherlands Antilles (former),530.0,AN,ANT,NaN,2010.0
+153.0,New Caledonia,540.0,NC,NCL,NaN,NaN
+156.0,New Zealand,554.0,NZ,NZL,NaN,NaN
+157.0,Nicaragua,558.0,NI,NIC,NaN,NaN
+158.0,Niger,562.0,NE,NER,NaN,NaN
+159.0,Nigeria,566.0,NG,NGA,NaN,NaN
+160.0,Niue,570.0,NU,NIU,NaN,NaN
+5849.0,Non-Annex I countries,NaN,?,?,NaN,NaN
+161.0,Norfolk Island,574.0,NF,NFK,NaN,NaN
+429.0,North Africa (excluding Sudan),746.0,?,?,NaN,NaN
+154.0,North Macedonia,807.0,MK,MKD,1992.0,NaN
+5103.0,Northern Africa,15.0,?,?,NaN,NaN
+5203.0,Northern America,21.0,?,?,NaN,NaN
+5208.0,Northern America and Europe,NaN,?,?,NaN,NaN
+5402.0,Northern Europe,154.0,?,?,NaN,NaN
+163.0,Northern Mariana Islands,580.0,MP,MNP,1991.0,NaN
+162.0,Norway,578.0,NO,NOR,NaN,NaN
+5500.0,Oceania,9.0,?,?,NaN,NaN
+5807.0,Oceania excluding Australia and New Zealand,NaN,?,?,NaN,NaN
+5873.0,OECD,198.0,?,?,NaN,NaN
+221.0,Oman,512.0,OM,OMN,NaN,NaN
+164.0,Pacific Islands Trust Territory,582.0,?,?,NaN,1990.0
+165.0,Pakistan,586.0,PK,PAK,NaN,NaN
+180.0,Palau,585.0,PW,PLW,1991.0,NaN
+299.0,Palestine,275.0,?,PSE,NaN,NaN
+166.0,Panama,591.0,PA,PAN,NaN,NaN
+168.0,Papua New Guinea,598.0,PG,PNG,NaN,NaN
+169.0,Paraguay,600.0,PY,PRY,NaN,NaN
+170.0,Peru,604.0,PE,PER,NaN,NaN
+171.0,Philippines,608.0,PH,PHL,NaN,NaN
+172.0,Pitcairn,612.0,PN,PCN,NaN,NaN
+173.0,Poland,616.0,PL,POL,NaN,NaN
+5504.0,Polynesia,61.0,?,?,NaN,NaN
+174.0,Portugal,620.0,PT,PRT,NaN,NaN
+177.0,Puerto Rico,630.0,PR,PRI,NaN,NaN
+179.0,Qatar,634.0,QA,QAT,NaN,NaN
+117.0,Republic of Korea,410.0,KR,KOR,NaN,NaN
+146.0,Republic of Moldova,498.0,MD,MDA,1992.0,NaN
+182.0,Réunion,638.0,RE,REU,NaN,NaN
+183.0,Romania,642.0,RO,ROU,NaN,NaN
+185.0,Russian Federation,643.0,RU,RUS,1992.0,NaN
+184.0,Rwanda,646.0,RW,RWA,NaN,NaN
+282.0,Saint Barthélemy,652.0,?,BLM,2011.0,NaN
+187.0,Saint Helena, Ascension and Tristan da Cunha,654.0,SH,SHN,NaN,NaN
+188.0,Saint Kitts and Nevis,659.0,KN,KNA,NaN,NaN
+189.0,Saint Lucia,662.0,LC,LCA,NaN,NaN
+190.0,Saint Pierre and Miquelon,666.0,PM,SPM,NaN,NaN
+191.0,Saint Vincent and the Grenadines,670.0,VC,VCT,NaN,NaN
+281.0,Saint-Martin (French part),663.0,?,MAF,2011.0,NaN
+244.0,Samoa,882.0,WS,WSM,NaN,NaN
+192.0,San Marino,674.0,SM,SMR,NaN,NaN
+193.0,Sao Tome and Principe,678.0,ST,STP,NaN,NaN
+194.0,Saudi Arabia,682.0,SA,SAU,NaN,NaN
+195.0,Senegal,686.0,SN,SEN,NaN,NaN
+272.0,Serbia,688.0,RS,SRB,2006.0,NaN
+286.0,Serbia (excluding Kosovo),NaN,?,?,NaN,NaN
+186.0,Serbia and Montenegro,891.0,CS,SCG,1992.0,2005.0
+196.0,Seychelles,690.0,SC,SYC,NaN,NaN
+197.0,Sierra Leone,694.0,SL,SLE,NaN,NaN
+200.0,Singapore,702.0,SG,SGP,NaN,NaN
+280.0,Sint Maarten (Dutch part),534.0,?,SXM,2011.0,NaN
+199.0,Slovakia,703.0,SK,SVK,1993.0,NaN
+198.0,Slovenia,705.0,SI,SVN,1992.0,NaN
+5803.0,Small Island Developing States,722.0,?,?,NaN,NaN
+25.0,Solomon Islands,90.0,SB,SLB,NaN,NaN
+201.0,Somalia,706.0,SO,SOM,NaN,NaN
+202.0,South Africa,710.0,ZA,ZAF,NaN,NaN
+5207.0,South America,5.0,?,?,NaN,NaN
+5855.0,South Asia (excluding India),NaN,?,?,NaN,NaN
+271.0,South Georgia and the South Sandwich Islands,239.0,GS,SGS,NaN,NaN
+277.0,South Sudan,728.0,SS,SSD,2012.0,NaN
+5304.0,South-eastern Asia,35.0,?,?,NaN,NaN
+5104.0,Southern Africa,18.0,?,?,NaN,NaN
+5303.0,Southern Asia,34.0,?,?,NaN,NaN
+5403.0,Southern Europe,39.0,?,?,NaN,NaN
+203.0,Spain,724.0,ES,ESP,NaN,NaN
+38.0,Sri Lanka,144.0,LK,LKA,NaN,NaN
+420.0,Sub-Saharan Africa,202.0,?,?,NaN,NaN
+5810.0,Sub-Saharan Africa (including Sudan),738.0,?,?,NaN,NaN
+276.0,Sudan,729.0,SD,SDN,2012.0,NaN
+206.0,Sudan (former),736.0,SD,?,NaN,2011.0
+207.0,Suriname,740.0,SR,SUR,NaN,NaN
+260.0,Svalbard and Jan Mayen Islands,744.0,SJ,SJM,NaN,NaN
+210.0,Sweden,752.0,SE,SWE,NaN,NaN
+211.0,Switzerland,756.0,CH,CHE,NaN,NaN
+212.0,Syrian Arab Republic,760.0,SY,SYR,NaN,NaN
+208.0,Tajikistan,762.0,TJ,TJK,1992.0,NaN
+216.0,Thailand,764.0,TH,THA,NaN,NaN
+176.0,Timor-Leste,626.0,TL,TLS,NaN,NaN
+217.0,Togo,768.0,TG,TGO,NaN,NaN
+218.0,Tokelau,772.0,TK,TKL,NaN,NaN
+219.0,Tonga,776.0,TO,TON,NaN,NaN
+220.0,Trinidad and Tobago,780.0,TT,TTO,NaN,NaN
+222.0,Tunisia,788.0,TN,TUN,NaN,NaN
+223.0,Turkey,792.0,TR,TUR,NaN,NaN
+213.0,Turkmenistan,795.0,TM,TKM,1992.0,NaN
+224.0,Turks and Caicos Islands,796.0,TC,TCA,NaN,NaN
+227.0,Tuvalu,798.0,TV,TUV,NaN,NaN
+226.0,Uganda,800.0,UG,UGA,NaN,NaN
+230.0,Ukraine,804.0,UA,UKR,1992.0,NaN
+225.0,United Arab Emirates,784.0,AE,ARE,NaN,NaN
+229.0,United Kingdom of Great Britain and Northern Ireland,826.0,GB,GBR,NaN,NaN
+215.0,United Republic of Tanzania,834.0,TZ,TZA,NaN,NaN
+232.0,United States Minor Outlying Islands,581.0,UM,UMI,NaN,NaN
+231.0,United States of America,840.0,US,USA,NaN,NaN
+240.0,United States Virgin Islands,850.0,VI,VIR,NaN,NaN
+9011.0,Upper-middle-income economies,NaN,?,?,NaN,NaN
+234.0,Uruguay,858.0,UY,URY,NaN,NaN
+228.0,USSR,810.0,?,?,NaN,1991.0
+235.0,Uzbekistan,860.0,UZ,UZB,1992.0,NaN
+155.0,Vanuatu,548.0,VU,VUT,NaN,NaN
+236.0,Venezuela (Bolivarian Republic of),862.0,VE,VEN,NaN,NaN
+237.0,Viet Nam,704.0,VN,VNM,NaN,NaN
+242.0,Wake Island,872.0,WK,WAK,NaN,NaN
+243.0,Wallis and Futuna Islands,876.0,WF,WLF,NaN,NaN
+5105.0,Western Africa,11.0,?,?,NaN,NaN
+5305.0,Western Asia,145.0,?,?,NaN,NaN
+5308.0,Western Asia and Northern Africa,NaN,?,?,NaN,NaN
+5404.0,Western Europe,155.0,?,?,NaN,NaN
+205.0,Western Sahara,732.0,EH,ESH,NaN,NaN
+5000.0,World,1.0,?,X01,NaN,NaN
+249.0,Yemen,887.0,YE,YEM,NaN,NaN
+246.0,Yemen Ar Rp,886.0,?,?,NaN,NaN
+247.0,Yemen Dem,720.0,?,?,NaN,NaN
+248.0,Yugoslav SFR,890.0,?,?,NaN,1991.0
+251.0,Zambia,894.0,ZM,ZMB,NaN,NaN
+181.0,Zimbabwe,716.0,ZW,ZWE,NaN,NaN

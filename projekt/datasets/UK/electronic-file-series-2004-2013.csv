@@ -7,12 +7,12 @@ ASS,0045 - EAD,Science Evidence and Research - Economics / Statistics,2004-2012,
 BMU,0062 - SCO SCS,Food Standards Scotland,2005-2010,0.0,0.0,Scotland - Freedom of information. IT & Information Management. Training. Health & Safety. SFAC and SFELC. Business Management
 BPB,0006 - FPIT BP,Finance and Strategy - PPC,2004-2006,0.0,0.0,Business Planning. Strategic Risk Register. Audit Committee. FSA Annual/Departmental Reports
 CCM,0054 - COMS COB,Communications - Marketing,2004-2006,0.0,0.0,Consumer Committee Secretariat
-CDH,0064 - CCDH,,2004-2009,0.0,0.0,Consumer Choice and Dietary Health Directors Office
+CDH,0064 - CCDH,?,2004-2009,0.0,0.0,Consumer Choice and Dietary Health Directors Office
 CHA,0058 - SCO SCP,Food Standards Scotland,2004-2010,148.0,6858.0,Scotland - Contaminants. Radiological Safety. Hygiene. Additives and Shellfish
 CLS,0011 - CCAD CCD2,Science and Policy - Policy - Contaminants,2004-2006,0.0,0.0,Contaminated Land Strategy - Liaison With Local Authorities
 CMA,0028 - CST5,Science and Policy - Policy - Additives,2004-2009,148.0,4708.0,Materials and Articles In Contact With Food (policy and research)
 COB,0054 - COMS COB,Communications - Marketing,2004-2006,0.0,0.0,Consumer Engagement
-COM,0055 - COMS,, ,0.0,0.0,Communications
+COM,0055 - COMS,?,?,0.0,0.0,Communications
 CON,0011 - CCAD CCD2,Science and Policy - Policy - Contaminants,2004-2008,0.0,0.0,Working Party of Chemical Contaminants (2004-2005) & Taskforce on Incidents
 COT,0037 - CST 1,Science and Policy - Science - Chemical Risk Assessment,2004-2012,87.0,3237.0,Committee on Toxicity Secretariat
 CPD,0052 - NUT CPD,Public Health England - Transferred 2010,2004-2010,0.0,0.0,Promotion of Food to Children. Signpost Labelling. Nutrition Labelling and Dietectic Foods
@@ -26,7 +26,7 @@ DTS,0023 - LAED DTS,Operations - Consumer Protection and Commerical Support,2004
 EAT,0037 - CST 1,Science and Policy - Science - Chemical Risk Assessment,2006-2012,11.0,539.0,Exposure Assessment
 ECI,0008 - CCAF IRB,Operations - Consumer Protection and Commercial Support,2004-2007,0.0,0.0,Environmental Contamination Incidents (Case Files)
 ECO,0032 - MSD C,Science and Policy - Policy - Food Hygiene,2004-2012,153.0,28032.0,Food Hygiene Regulations Application Project. Food Hygiene Legislation Strategy
-EFS,0065 - EG,,2007-2008,,,Enforcement Group Directors Office
+EFS,0065 - EG,?,2007-2008,NaN,NaN,Enforcement Group Directors Office
 ELC,0009 - LAED MDB,Operations - Local Delivery - Monitoring,2004-2009,0.0,0.0,Monitoring of Food Law Enforcement by Local Authorities (Case Files)
 ENV,0011 - CCAD CCD2,Science and Policy - Policy - Contaminants,2004-2010,40.0,2598.0,Environmental Contaminants (Science and Policy)
 EPA,0063 - LAED AB,Operations - Operations Assurance - LA Audit,2004-2012,209.0,4570.0,Audit of Local Authorities Food Law Enforcement services. External audit of MHS. Liason with LACORS. Enforcement research
@@ -52,7 +52,7 @@ FMM,0005 - FPIT F&MA,Finance and Strategy - Accounting,2004-2009,0.0,0.0,Managem
 FOP,0005 - FPIT F&MA,Finance and Strategy - Accounting,2004-2005,0.0,0.0,Financial Operations
 FPB,0034 - MSD E,Science and Policy - Science -  Microbiological Food Safety,2004-2012,238.0,15432.0,Food Hazards. Hygiene advice to consumers. Microbiological Risk Assessment/Modelling. Scientific support to ACMSF. Microbiological Food Incidents
 FSH,0030 - MSD H,Science and Policy - Policy - Food Hygiene,2004-2012,216.0,17209.0,Hygiene Policy for fish/shellfish intended for human consumption (includes statutory monitoring programmes and related research. Fish/shellfish hygiene issues. shellfish harvesting area classification)
-FSP,0069 - FSP,,2006-2009,0.0,0.0,Food Safety Policy Group Directors Office Management
+FSP,0069 - FSP,?,2006-2009,0.0,0.0,Food Safety Policy Group Directors Office Management
 FST,0059 - SCO SSE,Food Standards Scotland,2005-2012,371.0,9354.0,Scotland - EatSafe. CookSafe. HACCP
 GEN,0019 - CST3,Science and Policy - Policy - Contaminants,2004-2009,0.0,0.0,Divisional Management for former CST 3 Branch
 GFH,0036 - MSD A,Science and Policy - Policy - Food Hygiene,2004-2010,147.0,8528.0,General Food Hygiene. Temperature Controls. Food Industry Guidance. Egg Products

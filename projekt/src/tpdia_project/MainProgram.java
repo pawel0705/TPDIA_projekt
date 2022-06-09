@@ -1,10 +1,15 @@
 package tpdia_project;
 
+import java.beans.beancontext.BeanContextMembershipListener;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import javax.xml.bind.annotation.adapters.CollapsedStringAdapter;
 
 import weka.core.Instance;
 import weka.core.Instances;
@@ -101,10 +106,117 @@ public class MainProgram {
 			prevFileName = fileName;
 		}
 
-		SaveMainCSV(main, "features.csv", ";");
+		SaveCSV(main, "features.csv", ";");
 		System.out.println("---- Done creating features csv file ----");
 	}
 
+	private static void Preprocess(Instances dataset, String fileName)
+	{
+		for(int columnNr = 0; columnNr < dataset.numAttributes(); ++columnNr)
+		{
+			if(dataset.attribute(columnNr).isNominal())
+			{
+				boolean withUnit = true;
+				String text = "";
+				for(Instance row : dataset)
+				{
+					String cellValue = row.stringValue(columnNr);
+					
+					Pattern pattern = Pattern.compile("\\D+\\d+");
+					Matcher matcher = pattern.matcher(cellValue);
+					if (matcher.matches())
+					{
+						Pattern textPattern = Pattern.compile("\\D+");
+						Matcher textMatcher = textPattern.matcher(cellValue);
+						
+						textMatcher.find();
+						String cellText = textMatcher.group(0);
+						if(text.isEmpty())
+						{
+							text = cellText;
+						}
+						else if (!text.equals(cellText))
+						{
+							withUnit = false;
+							break;
+						}
+					}
+					else
+					{
+						withUnit = false;
+						break;
+					}
+				}
+				if (withUnit)
+				{
+					for (Instance row : dataset)
+					{
+						String cellValue = row.stringValue(columnNr);
+						
+						Pattern valuePattern = Pattern.compile("\\d+");
+						Matcher valueMatcher = valuePattern.matcher(cellValue);
+						
+						valueMatcher.find();
+						String group = valueMatcher.group(0);
+						
+						dataset.renameAttributeValue(dataset.attribute(columnNr), cellValue, group);
+						
+						row.setValue(columnNr, group);
+					}
+				}
+				
+				withUnit = true;
+				for(Instance row : dataset)
+				{
+					String cellValue = row.stringValue(columnNr);
+					
+					Pattern pattern = Pattern.compile("\\d+\\D+");
+					Matcher matcher = pattern.matcher(cellValue);
+					if (matcher.matches())
+					{
+						Pattern textPattern = Pattern.compile("\\D+");
+						Matcher textMatcher = textPattern.matcher(cellValue);
+						
+						textMatcher.find();
+						String cellText = textMatcher.group(0);
+						if(text.isEmpty())
+						{
+							text = cellText;
+						}
+						else if (!text.equals(cellText))
+						{
+							withUnit = false;
+							break;
+						}
+					}
+					else
+					{
+						withUnit = false;
+						break;
+					}
+				}
+				if (withUnit)
+				{
+					for (Instance row : dataset)
+					{
+						
+						String cellValue = row.stringValue(columnNr);
+						Pattern valuePattern = Pattern.compile("\\d+");
+						Matcher valueMatcher = valuePattern.matcher(cellValue);
+						valueMatcher.find();
+						String group = valueMatcher.group(0);
+						
+						dataset.renameAttributeValue(dataset.attribute(columnNr), cellValue, group);
+						
+						row.setValue(columnNr, group);
+					}
+				}
+			}
+		}
+		
+		SaveCSV(dataset, fileName, ",");
+	}
+	
 	private static boolean ProcessOneDataset(String domainName, String fileName, Instances main) {
 		boolean success = true;
 
@@ -121,6 +233,8 @@ public class MainProgram {
 
 		System.out.println("----- File: " + fullDatasetPath + " -----");
 
+		Preprocess(dataset, fullDatasetPath);
+		
 		int attributesNumber = dataset.numAttributes();
 		Features[] features = new Features[attributesNumber];
 
@@ -173,28 +287,39 @@ public class MainProgram {
 		}
 	}
 
-	private static void SaveMainCSV(Instances main, String fileName, String separator) {
+	private static void SaveCSV(Instances dataSet, String fileName, String separator) {
 		try {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
 
-			for (int i = 0; i < main.numAttributes(); ++i) {
-				writer.write(main.attribute(i).name());
-				if (i < main.numAttributes() - 1) {
+			int coulmnsCount = dataSet.numAttributes();
+			
+			for (int i = 0; i < coulmnsCount; ++i) {
+				writer.write(dataSet.attribute(i).name());
+				if (i < dataSet.numAttributes() - 1) {
 					writer.write(separator);
 				} else {
 					writer.write("\n");
 				}
 			}
 
-			for (Instance row : main) {
-				for (int j = 0; j < 3; ++j) {
-					writer.write(row.stringValue(j) + separator);
-				}
-				for (int j = 3; j < main.numAttributes(); ++j) {
-					writer.write(Double.toString(row.value(j)));
-					if (j < main.numAttributes() - 1) {
+			for (Instance row : dataSet) {
+				for (int j = 0; j < coulmnsCount; ++j) 
+				{
+					if(dataSet.attribute(j).isNumeric())
+					{
+						writer.write(Double.toString(row.value(j)));
+					}
+					else
+					{
+						writer.write(row.stringValue(j));
+					}
+					
+					if (j < dataSet.numAttributes() - 1) 
+					{
 						writer.write(separator);
-					} else {
+					} 
+					else 
+					{
 						writer.write("\n");
 					}
 				}

@@ -3,7 +3,7 @@ England ,County Council,Buckinghamshire and Surrey,2.0,25.0,238.0,273.0,0.0,315.
 England ,County Council,Cambridgeshire,1.0,3.0,34.0,21.0,0.0,39.0
 England ,County Council,Cumbria ,0.0,0.0,92.0,12.0,0.0,104.0
 England ,County Council,Derbyshire,0.0,0.0,49.0,32.0,0.0,49.0
-England ,County Council,"Devon, Somerset and Torbay",4.0,25.0,116.0,39.0,11.0,158.0
+England ,County Council,Devon, Somerset and Torbay,4.0,25.0,116.0,39.0,11.0,158.0
 England ,County Council,Dorset,0.0,2.0,38.0,22.0,0.0,44.0
 England ,County Council,East Sussex,0.0,0.0,122.0,72.0,0.0,124.0
 England ,County Council,Essex,13.0,17.0,112.0,73.0,1.0,209.0
@@ -44,7 +44,7 @@ England,District Council,Breckland ,79.0,0.0,0.0,0.0,0.0,79.0
 England,District Council,Brentwood,94.0,1.0,0.0,0.0,0.0,95.0
 England,District Council,Broadland ,237.0,0.0,0.0,0.0,0.0,237.0
 England,District Council,Bromsgrove,40.0,0.0,0.0,0.0,0.0,40.0
-England,District Council,Broxbourne ? ,,,,,,
+England,District Council,Broxbourne ? ,NaN,NaN,NaN,NaN,NaN,NaN
 England,District Council,Broxtowe,93.0,0.0,0.0,0.0,0.0,93.0
 England,District Council,Burnley,8.0,0.0,0.0,0.0,0.0,8.0
 England,District Council,Cambridge City,60.0,0.0,0.0,0.0,0.0,60.0
@@ -59,7 +59,7 @@ England,District Council,Cherwell,103.0,2.0,0.0,0.0,0.0,105.0
 England,District Council,Chesterfield ,38.0,0.0,0.0,0.0,0.0,38.0
 England,District Council,Chichester,133.0,0.0,0.0,0.0,0.0,133.0
 England,District Council,Chiltern,32.0,0.0,0.0,0.0,0.0,32.0
-England,District Council,Chorley ?  ,,,,,,
+England,District Council,Chorley ?  ,NaN,NaN,NaN,NaN,NaN,NaN
 England,District Council,Colchester,56.0,0.0,0.0,0.0,0.0,56.0
 England,District Council,Copeland,66.0,0.0,0.0,0.0,0.0,66.0
 England,District Council,Corby,187.0,0.0,0.0,0.0,0.0,187.0
@@ -75,7 +75,7 @@ England,District Council,East Cambridgeshire,42.0,0.0,0.0,0.0,0.0,42.0
 England,District Council,East Devon,328.0,0.0,0.0,0.0,0.0,328.0
 England,District Council,East Dorset (1),45.0,0.0,0.0,0.0,0.0,45.0
 England,District Council,East Hampshire,20.0,0.0,0.0,0.0,0.0,20.0
-England,District Council,East Hertfordshire ? ,,,,,,
+England,District Council,East Hertfordshire ? ,NaN,NaN,NaN,NaN,NaN,NaN
 England,District Council,East Lindsey ,26.0,9.0,0.0,9.0,0.0,26.0
 England,District Council,East Northamptonshire,97.0,0.0,0.0,0.0,0.0,97.0
 England,District Council,East Staffordshire ,42.0,0.0,0.0,0.0,0.0,42.0
@@ -111,7 +111,7 @@ England,District Council,High Peak,32.0,0.0,0.0,0.0,0.0,32.0
 England,District Council,Hinckley & Bosworth,263.0,0.0,0.0,0.0,0.0,263.0
 England,District Council,Horsham,17.0,0.0,0.0,0.0,0.0,17.0
 England,District Council,Huntingdonshire,0.0,0.0,0.0,0.0,0.0,0.0
-England,District Council,Hyndburn ? ,,,,,,
+England,District Council,Hyndburn ? ,NaN,NaN,NaN,NaN,NaN,NaN
 England,District Council,Ipswich ,0.0,0.0,0.0,0.0,0.0,0.0
 England,District Council,Kettering,0.0,0.0,0.0,0.0,0.0,0.0
 England,District Council,King s Lynn & West Norfolk,126.0,0.0,0.0,0.0,0.0,126.0
@@ -186,7 +186,7 @@ England,District Council,Stratford-on-Avon,175.0,0.0,0.0,0.0,0.0,175.0
 England,District Council,Stroud,92.0,0.0,0.0,0.0,0.0,92.0
 England,District Council,Surrey Heath,72.0,30.0,11.0,11.0,11.0,72.0
 England,District Council,Swale,76.0,1.0,0.0,0.0,0.0,77.0
-England,District Council,Tamworth ? ,,,,,,
+England,District Council,Tamworth ? ,NaN,NaN,NaN,NaN,NaN,NaN
 England,District Council,Tandridge,7.0,0.0,0.0,0.0,0.0,7.0
 England,District Council,Teignbridge,120.0,0.0,0.0,0.0,0.0,120.0
 England,District Council,Tendring ,7.0,0.0,0.0,0.0,0.0,7.0
@@ -354,7 +354,7 @@ Northern Ireland,NI Unitary Authority,Fermanagh and Omagh,314.0,0.0,166.0,173.0,
 Northern Ireland,NI Unitary Authority,Lisburn and Castlereagh City,504.0,0.0,166.0,158.0,0.0,828.0
 Northern Ireland,NI Unitary Authority,Mid and East Antrim,562.0,0.0,145.0,50.0,0.0,707.0
 Northern Ireland,NI Unitary Authority,Mid Ulster ,412.0,0.0,175.0,173.0,0.0,587.0
-Northern Ireland,NI Unitary Authority,"Newry, Mourne and Down",673.0,0.0,97.0,110.0,0.0,873.0
+Northern Ireland,NI Unitary Authority,Newry, Mourne and Down,673.0,0.0,97.0,110.0,0.0,873.0
 Wales,Welsh Unitary Authority,Anglesey,81.0,1.0,15.0,7.0,0.0,96.0
 Wales,Welsh Unitary Authority,Blaenau Gwent,153.0,6.0,21.0,23.0,0.0,178.0
 Wales,Welsh Unitary Authority,Bridgend,30.0,0.0,10.0,4.0,0.0,40.0

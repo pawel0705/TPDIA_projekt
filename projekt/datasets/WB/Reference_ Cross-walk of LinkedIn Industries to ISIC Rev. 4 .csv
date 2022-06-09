@@ -1,149 +1,149 @@
 isic_section,isic_section_name,isic_division,isic_division_name,industry_sk,industry_name,Industry_group_sk,Industry_group_name
-A, A. Agriculture; forestry and fishing,1,"Crop and animal production, hunting and related service activities",63,farming,1,Agriculture
-A, A. Agriculture; forestry and fishing,1,"Crop and animal production, hunting and related service activities",64,ranching,1,Agriculture
-A, A. Agriculture; forestry and fishing,1,"Crop and animal production, hunting and related service activities",65,dairy,1,Agriculture
-A, A. Agriculture; forestry and fishing,3,Fishing and aquaculture,66,fishery,1,Agriculture
-B, B. Mining and quarrying,5,Mining of coal and lignite,56,mining & metals,16,Energy and Mining
-B, B. Mining and quarrying,6,Extraction of crude petroleum and natural gas,57,oil & energy,16,Energy and Mining
-C, C. Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equip",2,defense and space,10,Manufacturing
-C, C. Manufacturing,21,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",15,pharmaceuticals,12,Healthcare
-C, C. Manufacturing,10,Manufacture of food products,23,food production,10,Manufacturing
-C, C. Manufacturing,30,Manufacture of other transport equipment,52,aviation and aerospace,10,Manufacturing
-C, C. Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",53,automotive,10,Manufacturing
-C, C. Manufacturing,20,Manufacture of chemicals and chemical products,54,chemicals,10,Manufacturing
-C, C. Manufacturing,28,Manufacture of machinery and equipment n.e.c.,55,machinery,10,Manufacturing
-C, C. Manufacturing,30,Manufacture of other transport equipment,58,shipbuilding,10,Manufacturing
-C, C. Manufacturing,13,Manufacture of textiles,60,textiles,10,Manufacturing
-C, C. Manufacturing,17,Manufacture of paper and paper products,61,paper & forest products,10,Manufacturing
-C, C. Manufacturing,30,Manufacture of other transport equipment,62,railroad manufacture,10,Manufacturing
-C, C. Manufacturing,18,Printing and reproduction of recorded media,83,printing,11,Media & Communications
-C, C. Manufacturing,26,"Manufacture of computer, electronic and optical products",112,electrical and electronic manufacturing,10,Manufacturing
-C, C. Manufacturing,22,Manufacture of rubber and plastics products,117,plastics,10,Manufacturing
-C, C. Manufacturing,32,Other manufacturing,144,renewables and environment,10,Manufacturing
-C, C. Manufacturing,32,Other manufacturing,145,"glass, ceramics and concrete",10,Manufacturing
-C, C. Manufacturing,32,Other manufacturing,146,packaging and containers,10,Manufacturing
-C, C. Manufacturing,32,Other manufacturing,147,industrial automation,10,Manufacturing
-D," D. Electricity; gas, steam and air conditioning supply",35,"electricity; gas, steam and air conditioning supply",59,utilities,16,Energy and Mining
-F, F. Construction,41,Construction of buildings,48,construction,3,Construction
-F, F. Construction,43,Not_mapped,49,building materials,3,Construction
-F, F. Construction,42,Civil engineering,51,civil engineering,3,Construction
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",18,cosmetics,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",19,apparel and fashion,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",20,sporting goods,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",21,tobacco,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",22,supermarkets,24,Retail
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",24,consumer electronics,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",25,consumer goods,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",26,furniture,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",27,retail,24,Retail
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",34,food & beverages,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",91,consumer services,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,46,"Wholesale trade, except of motor vehicles and motorcycles",133,wholesale,24,Retail
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",142,wine and spirits,4,Consumer goods
-G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47,"Retail trade, except of motor vehicles and motorcycles",143,luxury goods and jewelry,4,Consumer goods
-H, H. Transportation and storage,53,Postal and courier activities,87,package/freight delivery,15,Transportation & Logistics
-H, H. Transportation and storage,49,Land transport and transport via pipelines,92,transportation/trucking/railroad,15,Transportation & Logistics
-H, H. Transportation and storage,52,Warehousing and support activities for transportation,93,warehousing,15,Transportation & Logistics
-H, H. Transportation and storage,51,Air transport,94,airlines/aviation,14,Recreation and Travel
-H, H. Transportation and storage,50,Water transport,95,maritime,15,Transportation & Logistics
-H, H. Transportation and storage,52,Warehousing and support activities for transportation,116,logistics and supply chain,15,Transportation & Logistics
-H, H. Transportation and storage,52,Warehousing and support activities for transportation,134,import and export,15,Transportation & Logistics
-I, I. Accommodation and food service activities,55,Accommodation,31,hospitality,14,Recreation and Travel
-I, I. Accommodation and food service activities,56,Food and services activities,32,restaurants,14,Recreation and Travel
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",3,computer hardware,19,Hardware & Netwoking
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",4,computer software,8,Software & IT Services
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",5,computer networking,19,Hardware & Netwoking
-J, J. Information and communication,61,Telecommunications,6,Internet,8,Software & IT Services
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",7,semiconductors,19,Hardware & Netwoking
-J, J. Information and communication,61,Telecommunications,8,telecommunications,19,Hardware & Netwoking
-J, J. Information and communication,59,"Motion picture, video and television programme production, sound recording",35,motion pictures and film,18,Entertainment
-J, J. Information and communication,60,Programming and broadcasting activities,36,broadcast media,18,Entertainment
-J, J. Information and communication,58,Publishing activities,81,newspapers,11,Media & Communications
-J, J. Information and communication,58,Publishing activities,82,publishing,11,Media & Communications
-J, J. Information and communication,63,Information service activities,96,information technology and services,8,Software & IT Services
-J, J. Information and communication,58,Publishing activities,103,writing and editing,11,Media & Communications
-J, J. Information and communication,58,Publishing activities,109,computer games,18,Entertainment
-J, J. Information and communication,63,Information service activities,113,online media,11,Media & Communications
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",118,computer and network security,8,Software & IT Services
-J, J. Information and communication,62,"Computer programming, consultancy and related activities",119,wireless,19,Hardware & Netwoking
-J, J. Information and communication,59,"Motion picture, video and television programme production, sound recording",126,media production,19,Entertainment
-K, K. Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",41,banking,7,Finance
-K, K. Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social",42,insurance,7,Finance
-K, K. Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",43,financial services,7,Finance
-K, K. Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",45,investment banking,7,Finance
-K, K. Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",46,investment management,7,Finance
-K, K. Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",106,venture capital and private equity,7,Finance
-K, K. Financial and insurance activities,66,Activities auxiliary to financial service and insurance activities,129,capital markets,7,Finance
-L, L. Real estate activities,68,Real estate activities,44,Real estate,22,Real estate 
-L, L. Real estate activities,68,Real estate activities,128,commercial real estate,22,Real estate 
-M," M. Professional, scientific and technical activities",69,Legal and accounting activities,9,law practice,9,Legal
-M," M. Professional, scientific and technical activities",69,Legal and accounting activities,10,legal services,9,Legal
-M," M. Professional, scientific and technical activities",70,Activities of head offices; management consultancy activities,11,management consulting,5,Corporate Services
-M," M. Professional, scientific and technical activities",72,Scientific research and development,12,biotechnology,12,Healthcare
-M," M. Professional, scientific and technical activities",75,Veterinary activities,16,veterinary,12, Healthcare
-M," M. Professional, scientific and technical activities",69,Legal and accounting activities,47,accounting,5,Corporate Services
-M," M. Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,50,architecture & planning,17,Design
-M," M. Professional, scientific and technical activities",72,Scientific research and development,70,research,6,Education
-M," M. Professional, scientific and technical activities",70,Activities of head offices; management consultancy activities,76,executive office,5,Corporate Services
-M," M. Professional, scientific and technical activities",73,Advertising and market research,80,marketing and advertising,11,Media & Communications
-M," M. Professional, scientific and technical activities",70,Activities of head offices; management consultancy activities,84,information services,5,Corporate Services
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",86,environmental services,5,Corporate Services
-M," M. Professional, scientific and technical activities",73,Advertising and market research,97,market research,11,Media & Communications
-M," M. Professional, scientific and technical activities",70,Activities of head offices; management consultancy activities,98,public relations and communications,11,Media & Communications
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",99,design,17,Design
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",105,professional training & coaching,5,Corporate Services
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",108,translation and localization,11,Media & Communications
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",110,events services,5,Corporate Services
-M," M. Professional, scientific and technical activities",72,Scientific research and development,114,nanotechnology,19,Hardware & Networking
-M," M. Professional, scientific and technical activities",69,Legal and accounting activities,120,alternative dispute resolution,9,Legal
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",123,outsourcing/offshoring,5,Corporate Services
-M," M. Professional, scientific and technical activities",72,Scientific research and development,135,mechanical or industrial engineering,10,Manufacturing
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",136,photography,2,Art
-M," M. Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",140,graphic design,17,Design
-N, N. Administrative and support service activities,79,"Travel agency, tour operator, reservation service and related activities",30,"leisure, travel & tourism",14,Recreation and Travel
-N, N. Administrative and support service activities,81,Services to buildings and landscape activities,40,recreational facilities and services,14,Recreation and Travel
-N, N. Administrative and support service activities,82,"Office administrative, office support and other business support activities",101,fundraising,13,Nonprofit
-N, N. Administrative and support service activities,78,Employment activities,104,staffing and recruiting,5,Corporate Services
-N, N. Administrative and support service activities,80,Security and investigation activities,121,security and investigations,5,Corporate Services
-N, N. Administrative and support service activities,81,Services to buildings and landscape activities,122,facilities services,5,Corporate Services
-N, N. Administrative and support service activities,78,Employment activities,137,human resources ,5,Corporate Services
-N, N. Administrative and support service activities,82,"Office administrative, office support and other business support activities",138,business supplies and equipment,5,Corporate Services
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,71,military,21,Public safety
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,72,legislative office,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,73,judiciary,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,74,international affairs,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,75,government administration,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,77,law enforcement,21,Public safety
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,78,public safety,21,Public safety
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,79,public policy,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,107,political organization,20,Public Administration
-O, O. Public administration and defence; compulsory social security,84,Public administration and defence; compulsory social security,148,government relations,20,Public Administration
-P, P. Education,85, Education,67,primary/secondary education,6,Education
-P, P. Education,85, Education,68,higher education,6,Education
-P, P. Education,85, Education,69,education management,6,Education
-P, P. Education,85, Education,132,e-learning,6,Education
-Q, Q. Human health and social work activities,86,Human health activities,13,medical practice,12,Healthcare
-Q, Q. Human health and social work activities,86,Human health activities,14,hospital & health care,12,Healthcare
-Q, Q. Human health and social work activities,86,Human health activities,17,medical device,12,Healthcare
-Q, Q. Human health and social work activities,86,Human health activities,125,alternative medicine,23,Wellness and Fitness
-Q, Q. Human health and social work activities,86,Human health activities,139,mental health care,12,Healthcare
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",28,entertainment,18,Entertainment
-R," R. Arts, entertainment and recreation",92,Gambling and betting activities,29,gambling & casinos,14,Recreation and Travel
-R," R. Arts, entertainment and recreation",93,Sports activities and amusement and recreation activities,33,sports,14,Recreation and Travel
-R," R. Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",37,museums and institutions,13,Nonprofit
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",38,fine art,2,Art
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",39,performing arts,2,Art
-R," R. Arts, entertainment and recreation",91,"Libraries, archives, museums and other cultural activities",85,libraries,13,Nonprofit
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",111,arts and crafts,2,Art
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",115,music,18,Entertainment
-R," R. Arts, entertainment and recreation",93,Sports activities and amusement and recreation activities,124,"health, wellness and fitness",23,Wellness & Fitness
-R," R. Arts, entertainment and recreation",90,"Creative, arts and entertainment activities",127,animation,18,Entertainment
-S, S. Other service activities,96,Other personal service activities,88,individual and family services,13,Nonprofit
-S, S. Other service activities,94,Activities of professional membership organizations,89,religious institutions,13,Nonprofit
-S, S. Other service activities,94,Activities of professional membership organizations,90,civic & social organization,13,Nonprofit
-S, S. Other service activities,94,Activities of professional membership organizations,100,non-profit organization management,13,Nonprofit
-S, S. Other service activities,94,Activities of professional membership organizations,141,international trade and development,13,Nonprofit
-X, X. Not elsewhere classified,-9,Not_mapped,-9,Unknown,-9,ERR
-X, X. Not elsewhere classified,-9,Not_mapped,102,program development,13,Nonprofit
-X, X. Not elsewhere classified,-9,Not_mapped,130,think tanks,13,Nonprofit
-X, X. Not elsewhere classified,-9,Not_mapped,131,philanthropy,13,Nonprofit
+A, A. Agriculture; forestry and fishing,1.0,Crop and animal production, hunting and related service activities,63.0,farming,1.0,Agriculture
+A, A. Agriculture; forestry and fishing,1.0,Crop and animal production, hunting and related service activities,64.0,ranching,1.0,Agriculture
+A, A. Agriculture; forestry and fishing,1.0,Crop and animal production, hunting and related service activities,65.0,dairy,1.0,Agriculture
+A, A. Agriculture; forestry and fishing,3.0,Fishing and aquaculture,66.0,fishery,1.0,Agriculture
+B, B. Mining and quarrying,5.0,Mining of coal and lignite,56.0,mining & metals,16.0,Energy and Mining
+B, B. Mining and quarrying,6.0,Extraction of crude petroleum and natural gas,57.0,oil & energy,16.0,Energy and Mining
+C, C. Manufacturing,25.0,Manufacture of fabricated metal products, except machinery and equip,2.0,defense and space,10.0,Manufacturing
+C, C. Manufacturing,21.0,Manufacture of pharmaceuticals, medicinal chemical and botanical products,15.0,pharmaceuticals,12.0,Healthcare
+C, C. Manufacturing,10.0,Manufacture of food products,23.0,food production,10.0,Manufacturing
+C, C. Manufacturing,30.0,Manufacture of other transport equipment,52.0,aviation and aerospace,10.0,Manufacturing
+C, C. Manufacturing,29.0,Manufacture of motor vehicles, trailers and semi-trailers,53.0,automotive,10.0,Manufacturing
+C, C. Manufacturing,20.0,Manufacture of chemicals and chemical products,54.0,chemicals,10.0,Manufacturing
+C, C. Manufacturing,28.0,Manufacture of machinery and equipment n.e.c.,55.0,machinery,10.0,Manufacturing
+C, C. Manufacturing,30.0,Manufacture of other transport equipment,58.0,shipbuilding,10.0,Manufacturing
+C, C. Manufacturing,13.0,Manufacture of textiles,60.0,textiles,10.0,Manufacturing
+C, C. Manufacturing,17.0,Manufacture of paper and paper products,61.0,paper & forest products,10.0,Manufacturing
+C, C. Manufacturing,30.0,Manufacture of other transport equipment,62.0,railroad manufacture,10.0,Manufacturing
+C, C. Manufacturing,18.0,Printing and reproduction of recorded media,83.0,printing,11.0,Media & Communications
+C, C. Manufacturing,26.0,Manufacture of computer, electronic and optical products,112.0,electrical and electronic manufacturing,10.0,Manufacturing
+C, C. Manufacturing,22.0,Manufacture of rubber and plastics products,117.0,plastics,10.0,Manufacturing
+C, C. Manufacturing,32.0,Other manufacturing,144.0,renewables and environment,10.0,Manufacturing
+C, C. Manufacturing,32.0,Other manufacturing,145.0,glass, ceramics and concrete,10.0,Manufacturing
+C, C. Manufacturing,32.0,Other manufacturing,146.0,packaging and containers,10.0,Manufacturing
+C, C. Manufacturing,32.0,Other manufacturing,147.0,industrial automation,10.0,Manufacturing
+D, D. Electricity; gas, steam and air conditioning supply,35.0,electricity; gas, steam and air conditioning supply,59.0,utilities,16.0,Energy and Mining
+F, F. Construction,41.0,Construction of buildings,48.0,construction,3.0,Construction
+F, F. Construction,43.0,Not_mapped,49.0,building materials,3.0,Construction
+F, F. Construction,42.0,Civil engineering,51.0,civil engineering,3.0,Construction
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,18.0,cosmetics,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,19.0,apparel and fashion,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,20.0,sporting goods,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,21.0,tobacco,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,22.0,supermarkets,24.0,Retail
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,24.0,consumer electronics,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,25.0,consumer goods,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,26.0,furniture,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,27.0,retail,24.0,Retail
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,34.0,food & beverages,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,91.0,consumer services,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,46.0,Wholesale trade, except of motor vehicles and motorcycles,133.0,wholesale,24.0,Retail
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,142.0,wine and spirits,4.0,Consumer goods
+G, G. Wholesale and retail trade; repair of motor vehicles and motorcycles,47.0,Retail trade, except of motor vehicles and motorcycles,143.0,luxury goods and jewelry,4.0,Consumer goods
+H, H. Transportation and storage,53.0,Postal and courier activities,87.0,package/freight delivery,15.0,Transportation & Logistics
+H, H. Transportation and storage,49.0,Land transport and transport via pipelines,92.0,transportation/trucking/railroad,15.0,Transportation & Logistics
+H, H. Transportation and storage,52.0,Warehousing and support activities for transportation,93.0,warehousing,15.0,Transportation & Logistics
+H, H. Transportation and storage,51.0,Air transport,94.0,airlines/aviation,14.0,Recreation and Travel
+H, H. Transportation and storage,50.0,Water transport,95.0,maritime,15.0,Transportation & Logistics
+H, H. Transportation and storage,52.0,Warehousing and support activities for transportation,116.0,logistics and supply chain,15.0,Transportation & Logistics
+H, H. Transportation and storage,52.0,Warehousing and support activities for transportation,134.0,import and export,15.0,Transportation & Logistics
+I, I. Accommodation and food service activities,55.0,Accommodation,31.0,hospitality,14.0,Recreation and Travel
+I, I. Accommodation and food service activities,56.0,Food and services activities,32.0,restaurants,14.0,Recreation and Travel
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,3.0,computer hardware,19.0,Hardware & Netwoking
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,4.0,computer software,8.0,Software & IT Services
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,5.0,computer networking,19.0,Hardware & Netwoking
+J, J. Information and communication,61.0,Telecommunications,6.0,Internet,8.0,Software & IT Services
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,7.0,semiconductors,19.0,Hardware & Netwoking
+J, J. Information and communication,61.0,Telecommunications,8.0,telecommunications,19.0,Hardware & Netwoking
+J, J. Information and communication,59.0,Motion picture, video and television programme production, sound recording,35.0,motion pictures and film,18.0,Entertainment
+J, J. Information and communication,60.0,Programming and broadcasting activities,36.0,broadcast media,18.0,Entertainment
+J, J. Information and communication,58.0,Publishing activities,81.0,newspapers,11.0,Media & Communications
+J, J. Information and communication,58.0,Publishing activities,82.0,publishing,11.0,Media & Communications
+J, J. Information and communication,63.0,Information service activities,96.0,information technology and services,8.0,Software & IT Services
+J, J. Information and communication,58.0,Publishing activities,103.0,writing and editing,11.0,Media & Communications
+J, J. Information and communication,58.0,Publishing activities,109.0,computer games,18.0,Entertainment
+J, J. Information and communication,63.0,Information service activities,113.0,online media,11.0,Media & Communications
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,118.0,computer and network security,8.0,Software & IT Services
+J, J. Information and communication,62.0,Computer programming, consultancy and related activities,119.0,wireless,19.0,Hardware & Netwoking
+J, J. Information and communication,59.0,Motion picture, video and television programme production, sound recording,126.0,media production,19.0,Entertainment
+K, K. Financial and insurance activities,64.0,Financial service activities, except insurance and pension funding,41.0,banking,7.0,Finance
+K, K. Financial and insurance activities,65.0,Insurance, reinsurance and pension funding, except compulsory social,42.0,insurance,7.0,Finance
+K, K. Financial and insurance activities,64.0,Financial service activities, except insurance and pension funding,43.0,financial services,7.0,Finance
+K, K. Financial and insurance activities,64.0,Financial service activities, except insurance and pension funding,45.0,investment banking,7.0,Finance
+K, K. Financial and insurance activities,64.0,Financial service activities, except insurance and pension funding,46.0,investment management,7.0,Finance
+K, K. Financial and insurance activities,64.0,Financial service activities, except insurance and pension funding,106.0,venture capital and private equity,7.0,Finance
+K, K. Financial and insurance activities,66.0,Activities auxiliary to financial service and insurance activities,129.0,capital markets,7.0,Finance
+L, L. Real estate activities,68.0,Real estate activities,44.0,Real estate,22.0,Real estate 
+L, L. Real estate activities,68.0,Real estate activities,128.0,commercial real estate,22.0,Real estate 
+M, M. Professional, scientific and technical activities,69.0,Legal and accounting activities,9.0,law practice,9.0,Legal
+M, M. Professional, scientific and technical activities,69.0,Legal and accounting activities,10.0,legal services,9.0,Legal
+M, M. Professional, scientific and technical activities,70.0,Activities of head offices; management consultancy activities,11.0,management consulting,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,72.0,Scientific research and development,12.0,biotechnology,12.0,Healthcare
+M, M. Professional, scientific and technical activities,75.0,Veterinary activities,16.0,veterinary,12.0, Healthcare
+M, M. Professional, scientific and technical activities,69.0,Legal and accounting activities,47.0,accounting,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,71.0,Architectural and engineering activities; technical testing and analysis,50.0,architecture & planning,17.0,Design
+M, M. Professional, scientific and technical activities,72.0,Scientific research and development,70.0,research,6.0,Education
+M, M. Professional, scientific and technical activities,70.0,Activities of head offices; management consultancy activities,76.0,executive office,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,73.0,Advertising and market research,80.0,marketing and advertising,11.0,Media & Communications
+M, M. Professional, scientific and technical activities,70.0,Activities of head offices; management consultancy activities,84.0,information services,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,86.0,environmental services,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,73.0,Advertising and market research,97.0,market research,11.0,Media & Communications
+M, M. Professional, scientific and technical activities,70.0,Activities of head offices; management consultancy activities,98.0,public relations and communications,11.0,Media & Communications
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,99.0,design,17.0,Design
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,105.0,professional training & coaching,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,108.0,translation and localization,11.0,Media & Communications
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,110.0,events services,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,72.0,Scientific research and development,114.0,nanotechnology,19.0,Hardware & Networking
+M, M. Professional, scientific and technical activities,69.0,Legal and accounting activities,120.0,alternative dispute resolution,9.0,Legal
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,123.0,outsourcing/offshoring,5.0,Corporate Services
+M, M. Professional, scientific and technical activities,72.0,Scientific research and development,135.0,mechanical or industrial engineering,10.0,Manufacturing
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,136.0,photography,2.0,Art
+M, M. Professional, scientific and technical activities,74.0,Other professional, scientific and technical activities,140.0,graphic design,17.0,Design
+N, N. Administrative and support service activities,79.0,Travel agency, tour operator, reservation service and related activities,30.0,leisure, travel & tourism,14.0,Recreation and Travel
+N, N. Administrative and support service activities,81.0,Services to buildings and landscape activities,40.0,recreational facilities and services,14.0,Recreation and Travel
+N, N. Administrative and support service activities,82.0,Office administrative, office support and other business support activities,101.0,fundraising,13.0,Nonprofit
+N, N. Administrative and support service activities,78.0,Employment activities,104.0,staffing and recruiting,5.0,Corporate Services
+N, N. Administrative and support service activities,80.0,Security and investigation activities,121.0,security and investigations,5.0,Corporate Services
+N, N. Administrative and support service activities,81.0,Services to buildings and landscape activities,122.0,facilities services,5.0,Corporate Services
+N, N. Administrative and support service activities,78.0,Employment activities,137.0,human resources ,5.0,Corporate Services
+N, N. Administrative and support service activities,82.0,Office administrative, office support and other business support activities,138.0,business supplies and equipment,5.0,Corporate Services
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,71.0,military,21.0,Public safety
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,72.0,legislative office,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,73.0,judiciary,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,74.0,international affairs,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,75.0,government administration,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,77.0,law enforcement,21.0,Public safety
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,78.0,public safety,21.0,Public safety
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,79.0,public policy,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,107.0,political organization,20.0,Public Administration
+O, O. Public administration and defence; compulsory social security,84.0,Public administration and defence; compulsory social security,148.0,government relations,20.0,Public Administration
+P, P. Education,85.0, Education,67.0,primary/secondary education,6.0,Education
+P, P. Education,85.0, Education,68.0,higher education,6.0,Education
+P, P. Education,85.0, Education,69.0,education management,6.0,Education
+P, P. Education,85.0, Education,132.0,e-learning,6.0,Education
+Q, Q. Human health and social work activities,86.0,Human health activities,13.0,medical practice,12.0,Healthcare
+Q, Q. Human health and social work activities,86.0,Human health activities,14.0,hospital & health care,12.0,Healthcare
+Q, Q. Human health and social work activities,86.0,Human health activities,17.0,medical device,12.0,Healthcare
+Q, Q. Human health and social work activities,86.0,Human health activities,125.0,alternative medicine,23.0,Wellness and Fitness
+Q, Q. Human health and social work activities,86.0,Human health activities,139.0,mental health care,12.0,Healthcare
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,28.0,entertainment,18.0,Entertainment
+R, R. Arts, entertainment and recreation,92.0,Gambling and betting activities,29.0,gambling & casinos,14.0,Recreation and Travel
+R, R. Arts, entertainment and recreation,93.0,Sports activities and amusement and recreation activities,33.0,sports,14.0,Recreation and Travel
+R, R. Arts, entertainment and recreation,91.0,Libraries, archives, museums and other cultural activities,37.0,museums and institutions,13.0,Nonprofit
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,38.0,fine art,2.0,Art
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,39.0,performing arts,2.0,Art
+R, R. Arts, entertainment and recreation,91.0,Libraries, archives, museums and other cultural activities,85.0,libraries,13.0,Nonprofit
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,111.0,arts and crafts,2.0,Art
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,115.0,music,18.0,Entertainment
+R, R. Arts, entertainment and recreation,93.0,Sports activities and amusement and recreation activities,124.0,health, wellness and fitness,23.0,Wellness & Fitness
+R, R. Arts, entertainment and recreation,90.0,Creative, arts and entertainment activities,127.0,animation,18.0,Entertainment
+S, S. Other service activities,96.0,Other personal service activities,88.0,individual and family services,13.0,Nonprofit
+S, S. Other service activities,94.0,Activities of professional membership organizations,89.0,religious institutions,13.0,Nonprofit
+S, S. Other service activities,94.0,Activities of professional membership organizations,90.0,civic & social organization,13.0,Nonprofit
+S, S. Other service activities,94.0,Activities of professional membership organizations,100.0,non-profit organization management,13.0,Nonprofit
+S, S. Other service activities,94.0,Activities of professional membership organizations,141.0,international trade and development,13.0,Nonprofit
+X, X. Not elsewhere classified,-9.0,Not_mapped,-9.0,Unknown,-9.0,ERR
+X, X. Not elsewhere classified,-9.0,Not_mapped,102.0,program development,13.0,Nonprofit
+X, X. Not elsewhere classified,-9.0,Not_mapped,130.0,think tanks,13.0,Nonprofit
+X, X. Not elsewhere classified,-9.0,Not_mapped,131.0,philanthropy,13.0,Nonprofit
