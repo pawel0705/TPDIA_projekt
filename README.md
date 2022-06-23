@@ -8,3 +8,8 @@ Wyniki były ustalane na podstawie miar opracowanych przez autorów artykułu: r
 
 Użyto algorytmów: K*, SVM z kernelem RBF, k-najbliższych sąsiadów (KNN), random forest.
 
+## Uzyskane wyniki
+
+Tabela przedstawia wyniki poprawności klasyfikacji dla każdego z użytych algorytmów uczenia maszynowego, w wykrywaniu kolumny zawierającej pomiary, według trzech miar wydajności zdefiniowanych przez autorów.
+
+![screenshot](/images/Screenshot_1.png)
