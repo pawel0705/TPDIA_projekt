@@ -12,4 +12,11 @@ Użyto algorytmów: K*, SVM z kernelem RBF, k-najbliższych sąsiadów (KNN), ra
 
 Tabela przedstawia wyniki poprawności klasyfikacji dla każdego z użytych algorytmów uczenia maszynowego, w wykrywaniu kolumny zawierającej pomiary, według trzech miar wydajności zdefiniowanych przez autorów.
 
-![screenshot](/images/Screenshot_1.png)
+<p align="center">
+<br>
+<img src="/images/Screenshot_1.png" width="50%"/>
+</p>
+
+## Współautor
+Projekt współtworzony był wraz z:
+- [OftenDeadKanji](https://github.com/OftenDeadKanji)
